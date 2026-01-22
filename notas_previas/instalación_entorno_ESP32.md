@@ -11,8 +11,6 @@
 - [Instalación de drivers USB](#instalación-de-drivers-usb)
 - [Verificación del puerto COM](#verificación-del-puerto-com)
 - [Prueba de funcionamiento](#prueba-de-funcionamiento)
-- [Evidencia a entregar](#evidencia-a-entregar)
-- [Notas importantes](#notas-importantes)
 
 ---
 
