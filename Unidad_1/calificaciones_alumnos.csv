@@ -1,0 +1,1501 @@
+student_id,nombre,grupo,materia,parcial_1,parcial_2,parcial_3,asistencia_porcentaje
+S-00001,Gabriel Brito Pantoja,1B,Química,8.4,12.0,3.4,65.4
+S-00002,Bianca Alfonso Ojeda Terán,9-B,Programación,4.4,6.0,3.2,96.2
+S-00003,Mtro. Jacinto Ávila,2-C,Programación,0.2,12.9,8.4,73.7%
+S-00004,Celia Iván Valentín,8°A,Matemáticas,7.7,6.8,6.7,
+S-00005,Felipe Dalia Abreu Pulido,8 C,Física,8.5,7.3,4.9,73.4
+S-00006,Rubén Ocasio Barrios,9B,Bases de Datos,5.7,1.9,6.3,74.1
+S-00007,Ignacio Rangel Canales,4B,Bases de Datos,4.9,7.2,9.8,81.5
+S-00008,Aurelio Collado Castro,7B,Matemáticas,1.9,3.5,4.3,64.3
+S-00009,Guillermo Posada Vela,2°C,Bases de Datos,4.3,5.4,6.9,99.4
+S-00010,Gabino Rodarte,5B,Inglés,3.5,9.7,12.2,87.2%
+S-00011,Hilda Montalvo Solorio,6-C,Bases de Datos,8.8,5.2,1.5,96.6
+S-00012,Emiliano Soto,7-B,Inglés,-1.5,8.0,0.6,86.7
+S-00013,Mtro. Adán Otero,6 B,Física,7.7,3.2,5.6,64.2
+S-00014,Lic. Pablo Ybarra,6°A,Matemáticas,5.1,3.2,9.4,67.9
+S-00015,Nicolás Perea,4-A,Física,0.9,3.4,9.3,81.4%
+S-00016,Nayeli Alonso Durán Borrego,8 B,Matemáticas,8.3,4.9,2.2,65.0
+S-00017,Víctor Iglesias,1 C,Física,1.2,8.6,6.7,74.3
+S-00018,Israel Iván Urrutia,8-B,Programación,8.1,3.8,9.2,
+S-00019,Antonia Reyes,7B,Física,2.7,3.2,10.4,64.3
+S-00020,Renato Miramontes,6 A,Física,5.6,9.5,5.7,
+S-00021,Elena Villa Bueno,6-A,Matemáticas,6.6,4.8,10.0,94.8
+S-00022,Adán Jesús Girón Palomino,4C,Química,9.1,9.5,9.0,89.2
+S-00023,Ing. Ana María Loera,4C,Física,10.0,0.4,6.7,70.8
+S-00024,Sonia Gonzales,3-C,Física,8.8,5.3,6.1,92.3
+S-00025,Lic. Diana Corrales,9 A,Química,4.5,4.3,5.2,65.4
+S-00026,Lic. José María Riojas,4A,Programación,10.5,10.2,5.5,97.7
+S-00027,Adalberto Cervantes Reyes,7°C,Programación,2.8,3.2,7.5,78.6%
+S-00028,Alejandra Francisco Mora,7 A,Química,3.9,-1.6,1.4,96.5%
+S-00029,Manuel Tania Peres Abrego,3 A,Física,0.2,2.9,9.4,93.2
+S-00030,Serafín Barajas Segovia,2°C,Bases de Datos,6.7,-2.5,4.8,
+S-00031,Augusto Armando Prieto Aguilera,1A,Física,1.5,9.4,0.6,78.5
+S-00032,Lic. Antonia Treviño,2A,Física,8.1,2.4,3.4,87.0
+S-00033,Alicia Medrano,5 B,Física,8.1,0.6,11.5,91.7
+S-00034,Mariana Alonso Valenzuela Mesa,9 B,Inglés,6.3,8.8,3.5,60.1
+S-00035,Jaqueline Alva,6C,Bases de Datos,3.8,3.3,13.7,-10
+S-00036,Lourdes Andrea Colón,7C,Programación,3.6,2.8,14.9,61.1
+S-00037,Yolanda Eugenio Berríos Báez,1-C,Programación,1.0,-1.2,8.9,62.3
+S-00038,Lic. Pablo Malave,5-B,Física,6.2,5.5,5.3,150
+S-00039,Vanesa Guillermo Ordóñez,5°C,Química,-3.0,6.2,12.3,97.1
+S-00040,Carmen Oswaldo Miranda Sierra,6-C,Programación,4.2,0.0,8.0,81.4
+S-00041,Sonia de la Crúz Villalpando,7 A,Física,0.2,3.9,6.4,67.5
+S-00042,Magdalena Bañuelos,5°B,Matemáticas,3.1,11.1,0.4,92.0
+S-00043,María Elena Yolanda Alonso,3A,Inglés,8.3,9.7,7.2,
+S-00044,María del Carmen Yolanda Raya Maestas,9B,Programación,0.4,3.1,6.8,85.8
+S-00045,Alicia Covarrubias,2C,Química,8.8,3.3,6.6,-10
+S-00046,Mtro. Noemí Serrato,2-A,Programación,6.4,6.6,5.1,71.3%
+S-00047,Dr. Jacobo Sanches,3C,Matemáticas,13.1,7.6,13.0,86.2
+S-00048,Patricio Negrete Garza,9B,Física,7.5,7.4,7.6,150
+S-00049,Mtro. Aurelio Jurado,4A,Física,1.0,7.5,9.0,-10
+S-00050,Dr. Emilia Medina,4 C,Programación,7.1,4.9,2.3,81.0
+S-00051,Leonel Alvaro Sanches Blanco,6 B,Bases de Datos,-2.0,2.4,8.4,88.4
+S-00052,Natalia Elvira Alfaro,3B,Programación,6.5,4.0,7.7,
+S-00053,Gabriel Raúl Godoy,9-C,Química,0.1,3.5,6.4,77.1
+S-00054,Ruby Mateo Botello,8°B,Matemáticas,8.6,9.8,0.1,98.9
+S-00055,Perla Pablo Cepeda Téllez,6-B,Bases de Datos,6.7,7.3,7.0,61.3
+S-00056,Maximiliano Miguel Otero,3 C,Programación,8.4,8.4,6.5,98.2
+S-00057,Francisco Vélez Ruelas,6°C,Bases de Datos,2.1,5.6,-3.0,76.8
+S-00058,Leonardo Esparta Sánchez Castro,8-A,Programación,3.3,4.9,3.6,
+S-00059,Sr(a). Ruby Saldaña,2°A,Matemáticas,3.7,8.7,6.5,
+S-00060,Rocío Carlos Ávila Muro,7B,Química,9.4,12.0,7.3,62.5
+S-00061,Jos Peres,3A,Química,3.2,8.0,2.9,78.9
+S-00062,Jorge Esmeralda Rangel Montalvo,4C,Inglés,1.6,7.0,8.5,
+S-00063,Dolores Juana Bañuelos,3 A,Química,4.8,8.1,7.2,86.1
+S-00064,José Manuél Sanches,8°A,Química,6.1,7.7,4.2,87.1
+S-00065,Delia Rafaél Ocampo Negrete,5-C,Física,5.2,12.1,0.8,62.5
+S-00066,Gustavo Casillas Jaimes,8-C,Programación,5.9,9.7,1.5,84.7
+S-00067,Ing. Inés Baca,4-B,Inglés,7.5,9.2,4.5,90.9
+S-00068,Amelia Villa,3B,Matemáticas,3.5,9.1,0.9,62.0
+S-00069,Héctor Cardenas,4C,Química,11.3,4.5,3.7,60.9
+S-00070,Renato Meléndez,8 B,Química,1.6,1.9,6.7,65.9
+S-00071,Vicente Marisela Jáquez,4-A,Programación,7.4,6.3,5.0,97.0%
+S-00072,Ramón Vázquez,7-A,Inglés,7.2,14.0,3.0,66.1
+S-00073,Felix María Eugenia Sánchez Velasco,4A,Bases de Datos,0.9,9.8,4.6,77.4
+S-00074,Iván Amanda Echeverría Castañeda,5 A,Bases de Datos,2.7,8.1,8.5,79.8
+S-00075,Luis Miguel Salgado Centeno,6B,Programación,-0.2,2.7,1.0,73.9
+S-00076,Oswaldo Arias,8 B,Programación,1.8,2.1,1.4,81.9%
+S-00077,Patricia Cisneros,7 B,Programación,5.7,9.7,7.0,60.2
+S-00078,José Eduardo Estela Zamora Aparicio,4-B,Bases de Datos,1.5,4.4,3.2,86.1%
+S-00079,Natalia Zaragoza,6B,Programación,1.3,4.9,6.5,81.2
+S-00080,Roberto Adela Mayorga Olvera,3°C,Química,0.6,2.6,6.6,63.0%
+S-00081,Andrea Flavio Linares,8°C,Matemáticas,10.9,9.4,7.4,62.2
+S-00082,Lorena Jorge Pizarro,3 B,Programación,4.9,13.1,7.9,-10
+S-00083,Samuel Alcántar Salgado,4A,Bases de Datos,-2.8,4.8,2.9,
+S-00084,Elvia Amalia Jiménez,6-B,Inglés,8.3,6.8,13.2,94.4
+S-00085,Dr. Olga Esquibel,5 A,Física,1.5,13.2,-2.7,62.2
+S-00086,Modesto Mayte Garrido Leyva,1B,Bases de Datos,9.6,3.4,6.4,98.7%
+S-00087,Sr(a). Benjamín Quintero,5 C,Programación,6.3,3.3,13.0,70.2%
+S-00088,Ing. Porfirio Lemus,8°B,Programación,5.2,1.4,0.5,87.2
+S-00089,Nicolás Ángel Orosco,4°A,Matemáticas,2.3,10.7,1.4,75.3
+S-00090,Marisol Carranza,4A,Bases de Datos,-1.3,9.0,-1.1,94.5
+S-00091,Rebeca Prieto Pulido,6-B,Bases de Datos,5.6,12.7,7.7,-10
+S-00092,Mtro. Cristian Salcido,7°A,Programación,7.2,0.4,6.4,99.3%
+S-00093,Eloisa Eric Guardado,2 A,Matemáticas,6.9,1.6,-2.6,95.2
+S-00094,Felipe Frías Benavides,4-A,Química,0.7,3.3,1.6,150
+S-00095,Aldonza Alba,4 A,Matemáticas,6.6,8.7,10.8,81.3
+S-00096,Vanesa Medina,9-A,Programación,0.9,-0.8,2.4,70.3
+S-00097,Sr(a). Alma Gurule,6-A,Inglés,10.2,7.4,7.7,86.1
+S-00098,Guillermo Escamilla,9-B,Física,14.6,11.1,0.4,62.2%
+S-00099,Bruno Guillermina Meléndez Galindo,2 A,Química,8.4,7.4,13.7,73.9
+S-00100,Sr(a). Jos Corral,3-A,Inglés,13.2,2.6,14.3,63.6
+S-00101,Espartaco Pedroza,9°A,Química,8.0,1.2,1.4,150
+S-00102,Nayeli Wilfrido Puga,9°C,Química,8.7,2.9,2.2,72.6
+S-00103,Rafaél Esparza,2-B,Química,7.0,5.4,13.6,95.1
+S-00104,Araceli Salgado,9C,Bases de Datos,4.4,4.8,9.7,-10
+S-00105,Gonzalo Chávez Rolón,5-A,Matemáticas,9.6,2.8,9.3,63.2
+S-00106,Carmen Casas Rincón,1 C,Física,8.2,8.6,4.6,78.3
+S-00107,Pedro Sessa Alfaro Rael,4-A,Inglés,11.6,2.8,8.2,89.2
+S-00108,Mtro. Graciela Naranjo,8A,Física,0.1,4.4,3.0,98.2
+S-00109,Julio Amanda Caraballo,1-C,Química,8.6,8.4,9.9,
+S-00110,Sr(a). Rosalia Meléndez,2 A,Programación,5.5,1.8,8.5,
+S-00111,Yolanda Flórez Olivo,9A,Matemáticas,9.5,9.5,5.3,87.8
+S-00112,Lourdes Carmen Roldán,8A,Bases de Datos,-1.2,6.3,3.4,60.8
+S-00113,Abigail Dalia Briseño,3-A,Física,5.0,1.4,7.8,
+S-00114,Alonso Berta Concepción Gaona,8°C,Programación,7.7,4.7,0.8,86.9
+S-00115,Luis Manuel Fernández,1°A,Química,-1.1,8.5,9.1,97.8%
+S-00116,Ana María Badillo,8-B,Programación,10.7,3.8,1.9,81.0
+S-00117,Camila María Teresa Bustamante,9-C,Programación,2.9,6.8,0.1,77.4
+S-00118,Yolanda Alma Muñoz,2°A,Bases de Datos,9.7,12.9,3.1,90.6
+S-00119,Emiliano Griego,8-B,Bases de Datos,9.4,13.4,9.0,94.1
+S-00120,Luis Manuel Jacinto Collazo,1-B,Inglés,9.3,6.6,2.7,81.4
+S-00121,Zeferino Aguirre Lovato,9B,Física,3.9,5.4,0.9,62.9
+S-00122,Yolanda Karla Montaño Girón,4 A,Inglés,2.8,12.8,1.8,91.7
+S-00123,Ana Luisa Urbina Barragán,8-B,Matemáticas,2.7,0.5,5.2,79.2
+S-00124,Felix Loera Gollum,6°C,Física,5.5,6.0,1.2,96.2
+S-00125,Porfirio Abel Zedillo,3°B,Programación,3.3,6.6,7.1,82.5%
+S-00126,Mtro. Lucía Vaca,4 B,Inglés,7.4,7.6,0.6,64.1
+S-00127,José Eduardo Socorro Cedillo Peña,7-C,Inglés,14.8,10.4,1.2,150
+S-00128,Salvador Longoria Montez,3°C,Bases de Datos,7.9,11.8,9.6,77.3
+S-00129,Abelardo Jerónimo Santillán Acevedo,8-C,Inglés,11.3,-1.5,6.5,98.1
+S-00130,Arcelia José María Enríquez Melgar,3-A,Física,7.3,12.4,1.8,77.2
+S-00131,Bernardo Ybarra,4C,Física,0.6,5.4,7.3,66.2
+S-00132,Dr. Leonor Batista,8 C,Química,2.3,0.2,8.4,80.7
+S-00133,Emiliano Jorge Ponce,2B,Química,5.4,3.1,4.2,69.4%
+S-00134,Gloria Uribe,7-B,Química,1.3,0.6,8.1,78.7%
+S-00135,Dr. Julia Amador,5°C,Física,8.2,12.8,11.0,88.9
+S-00136,Alta  Gracia Socorro Cuellar Espinoza,8°C,Física,3.7,4.8,4.7,63.2
+S-00137,Dulce María Benito Chacón Zedillo,6-A,Matemáticas,13.6,9.3,-0.3,61.5
+S-00138,Genaro Casas Benavides,3°B,Matemáticas,0.5,5.2,8.9,65.4
+S-00139,Ana Luisa Florencia Muro Cedillo,2-C,Inglés,9.7,9.3,3.8,150
+S-00140,Lilia Aurelio Hurtado Solano,4C,Física,1.4,2.7,10.0,64.9
+S-00141,Sr(a). Yeni Téllez,8-A,Programación,9.3,9.1,1.2,97.0
+S-00142,Isaac Llamas Manzanares,9-A,Física,5.6,3.6,6.2,62.8
+S-00143,Eugenio Adame,7B,Programación,2.5,3.4,1.4,72.4
+S-00144,Bruno Campos Quintana,7°B,Inglés,6.3,11.3,8.8,62.1
+S-00145,Jorge Dueñas,6C,Programación,4.6,0.3,2.1,66.4%
+S-00146,Julia Abel Pelayo,4C,Matemáticas,5.2,6.7,5.9,79.9
+S-00147,Evelio Abigail Perales,1 A,Bases de Datos,7.9,7.0,7.5,74.7%
+S-00148,Armando Delia Tello,1A,Bases de Datos,14.6,9.2,0.3,84.0
+S-00149,Lucía Darío Orellana Magaña,9 B,Bases de Datos,3.6,5.5,0.3,99.2%
+S-00150,Alberto Casas Varela,8 A,Bases de Datos,6.3,-0.2,7.6,86.3
+S-00151,Gabriela Varela,8°C,Física,6.1,14.5,5.2,
+S-00152,Teodoro Tórrez Escobedo,7-A,Inglés,7.4,6.8,1.0,79.1
+S-00153,Hugo Rubén Trujillo Mireles,5°A,Física,1.0,8.7,2.8,79.0
+S-00154,Wendolin Colunga Manzanares,2°C,Programación,13.7,13.7,6.6,98.6
+S-00155,Elvira Luis Galindo Salinas,5-A,Inglés,2.5,3.6,0.0,79.6
+S-00156,Luisa Barraza Corrales,2 C,Inglés,3.2,0.7,13.0,98.9
+S-00157,Yeni Amanda Urbina,4-B,Matemáticas,9.7,7.0,-2.3,79.3
+S-00158,Andrea Marisol Véliz,2-B,Matemáticas,0.8,7.2,14.9,62.9
+S-00159,Karla Rebeca Puente,5 B,Matemáticas,3.8,8.8,7.4,150
+S-00160,Mtro. Antonio Gálvez,6 B,Matemáticas,4.8,7.1,4.7,95.7
+S-00161,Marcela Arias Téllez,8°C,Química,5.7,0.7,0.4,87.6
+S-00162,Alta  Gracia Emilio Aranda Cortés,5-A,Inglés,1.5,10.4,7.5,85.3%
+S-00163,Sr(a). Amador Patiño,8B,Matemáticas,12.3,0.8,10.3,66.8
+S-00164,Sergio Olivo,1B,Programación,2.9,-2.7,6.0,75.8%
+S-00165,Virginia Dulce Palacios Porras,7A,Física,2.4,0.8,0.4,91.1
+S-00166,Asunción Armas Gálvez,3°B,Física,3.4,4.9,2.6,99.3%
+S-00167,Víctor Trinidad Chacón,1°B,Bases de Datos,11.4,7.9,1.6,75.5
+S-00168,Mtro. José Segovia,1-A,Programación,5.9,2.6,9.0,93.4
+S-00169,Frida Limón,8C,Física,8.3,8.6,2.4,67.2
+S-00170,Dulce María Tejeda,4 A,Matemáticas,7.0,8.1,7.2,65.6
+S-00171,Ing. Aurora Acevedo,5C,Bases de Datos,2.5,4.1,3.7,83.1
+S-00172,Ing. Claudio Solís,5-C,Programación,1.1,9.8,7.3,85.8
+S-00173,Ing. Benito Rendón,4 C,Inglés,0.1,9.5,-1.0,83.3
+S-00174,Socorro Pedro Roque,8B,Programación,6.6,6.9,-1.4,88.4
+S-00175,José Emilio Lucio Rivero,4-B,Programación,9.4,14.2,9.5,78.9
+S-00176,Vicente Gloria Tijerina Valladares,5C,Bases de Datos,0.9,6.6,8.3,84.4
+S-00177,Mtro. Elvia de la O,9B,Física,2.8,8.5,3.7,77.1
+S-00178,José Luis Ávila Vigil,4-B,Matemáticas,3.5,8.0,-0.8,84.6
+S-00179,Mitzy Nieves Pérez,7C,Bases de Datos,3.4,-0.7,9.7,60.4
+S-00180,Bernardo Víctor Beltrán,7-C,Matemáticas,4.4,1.8,8.0,86.5
+S-00181,Renato Juan Carlos Chacón,5A,Bases de Datos,9.1,12.4,9.5,
+S-00182,Sr(a). Micaela Sotelo,5°C,Química,5.6,8.1,8.1,95.2
+S-00183,Soledad Ofelia Salinas,3-A,Programación,2.4,8.1,14.7,62.0
+S-00184,Ignacio Salma Peña Jaramillo,4B,Inglés,0.3,9.7,8.9,68.5
+S-00185,Zoé Mauricio del Valle Gollum,2 A,Bases de Datos,5.8,8.0,7.0,
+S-00186,Ana Sevilla Colón,9C,Química,8.9,1.6,7.9,88.4
+S-00187,Alfredo Clara Contreras de la Fuente,6A,Inglés,1.0,11.7,1.3,
+S-00188,Diego Valdez,5-B,Química,0.9,1.4,9.7,
+S-00189,Nancy Úrsula Elizondo,8 A,Matemáticas,10.7,5.6,0.7,66.0
+S-00190,Mónica Adame,8 A,Programación,3.2,4.1,5.9,60.7%
+S-00191,Cristal Lebrón,2-A,Programación,0.5,1.7,2.2,91.4
+S-00192,Zoé Natalia Quiñones Garza,7C,Matemáticas,3.7,7.3,7.4,67.3%
+S-00193,Luis Rodríquez Ortiz,1°C,Programación,10.9,9.2,13.8,83.8
+S-00194,Amanda Teodoro Portillo Peña,1-A,Química,3.1,8.7,14.8,93.4
+S-00195,Itzel Quiroz Rivas,5°B,Bases de Datos,0.0,5.7,-0.6,75.2
+S-00196,Bruno Archuleta Morales,6-A,Inglés,3.3,2.8,2.2,
+S-00197,Inés Evelio Ulibarri Valenzuela,5B,Bases de Datos,4.8,9.6,6.2,90.3%
+S-00198,Rolando Mondragón,5B,Inglés,-0.6,11.5,7.6,
+S-00199,Alonso Dulce María Castro,7-A,Química,5.1,0.4,-0.5,97.2
+S-00200,Eloy Rodarte,6°B,Química,2.3,0.2,9.9,96.7
+S-00201,Timoteo Alcaraz,7°B,Química,11.4,5.3,2.3,84.9
+S-00202,Violeta Carmen Jiménez Munguía,3 C,Inglés,0.0,8.2,6.5,88.5
+S-00203,Mtro. Zeferino Becerra,9°C,Química,8.4,4.1,5.1,63.4
+S-00204,Emiliano Amanda Carvajal Valdez,6-C,Química,6.9,0.7,9.3,
+S-00205,Noemí Adalberto Zapata,6-A,Química,9.3,0.2,4.9,95.3
+S-00206,Noelia Peres,9-C,Bases de Datos,0.3,-1.9,2.2,
+S-00207,Modesto Barela,2 A,Física,9.4,7.0,5.1,64.0
+S-00208,Dulce Jaqueline Girón,7-A,Matemáticas,2.6,10.7,2.9,
+S-00209,Linda Minerva Carrión Ortiz,4°B,Inglés,14.5,9.0,12.6,95.1
+S-00210,Jorge Saucedo Núñez,4-C,Física,4.7,5.6,0.2,96.7
+S-00211,Elsa Hinojosa Burgos,7C,Matemáticas,2.8,8.5,10.0,95.6
+S-00212,José Carlos del Río Espinal,1B,Física,9.4,4.7,9.3,60.6%
+S-00213,Andrés Pichardo Rangel,4C,Química,1.5,7.2,3.0,92.1
+S-00214,Marisol Arevalo,6A,Matemáticas,7.3,0.1,4.0,66.6
+S-00215,Amelia Cabrera,7 A,Matemáticas,2.2,9.3,2.3,85.9
+S-00216,Natividad Laura Ocampo Mercado,6-B,Inglés,9.0,4.6,6.2,66.3
+S-00217,Jaqueline Andrea Merino Zelaya,3C,Física,1.0,2.7,8.3,-10
+S-00218,Carla Aldonza Rael,2-C,Bases de Datos,7.6,2.5,7.9,93.0
+S-00219,Mónica Medina,4B,Química,1.8,14.3,13.3,92.4
+S-00220,Emilia Llamas Mata,8C,Programación,3.8,4.9,5.0,71.5
+S-00221,Cornelio Indira Zedillo Rodríquez,8-B,Programación,4.8,8.0,4.6,99.0
+S-00222,Espartaco Oswaldo Aragón Rodríguez,1A,Programación,2.7,9.5,3.0,72.9
+S-00223,Emilio Isabel Guajardo,5°C,Bases de Datos,7.9,4.1,8.9,97.2
+S-00224,Porfirio García,3°C,Bases de Datos,7.9,2.7,9.6,76.3
+S-00225,Dalia Elsa Rivas Rosario,2-A,Inglés,3.7,9.1,1.4,63.6
+S-00226,Martín Socorro Ramón Rivas,8-C,Bases de Datos,0.9,4.2,7.0,61.8%
+S-00227,Marco Antonio Guadalupe Bétancourt Orta,8°A,Física,5.9,9.1,4.7,96.2
+S-00228,Berta Medina,8 A,Física,9.3,7.2,5.4,78.6
+S-00229,Raúl Valle,2°C,Física,3.1,6.5,6.8,91.0
+S-00230,Ing. Catalina Gonzales,9C,Programación,1.8,10.7,7.5,76.3
+S-00231,Cynthia Peña Saucedo,2 A,Programación,1.7,14.5,4.6,98.5
+S-00232,Zoé Laboy,7 B,Física,4.9,3.5,5.4,
+S-00233,Dr. Gregorio del Río,2B,Matemáticas,5.3,2.3,6.2,83.2
+S-00234,Dr. Lorena Borrego,1°C,Bases de Datos,4.2,7.2,7.9,96.3
+S-00235,Lic. Pascual Barajas,9 A,Química,1.9,9.9,3.4,82.0
+S-00236,Martha Susana Cervántez de la Garza,5°A,Programación,7.6,0.9,5.1,75.6
+S-00237,Rolando Carolina Cintrón Maestas,2 C,Bases de Datos,2.7,7.2,13.7,62.0
+S-00238,Cristal Cruz,6 C,Química,7.1,4.3,4.3,
+S-00239,Gabriel Gómez,4°A,Matemáticas,4.1,0.9,6.6,79.2
+S-00240,Dr. Gustavo Espino,5°A,Química,1.1,6.5,14.3,91.4
+S-00241,Ing. Amador Mares,9A,Bases de Datos,1.8,5.6,3.5,68.0
+S-00242,Santiago Marisol Alvarez,3B,Bases de Datos,0.6,0.2,0.6,90.0%
+S-00243,Cristobal Isabela Cuellar,1 C,Inglés,-1.0,1.0,11.5,67.7%
+S-00244,Alfredo Benito Guerrero Arguello,9-A,Programación,-2.7,5.4,4.7,
+S-00245,Esmeralda Armando Delgado Riojas,2-A,Inglés,4.4,9.9,11.9,
+S-00246,Débora Cabrera,2 A,Química,1.7,3.5,7.4,84.5
+S-00247,Ing. Amador Zelaya,9 A,Química,7.1,5.5,2.8,79.9
+S-00248,Vanesa Benjamín Pedroza,4°A,Programación,1.7,1.6,2.2,70.3
+S-00249,Eva Zacarías Maldonado,5 B,Inglés,0.6,7.6,8.6,91.8
+S-00250,María del Carmen Carolina Verdugo,5 C,Programación,7.5,6.4,0.2,97.5%
+S-00251,Leonor Agustín Saavedra Márquez,2°C,Matemáticas,1.9,0.6,1.2,
+S-00252,Magdalena Zaragoza,5 A,Programación,9.9,6.2,12.7,87.2
+S-00253,Rebeca Claudio Espinoza,6A,Matemáticas,7.5,4.4,0.3,69.9
+S-00254,Helena Zacarías Quintana,6B,Química,9.4,3.0,9.1,76.5
+S-00255,Dr. Rodrigo Fajardo,9°B,Bases de Datos,8.0,9.8,8.1,81.5
+S-00256,Olga Darío Gómez,5°B,Química,9.6,3.5,3.0,84.1
+S-00257,Caridad Cabrera,8°A,Bases de Datos,7.7,-1.7,3.8,80.5
+S-00258,Soledad Diana Alemán Samaniego,3-A,Programación,12.0,7.1,5.4,62.1
+S-00259,Esther Urías,9-C,Programación,11.7,2.5,4.6,88.1
+S-00260,Silvano Magdalena Bernal,6 C,Matemáticas,4.1,3.8,5.8,62.3
+S-00261,Fidel Ramiro Luevano Jáquez,6 C,Inglés,2.2,9.0,5.5,72.2
+S-00262,Cornelio Serafín Flores,4A,Química,7.0,1.1,12.2,89.2
+S-00263,Abril Virginia Bustamante,3°B,Inglés,0.8,8.8,8.9,62.5
+S-00264,Nelly Madrid,2-A,Bases de Datos,6.0,9.2,9.9,-10
+S-00265,Angélica Escalante,3B,Programación,13.6,9.2,10.6,92.6%
+S-00266,Irene Santana,3°C,Programación,8.9,3.6,3.9,83.9
+S-00267,Marco Antonio Tovar Marín,7-A,Matemáticas,4.5,4.2,1.0,95.0
+S-00268,María del Carmen Alva Cisneros,4-A,Matemáticas,5.6,10.0,12.0,69.7%
+S-00269,Israel Carolina Quintana Robles,8 B,Bases de Datos,2.0,0.1,0.6,77.3
+S-00270,Camilo Miguel Ángel Rosado Montoya,3 A,Bases de Datos,5.6,-1.4,5.9,70.7
+S-00271,Carlota Esther Muñoz Hernández,2°A,Física,2.6,1.5,3.7,99.2
+S-00272,Renato Olivia Caballero Candelaria,1°A,Química,5.8,3.3,7.6,93.3%
+S-00273,Trinidad Montenegro Noriega,7°C,Inglés,0.3,2.1,2.5,-10
+S-00274,Marisol Ontiveros,2°A,Química,7.0,6.4,8.1,83.3
+S-00275,Diego Fabiola Duarte,4-B,Programación,5.6,3.4,3.9,
+S-00276,Emiliano María Cristina Colón Ulibarri,7 C,Física,9.3,2.1,0.2,99.5
+S-00277,Luis Miguel José Emilio Ocasio,9°C,Bases de Datos,8.5,14.5,3.2,87.0
+S-00278,Francisco Javier Renato Navarro,9 B,Física,-1.7,6.0,9.4,89.7%
+S-00279,Oswaldo Prieto,6 B,Física,1.3,10.5,0.4,82.9%
+S-00280,Esther Roldán Garza,4A,Física,0.8,2.4,4.4,75.9%
+S-00281,Dr. Cristal Zamudio,2A,Matemáticas,3.4,9.0,3.3,73.3%
+S-00282,María Sara Mayorga Acosta,9 C,Bases de Datos,8.0,-1.1,7.3,
+S-00283,Iván Rentería,2C,Bases de Datos,2.5,14.8,7.2,70.1%
+S-00284,Eva Altamirano Huerta,9B,Inglés,3.9,9.1,9.5,150
+S-00285,Genaro Dulce Salazar,8-A,Inglés,0.3,4.7,2.8,77.8%
+S-00286,Yolanda Úrsula Crespo,8C,Inglés,2.9,7.8,6.3,-10
+S-00287,Olga Carmen Delgadillo,9-B,Física,2.3,4.7,4.0,78.5
+S-00288,Karla Pascual Rojo Badillo,1°A,Física,5.7,9.2,11.2,62.8
+S-00289,Ramón Perea,1°B,Matemáticas,8.9,9.2,9.5,89.8
+S-00290,Virginia Irma Cervántez Benavídez,4 C,Física,8.0,14.1,1.8,62.0%
+S-00291,Marcela Violeta Madrid,3-A,Química,0.0,-0.8,2.9,-10
+S-00292,Josefina de la Fuente Perales,1°A,Programación,2.1,4.3,7.0,94.5
+S-00293,María José Pamela Rosales Arevalo,3 A,Inglés,7.6,4.5,0.0,84.8%
+S-00294,Evelio Cordero Rivera,6°B,Inglés,1.9,8.3,3.5,94.6
+S-00295,Estela Candelaria,4-C,Bases de Datos,12.7,1.1,14.5,89.1
+S-00296,Lic. Alfredo Niño,3°A,Matemáticas,5.4,-0.3,1.0,69.2
+S-00297,Elisa Estela Almonte,1°A,Matemáticas,8.4,8.6,12.4,150
+S-00298,Antonia Segovia Terrazas,8°C,Matemáticas,11.0,-1.0,0.7,
+S-00299,Lic. Pablo Salgado,6B,Matemáticas,2.6,10.2,9.3,
+S-00300,Teodoro Elisa Meléndez Orosco,3C,Programación,2.5,9.7,7.7,82.1
+S-00301,Noemí Silvia Gallardo,1B,Física,3.7,9.1,6.8,87.0
+S-00302,Aldo Wilfrido Sierra,6-C,Bases de Datos,3.9,-1.0,4.9,83.5
+S-00303,Socorro Helena Lemus,4 A,Matemáticas,0.9,2.6,8.7,66.3
+S-00304,Gonzalo Chapa,2°A,Química,7.4,5.9,3.7,94.1
+S-00305,Lic. Inés Castro,1-C,Química,8.2,3.9,0.8,96.7%
+S-00306,Cristian Araceli Nieves,1°A,Química,13.2,8.0,1.1,
+S-00307,José Bernabé Quezada,3C,Matemáticas,0.2,2.3,2.8,95.2%
+S-00308,Alejandra Negrón Vallejo,9-A,Física,5.0,9.5,9.8,62.6
+S-00309,Vicente Ornelas Mojica,7°B,Programación,5.9,7.3,6.7,67.4%
+S-00310,David Estévez Madrigal,4-A,Química,3.6,0.2,-2.2,75.5
+S-00311,Felipe Quintero,3A,Química,2.1,6.8,1.3,99.7
+S-00312,Mtro. Eloy Villalobos,3°B,Bases de Datos,5.6,-0.8,6.3,74.5%
+S-00313,Guillermina Mauricio Vergara Hernández,5 A,Física,1.7,7.0,11.4,84.1%
+S-00314,José Carlos Saucedo,9 B,Bases de Datos,7.1,1.4,13.9,86.7%
+S-00315,Mtro. Cristobal Reyna,6B,Inglés,1.9,0.7,1.5,
+S-00316,Ofelia Barragán,2C,Química,2.1,3.6,8.5,65.9
+S-00317,Claudio Timoteo Puga,8 B,Bases de Datos,4.9,1.2,1.2,95.9
+S-00318,Yeni Muro Orozco,7°B,Inglés,8.4,5.4,6.6,88.5%
+S-00319,Trinidad Galarza,4°A,Inglés,1.7,2.5,4.6,77.6
+S-00320,Isaac Alberto Fuentes,3°A,Física,-0.7,7.0,10.8,83.1
+S-00321,David Sessa Cavazos,6 B,Bases de Datos,3.9,5.6,6.1,87.6
+S-00322,Fernando Manuel Chapa Verduzco,4-C,Bases de Datos,7.5,5.4,10.3,81.3%
+S-00323,Lic. José María Espinal,1A,Programación,13.3,1.8,12.0,78.9
+S-00324,Andrea Villarreal Zelaya,2 C,Programación,7.8,4.3,9.9,74.8
+S-00325,Yolanda Cristobal Gurule,7°B,Bases de Datos,-2.7,9.5,8.2,73.2%
+S-00326,Modesto Mondragón Miranda,2A,Programación,3.1,10.2,4.2,93.4
+S-00327,Zacarías Julio César Osorio,2°C,Programación,0.7,-0.4,5.4,79.4
+S-00328,Sr(a). Pablo Márquez,6A,Química,7.5,14.2,1.2,87.0
+S-00329,Dolores Velásquez,5°A,Química,3.6,2.8,5.2,93.1
+S-00330,Delia Menchaca,9-A,Programación,4.6,2.1,4.6,
+S-00331,Jorge Omar Vergara,9-C,Programación,5.4,3.5,8.7,84.6
+S-00332,Sr(a). Dulce María Quesada,6A,Física,1.4,9.3,6.9,96.3
+S-00333,María José Blanca Almanza Salinas,8°B,Inglés,6.0,7.0,6.3,85.3
+S-00334,Sofía Báez Padilla,9C,Inglés,7.2,9.0,-1.2,96.5%
+S-00335,Dalia Cadena Centeno,3C,Programación,8.4,4.4,9.3,
+S-00336,Vicente Elias Herrera Guardado,1 A,Matemáticas,1.6,4.5,5.6,91.1
+S-00337,Fernando Margarita Altamirano,7 C,Inglés,8.1,4.3,-0.9,97.7%
+S-00338,Ángela Sarabia Gamboa,5 A,Programación,2.9,1.7,6.7,89.9
+S-00339,Isaac Urías,2-A,Inglés,9.0,9.2,3.5,92.4%
+S-00340,Daniel Miriam Roque,7°A,Bases de Datos,3.6,6.5,1.2,98.6%
+S-00341,Ing. Eva Carrero,2-C,Programación,6.1,2.3,5.2,62.8
+S-00342,Bianca Riojas,2 B,Física,6.4,-2.1,7.1,90.2
+S-00343,Victoria Montoya Beltrán,9-A,Programación,9.7,-1.3,14.6,76.9
+S-00344,María del Carmen Rocío Tejeda,2-C,Programación,3.6,7.8,7.9,80.7
+S-00345,Pilar Clara Haro,3°A,Matemáticas,5.0,7.8,9.4,78.4
+S-00346,Felipe Daniel Briones,2°A,Inglés,7.8,2.3,1.6,62.1
+S-00347,Sofía Hilda Cadena Guardado,5-B,Matemáticas,7.4,0.3,9.0,73.1
+S-00348,Abigail Francisco Nieves,6-C,Inglés,1.6,2.9,14.9,66.2
+S-00349,Camilo Evelio Serrano Marrero,5C,Programación,4.1,6.2,12.4,68.3
+S-00350,Andrea Lemus Berríos,6 C,Inglés,6.7,4.5,2.2,63.8
+S-00351,Ing. Leonardo Guillen,3C,Física,9.4,11.6,1.6,82.7%
+S-00352,Israel Martha Fuentes Valadez,1°C,Matemáticas,-1.8,4.1,9.4,87.3
+S-00353,Mercedes Arellano,2 A,Programación,3.6,9.5,7.8,61.8
+S-00354,Anabel Cardenas Campos,9 A,Física,0.7,5.6,4.6,75.7
+S-00355,Julio César Estrada,6 B,Matemáticas,4.4,5.1,7.4,150
+S-00356,Ing. Adalberto Ulloa,8 C,Inglés,6.2,13.5,5.1,98.4
+S-00357,Javier Cristian Ceballos,6-A,Química,3.9,6.8,9.8,92.5
+S-00358,Dr. Silvia Venegas,2B,Programación,0.3,1.6,8.5,87.3
+S-00359,Francisco Javier Andrea Ramón Almanza,4-C,Programación,5.6,3.7,4.5,86.5
+S-00360,Gerardo Sánchez Bernal,2-B,Inglés,6.5,1.1,0.6,81.3
+S-00361,Lilia Wendolin Rivas Mireles,9°B,Matemáticas,12.4,7.0,12.4,64.1
+S-00362,Carmen Rivera Chavarría,3B,Matemáticas,6.1,6.6,5.1,75.9%
+S-00363,Ing. Rosario Mares,8°A,Matemáticas,7.8,0.4,4.0,79.0
+S-00364,Ing. Irma Salinas,6°B,Química,7.9,-2.3,10.6,79.6
+S-00365,Mtro. Darío Farías,1-C,Programación,11.5,-0.3,6.2,86.1
+S-00366,Vicente María Elena Mascareñas,6 B,Bases de Datos,7.0,12.6,7.1,96.1
+S-00367,Aurelio Rodríguez Guzmán,3A,Programación,8.0,5.2,6.5,92.8
+S-00368,Leonardo Gollum,9B,Matemáticas,8.0,2.0,6.4,62.6
+S-00369,Horacio Medrano,6°A,Física,7.0,9.9,9.5,94.1
+S-00370,Ing. Gilberto Urbina,1 A,Matemáticas,8.5,4.9,6.5,93.8
+S-00371,Ing. Aida Suárez,9 B,Química,11.8,8.8,5.9,64.1
+S-00372,Marcela Cavazos Chávez,3 C,Bases de Datos,8.4,-3.0,7.5,67.3
+S-00373,Luis Miguel Chávez,1C,Matemáticas,5.6,7.7,-2.6,61.4
+S-00374,Carlos Lara,1C,Química,5.6,0.3,7.6,88.3%
+S-00375,Fernando Arturo Camacho,9°C,Matemáticas,9.0,1.4,2.5,97.7%
+S-00376,Ing. Guillermina Miranda,3°C,Inglés,2.4,3.8,1.2,88.0
+S-00377,Ignacio Marco Antonio Lucero,9-C,Inglés,4.0,2.1,6.1,60.8
+S-00378,Fernando Valverde Ayala,6°C,Química,14.6,1.4,10.1,82.6
+S-00379,Lic. José Eduardo Pizarro,4 C,Programación,9.3,0.2,1.0,-10
+S-00380,Frida Garica Lozano,7-B,Física,10.9,9.6,5.6,
+S-00381,Yuridia Toro,4 B,Matemáticas,10.9,7.4,4.7,65.9
+S-00382,María Eugenia Angélica Fuentes,5 B,Bases de Datos,5.4,7.6,12.9,88.5
+S-00383,Darío Nelly Macías,5°A,Programación,1.4,7.6,5.6,88.4
+S-00384,Humberto Dulce María Limón,5 A,Química,2.1,1.1,8.6,82.0
+S-00385,Karina Munguía Gracia,3°B,Física,0.3,1.0,5.2,63.2%
+S-00386,Marisol Covarrubias,8 C,Bases de Datos,2.1,4.3,8.0,69.9
+S-00387,Gregorio Santacruz Aguilar,5°C,Bases de Datos,8.3,0.7,1.6,-10
+S-00388,Marcela Marco Antonio de la Torre,9-B,Inglés,9.9,10.6,8.8,77.3
+S-00389,Hugo Helena Badillo Gracia,9 C,Inglés,13.0,1.9,5.3,
+S-00390,Espartaco Abrego,7C,Química,-0.6,6.8,2.8,90.4
+S-00391,José Lozada Collado,4 B,Programación,14.1,8.0,1.6,98.4
+S-00392,Yeni Velasco,4A,Bases de Datos,0.8,14.9,-1.3,63.0%
+S-00393,Eloisa Rico de la Garza,4°C,Programación,1.4,10.9,7.7,98.0%
+S-00394,Pedro Cordero Casillas,7B,Matemáticas,6.3,9.5,2.0,
+S-00395,Diego Perla Ulibarri,1 C,Programación,7.5,-0.4,14.5,68.2%
+S-00396,Ing. Abraham Bahena,6°B,Programación,12.2,7.7,7.7,96.9
+S-00397,Federico Rivero Roque,1 A,Bases de Datos,8.1,6.2,1.5,
+S-00398,Ing. Jorge Echeverría,4 B,Bases de Datos,7.0,1.0,0.8,84.4
+S-00399,Micaela Cabrera,7-C,Física,1.0,6.6,5.7,60.7
+S-00400,Salma Hinojosa Galindo,8B,Programación,5.8,1.2,6.9,73.5
+S-00401,Ruby Montalvo,7 C,Inglés,5.0,6.7,13.1,85.1
+S-00402,Ing. Aida Tello,9°A,Física,-2.0,4.8,8.1,78.2
+S-00403,Débora Elvira Loya,9B,Programación,10.2,2.3,6.4,
+S-00404,Modesto Aida Padrón,7°C,Matemáticas,9.0,2.7,7.0,
+S-00405,Humberto Santiago Salgado,7B,Química,12.0,2.1,1.1,79.3
+S-00406,Lic. Guillermina Collado,4°C,Física,4.4,4.0,6.6,99.1
+S-00407,Espartaco Viera Rodríquez,9°C,Física,10.0,3.4,5.2,68.0
+S-00408,Antonio Emilia Nieto Altamirano,8-C,Programación,8.5,9.2,0.1,73.4
+S-00409,Héctor Modesto Paredes,8-C,Programación,8.5,3.3,0.9,95.1
+S-00410,Rubén Romo Rendón,7 C,Matemáticas,0.4,3.4,0.7,84.7
+S-00411,Emiliano Juana Casárez,1 B,Matemáticas,12.4,9.5,2.4,63.2
+S-00412,Ing. Salvador Ocampo,2-C,Bases de Datos,9.6,7.5,1.5,61.8
+S-00413,Bernardo Úrsula Espinal Fajardo,4B,Programación,8.3,4.7,4.4,98.7
+S-00414,Estefanía Sosa Tamez,1°A,Programación,5.5,2.1,1.1,76.0
+S-00415,Débora Francisco Javier Paz,9°B,Matemáticas,6.5,9.8,8.1,70.1
+S-00416,Victoria Zoé Escobar Viera,9°C,Programación,8.6,-0.3,10.0,
+S-00417,Abigail Marrero Valdivia,3°C,Física,2.3,8.5,2.4,66.3
+S-00418,Manuel Wendolin Bonilla Alcaraz,8B,Química,7.3,9.3,0.5,61.5
+S-00419,Yeni Julio César Palomo Velasco,9C,Química,0.7,-0.7,7.0,85.7
+S-00420,Rebeca Horacio Robles Saldaña,3 B,Física,8.6,7.1,2.3,92.7
+S-00421,Cristian Durán,2-A,Bases de Datos,7.6,1.9,6.1,
+S-00422,Magdalena Brito Naranjo,6A,Inglés,1.3,8.2,5.2,83.4
+S-00423,Ana Abigail Palomo,6 A,Bases de Datos,7.6,6.5,7.2,63.8
+S-00424,Samuel Uriel Campos,8-B,Física,5.1,0.3,11.3,88.1
+S-00425,Horacio Wilfrido Navarrete,9°A,Inglés,5.0,5.7,9.9,93.0
+S-00426,Mtro. Reina Curiel,6C,Matemáticas,6.4,6.6,6.5,73.7
+S-00427,Omar Darío Soliz Romero,4 C,Inglés,8.7,1.7,4.7,78.6
+S-00428,Sr(a). Hermelinda Loera,4 A,Inglés,8.0,14.3,7.7,66.3
+S-00429,Julio Alta  Gracia Barela Toledo,3-A,Programación,13.3,4.6,9.7,94.4%
+S-00430,Jorge Briones Huerta,1 B,Química,5.6,-1.3,9.7,60.1%
+S-00431,Patricia Gamboa Armas,8A,Matemáticas,14.1,8.5,10.8,61.0
+S-00432,Ing. Santiago Rico,2-B,Programación,4.5,1.2,8.1,60.3%
+S-00433,Sr(a). Carolina Limón,8B,Física,2.3,5.9,1.6,72.0
+S-00434,Israel Patricio Pelayo Jurado,5 B,Química,7.9,6.0,5.9,83.3
+S-00435,Dr. Porfirio Espinal,9°C,Bases de Datos,8.4,0.9,8.6,
+S-00436,Reynaldo María José Partida,5 C,Matemáticas,6.6,5.2,0.2,
+S-00437,Aida Darío Jimínez,7°B,Bases de Datos,6.8,9.3,8.6,88.8
+S-00438,Serafín Sanabria,9°A,Física,4.2,0.3,2.1,84.3
+S-00439,Ivonne Linares Solís,8B,Química,4.0,1.5,0.0,62.0
+S-00440,Elvia Rosales Cervantes,8°B,Física,5.3,4.9,8.0,69.7
+S-00441,Jonás José Eduardo Mejía Urbina,6°A,Matemáticas,6.2,9.9,5.7,61.8
+S-00442,Rufino Amalia Carrillo Vigil,5°A,Bases de Datos,9.1,8.5,9.5,81.3
+S-00443,Itzel Florencia Espino,3-C,Inglés,-0.1,7.3,5.7,68.3
+S-00444,Mtro. Yeni Haro,6-B,Inglés,7.7,1.2,8.8,68.9%
+S-00445,Gonzalo Toledo,5-A,Inglés,9.1,10.2,5.8,-10
+S-00446,Ing. Espartaco Mejía,3°A,Programación,7.1,5.9,4.6,83.2
+S-00447,Sessa Montero,4B,Inglés,2.1,8.2,2.9,89.1
+S-00448,Jonás Salcido,6A,Inglés,4.2,9.0,6.4,85.6%
+S-00449,Anabel Villa,9A,Bases de Datos,-1.5,9.7,5.8,90.8
+S-00450,Sr(a). Juan Urrutia,6°A,Bases de Datos,1.2,8.9,2.1,75.4
+S-00451,Óscar Guillermo Salcido,6-A,Programación,11.0,7.2,4.8,76.0
+S-00452,Gerardo Llamas Carvajal,4B,Física,9.9,3.4,8.2,84.6
+S-00453,Diana Salcido Munguía,8A,Inglés,8.8,8.5,1.3,85.1%
+S-00454,Zacarías Soledad Muro,2 C,Física,1.8,7.0,0.9,
+S-00455,Sonia Gallegos Moya,3°A,Física,9.5,2.1,6.3,80.1
+S-00456,Marco Antonio Carranza Preciado,2-C,Matemáticas,0.0,4.2,13.8,75.9
+S-00457,Marcos Delgado Serrato,2 A,Química,0.8,8.5,2.3,
+S-00458,Ana María Ernesto Solorzano,8-A,Física,10.0,2.9,0.1,150
+S-00459,Diego Amalia Acuña,2°C,Matemáticas,0.6,0.9,8.5,76.4%
+S-00460,Dr. Caridad Guillen,9 B,Inglés,7.2,5.3,0.2,74.5
+S-00461,Alejandro Pablo Gollum Romo,4 A,Matemáticas,5.4,8.5,2.8,87.3
+S-00462,Jaime Enríquez,5°B,Matemáticas,3.9,8.4,9.2,94.6
+S-00463,Amanda Clara Portillo Granado,3 C,Bases de Datos,9.8,0.7,14.1,92.2%
+S-00464,Sr(a). Georgina Barragán,4°B,Química,9.7,6.4,4.5,
+S-00465,Sr(a). Aida Ureña,3B,Inglés,7.5,7.8,8.8,63.4
+S-00466,Sr(a). Jerónimo Correa,7°C,Bases de Datos,4.5,7.1,-3.0,74.7
+S-00467,Ofelia Parra,1-A,Matemáticas,2.5,4.9,8.1,77.4
+S-00468,Ana Ávila,8 A,Matemáticas,9.3,1.4,6.4,65.8
+S-00469,Andrés Sonia de la Crúz,2C,Física,9.3,3.2,13.7,
+S-00470,Julio Esparza Fuentes,5B,Programación,0.8,14.2,13.1,70.6
+S-00471,Sr(a). Gustavo Zaragoza,8 B,Matemáticas,3.5,-2.9,14.5,68.6%
+S-00472,Karla Rocha Tirado,3B,Programación,6.6,4.7,4.7,93.4
+S-00473,Maximiliano Marrero,6 C,Química,1.0,8.9,14.9,63.4%
+S-00474,César Peres Ruelas,4°C,Química,14.6,8.6,1.9,69.0%
+S-00475,Blanca Rufino Pineda,7 A,Bases de Datos,5.9,7.7,4.0,93.0%
+S-00476,Mónica Eloy Olivares Mena,8 C,Bases de Datos,9.9,8.9,3.4,
+S-00477,Cecilia Joaquín Canales Bañuelos,6B,Física,1.8,9.2,9.9,94.0%
+S-00478,Armando Robledo,3C,Inglés,7.1,4.0,5.8,90.9
+S-00479,Mtro. Pablo Nieves,1-C,Matemáticas,0.6,8.5,5.2,92.6
+S-00480,Mitzy Raúl Benítez Urrutia,6°B,Inglés,13.7,5.0,1.5,73.4
+S-00481,Alta  Gracia Dulce María Pelayo Palomo,2B,Física,6.6,2.0,13.8,93.5
+S-00482,María del Carmen Solorzano,7°C,Bases de Datos,-0.1,8.4,9.4,94.9
+S-00483,Homero José Emilio Saucedo Roybal,1B,Bases de Datos,3.6,-2.8,2.3,
+S-00484,Reynaldo Mariano Miramontes,3 C,Matemáticas,5.9,5.4,9.7,
+S-00485,Ariadna Leal,6°B,Matemáticas,3.3,0.7,6.7,88.8
+S-00486,Eva Eloy Benítez Galarza,1 B,Bases de Datos,9.8,7.3,0.5,79.8
+S-00487,Mtro. René Ponce,2°C,Matemáticas,-2.3,9.8,5.7,
+S-00488,Mateo Enríquez Ramos,2-B,Física,11.9,5.3,4.1,70.8%
+S-00489,Anel Abelardo Regalado Arredondo,5-A,Inglés,1.9,1.2,2.8,99.1
+S-00490,Aurelio Leonel Sevilla Chacón,3°B,Bases de Datos,7.6,-1.8,3.2,84.6
+S-00491,Dulce María Gilberto Cervantes Cano,5-C,Inglés,-0.1,6.2,12.7,150
+S-00492,Raquel Angélica Murillo,5 B,Química,0.0,7.5,7.9,87.8
+S-00493,Noemí Elisa Ojeda Salcido,9A,Matemáticas,3.1,8.9,5.7,75.6
+S-00494,Eric Omar Briones Loya,7 C,Física,4.3,9.1,6.2,66.6%
+S-00495,Clara José Manuél Jurado Véliz,4B,Matemáticas,-2.0,0.9,1.2,94.8
+S-00496,Beatriz Casillas Garica,7C,Programación,6.8,7.1,4.7,67.0
+S-00497,Lic. Ana Godoy,3A,Programación,11.1,2.0,0.0,79.1
+S-00498,Juan Uriel Barragán,6-A,Bases de Datos,6.3,5.1,6.8,89.8%
+S-00499,Luis Miguel Caridad Longoria Ayala,2 B,Bases de Datos,5.2,0.6,2.6,63.3
+S-00500,Pascual Esquibel Delgadillo,2A,Física,4.4,0.3,6.5,72.5
+S-00501,Wendolin Rafaél Jurado Niño,6 A,Matemáticas,4.6,4.5,9.3,87.8
+S-00502,Ricardo Ivonne Pérez Robledo,8°B,Programación,4.1,3.5,10.8,81.1
+S-00503,Norma Ángela Almanza Piña,9C,Física,3.2,4.9,2.1,87.8
+S-00504,Amador Elvira Hernandes Pérez,3°C,Inglés,9.6,14.8,14.3,-10
+S-00505,Ivonne Jacobo Ocasio,6°A,Química,4.6,0.1,9.2,71.8
+S-00506,Clara David Molina,6B,Matemáticas,6.3,1.1,7.0,69.9
+S-00507,Elias Liliana Rascón Suárez,2B,Inglés,9.2,5.7,0.1,-10
+S-00508,Pilar Pamela Sevilla Munguía,8C,Matemáticas,6.1,6.4,-2.5,71.5
+S-00509,Josefina Olga Guardado Ávila,9 C,Química,8.5,-0.5,2.5,82.7
+S-00510,Zoé Aida Delgado Reyes,4-C,Física,9.5,0.4,6.2,94.5
+S-00511,Conchita Angulo Barreto,9C,Química,8.4,2.0,6.2,82.7
+S-00512,Emiliano Esparta Rentería,7-A,Matemáticas,11.9,4.8,6.8,92.8
+S-00513,Barbara Esther Tello,8 C,Matemáticas,13.6,9.0,10.9,84.4
+S-00514,Sr(a). Adela Zarate,9°A,Bases de Datos,1.3,1.0,8.8,95.3
+S-00515,Dr. David Carrasco,9°C,Matemáticas,4.9,8.2,3.0,89.6
+S-00516,Rosalia Garibay,1°A,Programación,7.1,2.5,5.5,70.3%
+S-00517,Dr. Miriam Escalante,2 C,Física,12.6,8.3,6.0,84.1
+S-00518,Antonia Roldán Negrón,7°C,Inglés,2.5,6.3,12.9,99.8
+S-00519,Aurelio Virginia Valle,1 A,Programación,0.8,8.7,8.1,99.0
+S-00520,Lorena Navarro,6 A,Matemáticas,-0.9,6.3,1.4,96.8%
+S-00521,Sara Alfonso Bahena Almanza,7°B,Inglés,9.9,3.7,8.5,95.0
+S-00522,Mtro. Ramón Terán,9 C,Matemáticas,3.2,1.7,1.8,73.2
+S-00523,Gabriela Aragón,2 C,Programación,3.7,1.9,8.2,
+S-00524,Rufino Tapia,8B,Bases de Datos,5.3,9.0,-2.0,83.7
+S-00525,Juana Aida Mata Narváez,2°B,Bases de Datos,12.8,1.6,9.7,78.7
+S-00526,María Cristina Francisca Ureña,7 B,Bases de Datos,5.4,2.5,6.5,85.9%
+S-00527,Carmen Alta  Gracia Parra Alonso,8-B,Programación,9.4,2.4,6.5,62.8%
+S-00528,María Abril Rolón,7°B,Matemáticas,4.2,5.7,1.0,61.3%
+S-00529,Tania Serna,7°C,Matemáticas,2.8,1.7,6.3,80.9%
+S-00530,Lucía Susana Orozco,2 C,Química,12.8,1.5,8.6,93.4%
+S-00531,Mtro. Sessa Roldán,1°B,Física,5.4,4.5,7.2,80.4
+S-00532,Mtro. Israel Nieves,4-B,Inglés,2.3,9.0,8.7,63.2
+S-00533,Mtro. Óliver Mejía,4 B,Programación,2.7,0.6,5.1,-10
+S-00534,Mtro. Octavio Laureano,4A,Matemáticas,2.7,6.5,7.4,95.7
+S-00535,Elsa Valle,8°C,Química,12.8,12.3,8.0,86.5
+S-00536,Rosario Silvia Anguiano,1-C,Matemáticas,4.3,14.2,9.8,89.3
+S-00537,Indira Beatriz Romero,4 A,Matemáticas,12.7,-1.9,4.5,80.9
+S-00538,Ariadna Héctor Medina Vela,5°A,Inglés,8.9,7.8,5.7,70.4
+S-00539,Frida Covarrubias Terán,9 A,Física,0.6,9.3,7.0,83.9
+S-00540,Jorge Abigail Roldán Huerta,7-A,Inglés,3.0,8.2,-1.1,60.4%
+S-00541,Pedro Moreno Colunga,4°C,Inglés,9.3,1.7,8.2,
+S-00542,Anabel Arenas,9°A,Inglés,3.3,2.6,0.7,79.6%
+S-00543,Lic. Virginia Briseño,6 C,Inglés,7.2,5.7,7.6,70.6
+S-00544,Ing. Georgina Curiel,2°C,Química,-2.7,-0.7,6.2,
+S-00545,Renato Emilia Hernandes,1°C,Programación,9.3,-1.2,9.6,-10
+S-00546,Armando Muñiz,1 C,Bases de Datos,1.8,6.9,7.0,
+S-00547,Abelardo Rojas Meléndez,7°A,Química,-0.8,1.1,13.4,89.3
+S-00548,Soledad Carranza,8-C,Química,3.8,8.4,-2.4,69.9
+S-00549,Lic. Rufino Galván,8°C,Física,2.2,8.3,8.9,80.8
+S-00550,Evelio Isaac Barrios Lovato,2A,Inglés,5.2,1.2,8.7,65.9
+S-00551,Lic. Lucas Girón,3-C,Química,-0.2,3.8,3.9,66.9
+S-00552,Wendolin Diana Campos Nieves,9-B,Inglés,6.7,7.6,2.2,85.1
+S-00553,Mtro. Gerardo Zaragoza,1-B,Bases de Datos,0.7,4.7,8.2,88.2
+S-00554,Espartaco Ilse Briones Cepeda,4-A,Inglés,0.3,6.6,12.3,68.8%
+S-00555,Berta Macías,2 A,Inglés,9.6,-0.4,4.5,69.9
+S-00556,Anabel Rodolfo Padilla,1-B,Inglés,14.9,8.7,7.9,83.9
+S-00557,Minerva Calderón Gurule,5B,Programación,7.7,1.3,0.0,85.9
+S-00558,José Manuél Benavides,8-A,Física,6.7,8.9,-0.3,99.7
+S-00559,Elias Vanegas Loya,2°A,Física,4.7,13.3,0.0,87.8
+S-00560,Karina Angélica Ulibarri Fierro,2B,Química,2.7,8.6,8.4,88.7%
+S-00561,María Luisa Ruelas,8A,Matemáticas,6.2,8.5,6.8,72.5%
+S-00562,Lic. Estefanía Polanco,4°B,Matemáticas,1.0,10.3,2.9,80.3
+S-00563,Marco Antonio Mateo Benavídez Orozco,8°B,Química,5.4,10.3,-0.6,90.7%
+S-00564,Guillermo Gaona,5°A,Bases de Datos,2.4,12.2,2.5,78.7
+S-00565,Marcos Tomás Sandoval,8-B,Bases de Datos,5.8,0.1,-1.0,66.9
+S-00566,Norma Saldivar,4 C,Programación,7.2,2.0,9.6,150
+S-00567,Abraham María José Tamez Zepeda,3C,Bases de Datos,7.6,2.2,1.9,89.3
+S-00568,Mtro. Micaela Valverde,9°B,Programación,3.3,-1.9,4.7,
+S-00569,Isabela Ocasio Batista,9-C,Bases de Datos,12.1,-1.2,12.1,83.0
+S-00570,Mtro. Alejandro Ávalos,6-B,Química,7.2,2.1,1.0,82.1
+S-00571,Zeferino Carranza Mares,4-C,Química,0.6,-3.0,11.8,94.9
+S-00572,Eloy Óscar Camarillo,5 B,Bases de Datos,5.8,7.3,-0.7,61.7
+S-00573,Sandra Natalia Ayala,6B,Química,6.0,14.2,2.0,84.6
+S-00574,Marisol Susana Briseño,1°A,Inglés,4.6,11.7,7.5,70.8
+S-00575,Inés Carmona,8°A,Inglés,7.5,5.2,3.6,76.3
+S-00576,José Eduardo Quintana Delgadillo,6-A,Química,2.5,6.4,9.4,94.5
+S-00577,Antonio Gonzales Aragón,5-A,Química,9.4,7.6,-2.3,91.6
+S-00578,David Abigail Jiménez Carrión,5 B,Matemáticas,2.7,0.9,3.7,69.6
+S-00579,Humberto Angélica Lozada,5°A,Matemáticas,5.2,8.9,2.9,150
+S-00580,Aurelio Cardenas,8 B,Bases de Datos,5.3,6.2,5.9,80.3
+S-00581,Yolanda Salvador Mesa,9 C,Programación,6.2,2.1,-1.4,85.5
+S-00582,Marisol Pulido,1 B,Física,5.0,6.5,-0.9,72.4%
+S-00583,Armando Gustavo Carrero,8-A,Física,9.5,7.8,9.4,61.8
+S-00584,Santiago Esperanza Linares,8°B,Bases de Datos,2.0,9.7,3.1,150
+S-00585,Clara Arguello Piña,5C,Física,3.1,3.6,0.3,94.7
+S-00586,Luz Cornejo,9°A,Física,2.6,1.0,6.1,75.3
+S-00587,Graciela Nieto,1-B,Programación,3.0,5.0,3.9,74.3
+S-00588,Rosario Mojica,7-B,Inglés,8.4,5.4,2.9,70.0
+S-00589,Dr. Miguel Escalante,2-A,Programación,0.9,3.6,2.8,79.0
+S-00590,Francisco Javier Olvera,5 C,Química,2.8,4.6,5.7,84.0
+S-00591,Isabela Ana Luisa Ornelas Nieves,4 B,Inglés,7.5,-2.7,0.2,76.1
+S-00592,Mtro. Francisco Javier Osorio,4 B,Inglés,5.8,0.8,4.6,64.1%
+S-00593,Dr. Felipe Carrión,2-A,Programación,1.8,7.3,14.1,62.4
+S-00594,Amalia Chavarría,1B,Bases de Datos,9.6,0.1,8.8,
+S-00595,Dr. Darío Romo,9°C,Bases de Datos,3.0,1.9,2.1,66.5
+S-00596,Rosa Esperanza Rosas Molina,9C,Bases de Datos,4.6,9.0,7.2,-10
+S-00597,Miriam Germán Garza Rangel,5-A,Física,2.1,1.6,1.6,150
+S-00598,Mario Rocío Cano Jaramillo,9 C,Bases de Datos,4.5,1.0,-2.6,70.4
+S-00599,Sr(a). Wilfrido Vela,8°A,Programación,0.7,2.1,8.9,84.3%
+S-00600,Olivia Rosario Gollum,2 C,Bases de Datos,5.5,8.1,6.6,94.4
+S-00601,Ricardo Dueñas Godínez,8B,Matemáticas,3.5,14.7,9.6,
+S-00602,Lucía Antonio Rosales,4B,Bases de Datos,3.8,8.4,8.8,92.6
+S-00603,Raquel Tirado Terrazas,2 A,Física,1.2,3.9,7.4,-10
+S-00604,Tania Menchaca,8 B,Bases de Datos,1.0,-0.5,7.0,98.9
+S-00605,Yeni Francisco Tovar,2C,Bases de Datos,0.1,6.5,-1.8,77.2%
+S-00606,Isaac Moreno Guillen,4°B,Inglés,5.3,5.7,10.6,
+S-00607,Abel Liliana Hidalgo Leal,5 A,Química,3.8,2.0,7.4,77.2
+S-00608,Esteban Miriam Armendáriz Vélez,2A,Inglés,8.3,1.3,0.6,95.0
+S-00609,Sessa Claudio Collado Hernández,9°A,Inglés,2.0,9.1,11.3,86.1%
+S-00610,Blanca Pizarro Rosas,1°B,Matemáticas,6.5,6.2,9.9,70.4
+S-00611,Ing. Humberto de Jesús,5 A,Física,14.2,0.9,14.2,99.2
+S-00612,Ramón Esperanza Rojo,4 C,Bases de Datos,13.0,4.4,8.8,
+S-00613,Sr(a). Ricardo Alcala,5C,Matemáticas,8.2,8.7,3.3,
+S-00614,Roberto Luis Rendón,5-B,Química,3.3,1.0,5.4,78.9
+S-00615,Alicia Cristian Quintanilla Benítez,2B,Matemáticas,3.0,1.0,8.1,66.6
+S-00616,César Ramiro Trujillo Meléndez,1-A,Inglés,8.0,11.0,6.7,62.0%
+S-00617,Felipe Perales,8C,Química,5.1,8.1,6.5,66.0
+S-00618,Felipe Genaro Cano,8°C,Inglés,3.5,5.3,8.1,68.9
+S-00619,Inés Tamez Barreto,8 C,Matemáticas,0.6,8.6,2.8,71.1
+S-00620,Mario Hernandes Zepeda,3-A,Bases de Datos,0.3,2.6,11.9,64.5
+S-00621,Andrea Briseño del Río,1-A,Matemáticas,6.2,2.9,8.6,98.0
+S-00622,Cynthia Pabón,1°B,Inglés,6.8,9.4,12.0,97.6
+S-00623,Santiago Eduardo Tejeda Nájera,7B,Química,9.8,6.5,6.7,-10
+S-00624,Inés Tijerina Linares,3 A,Matemáticas,4.9,13.8,0.4,77.2
+S-00625,Úrsula Chávez Nieto,2-C,Bases de Datos,12.2,2.5,5.4,76.4
+S-00626,Luis Miguel Gaona Longoria,1B,Química,-2.4,7.1,2.4,77.1
+S-00627,Andrea Juan Carlos Mota,9-C,Programación,-1.5,0.2,4.2,89.3
+S-00628,Rosalia Citlali Fonseca,4C,Química,1.5,-0.9,4.8,69.6%
+S-00629,Ing. Sessa Olivera,6°A,Matemáticas,7.0,7.5,7.4,88.2
+S-00630,Sr(a). Raquel Miramontes,8-B,Matemáticas,8.4,3.4,6.7,87.6
+S-00631,Luis Miguel Carvajal Saiz,8°B,Inglés,7.7,-1.5,8.4,87.1
+S-00632,Estela Orellana Urrutia,2B,Química,1.2,4.9,7.0,78.3%
+S-00633,Barbara Gilberto Rael,6°A,Bases de Datos,-2.2,7.0,8.5,98.9
+S-00634,Dulce Rosa Hernandes Melgar,8 C,Química,11.0,6.2,9.6,88.1
+S-00635,Virginia Cynthia Zelaya Huerta,6°C,Química,9.3,2.9,-1.3,71.6
+S-00636,Agustín Marisol Cabrera,1-A,Física,8.1,4.0,4.1,77.0
+S-00637,Mario Barbara Amaya,1°C,Bases de Datos,8.7,4.9,10.8,
+S-00638,Ofelia Isabela Prado Espinosa,2-B,Matemáticas,11.3,7.0,3.9,81.9%
+S-00639,Rafaél Amalia Cervantes,6A,Inglés,9.2,6.2,5.2,72.9
+S-00640,Mitzy Cristina Altamirano,6C,Inglés,1.8,9.3,8.1,
+S-00641,Dr. Emilia Gastélum,9 A,Física,9.3,4.0,14.5,68.8
+S-00642,Rocío Isaac Gollum,7 C,Inglés,2.7,7.3,3.0,70.6
+S-00643,Silvano Antonio Segura,6°A,Física,8.0,12.6,4.7,
+S-00644,Amador Aldo Gálvez Roque,1-C,Programación,3.5,0.5,4.0,62.8%
+S-00645,Samuel Loya Amaya,2 B,Inglés,0.4,13.5,3.8,150
+S-00646,Gabino Darío Garza,2A,Inglés,4.2,3.8,13.2,89.2%
+S-00647,Lucía Rosales,3 B,Química,0.9,4.5,0.3,73.7
+S-00648,Pamela Beatriz Angulo,1 B,Física,6.8,5.2,4.5,93.0
+S-00649,José Eduardo Véliz,4A,Programación,1.6,7.8,6.8,81.4%
+S-00650,Bianca Armendáriz,6B,Matemáticas,9.9,5.3,-0.4,70.6
+S-00651,Nelly Noelia Aguilar Parra,3B,Física,4.0,-0.1,10.0,63.1
+S-00652,Eugenia Felipe Venegas,4A,Bases de Datos,2.8,3.4,1.1,62.8
+S-00653,Caridad Nadia Córdova,8°C,Inglés,8.2,8.7,11.9,77.5
+S-00654,Rosalia Lozano,9A,Química,0.0,8.4,8.2,150
+S-00655,Araceli Carla Vega Miramontes,3 B,Química,3.3,4.1,0.2,73.8
+S-00656,Berta Gallardo,3A,Física,7.1,8.5,2.7,87.3
+S-00657,Indira Daniela Ceja Villanueva,9C,Bases de Datos,10.0,5.8,11.7,72.9
+S-00658,Rebeca Linares Ramón,9C,Física,3.2,5.8,2.6,65.8
+S-00659,Luis Manuel Óliver Altamirano,9°B,Física,0.8,-2.9,1.2,62.6
+S-00660,Margarita Cedillo Collazo,7 A,Matemáticas,9.7,7.6,2.7,66.0
+S-00661,Lic. Mauricio Barrera,1°C,Física,4.7,6.2,1.7,84.4
+S-00662,Alejandra Rascón,1C,Bases de Datos,2.5,7.1,7.2,
+S-00663,Estefanía Castañeda Páez,6°A,Química,2.3,5.2,2.3,79.6%
+S-00664,Ramiro Jaimes Barreto,4B,Programación,0.6,1.0,4.7,150
+S-00665,Natalia David Cornejo,9 B,Bases de Datos,-2.5,8.2,1.0,84.2%
+S-00666,Lic. César Valle,5-A,Programación,10.8,3.8,1.9,71.8
+S-00667,Ing. Úrsula Paredes,9B,Bases de Datos,7.2,5.7,7.2,67.0%
+S-00668,Cecilia Esparta Mayorga,1B,Inglés,5.8,4.8,14.4,98.3
+S-00669,Lilia Nayeli Luevano,1°A,Programación,8.4,13.9,10.5,76.7
+S-00670,Ing. Citlali Almanza,1B,Programación,8.1,7.9,14.5,87.4
+S-00671,Barbara Emilia Gallardo,8A,Bases de Datos,9.2,1.5,11.7,90.3%
+S-00672,Ariadna Araceli Ávila,8C,Bases de Datos,5.0,-0.8,3.6,70.0
+S-00673,Socorro de Jesús,4°C,Física,6.3,5.6,1.8,76.5%
+S-00674,Sr(a). Lucas Gamboa,6A,Bases de Datos,7.4,1.4,14.1,87.9
+S-00675,Lic. Eloisa Tijerina,3 B,Física,8.0,4.5,0.8,83.2
+S-00676,Anel Arriaga,2°B,Programación,2.8,14.3,8.8,60.6
+S-00677,Antonio Nevárez Muñoz,2B,Inglés,2.7,7.2,1.1,69.1
+S-00678,Citlali Covarrubias,1A,Física,2.7,5.1,6.2,98.6
+S-00679,Judith Ana Trejo,2-C,Química,8.6,-1.2,4.5,60.3
+S-00680,Elias Pilar Corrales Rael,2B,Física,0.4,13.1,10.5,68.9
+S-00681,Jaime Noriega,8 C,Bases de Datos,7.4,2.6,-2.8,150
+S-00682,Sr(a). Berta Sisneros,4 C,Física,4.1,2.0,3.0,74.1
+S-00683,Ing. Paulina Tovar,6A,Matemáticas,5.6,2.9,5.2,78.6
+S-00684,José María Héctor Manzanares,6C,Inglés,6.3,-2.7,4.0,94.2
+S-00685,Leonardo Jacinto Baeza,3-B,Bases de Datos,6.4,7.4,4.7,91.0
+S-00686,Hugo Teodoro Macías,4 C,Programación,11.0,-2.5,0.0,98.9
+S-00687,Irma Úrsula Trujillo Roybal,1 C,Química,2.0,3.8,1.0,76.1
+S-00688,Aldo Archuleta Vargas,8B,Inglés,6.1,3.6,8.6,99.0
+S-00689,Violeta Cardona Olivárez,5-B,Matemáticas,10.2,5.9,-0.7,61.2
+S-00690,Mtro. Armando Venegas,8°B,Programación,6.4,3.4,4.8,99.1
+S-00691,Norma Antonio Concepción,3°C,Inglés,9.1,8.5,6.5,81.1%
+S-00692,Javier Amador Linares Gálvez,9 C,Física,0.1,14.0,9.8,64.4%
+S-00693,Esparta Vera,4 B,Programación,5.7,-1.3,8.9,76.5
+S-00694,Marcela Abril Reynoso Romero,4-A,Programación,-0.1,5.8,3.3,81.5%
+S-00695,Eric Barajas,7 B,Programación,8.9,0.1,5.6,75.6
+S-00696,Karla Benito Varela,7-A,Matemáticas,7.3,2.2,7.1,73.4
+S-00697,Zeferino Genaro Mora,7A,Inglés,8.5,9.9,6.9,83.6
+S-00698,Óliver Patiño Ledesma,2B,Matemáticas,8.8,13.4,7.0,92.3%
+S-00699,Carlos Zepeda,4B,Química,9.3,10.8,2.2,68.4
+S-00700,Natalia Karina Escalante Coronado,4-A,Química,1.7,7.3,1.3,91.6%
+S-00701,Luisa Serna,8C,Física,9.9,3.3,2.0,69.9
+S-00702,Alfredo Magaña Perea,8B,Química,8.8,5.1,-1.7,73.2
+S-00703,Minerva Olivárez,5 A,Bases de Datos,2.3,9.1,5.9,91.5
+S-00704,Mtro. María Luisa Maya,8-B,Matemáticas,4.7,6.9,1.1,61.0
+S-00705,Daniela Sevilla,1°C,Química,7.4,1.4,9.7,75.4
+S-00706,Teodoro Elsa Alvarado,5-B,Matemáticas,8.2,-1.6,2.3,94.0
+S-00707,Anel Maya Fernández,6-B,Física,9.4,14.8,3.4,76.9
+S-00708,Karla Romero Muñoz,4C,Matemáticas,3.4,11.3,5.8,95.8
+S-00709,José Jasso,9A,Bases de Datos,7.0,3.4,3.6,80.0
+S-00710,Ofelia Tejada,7B,Inglés,2.8,1.3,0.9,76.6
+S-00711,Abigail Salma Gollum Córdova,6C,Química,13.8,6.4,13.2,96.6
+S-00712,Dr. Carmen Vásquez,4°B,Física,-2.5,1.5,4.7,
+S-00713,Rafaél Acuña,6°A,Química,0.8,-2.2,1.9,75.7
+S-00714,Cornelio Maestas Tijerina,6 A,Química,0.6,3.3,7.9,67.4%
+S-00715,Úrsula Márquez,4B,Bases de Datos,5.9,4.2,3.9,62.9
+S-00716,Adela Granado Urrutia,2°A,Programación,0.0,0.2,-1.4,-10
+S-00717,Ing. José Emilio Regalado,1°C,Matemáticas,5.6,7.0,4.3,83.2
+S-00718,Patricia Paz Pelayo,4-A,Inglés,1.7,7.0,10.6,62.1%
+S-00719,Nelly Socorro Sevilla Bravo,2B,Química,0.9,1.5,3.7,-10
+S-00720,Socorro Nava Estrada,7-A,Programación,5.2,7.8,8.9,
+S-00721,Amanda Segovia,8 B,Matemáticas,6.9,8.1,7.2,65.3
+S-00722,Alta  Gracia Germán Barrios Paredes,1 C,Inglés,14.2,7.5,-2.0,63.3
+S-00723,Aurelio Luisa Molina,2 A,Inglés,3.8,11.8,10.0,76.3
+S-00724,Carmen Ramón Laureano,3-B,Química,5.3,3.2,-1.8,66.4%
+S-00725,Adela Maestas,9 B,Programación,1.5,3.0,13.5,71.6
+S-00726,Hugo Saldaña,4-B,Inglés,-0.4,11.7,6.4,62.8
+S-00727,Sr(a). Abelardo Sierra,5B,Bases de Datos,7.7,6.6,6.1,90.9
+S-00728,Wendolin Susana Carbajal,9A,Bases de Datos,6.1,9.9,4.0,83.3%
+S-00729,Estefanía Naranjo Briseño,7 C,Bases de Datos,3.5,4.8,9.9,68.6
+S-00730,Karla Esparta Galván Otero,4B,Física,4.3,14.4,1.8,61.3
+S-00731,Caridad Quintero Medina,3C,Química,0.6,1.4,9.6,99.0
+S-00732,Luis Miguel Estévez Quintanilla,8°B,Matemáticas,8.3,8.0,9.1,78.4
+S-00733,Daniel Natividad Cuellar,8-B,Programación,7.7,13.4,4.9,94.0
+S-00734,Samuel Berta Olivas,4 A,Química,6.6,0.2,1.0,87.6
+S-00735,Porfirio González Bétancourt,7°C,Bases de Datos,-2.3,6.0,1.1,62.1%
+S-00736,Alfonso Camilo Castro Lovato,4 B,Matemáticas,-1.8,8.9,12.0,72.0
+S-00737,Estela Hilda Torres,4°B,Matemáticas,1.9,11.9,6.3,64.6%
+S-00738,Pamela Guadalupe Adame Cuellar,7-B,Química,5.4,8.4,13.3,72.5
+S-00739,Ing. Jos Garza,6 B,Inglés,11.5,0.1,2.0,66.6
+S-00740,Dr. Gilberto Pelayo,3 A,Inglés,8.1,8.5,0.8,74.4
+S-00741,Martha Terrazas Marín,4°A,Programación,9.3,3.4,5.9,88.1
+S-00742,Sr(a). Alejandra Vera,1-A,Química,8.2,10.6,1.5,88.6%
+S-00743,Fidel Julia Almonte Barreto,6 C,Física,2.3,8.8,1.7,81.2
+S-00744,Wilfrido Lerma Prieto,7A,Inglés,6.5,6.0,5.1,
+S-00745,Dulce María Olivárez Elizondo,7 A,Física,1.9,3.7,1.6,99.9
+S-00746,Sr(a). Alejandra Ávila,4 A,Química,3.5,6.7,2.5,69.9
+S-00747,Carla Jimínez,8-A,Matemáticas,2.9,9.3,5.7,64.3
+S-00748,Adriana María José Almaraz Rojo,5°B,Inglés,6.7,8.2,6.6,80.4
+S-00749,Úrsula Palomino,6C,Química,7.9,14.7,8.0,92.9
+S-00750,Adela Porras,1A,Programación,-2.3,-0.5,8.3,76.1
+S-00751,Aurora Luz Leyva,6°C,Programación,6.4,2.8,14.6,84.7
+S-00752,Nancy Indira Meléndez,7 C,Química,9.4,3.8,1.3,90.6
+S-00753,Irma Israel Macías,9°A,Matemáticas,9.4,2.0,5.6,79.3
+S-00754,Laura Isabel Chapa,8A,Inglés,-2.9,6.7,6.4,82.7
+S-00755,Angélica Alemán Paz,2-C,Química,3.8,12.5,5.4,71.9
+S-00756,Raquel Salma Alcaraz,5-C,Física,2.5,7.0,1.3,62.3
+S-00757,Sr(a). Leonor Alva,7B,Bases de Datos,4.6,11.3,6.7,82.4
+S-00758,Daniel Téllez,7 A,Inglés,7.5,1.6,2.9,
+S-00759,Anabel Rodarte,5°A,Química,11.3,4.1,8.8,80.0
+S-00760,Estefanía Alonso Carrillo,2-C,Programación,9.4,14.2,12.3,85.9
+S-00761,Adela Gómez,1°B,Física,0.4,1.3,3.7,74.3
+S-00762,Gabino Karla Jaimes,4 B,Inglés,12.8,8.9,1.1,-10
+S-00763,Martha Patricio Garica Suárez,6B,Inglés,1.7,3.4,9.5,74.5
+S-00764,Lucía Parra,2 A,Matemáticas,0.9,9.6,9.3,81.7
+S-00765,María Teresa Zapata,7B,Inglés,8.4,4.7,3.7,61.3
+S-00766,Ing. María del Carmen Aguilar,6 A,Química,0.9,0.6,10.8,68.6
+S-00767,Julia Débora Alva,9 A,Matemáticas,1.4,0.0,4.7,74.8
+S-00768,María Elena Benito Verdugo Hidalgo,2A,Física,2.1,1.7,4.6,88.3
+S-00769,Rosalia Rodolfo Amador Armenta,8B,Inglés,5.1,7.5,8.9,90.2
+S-00770,Caridad Tania Garibay,4-A,Física,8.6,3.9,1.6,73.2
+S-00771,Irene Montes Espinal,1B,Inglés,7.4,6.3,2.4,65.8
+S-00772,Mercedes Francisca Cabán,8-A,Química,1.7,1.6,0.7,87.8
+S-00773,Federico Pedroza,3C,Bases de Datos,3.6,4.8,1.6,
+S-00774,Sr(a). Minerva de la O,1°B,Bases de Datos,8.3,3.4,0.4,96.1
+S-00775,Diana Alfonso Gurule,9A,Física,1.2,0.3,14.3,81.0
+S-00776,Lorenzo Silvia Patiño,1°A,Inglés,-1.9,9.2,5.0,
+S-00777,Ing. Yeni Rivero,3B,Programación,4.3,0.5,11.6,92.4%
+S-00778,Elisa Zamudio Velázquez,3C,Inglés,8.7,0.8,-2.4,73.9%
+S-00779,Paulina Jasso,5 B,Programación,8.9,2.2,4.5,69.1
+S-00780,Ana María Navarro,8 A,Física,4.5,5.7,0.4,98.1
+S-00781,Lic. Tania de la Rosa,9-A,Física,0.6,4.0,2.0,78.6
+S-00782,Martha Indira Córdova Castro,1 C,Bases de Datos,3.0,4.8,5.3,96.8
+S-00783,Sr(a). Mauricio Lozano,1°A,Química,3.2,8.7,8.9,92.5%
+S-00784,Gabriel Linares,7 A,Programación,7.2,2.2,9.4,79.7
+S-00785,María Luisa Arenas,7 B,Inglés,5.1,9.6,3.9,67.4
+S-00786,Eugenia Tórrez Barrera,4°B,Programación,9.6,3.2,7.8,97.1
+S-00787,Gabriel Delia Murillo,9°B,Matemáticas,6.8,3.4,7.0,72.5
+S-00788,Yuridia Lucero,4 A,Química,10.2,2.6,3.9,82.9
+S-00789,Pamela Abel Medrano,6A,Bases de Datos,2.9,8.7,7.2,
+S-00790,Olivia Jorge Luis Cisneros Ávila,9°B,Química,0.5,9.3,9.4,80.7
+S-00791,Liliana Hermelinda Rivero Leiva,7 B,Programación,2.3,3.8,1.4,97.2%
+S-00792,Berta Domínguez,7-B,Matemáticas,1.3,5.4,9.0,61.5
+S-00793,Zeferino Carmen Chavarría Barela,5-B,Inglés,1.1,0.3,0.9,84.4%
+S-00794,Virginia Genaro Monroy Domínguez,7-C,Inglés,-2.3,12.1,0.8,93.0
+S-00795,Alma Julio Paredes,4-A,Química,6.3,6.0,5.7,80.0
+S-00796,Augusto Eric Ferrer Zavala,1 A,Bases de Datos,8.1,3.1,10.7,-10
+S-00797,José Eduardo Guillermo Concepción,9 C,Inglés,9.5,4.4,6.9,91.0
+S-00798,Ariadna Nadia Cantú,9B,Física,6.4,5.3,2.0,69.0
+S-00799,Diana Juan Carlos Burgos,8°A,Matemáticas,5.8,0.4,9.9,62.0
+S-00800,Daniela Rangel,9 A,Matemáticas,8.4,0.0,3.4,84.6%
+S-00801,Ricardo Pineda Loera,2 A,Bases de Datos,1.0,8.9,3.3,61.1
+S-00802,Rubén Ramírez Armenta,3-B,Matemáticas,4.4,10.1,9.8,63.7
+S-00803,Lic. Eloisa Lucero,6B,Programación,1.2,8.8,-0.3,150
+S-00804,Francisco Rocío Valdez Fernández,5-A,Física,0.5,3.7,3.7,87.0
+S-00805,Horacio Beltrán,8C,Química,2.6,4.6,3.5,78.3
+S-00806,María Teresa Emilia Zapata,8-B,Programación,4.1,8.5,3.7,93.5
+S-00807,Joaquín Cortés,8 C,Bases de Datos,1.5,4.9,11.4,88.1%
+S-00808,Juana Gerónimo Negrete de León,8A,Química,9.6,8.7,3.6,99.2%
+S-00809,Mtro. Lourdes Becerra,5 A,Química,2.9,3.8,9.4,94.1
+S-00810,Guillermo Candelaria,4A,Química,7.4,5.2,11.6,71.6
+S-00811,Israel Antonia Dueñas Mares,7B,Inglés,5.8,4.9,5.4,89.2
+S-00812,Gloria Palomo Gracia,4°A,Química,12.0,1.8,10.0,91.5
+S-00813,Ing. Ignacio Solano,9°A,Química,7.1,5.0,8.5,71.0
+S-00814,Cristal Soria Gastélum,2°C,Bases de Datos,1.2,8.6,9.9,91.2
+S-00815,Andrea Caridad Ochoa,1°B,Matemáticas,8.4,0.5,4.2,98.2
+S-00816,Dr. Lucas de la Fuente,3 A,Química,12.9,0.5,2.3,97.0
+S-00817,Alfonso Polanco del Valle,7°C,Química,9.2,7.7,1.2,
+S-00818,Dr. Jacinto Casárez,4B,Química,5.5,6.0,7.2,95.3%
+S-00819,María Teresa Calvillo,3°B,Matemáticas,2.1,7.4,9.1,
+S-00820,Úrsula Barela,9A,Bases de Datos,7.8,4.4,0.7,
+S-00821,Gregorio Zapata,5A,Inglés,-2.2,9.4,1.6,80.6
+S-00822,Gregorio Herrera,2-C,Física,4.9,1.4,3.6,71.7
+S-00823,Eloisa Rodríguez,7-A,Bases de Datos,4.7,3.7,6.4,65.6
+S-00824,Abelardo Patricia Arevalo Terán,3C,Física,10.2,3.6,11.4,70.8
+S-00825,Sr(a). Horacio Alemán,5 C,Química,0.9,1.8,9.4,67.0
+S-00826,Rolando Tapia de León,6B,Química,0.9,5.1,-2.8,-10
+S-00827,Guillermo Renato Valadez,8 C,Bases de Datos,3.9,14.3,6.3,
+S-00828,Sergio Ricardo Rentería Archuleta,8°A,Bases de Datos,5.3,14.2,9.4,78.5
+S-00829,Ing. Genaro Samaniego,2°B,Inglés,8.6,4.8,11.6,64.0
+S-00830,Abelardo Santillán,3A,Física,9.0,2.5,1.9,80.9
+S-00831,Gloria Fuentes,7°C,Física,0.1,1.2,2.6,97.7
+S-00832,Lic. Antonio Valdivia,1A,Inglés,3.9,14.9,6.3,99.9
+S-00833,María Elena Salas Menéndez,4°A,Programación,9.1,3.5,1.3,73.6
+S-00834,Elena Ybarra Benítez,4-B,Física,8.5,7.8,8.1,68.2
+S-00835,Mitzy Adán Aragón,6°A,Bases de Datos,-2.6,11.4,9.0,94.8
+S-00836,Ignacio José Emilio Rico Urbina,7-A,Química,14.5,4.9,2.6,94.3
+S-00837,Estefanía Sara Hernádez Galarza,6B,Bases de Datos,0.4,7.4,14.8,77.3
+S-00838,Rodrigo Rivera,2-C,Física,0.3,9.7,1.8,85.1
+S-00839,Elisa Concepción Sauceda,6 C,Bases de Datos,3.3,0.2,1.6,61.8
+S-00840,Julio Angélica Ybarra Olmos,4-C,Física,1.4,12.5,-1.3,70.6
+S-00841,Mtro. Gabriela Gracia,6 A,Matemáticas,14.4,10.2,9.2,92.0
+S-00842,Homero José Manuél Sosa,9B,Inglés,4.8,14.5,2.7,76.1
+S-00843,Mauro Amador Naranjo,3-B,Matemáticas,7.8,-0.9,13.4,61.6
+S-00844,Ing. Martín Rico,2 B,Física,9.9,5.8,0.8,64.1
+S-00845,Sandra Portillo Arteaga,5-A,Matemáticas,7.6,5.6,7.2,62.5
+S-00846,Miguel Ángel Portillo Becerra,3°C,Física,0.6,0.2,7.6,
+S-00847,Agustín Gloria Carrillo,9°A,Bases de Datos,0.8,7.5,1.9,93.9
+S-00848,Liliana Alejandro Arteaga,4 B,Química,10.1,6.6,-2.3,90.0
+S-00849,Emilia Mata Benavídez,9-A,Física,8.4,4.6,-0.2,98.3
+S-00850,Sr(a). Mauro Valles,3C,Programación,2.0,2.8,3.9,64.6
+S-00851,Emiliano Iván Rentería Tamayo,2-A,Física,-2.9,2.8,9.3,89.9
+S-00852,Camila Urrutia,6°A,Física,-0.6,4.3,4.9,
+S-00853,José Carlos Yolanda Valladares,3-A,Química,7.4,4.9,-0.3,95.0
+S-00854,Ing. Abelardo Alemán,4°B,Física,9.8,10.7,8.7,87.2
+S-00855,Marcela Ernesto Echeverría,3C,Inglés,0.9,1.5,9.7,86.2%
+S-00856,Dr. Sofía Benavides,1°C,Química,9.1,6.5,8.6,90.9
+S-00857,Abigail Reina Jaramillo Fernández,3C,Química,5.8,1.2,6.1,82.9
+S-00858,Conchita Loya Alva,1°A,Inglés,3.0,2.8,3.7,93.7
+S-00859,Francisco Ballesteros,9°A,Física,7.4,5.2,13.8,
+S-00860,Rafaél Adriana Ramón,8A,Química,7.3,5.8,9.1,89.2
+S-00861,Sonia Andrés Canales Perea,3A,Matemáticas,4.8,6.7,1.9,
+S-00862,Vanesa Salcedo Tejeda,6°A,Bases de Datos,8.2,9.5,0.5,61.6
+S-00863,Zoé Andrés Carrillo Estévez,1-C,Física,2.3,3.0,3.5,
+S-00864,Israel Toledo Lovato,8°A,Química,-1.5,4.7,2.5,80.9
+S-00865,Dr. Verónica Ureña,5 C,Matemáticas,8.8,3.8,12.1,
+S-00866,Esteban Emilio Loya,8 B,Programación,4.3,7.0,2.5,150
+S-00867,Beatriz Godínez Terrazas,7°C,Química,10.7,7.7,7.2,98.1%
+S-00868,Paola Mario Prieto,6-C,Matemáticas,0.8,7.3,5.7,63.8
+S-00869,Sr(a). Alfredo Zamudio,4 C,Inglés,2.7,5.4,5.9,78.2
+S-00870,Dr. Patricia Alcántar,1 A,Programación,6.0,9.4,0.8,-10
+S-00871,Marcela Olga Alejandro,3-C,Matemáticas,6.4,3.9,1.5,84.8%
+S-00872,Evelio Quintero,5 C,Bases de Datos,5.3,1.8,8.8,90.2%
+S-00873,Bernardo Salgado Quiñones,4B,Bases de Datos,1.1,0.9,14.2,
+S-00874,Ing. Delia Cavazos,6 A,Programación,10.5,5.2,8.4,94.4
+S-00875,Joaquín Moreno,8 B,Química,8.9,4.1,-0.2,95.7
+S-00876,Guadalupe Miranda Iglesias,9°C,Matemáticas,6.5,2.6,2.9,86.2
+S-00877,Sara Valentín Casillas,1 A,Programación,-2.0,3.7,4.8,81.5
+S-00878,Miguel Ángel Castellanos,1-B,Matemáticas,5.2,8.1,2.6,-10
+S-00879,Santiago Urbina,4 A,Programación,8.9,11.5,2.2,87.7
+S-00880,Armando Méndez Leiva,7 B,Química,2.6,2.7,9.9,94.1
+S-00881,Modesto Luis Salgado Gaitán,9°C,Programación,4.7,9.8,2.7,85.8
+S-00882,Ignacio Darío Quiroz,4C,Bases de Datos,12.6,13.0,4.7,64.4
+S-00883,David Lozano Granados,8-B,Inglés,4.2,8.7,1.8,150
+S-00884,Fabiola Sofía Razo,9-C,Física,4.6,6.7,4.2,70.4
+S-00885,Lucía Homero Carrero,2°B,Bases de Datos,5.7,3.2,3.0,82.4
+S-00886,Esteban Francisca Hernández Robles,8 C,Inglés,1.7,-0.5,3.9,68.1%
+S-00887,Dr. Yeni Ballesteros,1-B,Bases de Datos,2.2,2.4,7.9,
+S-00888,Lic. Cristobal Malave,6°B,Bases de Datos,5.6,13.3,7.6,69.1
+S-00889,Mtro. Gerónimo Perales,8°B,Inglés,4.0,2.0,2.3,66.8
+S-00890,Cecilia Marisol Pizarro,1-C,Bases de Datos,0.4,2.5,2.6,94.5
+S-00891,Hernán Timoteo Valenzuela,8 A,Bases de Datos,0.7,12.9,5.7,85.8
+S-00892,Alberto Juana Salas Venegas,9-B,Programación,5.8,0.2,0.6,
+S-00893,Sr(a). Pablo Irizarry,3 C,Matemáticas,0.2,9.5,5.6,63.7
+S-00894,Guadalupe Escobar Raya,1°A,Bases de Datos,9.4,-2.0,11.2,73.9%
+S-00895,Ana Luisa César Mondragón,9°C,Inglés,-2.0,4.3,1.1,99.5
+S-00896,Cecilia Villegas Ibarra,1A,Programación,5.9,3.8,3.4,66.7
+S-00897,Mariana Conchita Carvajal,2°C,Bases de Datos,10.6,2.3,7.6,65.6%
+S-00898,Serafín Pablo Rincón Tamez,6 B,Bases de Datos,0.2,8.5,0.1,150
+S-00899,Lic. Ilse Bustos,7°B,Química,13.9,8.8,7.4,94.7
+S-00900,Abraham Nieto Echeverría,6-A,Bases de Datos,7.8,9.2,0.3,71.9
+S-00901,María Zepeda,2 A,Inglés,6.0,-2.9,6.6,96.9
+S-00902,Lic. Alta  Gracia Campos,7B,Matemáticas,0.7,5.0,9.8,70.3
+S-00903,Fernando Sanabria,7°A,Bases de Datos,4.8,2.5,14.9,71.8
+S-00904,Magdalena Natividad Verduzco Amaya,9-A,Programación,8.8,6.8,-3.0,
+S-00905,Mitzy Maestas,7C,Programación,5.8,9.8,6.7,94.9%
+S-00906,Mtro. Marisol Paz,2°A,Programación,13.8,5.0,0.8,66.2
+S-00907,Perla Matías Maestas,1°A,Programación,2.8,5.2,4.2,68.6
+S-00908,Ing. Margarita Dueñas,2C,Física,10.5,9.7,10.7,-10
+S-00909,Dr. Benito Soria,6-A,Química,11.8,2.2,5.3,74.4
+S-00910,Mtro. Genaro Mota,1C,Inglés,1.2,0.7,1.8,94.3
+S-00911,Mtro. Lorenzo Bermúdez,3 B,Química,7.3,6.6,9.2,68.1
+S-00912,Pascual Montaño,3C,Física,0.2,3.3,5.8,70.4
+S-00913,Mitzy Díaz Madera,7 C,Bases de Datos,9.9,0.6,7.5,80.5
+S-00914,Julio Camarillo,4°B,Física,14.1,-1.6,0.6,82.0
+S-00915,Lic. Angélica Moya,8°B,Inglés,9.8,8.8,5.8,83.4
+S-00916,Elias Uribe Rael,8°B,Matemáticas,-1.0,9.0,7.3,74.5
+S-00917,Lourdes Olivas,7-A,Programación,9.6,0.5,2.5,92.6
+S-00918,Patricia Sepúlveda Castro,1 C,Programación,0.8,8.9,14.6,69.6
+S-00919,Claudio Cortez Zambrano,1-C,Inglés,1.1,4.7,0.5,74.8
+S-00920,Martha Romero,3-C,Bases de Datos,8.8,7.9,5.4,98.8
+S-00921,Mitzy Pantoja,7 C,Matemáticas,1.4,0.8,9.1,70.4
+S-00922,Paola Calderón,1A,Química,-0.3,3.8,14.9,71.2
+S-00923,Guadalupe Valencia Tejeda,3-B,Matemáticas,-1.1,6.2,5.7,79.2%
+S-00924,Eva Esteban Menchaca,4C,Química,4.3,14.0,-1.4,60.5
+S-00925,Tania Olivera,5C,Física,1.2,4.1,2.9,
+S-00926,Paola Gonzalo Rico Alcántar,7-B,Inglés,2.9,9.8,8.7,64.9%
+S-00927,Marisela Armando Arellano Marrero,1-C,Inglés,8.2,13.7,4.6,71.3
+S-00928,Natividad Ochoa,4°B,Programación,5.2,0.7,11.4,86.7
+S-00929,Amalia Gonzales,6-C,Física,8.3,9.1,13.7,84.4
+S-00930,Mtro. Ana María Olivas,4°A,Bases de Datos,7.3,8.6,9.4,96.5
+S-00931,Ing. Isabel Tovar,9-B,Programación,5.5,3.6,14.7,82.0
+S-00932,Sofía Holguín,4 C,Inglés,6.2,4.7,7.2,87.2
+S-00933,Violeta Guillermina Cotto,8°B,Inglés,4.6,9.8,1.6,-10
+S-00934,Perla Agustín Ceballos,2-A,Inglés,6.1,1.7,6.3,61.4
+S-00935,Andrea Elvia Cedillo Amaya,7°C,Física,13.3,12.6,14.5,96.6
+S-00936,Gerardo Castillo,4A,Física,1.0,9.5,6.7,94.7
+S-00937,Eva Bernabé Correa Olivo,7A,Bases de Datos,6.9,9.1,9.9,77.4
+S-00938,Fernando Bonilla,5B,Inglés,1.6,7.1,7.8,74.0
+S-00939,Francisco Javier Nicolás Valladares,3 A,Química,8.9,1.0,9.5,79.4
+S-00940,Rocío Tomás Borrego Aguirre,7°A,Inglés,2.4,3.8,3.7,84.7
+S-00941,Lic. Rolando Jasso,6-A,Química,4.5,2.0,4.7,83.9
+S-00942,Susana Bermúdez,8°C,Inglés,-1.7,7.2,4.5,90.5
+S-00943,Cristian Briseño Cardenas,6-B,Física,7.4,7.8,6.5,88.2
+S-00944,Uriel Rolando Zayas,2 A,Inglés,2.8,5.7,11.9,73.5
+S-00945,Lic. Gonzalo Varela,5°C,Química,10.0,4.1,2.0,74.6%
+S-00946,Citlali Florencia Brito,7A,Inglés,7.1,4.2,1.7,92.1
+S-00947,Diana Alejandro Elizondo,3°A,Matemáticas,1.0,2.9,9.2,82.7
+S-00948,Aurelio Bruno Calvillo Sotelo,5 C,Programación,0.3,1.7,12.4,84.4
+S-00949,José Luis Cristina Tejada,6C,Bases de Datos,14.0,4.3,7.2,90.0
+S-00950,Jorge Agustín Ulibarri,1 C,Bases de Datos,3.7,8.6,1.1,62.1
+S-00951,Soledad Meraz,8B,Química,7.2,5.6,3.7,92.8%
+S-00952,Lic. Clara Gallardo,6C,Bases de Datos,0.3,7.8,2.2,90.8
+S-00953,Rosario García Rascón,7 C,Física,14.6,2.8,0.0,92.5%
+S-00954,Luisa José Carlos Camacho,4°C,Inglés,6.2,-2.6,0.7,97.7
+S-00955,Mayte Cantú,5°B,Matemáticas,4.9,5.9,0.4,
+S-00956,Eloisa Clemente Armendáriz,4-A,Química,3.2,9.2,3.7,71.1
+S-00957,Porfirio Quesada,5°B,Física,5.5,0.1,8.4,95.2
+S-00958,Luz Juan Guerrero,7-B,Matemáticas,7.9,9.1,4.5,69.4
+S-00959,María Eugenia Pacheco,2 C,Programación,1.9,5.8,7.9,69.2
+S-00960,Felix Corral,4°C,Bases de Datos,5.2,4.5,3.0,
+S-00961,Enrique Jorge Luis Alarcón,4°C,Química,11.5,-3.0,9.4,84.5
+S-00962,Verónica Morales Barragán,6B,Química,6.8,4.0,9.0,92.8
+S-00963,Magdalena Nájera Dueñas,3-B,Inglés,9.1,7.9,1.0,65.7
+S-00964,Martha Lucía Valdez,7°C,Química,7.1,2.0,10.6,86.3
+S-00965,Paulina Natalia Valdés,6 A,Matemáticas,2.6,2.9,6.4,65.0%
+S-00966,Ing. Berta Rivera,8C,Química,3.3,6.1,1.3,63.4
+S-00967,Gabriel Caldera,7-A,Matemáticas,13.6,-1.7,5.1,72.3
+S-00968,Jaqueline Jaime Holguín,1-C,Programación,13.0,4.3,12.9,
+S-00969,Dr. Concepción Zamudio,9°C,Química,3.3,12.6,1.9,83.6
+S-00970,Homero Noriega Manzanares,8-B,Matemáticas,10.9,2.9,1.1,-10
+S-00971,Ofelia Amador Garrido,8C,Química,6.0,-0.7,0.1,99.8
+S-00972,Luis Miguel Ricardo Tejada Merino,9°A,Matemáticas,14.9,9.9,1.6,79.7
+S-00973,Arcelia Olga Valenzuela Quezada,3A,Bases de Datos,13.9,5.6,12.4,72.6
+S-00974,Ivonne Téllez,4°A,Física,8.8,1.3,9.9,82.9
+S-00975,Ernesto Candelaria Santiago,3 B,Física,4.6,7.4,4.4,99.1%
+S-00976,Dr. Claudia Casares,7C,Bases de Datos,5.2,-2.8,7.5,91.5%
+S-00977,Angélica Maldonado Ojeda,3A,Física,3.9,12.9,1.6,83.0
+S-00978,Lic. Aida Limón,7C,Bases de Datos,11.2,5.6,1.6,98.8%
+S-00979,José Carlos Violeta Verdugo Cardona,2C,Programación,7.7,0.5,1.3,82.9%
+S-00980,Laura Elvira Escalante,6°C,Física,8.9,2.7,3.5,69.7
+S-00981,Manuel Pilar Rosario Ramírez,6 B,Física,1.3,4.2,13.6,73.2
+S-00982,Mtro. Natividad Rodríguez,6 A,Bases de Datos,2.9,5.0,6.5,
+S-00983,María Cristina Murillo,2°B,Física,6.0,1.6,4.6,89.8
+S-00984,Luisa Loya,2C,Física,5.9,3.7,5.4,88.7
+S-00985,Mtro. José Lomeli,3-A,Bases de Datos,5.4,12.0,3.2,-10
+S-00986,Dr. María Teresa Cazares,7 C,Física,0.9,7.6,0.2,-10
+S-00987,Clara Gamez Rosales,4 C,Física,4.3,5.2,6.3,
+S-00988,Patricia Zeferino Nevárez,9-A,Bases de Datos,3.6,11.7,8.5,77.6
+S-00989,Catalina Luis Calvillo Mejía,3-A,Matemáticas,0.6,7.1,3.5,93.5%
+S-00990,Marcela Valentín Limón,6°A,Programación,5.1,14.1,8.3,86.3
+S-00991,Homero Puente,3A,Física,1.1,2.7,2.8,91.0
+S-00992,Gregorio Zayas Saldaña,4-B,Matemáticas,9.4,1.0,5.1,92.0
+S-00993,César Frida Esquivel,8B,Programación,4.5,12.3,9.8,91.1
+S-00994,Mtro. Humberto Rodríquez,3A,Química,3.9,-0.3,4.5,94.7
+S-00995,Iván Catalina Velasco Casillas,3A,Química,3.2,10.9,0.2,74.5
+S-00996,Eric Arellano Vázquez,3 B,Química,9.1,9.7,1.1,91.6%
+S-00997,Elias Arreola Cantú,1 B,Matemáticas,2.0,8.1,6.5,74.4
+S-00998,Mariana Ana María Bernal Alcaraz,5A,Matemáticas,4.4,3.2,12.5,93.3%
+S-00999,José Eduardo Celia Quezada,7 C,Inglés,6.2,14.5,1.5,77.6
+S-01000,Leonel Andrea Arredondo,6-B,Programación,0.2,11.4,2.9,69.8
+S-01001,Abel Ulloa Ramírez,9 C,Programación,7.3,7.2,5.8,75.0
+S-01002,Gloria Rebeca Campos Melgar,4 C,Inglés,1.9,11.3,3.2,88.8
+S-01003,Isabel Isabel Urrutia Samaniego,1°B,Química,0.4,5.2,9.2,85.8
+S-01004,Graciela Zacarías Roque,4-A,Inglés,4.3,6.2,5.1,83.9%
+S-01005,Aldonza Tirado Hernádez,3C,Matemáticas,-3.0,3.7,5.7,98.3
+S-01006,Mtro. Martín Baca,1°C,Matemáticas,3.3,10.2,7.6,67.4
+S-01007,Abigail Fidel Camacho,6-A,Matemáticas,7.2,4.8,5.2,
+S-01008,Lic. Caridad Ureña,7°A,Química,12.5,8.4,5.1,70.3
+S-01009,Esteban Treviño,9°C,Física,6.4,-1.0,7.8,70.8
+S-01010,Carmen Rufino Sotelo,1°B,Programación,2.8,4.6,2.8,150
+S-01011,Mayte Benjamín Domínguez Vallejo,5°C,Bases de Datos,2.3,-3.0,8.3,
+S-01012,Lic. Aldo Otero,8 B,Matemáticas,3.8,2.3,6.4,
+S-01013,Lic. José Manuél Leyva,8 C,Programación,9.2,4.1,6.5,76.9
+S-01014,Ing. Marisela Ramos,3A,Química,-1.8,1.1,8.3,72.3%
+S-01015,Sr(a). Óliver Vélez,3°A,Inglés,6.5,4.2,4.0,65.0
+S-01016,Celia Alberto Barreto Garay,1B,Inglés,-2.5,6.0,8.0,83.0
+S-01017,Lic. Fernando Henríquez,1°C,Bases de Datos,4.9,8.4,7.3,
+S-01018,Esther Bahena,5A,Física,8.1,12.3,2.5,89.4
+S-01019,Fabiola Mayte Villareal,8-A,Bases de Datos,-0.4,4.5,11.6,84.8
+S-01020,Leonel Mayte León Rivas,2A,Química,3.2,4.4,3.1,77.4%
+S-01021,Alma Galindo,1°A,Bases de Datos,0.6,9.0,9.2,81.1
+S-01022,Mtro. Gabriela Vásquez,1-A,Bases de Datos,7.2,10.7,0.1,150
+S-01023,Ing. Karina Díaz,9-B,Inglés,0.7,1.5,7.1,97.1
+S-01024,Gregorio Elena Barrios,5°C,Inglés,-1.0,8.8,9.9,62.0
+S-01025,Ing. Agustín Quezada,2 C,Química,13.5,5.2,8.5,69.8%
+S-01026,Anabel Diana Zarate Ávalos,4 B,Bases de Datos,6.5,8.8,0.2,99.9
+S-01027,Carmen Guajardo Tapia,7°C,Bases de Datos,9.7,4.8,5.0,86.9
+S-01028,Inés Jimínez,9°B,Física,3.8,1.0,4.9,97.4
+S-01029,Leonardo Diana Mejía Arteaga,8°C,Matemáticas,7.2,13.8,6.3,95.6
+S-01030,Benito Cristal Raya,3C,Matemáticas,14.5,9.8,6.2,60.2
+S-01031,Olivia Abelardo Pineda,4°C,Matemáticas,3.4,6.3,0.3,96.1
+S-01032,Ivonne Lovato,9A,Física,3.2,3.7,3.9,81.7
+S-01033,Pedro Abril Alarcón,7-B,Programación,0.8,7.3,2.3,83.3
+S-01034,José Eduardo Dueñas Mercado,5°C,Inglés,6.7,7.1,4.5,95.2
+S-01035,Emilio Santillán,1 A,Programación,6.3,6.6,6.0,70.1
+S-01036,Araceli Prado,7-C,Física,3.7,3.9,3.0,86.6
+S-01037,Araceli Luis Miguel Curiel Solorzano,8 A,Química,14.9,7.8,4.1,
+S-01038,Dalia Alonso Olivas Santillán,8 A,Programación,8.2,8.8,10.1,99.4
+S-01039,Antonia Barrios,4-C,Química,0.1,6.0,-2.1,83.8%
+S-01040,Marisol Marisol Abrego,6-A,Inglés,-1.4,6.1,8.6,
+S-01041,Emiliano Silvano Matías Naranjo,5B,Programación,3.2,2.5,5.1,70.3%
+S-01042,Paulina Margarita Escobar Espinosa,6°C,Física,12.3,9.0,4.9,90.4%
+S-01043,Frida Gracia,5°A,Bases de Datos,13.0,10.6,4.4,81.8
+S-01044,Catalina Moreno,7 A,Física,6.0,14.4,9.9,79.9
+S-01045,Renato Madrid Esquibel,9C,Química,2.8,7.7,5.2,81.5
+S-01046,Ing. Diana Jimínez,1-B,Matemáticas,1.5,6.8,1.8,82.7
+S-01047,Mtro. Bernardo Montenegro,4-C,Matemáticas,0.9,1.6,4.7,81.7
+S-01048,Débora Laura Camacho Crespo,5°C,Bases de Datos,4.9,2.7,3.4,61.2
+S-01049,Jorge Amador Sanches,3-B,Química,1.7,5.3,2.4,81.1
+S-01050,Mtro. Araceli Lozada,3A,Programación,12.6,14.5,1.1,87.2
+S-01051,Gilberto Caldera Ocampo,5-A,Matemáticas,4.7,-1.7,5.3,65.8
+S-01052,Estela Úrsula Balderas Arteaga,3 A,Inglés,1.6,1.7,6.7,80.8
+S-01053,Caridad Benjamín Gil Saldivar,7-B,Física,8.7,8.5,6.0,150
+S-01054,Lic. Emilia Sanabria,1 C,Matemáticas,4.5,12.9,6.9,99.1
+S-01055,Marcela Zacarías Hernandes Acosta,8°A,Matemáticas,2.2,-1.4,9.4,83.4
+S-01056,Arturo David Becerra,8°B,Programación,12.8,7.1,8.9,90.4
+S-01057,Micaela Isaac Montañez Terrazas,9B,Física,14.2,3.9,14.0,-10
+S-01058,Alfredo Peña Gómez,8-A,Física,4.5,5.8,6.8,98.7
+S-01059,Lourdes Sessa Alonzo Feliciano,3-A,Química,6.8,1.6,8.9,61.8
+S-01060,Sr(a). Francisco Javier Gamboa,2 B,Bases de Datos,6.5,9.8,0.8,89.4
+S-01061,Zeferino Carlota Dávila,7 A,Inglés,4.3,7.7,-1.1,66.6%
+S-01062,Julio Hernández Munguía,7 B,Matemáticas,9.3,3.2,0.5,80.0
+S-01063,René Esmeralda Monroy,5B,Matemáticas,14.8,1.4,5.7,69.7%
+S-01064,Perla Cardenas,9-C,Programación,4.7,-0.4,5.7,98.0
+S-01065,Karina Abrego Montenegro,8 B,Química,5.1,0.1,6.6,64.9
+S-01066,Mtro. Claudia Gracia,9 C,Física,9.2,8.1,3.3,89.6
+S-01067,Zoé Elias Mora Treviño,6 C,Programación,2.4,8.5,6.9,99.6
+S-01068,Eugenio Amador Orta,3-B,Inglés,8.6,7.4,1.7,73.7
+S-01069,Mateo Jurado Vaca,6A,Inglés,8.8,11.5,9.7,92.2
+S-01070,Carla Saldaña,1°A,Química,6.3,9.0,11.3,85.5
+S-01071,Rolando Garica,6°A,Bases de Datos,8.2,9.0,11.8,77.1
+S-01072,Antonio Rosalia Raya,2-C,Química,1.6,3.6,8.4,72.3
+S-01073,Benito Bustos Jiménez,9C,Química,9.7,4.6,0.9,92.6
+S-01074,Isaac Francisca Archuleta Salas,4C,Física,2.1,8.4,1.0,-10
+S-01075,Cristina Corona Bétancourt,5°A,Química,9.2,3.6,6.6,88.5
+S-01076,Silvia Mondragón Orta,8-B,Química,3.9,3.9,6.8,80.6%
+S-01077,Ignacio Bonilla,9-C,Matemáticas,6.5,11.8,1.9,
+S-01078,Lic. José Luis Montenegro,1°A,Química,7.2,9.0,11.0,91.1
+S-01079,Concepción Abraham Gamboa Rodrígez,6 B,Inglés,1.0,8.2,-0.6,60.9
+S-01080,Mtro. Francisca Iglesias,3°B,Inglés,6.4,-0.6,7.6,67.9
+S-01081,Eva Pedraza,7-B,Inglés,7.6,5.3,8.2,88.5
+S-01082,Alvaro Murillo Alva,2°C,Programación,3.8,7.1,5.3,87.2%
+S-01083,Hilda Modesto Bueno,9A,Matemáticas,3.3,7.7,3.7,85.4
+S-01084,Ing. Cecilia Mondragón,6°C,Programación,1.6,6.2,9.5,-10
+S-01085,Bianca Aldonza Coronado,2 C,Programación,1.6,11.9,1.4,63.9
+S-01086,Sr(a). Ángela Lira,6 A,Matemáticas,5.7,2.2,0.5,
+S-01087,Leonor Galván Ozuna,2°C,Matemáticas,4.6,3.9,3.3,96.6
+S-01088,Diego Carlota Ledesma,1°A,Física,5.3,10.9,1.6,64.8
+S-01089,Sr(a). Cristobal Lerma,9°B,Matemáticas,7.1,5.4,9.8,73.9
+S-01090,Modesto Alonso Guzmán,9 C,Química,6.3,4.3,0.8,75.6
+S-01091,Dr. Alejandro Barrios,5B,Física,7.2,7.2,8.9,73.9%
+S-01092,Sr(a). Vicente Ortiz,6°A,Bases de Datos,1.2,5.2,10.0,66.4%
+S-01093,Úrsula Guillermina Espino Rincón,7-A,Física,9.5,5.0,0.9,96.7
+S-01094,Ing. Jacobo Colunga,5-A,Física,1.4,9.9,13.8,65.5
+S-01095,José Emilio Ilse Escalante,1°C,Matemáticas,2.3,3.7,1.3,80.8
+S-01096,Dr. Espartaco Castro,5B,Programación,8.4,8.6,2.7,95.0%
+S-01097,Clara Munguía,3°C,Inglés,2.8,7.4,3.3,62.2
+S-01098,Isabela Almonte Hurtado,2 A,Programación,8.9,0.6,-0.5,76.3
+S-01099,Alberto Ontiveros,9 A,Inglés,9.8,4.5,1.3,96.6
+S-01100,Dulce María Esteban Barraza Ozuna,5C,Programación,4.2,0.0,5.2,91.5%
+S-01101,Enrique Sara Nazario Ceballos,4-C,Matemáticas,0.0,11.7,3.8,64.5%
+S-01102,Mtro. Cristal Martínez,5-B,Matemáticas,11.5,7.2,-1.4,86.5%
+S-01103,Sonia Débora Valdés Guerrero,5-A,Matemáticas,14.1,4.2,0.1,92.0
+S-01104,Virginia Sonia Pabón Narváez,7-B,Inglés,-2.1,1.4,7.0,79.2
+S-01105,Gloria Colón,4°B,Física,10.3,8.5,3.3,95.2%
+S-01106,Jacobo Orozco,7 B,Inglés,0.0,5.2,9.2,64.6
+S-01107,Alonso Ángela Lira,9-A,Matemáticas,0.7,9.1,7.1,72.0
+S-01108,Porfirio Salvador del Valle Tijerina,5°B,Química,2.8,8.5,5.6,87.1
+S-01109,Sonia Paola Rivero Aguilar,5B,Inglés,10.0,4.5,8.2,61.9
+S-01110,Mariana Clara Baeza,4B,Física,0.5,5.1,10.5,93.3
+S-01111,Humberto Mascareñas,9C,Programación,9.6,7.1,2.8,65.8
+S-01112,Caridad Véliz,8°C,Bases de Datos,5.4,9.8,7.5,79.4
+S-01113,Elena Pelayo,9-A,Bases de Datos,4.0,5.9,4.9,
+S-01114,Jorge Becerra Corral,7°B,Química,7.6,-2.8,1.1,90.5%
+S-01115,Dr. Socorro Carbajal,5C,Programación,3.2,8.0,7.3,66.2
+S-01116,Sr(a). Minerva Llamas,1-C,Física,8.6,13.9,6.3,77.9
+S-01117,Isabela Graciela Muñoz,9-C,Química,0.8,0.2,2.3,75.1
+S-01118,Jacinto Javier Reynoso Contreras,7 C,Inglés,6.3,7.7,13.5,
+S-01119,Mayte Hernandes,2A,Química,5.7,7.5,4.4,-10
+S-01120,Virginia Salas,9°A,Bases de Datos,9.4,6.9,13.2,65.2%
+S-01121,Minerva Mauricio Verduzco,2 B,Física,7.2,11.8,6.2,81.1
+S-01122,José Manuél Manzanares Carvajal,3 C,Inglés,5.0,4.6,11.0,74.0%
+S-01123,Sr(a). Alejandro Baca,9°B,Inglés,1.0,4.6,0.3,67.4
+S-01124,Helena Munguía,9 C,Química,7.6,6.6,1.6,78.1
+S-01125,Lic. Esparta Robles,7 A,Inglés,0.1,0.9,5.0,
+S-01126,Dr. Wendolin Salazar,1 A,Bases de Datos,4.1,3.9,9.7,97.9%
+S-01127,Samuel Ferrer de Jesús,1-B,Física,7.5,8.7,5.4,-10
+S-01128,Pascual María de la O Rentería,4 B,Inglés,2.9,8.0,-1.3,
+S-01129,Elisa María Eugenia Olvera Quintana,3-B,Física,7.9,8.6,6.5,89.7%
+S-01130,Concepción Galván,4-C,Matemáticas,-1.3,5.7,8.9,76.7
+S-01131,Fidel Esperanza Mora Salazar,6A,Física,3.8,10.7,5.1,90.8
+S-01132,Claudia Salvador Véliz,8°A,Programación,5.1,1.9,4.4,99.0
+S-01133,Jos Ofelia Razo Vázquez,9°B,Química,4.2,8.7,0.4,78.8
+S-01134,Julia Horacio Valdez,9°B,Bases de Datos,-2.3,9.7,1.5,91.4%
+S-01135,Sessa Octavio Laureano Roque,5-A,Matemáticas,9.3,9.9,4.9,79.2%
+S-01136,Raquel Estela Sevilla,3 C,Matemáticas,9.9,4.9,8.7,85.6
+S-01137,Hilda Terán Apodaca,3 C,Programación,2.8,1.9,1.0,89.7
+S-01138,Antonio Óscar Archuleta de la Rosa,2°B,Física,4.0,3.1,2.9,80.4%
+S-01139,Sr(a). Eloy Brito,3C,Inglés,6.2,11.3,7.8,94.8
+S-01140,Rolando Hernán Ojeda,8 B,Inglés,1.1,4.6,5.2,89.7
+S-01141,Judith Valverde Rojo,8 C,Programación,14.1,1.5,5.8,97.1%
+S-01142,Omar Velázquez Prieto,9°B,Inglés,9.7,8.2,1.6,61.6
+S-01143,Diego Marcela Rentería,1°C,Programación,4.0,11.4,2.1,77.6%
+S-01144,Esperanza Ruiz,6°A,Bases de Datos,14.3,1.3,-0.5,62.4
+S-01145,Ing. José Eduardo Pedraza,6 A,Inglés,6.6,2.1,0.6,98.1
+S-01146,Francisca Asunción Marroquín Arguello,7 C,Química,4.9,-1.5,9.8,94.0
+S-01147,Pascual Espinal,6-A,Inglés,-1.1,7.5,1.2,71.6
+S-01148,Isaac Saldaña Cabán,7-C,Química,14.2,9.4,3.5,73.1
+S-01149,Ana María Catalina Camacho,3-A,Matemáticas,9.3,2.7,8.3,
+S-01150,Mtro. Amalia Berríos,5B,Bases de Datos,3.8,5.9,6.1,91.5
+S-01151,Marcos Jaramillo Pichardo,3°A,Inglés,14.8,7.8,3.4,68.6
+S-01152,Caridad Aponte,3-C,Inglés,4.2,0.5,7.6,74.4
+S-01153,Teodoro Miramontes Covarrubias,9C,Química,6.1,2.7,3.1,82.8%
+S-01154,Dr. Andrés Maldonado,8-A,Bases de Datos,1.6,5.1,1.5,
+S-01155,Paola Sara Laboy,3°B,Física,3.2,2.8,4.5,99.4
+S-01156,Mercedes Negrón,1-B,Matemáticas,0.9,8.2,4.2,86.7
+S-01157,Beatriz Juana Navarro,7°C,Matemáticas,9.2,-2.1,8.5,62.4
+S-01158,María Cristina Carmona,1-B,Programación,12.9,9.8,7.3,74.2
+S-01159,Dolores Camilo Ferrer,3-A,Matemáticas,7.2,0.2,-2.0,96.5%
+S-01160,Zeferino Paz,6 C,Programación,4.6,3.1,0.1,90.3
+S-01161,Alfredo Tania Madrid Ojeda,8-C,Física,6.9,0.1,2.9,91.5
+S-01162,Lic. Jorge León,2-B,Física,3.1,5.7,3.1,88.1
+S-01163,Norma Julio César García Sevilla,7°C,Inglés,9.4,3.7,0.4,62.4
+S-01164,Fernando Figueroa de la Torre,1B,Física,4.7,0.1,2.4,66.2
+S-01165,María Eugenia Gaitán,4°B,Inglés,0.8,7.7,8.9,75.5
+S-01166,Mtro. María Teresa Lomeli,8°C,Física,0.7,9.6,11.4,93.6%
+S-01167,Ing. Eric Castillo,5-A,Química,9.2,8.6,0.6,98.2%
+S-01168,Patricia Irma Villalpando,8B,Bases de Datos,0.0,3.6,7.4,79.8
+S-01169,Beatriz Rubén Farías Naranjo,9°C,Bases de Datos,9.6,2.4,2.7,
+S-01170,Paola Abreu Jurado,7A,Inglés,4.3,3.9,9.5,
+S-01171,Dr. Ricardo Sepúlveda,6°A,Física,4.0,4.4,1.3,
+S-01172,César Archuleta Arreola,5°B,Matemáticas,-1.0,7.8,5.6,70.7
+S-01173,Sr(a). Mariana Rivero,8A,Inglés,4.4,6.9,-0.5,
+S-01174,Isaac Vergara,4 A,Matemáticas,14.8,2.3,2.3,62.4
+S-01175,Lic. Homero Arreola,4°B,Bases de Datos,1.9,14.5,2.4,76.3
+S-01176,Tania Nevárez,2-B,Química,3.4,0.6,4.6,82.1
+S-01177,Tania Reynaldo Valdés,4°B,Matemáticas,7.9,6.8,13.7,73.0
+S-01178,Sr(a). Rebeca León,8 B,Bases de Datos,3.7,7.1,5.7,86.6
+S-01179,Reina Marisol Maya,3 C,Inglés,10.2,6.8,7.1,96.5%
+S-01180,Carolina Nayeli Carranza Elizondo,4°C,Física,5.3,0.1,1.1,70.5%
+S-01181,Patricia Andrés Rael Alba,5°C,Física,1.6,5.1,8.3,82.9
+S-01182,Marisela Aguilar,3C,Química,2.9,-1.6,2.3,96.6
+S-01183,Karla Barbara Nieto,3°A,Química,9.2,4.6,3.4,67.8
+S-01184,Guadalupe Marisela Lebrón,5C,Inglés,5.7,4.7,1.7,78.0
+S-01185,Sr(a). Jacobo Orellana,3°A,Matemáticas,11.1,11.6,14.0,98.5
+S-01186,Lorenzo Roldán Trejo,2-B,Matemáticas,5.9,12.9,3.4,82.8
+S-01187,Isabela Correa,3°C,Programación,0.1,2.4,7.8,69.0%
+S-01188,Raquel Madrid,3C,Química,3.3,8.6,8.5,69.2
+S-01189,Martha Gálvez Treviño,2-A,Química,2.2,9.6,7.6,73.3
+S-01190,Sessa Ernesto Cepeda de Jesús,9 C,Matemáticas,3.9,7.0,7.6,73.6
+S-01191,Leticia Abelardo Sauceda Pizarro,8°C,Bases de Datos,7.3,9.0,4.2,75.6
+S-01192,Rosa Teodoro Bueno Báez,7-C,Matemáticas,3.4,5.2,6.5,79.0
+S-01193,Dr. Pedro Monroy,7°C,Programación,4.1,0.4,8.2,98.0
+S-01194,Luis Manuel Angélica Vásquez,8°A,Química,9.2,9.5,0.8,91.5%
+S-01195,Dalia Mariana Ozuna Ocampo,4-A,Bases de Datos,6.8,4.7,2.8,
+S-01196,José Emilio Teodoro Salinas,6B,Matemáticas,2.3,-2.1,13.9,82.6
+S-01197,Jorge Rolando Romero Cisneros,5A,Química,2.5,7.4,8.4,68.8
+S-01198,Cristian Bustos Calderón,6 C,Matemáticas,7.9,-3.0,4.2,74.1
+S-01199,Eugenio Alberto Ochoa,3 A,Física,5.9,0.4,5.6,93.4
+S-01200,Héctor Gómez Castellanos,4-B,Física,1.9,6.9,11.7,71.5
+S-01201,Sr(a). Cynthia Batista,8A,Matemáticas,8.7,4.0,9.5,92.1
+S-01202,José Emilio Segura Posada,3°A,Matemáticas,6.2,8.2,6.4,
+S-01203,Germán César Matías Maya,4°A,Física,8.1,1.4,0.7,64.9
+S-01204,Sr(a). Irene Alarcón,7°B,Bases de Datos,9.9,5.7,1.8,70.1
+S-01205,José Eduardo Pedro Carrero Delgado,6°A,Física,8.1,5.3,1.4,79.6
+S-01206,Violeta Mariano Vigil,8 A,Química,8.8,6.4,0.6,97.3%
+S-01207,Luisa Carrasco,1 A,Física,11.1,1.0,-2.6,82.3
+S-01208,Dr. Dolores Alcántar,8°B,Química,2.8,5.5,0.6,67.6
+S-01209,Mónica Raquel Chávez Candelaria,3C,Programación,5.3,2.1,4.9,86.1%
+S-01210,Sr(a). Cristal Estrada,8°B,Química,4.7,2.2,2.4,60.3
+S-01211,Armando Mauro Garibay Salinas,7C,Física,0.3,-1.8,6.0,80.7%
+S-01212,Sr(a). Olga Zambrano,7°A,Programación,5.0,5.0,8.9,81.0%
+S-01213,Abraham Héctor Rincón Olivas,8 B,Programación,-2.0,0.4,6.6,82.8
+S-01214,Diana Muñiz Valadez,7-C,Inglés,2.0,4.6,2.9,86.7
+S-01215,Adán Báez,8-A,Bases de Datos,2.5,4.6,0.6,
+S-01216,Espartaco Luisa Curiel,4 B,Química,4.5,0.6,6.7,71.7
+S-01217,Sandra José María Ávila,5-B,Física,1.6,0.6,7.7,96.5%
+S-01218,Minerva Roberto Castillo Angulo,9°B,Bases de Datos,3.1,0.6,4.1,72.7
+S-01219,Gerardo Zambrano Aparicio,8-C,Matemáticas,2.8,4.9,13.8,68.3
+S-01220,Omar Lucio,5-A,Química,5.8,6.8,3.1,83.8
+S-01221,Jacinto Mena,2-C,Programación,3.8,8.3,3.0,79.2
+S-01222,Iván Cruz Yáñez,9°A,Física,6.5,5.1,7.9,61.2
+S-01223,Pablo Gregorio Yáñez,9 B,Inglés,2.9,2.6,14.6,84.1
+S-01224,María José Cristal Magaña,4 A,Física,7.0,4.9,11.1,88.5
+S-01225,Ángel Esther Guardado Paz,6-C,Programación,13.4,1.1,-2.1,94.4
+S-01226,Ángela Robledo Lugo,1A,Física,0.7,9.0,14.6,96.8
+S-01227,Cristal Gaona,6°B,Programación,5.1,4.7,3.7,86.6
+S-01228,Irma Yolanda Valentín,6°B,Bases de Datos,8.4,1.4,3.9,96.2
+S-01229,Rodrigo Castillo,2 B,Inglés,7.8,2.9,6.6,63.4
+S-01230,Zacarías Mario Farías,8C,Física,2.4,7.7,0.8,85.5
+S-01231,María del Carmen Violeta Orosco,5C,Química,-0.5,2.9,2.5,85.3
+S-01232,Ariadna Javier Caldera,1-C,Matemáticas,3.5,4.6,3.2,61.1
+S-01233,Dr. Sandra Villegas,5°A,Programación,6.4,10.2,7.7,83.9
+S-01234,Ing. Alberto Montes,6-A,Bases de Datos,13.0,2.7,1.8,
+S-01235,Dr. Renato Martínez,2C,Física,7.0,4.3,7.3,65.7
+S-01236,María José Federico de Anda Valverde,3B,Química,8.5,9.0,7.8,88.5
+S-01237,Adela Socorro Maldonado Bernal,9°B,Bases de Datos,-0.7,14.7,14.9,63.3
+S-01238,Martín Arreola,4B,Programación,4.9,0.6,4.4,-10
+S-01239,Delia Ordóñez,8-C,Física,2.3,4.0,5.6,81.9
+S-01240,Sr(a). Dulce Ozuna,5-A,Física,5.7,1.7,4.4,
+S-01241,Jonás Eduardo Vaca,6 A,Bases de Datos,3.0,6.0,6.3,83.3
+S-01242,Guillermo Karina Zaragoza,2-C,Física,-0.5,2.9,-0.5,76.4
+S-01243,Elvira Sauceda Bueno,6°B,Programación,4.6,2.7,-1.6,95.7
+S-01244,Ilse Colón,7-B,Matemáticas,0.6,6.1,8.8,96.0
+S-01245,Eloisa Gurule Flores,7 B,Matemáticas,1.6,0.2,3.4,79.8
+S-01246,Sr(a). Helena Reynoso,2°B,Programación,5.3,9.5,5.3,75.6
+S-01247,Jos Alejandra Orosco,4°A,Inglés,1.7,1.2,4.6,63.7
+S-01248,Liliana Manuel Beltrán Crespo,2°C,Bases de Datos,7.0,1.9,-1.5,82.5%
+S-01249,Lic. Mario Casárez,8-C,Matemáticas,2.9,10.2,5.5,87.3
+S-01250,Noelia Ignacio Carrera Rentería,8°A,Química,11.8,7.5,-1.1,81.4%
+S-01251,Renato Saiz,1A,Química,7.8,3.8,5.0,93.2
+S-01252,Lic. Serafín Matos,8C,Física,9.9,7.7,0.3,94.1
+S-01253,Eduardo Saucedo,5A,Matemáticas,3.6,11.0,2.9,67.6
+S-01254,Mtro. Verónica Villaseñor,1C,Matemáticas,7.0,6.3,1.0,75.5%
+S-01255,Esmeralda Catalina Olivares Prado,8B,Química,14.9,2.4,0.1,65.9%
+S-01256,Julio César Zavala Franco,7C,Programación,2.7,3.5,7.1,99.7
+S-01257,Mtro. María Elena Rosado,7B,Inglés,8.7,11.2,7.2,
+S-01258,Mitzy Barrios Franco,5C,Inglés,8.4,6.3,2.5,79.0
+S-01259,Aldonza Hugo Reynoso,5 C,Química,2.6,7.0,0.0,72.6
+S-01260,Leticia Rolando Espinoza,9 B,Matemáticas,2.9,2.5,10.8,64.3%
+S-01261,Ing. Elvia Echeverría,7°B,Inglés,1.4,2.1,6.0,
+S-01262,Citlali Ramón Barrios,3A,Matemáticas,2.5,1.9,8.1,80.9
+S-01263,Delia Vanesa Valenzuela Raya,5-B,Química,1.4,-1.7,4.0,87.7
+S-01264,Claudia Carreón,9-B,Bases de Datos,4.5,8.4,5.0,71.6
+S-01265,Esperanza Perla Cabán Montemayor,1°B,Bases de Datos,8.7,5.4,7.9,65.1
+S-01266,Sr(a). Ruby Ocampo,1°B,Química,14.1,2.0,9.6,92.2%
+S-01267,Juana Tejeda Toro,7-A,Matemáticas,8.5,5.7,3.6,66.7%
+S-01268,Isabel Bétancourt,8°C,Química,8.6,5.6,8.1,
+S-01269,Mario Negrón Saavedra,8 A,Inglés,-1.3,8.1,6.4,76.9%
+S-01270,Marco Antonio Campos,4 B,Programación,9.5,6.9,0.6,88.6
+S-01271,Cristina Juárez Almanza,9-A,Inglés,7.9,6.7,2.2,75.0
+S-01272,Jacobo Garica Salcedo,9 B,Química,1.1,9.6,1.8,89.5
+S-01273,Ing. Rolando Osorio,7 B,Física,0.7,1.7,8.9,79.0
+S-01274,Adela Jaimes,3C,Inglés,9.3,2.6,2.0,72.3
+S-01275,Hernán Ontiveros Maestas,5°B,Inglés,6.1,3.1,2.9,
+S-01276,Sr(a). Alfredo Villanueva,4-A,Programación,7.0,3.5,3.6,60.8
+S-01277,Ing. Leonel Lucio,2°B,Matemáticas,14.8,5.4,7.4,92.2
+S-01278,Martín Zeferino Murillo Rosario,5-C,Programación,4.6,-0.7,5.8,99.0
+S-01279,Mtro. Manuel Badillo,3-C,Química,12.4,6.3,5.5,82.2
+S-01280,Lic. Martín Henríquez,5C,Física,4.5,7.7,2.5,90.8
+S-01281,Mtro. Bernardo Malave,1C,Física,4.0,7.8,2.1,84.1%
+S-01282,Sr(a). Minerva Tamayo,6°C,Inglés,1.0,8.1,12.6,64.6
+S-01283,Sandra Gamez Granado,8C,Matemáticas,0.3,1.6,1.5,98.3
+S-01284,Graciela Daniela Grijalva,7°A,Programación,5.5,13.9,8.5,88.4
+S-01285,Sr(a). Uriel Negrón,6B,Matemáticas,4.4,9.3,12.4,94.7
+S-01286,Lourdes León,3°A,Bases de Datos,-1.4,13.9,1.9,77.0
+S-01287,Ing. Hermelinda Barrios,3-B,Física,4.1,0.0,1.5,90.8
+S-01288,Sonia Centeno,2-C,Inglés,8.7,7.9,2.1,75.9
+S-01289,Noelia Amalia Godínez,3A,Programación,1.1,10.7,7.0,80.7
+S-01290,Ivonne Nelly Aranda Soria,4C,Matemáticas,6.3,11.0,6.3,61.4
+S-01291,Ing. Violeta Cardona,2C,Bases de Datos,5.3,3.9,9.4,69.7%
+S-01292,Rosario Saucedo Lozano,9-A,Programación,7.8,14.8,6.0,80.1
+S-01293,Amelia Angulo Soliz,5 B,Matemáticas,0.4,2.9,13.5,99.0
+S-01294,Dr. Carla Montañez,7-B,Inglés,9.7,9.3,2.5,64.0
+S-01295,Teresa Estefanía Barela Lara,3A,Química,3.7,9.5,6.1,63.6
+S-01296,Alfonso Jorge Luis Madrid Delgado,9-B,Programación,4.7,1.2,4.2,91.7%
+S-01297,Cornelio Julio del Valle,9-A,Programación,4.5,5.9,3.9,84.0
+S-01298,Aldo Octavio Arenas Abrego,6A,Física,8.4,13.5,6.3,88.5
+S-01299,Lic. Camila Palomino,8°A,Inglés,10.8,10.7,7.5,72.4%
+S-01300,Amador Javier Salas Chacón,1-B,Inglés,8.7,3.4,5.7,62.2
+S-01301,Verónica Linares Bañuelos,3°A,Matemáticas,-0.6,1.9,3.1,75.8
+S-01302,Lic. Leonardo Rosario,9°B,Física,1.4,7.6,7.6,
+S-01303,Jacobo Mitzy Estévez,6A,Bases de Datos,5.9,5.0,12.1,86.8
+S-01304,Mtro. Soledad Acuña,6-C,Química,8.1,5.8,7.2,65.9
+S-01305,Dolores Orosco Valle,5°B,Física,7.6,4.5,7.0,83.4
+S-01306,Carolina Aguilera Arroyo,5B,Física,1.6,3.1,1.3,63.1
+S-01307,Tania Federico Cotto,7-C,Programación,4.0,6.2,9.2,68.4
+S-01308,Dulce Holguín,6-A,Matemáticas,7.7,4.0,1.8,93.6
+S-01309,Susana Carrillo Arteaga,4 C,Inglés,4.6,5.1,0.9,77.7
+S-01310,Rafaél Gerónimo Blanco Cepeda,4B,Programación,-2.9,8.6,3.2,79.3
+S-01311,Yolanda Aldonza Aragón,2C,Física,0.8,3.5,1.3,95.0
+S-01312,Oswaldo Valdés Casares,6°C,Química,7.0,6.5,4.2,77.4
+S-01313,Jacobo Valdez,5°A,Física,9.5,4.8,5.6,65.3
+S-01314,Mtro. Alicia Almaraz,6 C,Bases de Datos,2.0,-2.5,8.4,-10
+S-01315,Asunción Mariano Vanegas,3 B,Inglés,3.3,7.5,6.4,72.0
+S-01316,Ing. Flavio Apodaca,1-C,Inglés,0.9,3.3,3.1,75.4%
+S-01317,Lic. Nayeli Gallardo,7°C,Química,-2.7,4.6,0.7,93.7
+S-01318,Juan Joaquín Solorio,2 B,Bases de Datos,9.3,2.3,10.9,75.1
+S-01319,Guadalupe René Cintrón Sisneros,6-B,Química,13.6,0.8,2.0,90.3
+S-01320,Rodolfo Catalina Guerrero Jurado,6°A,Matemáticas,9.0,0.5,7.3,-10
+S-01321,Héctor Iglesias,2-B,Matemáticas,7.2,8.1,1.0,83.6%
+S-01322,Caridad Santiago,1-A,Química,7.5,11.9,8.9,150
+S-01323,Ing. Natividad Vaca,6-A,Programación,3.1,1.8,4.8,85.1
+S-01324,Dr. Rebeca Pabón,8°B,Inglés,0.1,7.7,7.9,90.6
+S-01325,Maximiliano Sanches,9-C,Química,8.8,12.6,1.8,
+S-01326,Rodrigo Yeni de la Crúz,2°A,Bases de Datos,3.9,2.9,2.4,89.7
+S-01327,Lic. Silvia Madrigal,8A,Química,8.8,0.7,8.6,99.5
+S-01328,Martín Nava Zambrano,1°A,Física,5.0,0.9,5.7,66.7
+S-01329,Marisol Guadalupe Matías Sarabia,1-A,Química,1.9,2.0,7.3,150
+S-01330,Martha Abril Carrero,2°C,Inglés,2.2,2.4,9.8,65.8
+S-01331,Sr(a). Ruby Ferrer,8 B,Química,2.7,9.5,3.3,
+S-01332,Celia Lira,7°C,Matemáticas,0.8,7.7,-1.5,88.5
+S-01333,Amanda Niño Campos,9-A,Inglés,8.0,1.2,7.3,150
+S-01334,Ofelia Daniel Prieto,5°C,Química,0.4,8.2,-3.0,96.6
+S-01335,Eduardo Indira Alcala de Jesús,2-B,Inglés,-0.5,8.1,6.4,89.3
+S-01336,Dulce Nieto Muñoz,3 A,Inglés,8.8,7.6,13.9,78.1%
+S-01337,Sr(a). Micaela Guevara,9°A,Bases de Datos,1.5,4.2,6.7,
+S-01338,Minerva Bueno,7A,Química,11.6,3.2,4.1,
+S-01339,Cristina Jaime Alvarado Rojas,4 A,Física,2.8,9.0,-0.4,99.1
+S-01340,Jacobo Contreras Acevedo,7-B,Bases de Datos,0.2,2.9,9.1,72.3
+S-01341,Jorge Luis Miriam Cortez Tórrez,7A,Inglés,0.8,8.6,2.1,76.7%
+S-01342,Nelly Mario Valladares del Valle,4A,Química,12.0,4.7,1.7,67.9
+S-01343,Susana Susana Manzanares,5-C,Inglés,2.9,-1.4,6.6,89.4
+S-01344,Gerónimo Eva Caldera,2 B,Física,3.3,11.0,6.7,85.0%
+S-01345,Citlali Serrato Jaime,1 A,Matemáticas,0.5,3.1,7.5,72.4
+S-01346,Beatriz Valle,5-A,Programación,8.0,5.9,-2.6,92.6
+S-01347,Antonio Hermelinda Bonilla Quezada,6 B,Bases de Datos,6.8,1.2,4.3,86.9
+S-01348,Ivonne Herrera,8B,Programación,7.8,1.1,5.6,68.7%
+S-01349,Abelardo Bianca Ponce,4A,Física,1.3,5.0,2.4,61.1
+S-01350,Mtro. Salma de la Torre,9-A,Inglés,9.6,10.0,4.3,-10
+S-01351,Frida Mena,6A,Programación,4.0,4.7,2.5,86.4
+S-01352,Aldonza Camarillo,9 A,Inglés,9.8,3.7,4.5,89.2
+S-01353,Norma Carrasco Henríquez,5-B,Física,-0.8,3.6,6.0,86.3
+S-01354,Rufino Quiroz Rolón,6°A,Matemáticas,2.7,5.2,10.0,62.8%
+S-01355,Adela Ernesto Altamirano Garibay,3B,Programación,0.7,8.8,0.7,70.3
+S-01356,Augusto Rosales,2-C,Inglés,5.3,12.2,-2.6,67.1
+S-01357,Juan Carlos Fernando Hurtado,9 B,Bases de Datos,-0.1,8.0,2.5,91.3
+S-01358,Trinidad Luz Almonte Canales,9C,Física,6.5,3.7,4.1,67.7
+S-01359,Ángela Armando Ojeda Quiñones,3 A,Inglés,13.2,0.9,12.2,67.3
+S-01360,Diana Citlali Valenzuela,1B,Física,13.6,-1.9,8.9,69.5%
+S-01361,Elvira Rosa Saucedo Bustos,6 B,Inglés,8.0,6.2,8.0,86.9%
+S-01362,Bianca Daniela Escalante Contreras,9°B,Inglés,9.3,9.5,6.8,80.7
+S-01363,José Luis Manuel Soria,9 B,Inglés,2.8,12.8,9.6,88.6%
+S-01364,Ing. José Manuél Zepeda,5-B,Química,7.0,3.4,9.4,98.6
+S-01365,Rubén Ana Villagómez Escobedo,8-C,Bases de Datos,9.9,3.6,7.3,82.3%
+S-01366,Adela Rodolfo Tamez,8-A,Bases de Datos,8.5,3.7,1.7,91.9
+S-01367,Agustín Pineda,1C,Química,1.4,3.7,5.6,75.0%
+S-01368,Sr(a). Julio César Navarro,3 C,Inglés,5.1,2.8,0.2,
+S-01369,Francisco Juan Montemayor,1-C,Programación,1.7,5.2,8.2,66.3
+S-01370,Sofía Dulce María Guerrero Mejía,5 C,Química,1.5,-2.8,7.5,
+S-01371,Catalina Gracia,8°B,Programación,1.4,2.4,9.5,93.7
+S-01372,Daniel Aldonza Guerra,2 C,Programación,1.7,5.7,1.0,99.7
+S-01373,Claudia Agustín Botello,4 C,Programación,6.4,5.5,9.1,97.8
+S-01374,Rosalia Romo,2-C,Física,3.9,0.1,0.6,74.6%
+S-01375,Antonio Garica Huerta,7 B,Física,8.7,3.0,6.9,92.7
+S-01376,Alvaro Omar Chávez,1-C,Matemáticas,7.8,1.7,-0.2,86.7
+S-01377,Carolina Curiel Collado,9B,Matemáticas,6.0,1.1,13.1,68.4
+S-01378,Lorena Gamez,8 A,Matemáticas,6.7,7.0,8.3,79.1
+S-01379,María Eugenia Castellanos,1A,Física,0.5,7.8,3.4,150
+S-01380,Anabel Esparza Vásquez,5 B,Bases de Datos,0.3,13.4,9.0,88.5
+S-01381,Judith Cecilia Ybarra,8°C,Inglés,1.2,-1.2,8.0,-10
+S-01382,Ofelia Vega Rubio,7 A,Química,11.9,8.1,-0.8,77.5%
+S-01383,Gloria Reynaldo Vallejo,5°A,Programación,2.4,7.5,7.8,
+S-01384,Isabel Jorge Luis Navarrete,5°B,Programación,4.4,3.4,3.2,82.2
+S-01385,Dulce Bernabé Pulido Pantoja,7-B,Bases de Datos,0.9,2.4,8.8,69.7%
+S-01386,Verónica Vargas Cortez,5°B,Matemáticas,-0.7,14.8,9.0,95.8
+S-01387,Abril Alvarez,2°C,Inglés,7.6,-1.5,3.0,72.6
+S-01388,Armando Sáenz Castañeda,9-C,Programación,6.3,-1.0,8.5,75.2
+S-01389,Iván Orta Orosco,4°A,Física,4.9,-2.6,-1.5,150
+S-01390,Mtro. Felipe Cornejo,2 B,Bases de Datos,5.1,4.7,0.1,74.9
+S-01391,César Estela Lucio Orosco,6-C,Matemáticas,2.6,-1.8,3.6,-10
+S-01392,Claudio Miranda Calvillo,4A,Física,6.9,10.4,9.6,67.0
+S-01393,Mtro. Frida Berríos,8-A,Física,8.4,8.9,8.1,64.0%
+S-01394,Adriana Ricardo Nazario Palomino,4°C,Matemáticas,7.5,0.7,1.6,150
+S-01395,José Anel Orosco,2°C,Inglés,1.8,9.0,6.9,92.5%
+S-01396,Cynthia Alonso Vanegas,3 B,Química,3.8,1.4,7.1,68.9
+S-01397,Modesto Aida Barraza Rosado,6B,Bases de Datos,7.7,0.7,5.2,84.0
+S-01398,Patricia Ana Luisa Guardado Ybarra,7-C,Programación,6.2,5.4,9.9,65.9
+S-01399,Dr. Camilo Jasso,1A,Química,9.0,7.7,7.1,77.3
+S-01400,Fidel Susana Mireles,6B,Matemáticas,7.0,4.6,3.5,86.8%
+S-01401,Luis Rosario,4°A,Inglés,1.1,8.6,2.8,66.8%
+S-01402,Mtro. Miguel Ángel de la Fuente,3 B,Matemáticas,-0.7,0.1,-1.0,80.6
+S-01403,Ricardo Casanova,9-A,Física,2.5,2.1,14.3,98.5
+S-01404,Mtro. Jonás Gracia,8°C,Física,3.6,11.6,6.5,60.0
+S-01405,Sr(a). José Loya,1°B,Programación,6.3,11.6,8.0,60.5
+S-01406,Juan Carlos Rosalia Roybal Santacruz,8 A,Inglés,4.7,8.6,1.5,63.2
+S-01407,Abelardo Isaac Reséndez Soria,2°C,Matemáticas,8.3,14.5,10.3,71.7
+S-01408,Adriana Correa,5 A,Bases de Datos,8.3,2.6,8.2,66.4
+S-01409,Evelio Pichardo Gollum,7 C,Bases de Datos,8.6,1.9,1.6,64.4%
+S-01410,Ing. Teodoro Fonseca,6-C,Matemáticas,8.9,3.8,9.6,84.8%
+S-01411,Luisa Tamez Lovato,3 A,Programación,6.5,9.4,8.5,71.3
+S-01412,Adela Corral Flores,1°C,Inglés,7.8,5.6,1.5,84.0
+S-01413,Gabriela Mateo Ortiz,8°B,Química,5.4,7.1,7.2,
+S-01414,Horacio Urías,4 C,Química,9.2,1.5,-1.5,79.2
+S-01415,Mariana Lebrón Olivera,5-C,Física,2.3,3.7,7.2,80.4%
+S-01416,Julia Fonseca,3-A,Bases de Datos,9.9,3.9,6.3,86.3
+S-01417,Ana María Cantú Narváez,4-B,Inglés,0.0,0.7,2.9,86.9%
+S-01418,Mauricio Grijalva Hinojosa,8 B,Programación,1.8,5.0,7.9,69.0
+S-01419,Pamela Felipe Quintanilla Adame,2°B,Química,4.9,7.0,4.9,98.6
+S-01420,Karla Alta  Gracia Nájera Rodrígez,2 B,Matemáticas,2.6,5.3,2.7,62.5
+S-01421,Óscar Nadia Noriega,8-A,Física,7.5,7.0,7.7,68.6
+S-01422,María Teresa Elias Llamas Meza,1 C,Química,4.7,4.0,9.1,69.6
+S-01423,Ing. Rebeca Sierra,9-B,Inglés,9.5,2.7,8.5,78.1
+S-01424,Felipe Marisol Feliciano Gracia,9 C,Química,-0.6,0.0,3.5,-10
+S-01425,Lic. Eric de Anda,1°B,Matemáticas,8.4,6.7,5.6,81.0
+S-01426,Héctor Ponce Haro,5-C,Bases de Datos,6.8,8.9,3.7,61.6
+S-01427,Abraham Bernal Mesa,7-B,Química,2.5,3.2,0.7,62.9
+S-01428,Ruby Corral,8-A,Programación,4.4,2.5,3.2,81.9
+S-01429,Nicolás Rolando Menéndez,9°A,Física,4.9,14.5,1.9,69.4
+S-01430,Asunción Soledad Cadena Salgado,1°A,Física,7.6,2.7,7.6,87.7
+S-01431,Teodoro Ontiveros,8°A,Física,5.8,8.9,5.0,60.7
+S-01432,Angélica Romero,5 C,Química,4.4,4.8,6.2,73.7
+S-01433,Sr(a). Lucía Monroy,6 B,Física,9.4,7.8,0.9,64.6
+S-01434,Antonia Evelio Quiñones,4°C,Programación,3.6,1.7,1.5,77.3
+S-01435,Serafín Aponte Sanabria,6B,Química,9.3,8.8,5.9,82.9
+S-01436,Lic. Ana Luisa Robledo,4-B,Física,4.2,0.7,4.6,81.5
+S-01437,Ricardo Ivonne Amaya Robles,6-C,Bases de Datos,9.4,5.4,-2.6,81.5
+S-01438,Nancy Cristian Pelayo,6°A,Inglés,4.9,11.5,7.3,81.1
+S-01439,Camila Zepeda Franco,6 B,Programación,2.8,8.8,3.1,97.4
+S-01440,Gerónimo Yolanda Merino,5-A,Química,6.1,-1.7,9.2,91.4
+S-01441,Fernando Corral Barajas,3 A,Programación,2.0,0.5,-1.6,91.9
+S-01442,Alvaro Omar Feliciano Regalado,3A,Matemáticas,9.1,0.6,8.9,
+S-01443,Ing. Alonso Centeno,1B,Física,12.3,7.7,12.4,97.2
+S-01444,Francisco Ruelas,4A,Inglés,1.8,1.2,4.2,85.0
+S-01445,Mariana Guillermina Quesada Rodarte,9-C,Inglés,3.3,3.5,0.4,67.6
+S-01446,Samuel Roberto Alarcón Godoy,4C,Matemáticas,-1.8,1.5,13.6,95.5
+S-01447,Cristian Sergio Casárez Treviño,4 B,Bases de Datos,8.3,-1.2,1.9,80.1
+S-01448,Dr. Felipe Frías,6°C,Matemáticas,14.9,8.4,14.9,95.0
+S-01449,Amanda Carreón,7C,Matemáticas,9.0,8.2,9.8,-10
+S-01450,Micaela Karla Pulido,4A,Química,11.3,4.3,-2.0,76.9
+S-01451,Lic. Frida Casas,7 B,Química,-1.6,2.2,11.3,62.0%
+S-01452,Silvano Uriel Beltrán,4C,Inglés,2.7,4.2,3.3,91.8
+S-01453,Sr(a). Patricio Orosco,6 A,Programación,12.3,13.0,1.3,63.9
+S-01454,Ángel Hernádez,7C,Inglés,2.9,6.2,11.7,64.5
+S-01455,Noelia Rafaél Morales,7-B,Física,3.4,1.0,8.8,75.2%
+S-01456,Conchita Jaime Tovar,6 B,Programación,5.7,5.3,7.5,68.3
+S-01457,Ing. Daniela Marrero,1°A,Bases de Datos,0.9,9.8,0.7,100.0
+S-01458,Marcos Socorro Garza Orosco,4-B,Inglés,14.0,8.6,7.5,94.6
+S-01459,Nelly Eugenio Marrero Cortez,6°B,Programación,2.2,9.0,6.7,72.3%
+S-01460,José Luis Vélez,5 C,Física,9.5,9.6,8.3,66.4
+S-01461,Sr(a). Minerva Crespo,8 A,Programación,2.1,7.2,5.9,90.3%
+S-01462,Lorenzo Casares Armas,1A,Física,0.6,1.4,7.1,63.0
+S-01463,Amanda Cristal Gaitán Martínez,8A,Programación,0.2,11.9,13.2,91.0
+S-01464,Elsa Tirado Benavides,4 B,Programación,9.2,0.3,11.4,61.5
+S-01465,Eugenia Barrios,4-C,Matemáticas,5.7,0.5,3.2,98.5
+S-01466,Bernardo Rodrígez González,5A,Química,4.1,10.9,8.3,85.7
+S-01467,Tomás Castañeda,8°A,Inglés,3.3,-0.7,0.0,60.7
+S-01468,Itzel Juan Martínez,2-B,Bases de Datos,7.3,4.8,3.5,85.3
+S-01469,Olga Sessa Nava,4°A,Química,1.7,9.0,1.6,85.5
+S-01470,José Carlos Esther Ríos Roybal,2C,Bases de Datos,1.2,4.8,3.2,
+S-01471,Araceli Baca,7C,Química,8.7,3.0,7.6,-10
+S-01472,Indira Tania Espinosa,5 B,Inglés,12.6,4.3,1.1,61.1
+S-01473,Víctor Armendáriz Girón,7 C,Programación,7.7,8.5,1.6,90.4
+S-01474,Silvano Irene Esparza,5 C,Química,14.5,7.9,-0.5,87.3%
+S-01475,Rolando Valverde Cedillo,3°C,Inglés,4.1,4.2,11.7,88.8
+S-01476,Abraham Emilio Soria Chapa,5 C,Matemáticas,3.6,8.1,0.9,82.7
+S-01477,Zeferino Rocío de León,2-C,Inglés,9.7,6.7,7.3,65.4%
+S-01478,Alicia Laura Aguilar Ordóñez,5 A,Inglés,11.6,2.6,12.6,79.3
+S-01479,Úrsula Llamas,4 C,Programación,7.2,9.4,8.5,70.0
+S-01480,Esther Barbara Barela,7°B,Física,2.1,9.0,11.2,60.4
+S-01481,Humberto Cervántez,8 C,Bases de Datos,6.8,14.1,9.7,89.5%
+S-01482,Ernesto Nayeli Arriaga Puga,4A,Bases de Datos,8.9,1.0,5.3,75.1
+S-01483,Alicia Muro,1-A,Química,0.0,3.2,4.0,98.1
+S-01484,Andrés Alejandra Bétancourt,4°B,Programación,9.9,11.3,4.1,
+S-01485,Dr. Francisco Javier Tejada,6B,Programación,8.0,9.5,14.0,72.9
+S-01486,Natalia Joaquín Cedillo,6A,Física,8.9,0.3,10.1,96.5
+S-01487,Rebeca Contreras Cepeda,5°C,Matemáticas,-1.2,1.7,6.0,76.3
+S-01488,Marisela Castañeda,9 A,Bases de Datos,10.5,7.0,0.5,150
+S-01489,Jonás Abrego Alba,4A,Programación,12.1,12.5,-0.7,82.8
+S-01490,Verónica Alicia Tórrez Zapata,8A,Química,2.3,7.0,-1.4,83.5
+S-01491,Federico Violeta Valles Abreu,4-B,Física,0.5,5.4,7.3,83.4
+S-01492,Jacobo Guadalupe Gaona Sánchez,2B,Matemáticas,8.4,9.4,2.1,87.1
+S-01493,Noelia Soliz,1 C,Química,1.5,1.6,8.6,99.1%
+S-01494,Victoria Francisco Javier de la Crúz,6-B,Bases de Datos,5.5,8.8,3.6,86.9
+S-01495,Camila Gerónimo Robles,7C,Bases de Datos,2.4,5.7,8.2,-10
+S-01496,María Cristina Marisol Franco,6-A,Matemáticas,4.7,5.7,7.2,84.0
+S-01497,María Luisa Ramón Velázquez,9°C,Programación,11.1,9.2,6.1,62.1
+S-01498,Ing. Genaro Velázquez,9C,Física,-0.4,8.3,1.2,-10
+S-01499,Cristina Gutiérrez Cuellar,8-A,Bases de Datos,13.4,5.0,5.6,84.8
+S-01500,Yolanda Trujillo Griego,4 A,Inglés,8.3,4.9,6.0,65.4

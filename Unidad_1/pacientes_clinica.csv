@@ -1,0 +1,2001 @@
+patient_id,nombre,fecha_nacimiento,sexo,altura_cm,peso_kg,fumador,fecha_ultima_visita,diagnostico_principal
+P-00001,Gabriel Brito Pantoja,1951-12-31,F,178.4,0,0,03/08/2025,Hipertesion
+P-00002,Juan Terán Valenzuela,17-08-1958,H,140.1,77.7,N,2025-08-18,COVID-19
+P-00003,Celia Iván Valentín,15-Oct-1958,M,144.6,55.7,Yes,23/10/2023,Dolor lumbar
+P-00004,Marco Antonio Brito Zambrano,19-Mar-1963,FEM,181.9,102.7,No,02-04-2023,Ansiedad
+P-00005,Benjamín Armas,12-06-1934,masculino,184.6,93.5,false,02/07/2023,Ansiedad
+P-00006,Guillermo Posada Vela,1973-03-30,M,185.7,94.4,false,2024-06-25,Depresion
+P-00007,Hilda Montalvo Solorio,10-01-2006,H,169.3,107.4,No,11/09/2023,Ansiedad
+P-00008,Ing. Raúl Mascareñas,1926-05-05,FEM,188.2,92.2,No,2025-10-02,Ansiedad
+P-00009,Lic. Pablo Ybarra,22-Dec-2014,FEM,142.2,55.1,0,07-13-2024,Gripe estacional
+P-00010,José Luis Segovia,16-Apr-1928,F,145.4,49.7,S,03/05/2025,Hipertension
+P-00011,Armando Micaela Iglesias,04-Apr-1942,m,144.5,75.3,false,01/02/2024,Hipertension
+P-00012,Antonia Reyes,24/03/1964,F,175.9,95.9,S,05-30-2025,Hipertension
+P-00013,Elena Villa Bueno,24-Jan-2009,Mujer,185.7,102.9,0,2024-03-01,Ansiedad
+P-00014,Estela Leticia Tapia Sánchez,01-03-1998,H,180.1,74.0,1,10-20-2025,Hipertension
+P-00015,Miguel Ángel Sonia Gonzales Tovar,09-Dec-1973,FEM,179.6,47.1,Yes,08-10-2023,Diabetes tipo 2
+P-00016,Lic. José María Riojas,13-07-1929,m,157.0,65.4,Yes,24/06/2023,Migraña cronica
+P-00017,Alejandra Francisco Mora,1994-04-04,H,,101.9,No,2025-12-09,Dolor lumbar
+P-00018,Abel Cardona,14-06-1987,Hombre,167.7,,1,09/08/2024,Migraña cronica
+P-00019,Armando Prieto Aguilera,2005-06-11,f,183.4,,true,03-16-2024,Hipertension
+P-00020,Lic. Alicia Medrano,05-Aug-1951,f,,48.9,0,28/06/2024,Colesterol alto
+P-00021,Mtro. Linda Montero,24-06-1927,H,0,105.5,No,12-25-2024,Migraña cronica
+P-00022,Lourdes Andrea Colón,29-08-1962,Hombre,0,64.9,N,10-12-2023,Migraña cronica
+P-00023,Soledad Báez Solano,08-03-1964,masculino,168.7,117.2,0,29/12/2023,Dolor lumbar
+P-00024,Julio José Carlos Castro Téllez,18-07-2023,masculino,165.0,112.9,Sí,2024-08-16,Hipertension
+P-00025,Rolando Judith Preciado,06-May-1931,masculino,166.8,80.3,0,2023-06-26,Dolor lumbar
+P-00026,Jaqueline Rascón Raya,1955-10-05,f,185.0,111.6,N,13/06/2025,Migraña cronica
+P-00027,Cristobal Solorio Meléndez,31/01/2013,Hombre,154.3,119.7,true,2024-08-14,Depresion
+P-00028,Jacobo Mónica Cantú,01/03/1980,Hombre,166.2,,false,07/03/2024,Colestero alto
+P-00029,Mtro. Aurelio Jurado,2018-12-26,f,167.2,65.9,1,21/10/2023,Depreson
+P-00030,Gabino Leonel Armas Sanches,11-Mar-1933,Mujer,164.7,59.6,S,2023-09-01,Colestero alto
+P-00031,Adriana Eloisa Jasso,1982-02-06,femenino,167.3,,0,2023-05-01,Gripe estacional
+P-00032,Armando Jacinto Urrutia Terrazas,1938-07-22,femenino,150.6,46.9,1,2025-09-29,Migraña cronica
+P-00033,Dr. Maximiliano Salcedo,11/11/1998,FEM,58.5,74.3,1,05-28-2025,Diabetes tpo 2
+P-00034,Reynaldo Mercedes Molina Ortiz,09-06-2017,masculino,166.0,66.7,S,08-06-2025,Diabetes tipo 2
+P-00035,Santiago Teresa Aguayo,20-10-2015,H,188.0,58.5,No,2025-06-12,Asma
+P-00036,Lic. Jacobo Viera,1937-06-06,F,144.9,61.4,1,2023-03-26,Hipertesion
+P-00037,Jos Peres,1956-12-10,M,157.9,0,1,22/09/2023,Azma
+P-00038,Jacobo Espinoza,11-12-2007,FEM,157.3,62.2,S,2023-08-14,Gripe estacional
+P-00039,Linda Núñez Sanches,21/11/1951,m,179.6,103.9,false,11-06-2025,COVID-19
+P-00040,Lic. José Carlos Barrientos,01-03-2018,masculino,183.8,90.2,Yes,06-11-2023,Hipertension
+P-00041,Nadia Salma Medina Baca,2020-06-10,Mujer,170.5,78.4,1,03-25-2023,Diabetes tpo 2
+P-00042,Héctor Cardenas,05-Feb-1972,femenino,172.7,86.5,N,16/05/2025,Hipertension
+P-00043,Federico Vicente Ramírez Jáquez,31/12/2009,Hombre,149.2,55.2,Yes,2024-10-05,Diabetes tipo 2
+P-00044,Felix María Eugenia Sánchez Velasco,11-07-2016,Mujer,152.6,52.0,true,2023-11-25,COVID-19
+P-00045,Dulce Castañeda Almonte,25-04-1968,FEM,187.8,0,false,25/07/2024,Asma
+P-00046,Mateo Oswaldo Arias,29/07/1972,F,160.8,63.0,No,2024-09-12,Asma
+P-00047,José Eduardo Estela Zamora Aparicio,18-Nov-1971,masculino,181.4,49.9,0,10-09-2025,Hipertension
+P-00048,Mtro. Roberto Alcaraz,16/06/1957,femenino,169.9,103.8,Sí,26/03/2024,Gripe estacional
+P-00049,Flavio Linares de la Garza,12/08/2025,Mujer,164.9,,Sí,02-23-2024,Hipertension
+P-00050,Samuel Alcántar Salgado,1993-02-15,f,188.3,75.1,0,2023-09-02,Colestero alto
+P-00051,Ofelia Daniel Tamez Esquibel,27-08-1955,H,173.8,56.7,S,02/09/2025,Depresion
+P-00052,Esparta Leyva,20-05-1978,masculino,188.7,94.4,Sí,2023-05-21,Asma
+P-00053,Ing. Porfirio Lemus,15-08-2006,f,161.0,64.7,true,08-20-2024,Ansiedad
+P-00054,Teresa Orosco Palomo,2005-08-25,m,170.2,55.8,1,06-02-2024,Colesterol alto
+P-00055,Rebeca Prieto Pulido,27-Apr-1977,Hombre,154.8,101.5,0,2023-07-15,Azma
+P-00056,Eloisa Eric Guardado,2023-04-15,femenino,177.7,,Sí,10-22-2023,Migraña cronica
+P-00057,Antonia Karina Alvarez,08/03/1926,masculino,186.7,,0,16/01/2025,Dolor lumbar
+P-00058,Sr(a). Alma Gurule,19-Nov-1998,femenino,173.8,58.2,true,09-17-2025,Asma
+P-00059,Guillermo Escamilla,1955-10-19,H,180.4,57.5,true,2023-12-03,Ansiedad
+P-00060,Eric Noelia Alvarez Nájera,20/06/2004,f,173.4,80.3,No,2024-06-21,Migraña cronica
+P-00061,Estela Segovia,24-Dec-1991,femenino,142.4,77.2,Yes,18/05/2024,Deprecion
+P-00062,Dr. Julio Bermúdez,04-06-2024,femenino,178.9,117.8,0,07-25-2024,Colestero alto
+P-00063,Gonzalo Chávez Rolón,05-Dec-1998,masculino,161.4,107.8,Yes,24/10/2025,Ansiedad
+P-00064,Carlos María Luisa Morales,21-10-1980,Hombre,150.3,48.5,true,16/02/2023,Ansiedad
+P-00065,Mtro. Graciela Naranjo,17-Aug-1946,FEM,143.2,59.1,false,11-19-2025,Deprecion
+P-00066,Nancy Cadena Villaseñor,08-03-1992,F,149.8,51.7,Sí,2025-04-13,Diabetes tipo 2
+P-00067,Juan Carlos Dolores Peralta,25-Oct-1937,FEM,175.7,76.1,false,01/07/2024,COVID-19
+P-00068,Dalia Briseño Menéndez,03-05-1928,F,156.7,58.9,0,2023-07-07,Colesterol alto
+P-00069,Luis Manuel Fernández,13-11-1991,Mujer,156.0,80.4,true,03/04/2023,Azma
+P-00070,Camila María Teresa Bustamante,23-Aug-1938,Hombre,185.5,57.2,false,03-14-2023,Depresion
+P-00071,Emiliano Griego,28-10-1948,femenino,144.0,74.5,true,14/05/2024,Migraña cronica
+P-00072,Augusto Zeferino Aguirre,15/07/1954,M,148.1,76.2,No,30/01/2025,Asma
+P-00073,Estela Anel Baeza Urbina,08/08/1931,F,169.2,86.1,Sí,06/11/2025,Dolor lumbar
+P-00074,Eugenio Carmen Valdés Abrego,11/05/2004,Hombre,160.8,57.0,true,2024-11-20,Gripe estacional
+P-00075,Mtro. Lucía Vaca,21/03/1962,Hombre,186.5,102.6,Sí,2024-12-14,COVID-19
+P-00076,Aldo Zavala,19/04/1954,F,145.0,48.1,1,06/01/2024,Azma
+P-00077,Jerónimo Santillán Acevedo,20/05/1990,masculino,184.5,62.8,No,04-25-2023,COVID-19
+P-00078,Santiago Irma Rael,12-Dec-2011,m,164.4,77.5,true,2025-04-10,Colesterol ato
+P-00079,Dr. Leonor Batista,08/06/1944,H,,62.4,No,03-29-2025,Hipertension
+P-00080,Mauricio Limón,29-Jan-1991,m,171.9,62.4,Yes,24/09/2024,Ansiedad
+P-00081,Dr. Julia Amador,16-05-1951,Mujer,192.4,91.3,1,03-03-2023,Gripe estacional
+P-00082,Elisa Josefina Enríquez,05-Apr-1935,H,163.2,82.9,N,27/01/2026,Hipertesion
+P-00083,Sr(a). Genaro Casas,31/03/2015,FEM,182.5,53.7,0,2023-04-18,Colesterol alto
+P-00084,Florencia Muro Cedillo,14-07-1950,f,166.4,52.8,0,09/05/2023,Depresion
+P-00085,Norma Perla Casares Téllez,16/04/1937,H,172.4,69.9,true,2025-10-28,Migraña cronica
+P-00086,Teodoro Víctor Manzanares Quiñónez,15-09-2021,Mujer,152.9,0,false,02-02-2023,Hipertension
+P-00087,Silvano Campos Quintana,23/08/2009,Mujer,211.2,62.2,N,07-12-2025,Depresion
+P-00088,Zeferino Dolores Centeno Ontiveros,1925-02-09,M,153.0,105.3,Sí,2023-09-14,Ansiedad
+P-00089,Lorena Ceballos Botello,18/09/1942,Hombre,179.2,86.0,0,11-16-2023,COVID-19
+P-00090,Julio Hilda Barragán,27/04/2013,H,177.0,77.9,Yes,2023-06-10,Migraña cronica
+P-00091,Lic. Gabriela Varela,26-06-1930,f,177.2,91.4,1,05/02/2025,Colesterol ato
+P-00092,Horacio Hugo Zambrano,1980-05-12,Mujer,187.4,61.7,S,01-22-2025,Ansiedad
+P-00093,Wendolin Colunga Manzanares,06-Nov-1953,femenino,171.9,0,true,12-16-2025,Colesterol alto
+P-00094,Eric Salinas,1929-08-13,Hombre,154.0,80.3,0,2023-04-09,Colesterol ato
+P-00095,David Yeni Arreola,12/08/1980,F,170.8,109.1,Yes,10-07-2025,Dolor lumbar
+P-00096,Marisol Véliz Espinal,1965-07-19,femenino,172.8,57.8,false,2025-03-25,Depresion
+P-00097,Oswaldo Nava,11-08-1932,m,156.5,114.2,false,26/07/2025,Ansiedad
+P-00098,Augusto Marcela Arias,27-11-2019,masculino,164.9,49.9,N,11-07-2025,COVID-19
+P-00099,Emilio Aranda Cortés,18-Jun-2011,Mujer,150.5,46.9,true,2024-08-25,Gripe estacional
+P-00100,Lilia Rodríquez Olivo,14/10/1958,Mujer,185.9,83.5,S,2023-08-15,Dolor lumbar
+P-00101,Luis Miguel Cano,22/11/1933,H,142.7,82.4,false,09-21-2023,Diabetes tipo 2
+P-00102,Virginia Rodolfo Madrid,02-12-1961,Mujer,182.0,76.8,N,2024-05-03,Migraña cronica
+P-00103,Gloria Lilia Enríquez Tejeda,08-07-1978,F,,46.4,Sí,01-21-2025,Diavetes tipo 2
+P-00104,Sr(a). Abelardo Vera,26-01-1986,H,177.6,78.2,1,04/07/2023,Ansiedad
+P-00105,Ing. Benito Rendón,07/01/2017,masculino,177.1,88.6,S,24/10/2023,Diabetes tipo 2
+P-00106,Lic. Alta  Gracia Nieto,30-12-1954,H,185.8,88.8,Sí,2025-05-02,Colesterol ato
+P-00107,Vicente Gloria Tijerina Valladares,04-11-2025,H,151.7,96.1,N,2025-01-11,Ansiedad
+P-00108,Elvia Darío Arenas Noriega,14-05-1930,M,175.1,98.1,No,14/05/2023,COVID-19
+P-00109,Lucía Wilfrido Díaz Cantú,28-Sep-2023,m,161.8,47.9,S,2024-12-05,Depresion
+P-00110,Renato Juan Carlos Chacón,1976-03-25,Hombre,176.4,146.1,0,2025-03-19,Deprecion
+P-00111,Olivia Gómez,30-11-2013,Hombre,160.5,99.7,N,2025-06-18,Depresion
+P-00112,Israel Mascareñas,16-10-2019,FEM,171.6,110.2,No,2024-12-20,Colesterol alto
+P-00113,Violeta Jaramillo,14-Mar-1959,F,144.7,110.7,No,07-08-2024,Migraña cronica
+P-00114,Benjamín Ana Sevilla,26-11-1996,f,177.9,,true,2023-07-04,Depresion
+P-00115,Clara Contreras de la Fuente,22/04/1994,FEM,146.9,95.3,Yes,2024-04-09,Colesterol ato
+P-00116,Porfirio Felix Sauceda,23-04-2021,Hombre,186.4,77.8,true,16/08/2023,COVID-19
+P-00117,Mónica Adame,09-Aug-1972,Hombre,183.2,61.8,1,2023-11-27,Colestero alto
+P-00118,Lic. Espartaco Barrera,10-03-1968,Hombre,149.2,51.1,1,08-15-2025,Depresion
+P-00119,Leonardo Matos,1929-11-07,f,170.9,109.4,No,12/05/2024,Gripe estacional
+P-00120,Augusto Menchaca,10-11-1969,H,188.9,111.3,Yes,12/02/2023,Asma
+P-00121,Jesús Nava Mayorga,07-Sep-2003,H,178.3,107.2,S,2025-12-26,Asma
+P-00122,Ing. Martín Villalobos,1995-04-16,M,152.1,116.0,No,01-26-2025,Migraña cronica
+P-00123,Dulce María Castro Rangel,06-Jul-1945,M,182.3,118.3,1,02-08-2025,COVID-19
+P-00124,Luis Miguel Alcaraz,1960-03-29,H,150.0,66.9,1,2025-01-08,COVID-19
+P-00125,Gabriel Jonás Tovar,17-Jun-1956,femenino,181.9,105.2,0,2023-04-16,Colesterol alto
+P-00126,Amanda Caridad Valdez,1938-01-21,Hombre,165.0,117.3,false,2024-08-16,Colesterol alto
+P-00127,Lic. Noelia Peres,1965-06-11,femenino,145.2,59.3,Sí,28/07/2024,Migraña cronica
+P-00128,Dulce Jaqueline Girón,25-04-1958,m,145.2,68.4,S,26/04/2024,Migraña cronica
+P-00129,Camilo Ortiz,22-Jun-1932,f,155.5,80.1,false,2024-08-08,Asma
+P-00130,Benjamín Estévez,18-Jan-1951,Hombre,150.3,100.0,1,2025-02-24,Dolor lumbar
+P-00131,Delia Elias Borrego Barragán,1967-09-21,Hombre,173.1,89.2,Yes,01-04-2025,Asma
+P-00132,Marco Antonio Ramos,1997-04-02,femenino,154.2,47.2,Yes,04-26-2024,Diabetes tipo 2
+P-00133,Helena Sarabia Orozco,1963-02-04,M,166.6,,N,2025-08-10,Gripe estacional
+P-00134,José Carlos Jaqueline Barajas Merino,01-04-1986,f,160.8,91.8,true,09/06/2023,Migraña cronica
+P-00135,Julio César Sanches,13/07/1957,H,186.1,76.2,0,07-20-2025,Hiperension
+P-00136,Ignacio Gonzalo Coronado Maya,06-03-1986,femenino,156.2,86.2,S,02-27-2024,Dolor lumbar
+P-00137,Sr(a). Sergio Rodríguez,01/10/2009,femenino,149.5,,1,12/09/2023,Ansiedad
+P-00138,Martín Porfirio García,21/10/2010,FEM,178.2,71.1,false,22/10/2025,Hipertension
+P-00139,Elsa Marisol Rosario,2004-10-02,f,147.0,26.5,N,2024-07-02,Asma
+P-00140,Marisol Jimínez,23-02-1969,Hombre,175.2,92.3,Yes,2025-10-25,Migraña cronica
+P-00141,Uriel Orta Robledo,2024-05-21,F,175.3,116.8,S,2025-10-17,Ansiedad
+P-00142,Mtro. Juana Valles,07/01/1982,M,172.3,196.8,Yes,2024-08-31,Ansiedad
+P-00143,Ana Luisa Cynthia Peña,10/11/2004,FEM,157.2,69.1,true,2024-05-28,Gripe estacional
+P-00144,Mtro. Samuel Gollum,2003-07-24,M,167.6,91.1,false,07/08/2023,Hiperension
+P-00145,Dr. Lorena Borrego,25/12/1983,masculino,178.5,112.4,Yes,09-19-2024,Hipertension
+P-00146,Martha Susana Cervántez de la Garza,06-Nov-1959,femenino,189.2,55.0,S,11-02-2024,Migraña cronica
+P-00147,Hernán Linda Correa,07-04-1941,masculino,156.3,55.0,1,11-17-2023,Diabetes tipo 2
+P-00148,Sara Elsa Lucio,23-05-1944,femenino,176.0,,Sí,09/11/2024,Migraña cronica
+P-00149,Elisa Santiago Ramos Alvarez,07-May-1943,f,154.1,102.4,No,05-22-2025,Depresion
+P-00150,Dr. Irma Arenas,26-Mar-1935,Hombre,155.7,60.2,true,14/03/2023,Dolor lumbar
+P-00151,Armando Delia Riojas,08-Jan-1969,masculino,177.8,78.6,1,2023-05-11,Gripe estacional
+P-00152,Ing. Amador Zelaya,1991-06-10,f,146.8,58.8,S,01-14-2025,Asma
+P-00153,Cristal Granados,1992-12-08,femenino,165.8,59.4,0,2023-08-03,Ansiedad
+P-00154,Roberto José Carlos Pabón,2021-09-27,femenino,147.0,103.4,S,2024-12-02,Colesterol alto
+P-00155,Magdalena Magdalena Zaragoza Crespo,2017-06-07,H,159.0,114.8,false,2023-07-04,Gripe estacional
+P-00156,Helena Zacarías Quintana,1976-02-27,m,,70.7,0,01-16-2026,COVID-19
+P-00157,Dr. Cristobal Tamayo,10-Feb-1942,femenino,165.9,46.3,Sí,07-27-2024,Gripe estacional
+P-00158,Barbara Madrid Díaz,09-Nov-1995,Hombre,157.1,54.9,0,2024-07-27,Migraña cronica
+P-00159,Esther Urías,26-Jun-1989,f,,92.2,No,2023-10-08,COVID-19
+P-00160,Lic. Araceli Jasso,1950-06-23,masculino,142.2,93.2,Sí,2023-12-19,Deprecion
+P-00161,Cornelio Serafín Flores,2024-03-29,m,187.6,105.3,1,02-06-2023,Dolor lumbar
+P-00162,Lucas Serna Madrid,06/10/2023,masculino,149.3,47.7,No,04-15-2023,Diabetes tipo 2
+P-00163,Irene Santana,08-May-1932,femenino,156.8,47.8,false,15/09/2024,Hipertension
+P-00164,María del Carmen Alva Cisneros,06-11-1951,F,155.8,63.0,No,2023-06-16,Migraña cronica
+P-00165,Hermelinda Carrión,1995-06-06,masculino,140.5,100.9,1,07-06-2024,Migraña cronica
+P-00166,José Emilio Carlota Godoy Muñoz,13-01-2022,f,188.2,104.0,0,03-07-2025,COVID-19
+P-00167,Renato Olivia Caballero Candelaria,02-01-1926,Mujer,177.6,56.9,Yes,2025-03-20,Dolor lumbar
+P-00168,María del Carmen Marisol Ontiveros Corona,03-Feb-1943,F,154.9,103.0,true,12/08/2023,COVID-19
+P-00169,Emiliano María Cristina Colón Ulibarri,1949-09-14,femenino,131.8,86.4,S,06-29-2025,Dolor lumbar
+P-00170,José María Cynthia Holguín Vega,24-Jan-1962,m,171.2,117.6,true,2025-09-18,Gripe estacional
+P-00171,Oswaldo Prieto,28-Jun-1994,Hombre,179.0,110.5,false,02-03-2023,Diabetes tipo 2
+P-00172,Martín Espartaco Zamora,05/04/1948,Mujer,156.4,92.9,false,12-18-2025,Colestero alto
+P-00173,María Sara Mayorga Acosta,1990-12-27,f,188.4,65.6,No,01/02/2024,Diavetes tipo 2
+P-00174,Eva Altamirano Huerta,15-07-1938,M,169.2,50.9,1,20/11/2023,Diabetes tpo 2
+P-00175,Dulce Crespo,06-07-1949,F,167.4,73.6,No,14/06/2023,COVID-19
+P-00176,Karla Pascual Rojo Badillo,16-Aug-1963,F,176.9,81.0,false,05-01-2024,Deprecion
+P-00177,Celia Antonio Gómez Quezada,15-Jan-2026,FEM,180.3,87.6,true,25/12/2023,Hiperension
+P-00178,Josefina de la Fuente Perales,16-02-1953,H,166.6,52.5,Sí,05-16-2025,Depresion
+P-00179,Lic. Silvano Arevalo,01-Sep-1930,F,180.9,114.4,S,2023-07-09,Colesterol alto
+P-00180,Estela Candelaria,1977-05-09,Mujer,,65.2,Yes,13/03/2023,Diabetes tpo 2
+P-00181,Ing. José Luis Ceja,21-Oct-2020,f,161.8,114.4,N,2023-09-28,Dolor lumbar
+P-00182,Antonia Segovia Terrazas,29/12/1975,F,147.0,109.7,No,08/09/2024,Gripe estacional
+P-00183,Guillermo Espinosa,30-10-1957,f,157.0,60.4,0,01/04/2024,COVID-19
+P-00184,Noemí Silvia Gallardo,22-07-2008,masculino,183.2,95.3,false,03-07-2023,Asmaa
+P-00185,Dr. Socorro Luna,1953-04-26,m,152.4,80.9,0,26/06/2024,Depreson
+P-00186,Pablo Julio César Mayorga,03-11-1937,f,177.6,103.8,true,2023-07-14,Ansiedad
+P-00187,Tania Eugenia Nava Caraballo,21/05/1987,m,178.0,115.1,N,08-21-2025,Depreson
+P-00188,José Eduardo Vallejo Arguello,15-07-1990,Hombre,167.2,48.7,Yes,03-31-2024,Hipertension
+P-00189,Vanesa Bernabé de la Torre Estévez,02-04-2008,Mujer,164.8,88.3,Sí,23/12/2025,Diabetes tpo 2
+P-00190,Tomás Lilia Guillen Quintero,29-06-1984,H,,62.1,true,01-03-2024,Hipertension
+P-00191,Mtro. Guillermina Rosales,04/01/1984,FEM,157.3,56.6,No,05-16-2025,Ansiedad
+P-00192,Socorro Mercedes Negrete Saucedo,06-02-1984,Mujer,160.9,105.2,Yes,07-20-2023,Diabetes tipo 2
+P-00193,Ofelia Barragán,20-04-1990,M,178.8,109.9,true,2023-07-05,Asma
+P-00194,Amador Muro,21-Oct-1964,masculino,153.4,58.9,Yes,07-21-2024,Ansiedad
+P-00195,Enrique Isaac Alvarado,28-03-1946,H,158.6,45.9,Yes,2023-10-05,Diabetes tipo 2
+P-00196,Dr. Frida Gutiérrez,19-01-1969,m,146.9,60.5,N,10-30-2025,Dolor lumbar
+P-00197,Lic. José María Espinal,14-02-2018,masculino,145.9,94.7,1,04-07-2023,Ansiedad
+P-00198,Ing. Esperanza Crespo,04/01/1950,Hombre,162.2,103.5,0,08-30-2025,Gripe estacional
+P-00199,Iván Emilia Orosco Osorio,15/11/1981,Mujer,189.1,46.6,Sí,20/10/2025,Diabetes tpo 2
+P-00200,Mtro. Violeta Olivares,08-12-2023,Mujer,149.3,48.4,1,02-25-2025,Azma
+P-00201,Lic. Delia Menchaca,06/11/1947,H,169.2,62.6,true,09-05-2024,Gripe estacional
+P-00202,Ing. Alfonso Escalante,2001-09-21,H,188.5,97.3,true,28/12/2024,Hipertension
+P-00203,Blanca Almanza,06-05-1975,H,184.4,76.6,S,12/12/2024,COVID-19
+P-00204,Karla Barajas Dávila,16-May-1997,M,152.6,,1,2023-05-12,Colestero alto
+P-00205,Vicente Elias Herrera Guardado,1944-03-28,masculino,169.6,67.1,false,2023-10-24,Colesterol alto
+P-00206,Alejandro Barrios Sarabia,11-01-1947,H,169.5,54.1,false,01-24-2024,Colesterol alto
+P-00207,Daniel Miriam Roque,1983-09-30,masculino,146.5,55.8,1,2025-01-31,Deprecion
+P-00208,Camila Luisa Cardona,1971-09-04,F,168.1,99.1,Sí,01-20-2025,Dolor lumbar
+P-00209,Virginia Antonia Collazo Raya,06-Feb-1984,m,175.8,91.0,Sí,08/10/2023,Colesterol alto
+P-00210,Dr. Felix Garica,05-11-1949,M,148.8,60.3,S,01/05/2023,Asma
+P-00211,Sofía Hilda Cadena Guardado,22-Oct-1948,m,164.6,103.8,S,2025-02-12,Diabetes tipo 2
+P-00212,Jos Camilo Griego Serrano,08-09-2017,Mujer,0,103.6,No,02-12-2023,Asma
+P-00213,Gilberto Berríos Solís,17-Nov-1990,femenino,177.0,110.4,1,16/08/2024,Gripe estacional
+P-00214,José Carlos Israel Robledo,15/12/2011,femenino,217.2,114.2,0,14/09/2023,Ansiedad
+P-00215,Mercedes Arellano,14-Jul-1932,M,141.9,102.8,1,05-18-2025,COVID-19
+P-00216,Benito Rojas Ornelas,1944-12-19,m,143.8,70.0,No,04/08/2025,Colesterol alto
+P-00217,Sr(a). Paulina Figueroa,27-03-2022,F,173.7,118.2,Sí,04/04/2025,Diabetes tipo 2
+P-00218,Catalina Raquel Dávila,02/01/1988,femenino,144.5,0,false,2024-10-23,Dolor lumbar
+P-00219,Francisco Javier Andrea Ramón Almanza,21-06-2012,Mujer,147.6,76.7,S,24/11/2023,Migraña cronica
+P-00220,Sr(a). Frida Partida,24-Apr-1992,FEM,186.5,68.9,No,06-23-2025,Colesterol alto
+P-00221,Ivonne Casillas,01/11/1937,M,143.1,119.1,false,30/01/2025,Migraña cronica
+P-00222,Ing. Rosario Mares,06-12-1978,FEM,177.5,84.9,Sí,10-04-2024,Asmaa
+P-00223,Miriam Susana Velásquez Lomeli,1942-03-03,H,181.5,67.8,N,2025-05-29,Colesterol alto
+P-00224,Ignacio Becerra,11-07-1934,F,179.7,85.7,0,09-13-2025,Ansiedad
+P-00225,Marisela Leonardo Gollum,1995-09-17,Hombre,175.7,116.5,N,02/01/2024,Diabetes tipo 2
+P-00226,Ing. Gilberto Urbina,1984-10-23,femenino,145.2,103.3,false,2025-04-10,Gripe estacional
+P-00227,Sr(a). Marcela Cavazos,04-Feb-1939,FEM,169.4,50.6,S,2025-09-25,Colesterol alto
+P-00228,Yuridia María Teresa Casas,13-01-2012,Mujer,150.8,74.8,N,24/11/2023,Colesterol alto
+P-00229,Arturo Berta Viera,11/04/2019,m,231.1,90.5,S,02-02-2024,Gripe estacional
+P-00230,Marco Antonio Gustavo Berríos Gurule,2017-07-02,H,,66.9,0,09-11-2025,Gripe estacional
+P-00231,Ofelia Orozco Nevárez,1968-01-13,m,167.7,,false,2025-07-13,Depresion
+P-00232,Frida Garica Lozano,1971-09-16,m,156.7,0,S,2024-09-12,Gripe estacional
+P-00233,Angélica Fuentes,30-Jan-1947,H,173.7,119.7,S,10/02/2025,Diavetes tipo 2
+P-00234,Mtro. César Martínez,17-Sep-1943,masculino,162.2,94.0,N,26/04/2023,Colesterol alto
+P-00235,Eugenio Lourdes Rangel Covarrubias,11-Nov-1925,Mujer,165.5,69.3,0,2024-08-02,Migraña cronica
+P-00236,Estela Quezada Pulido,08-05-1942,M,143.6,76.0,true,12-18-2023,Diabetes tipo 2
+P-00237,Anabel Eugenio Quintanilla Gastélum,01-Feb-1925,m,184.3,49.2,S,2023-03-12,Migraña cronica
+P-00238,Claudia Luisa Velasco Barela,1944-08-10,H,153.2,93.6,No,06-14-2024,Migraña cronica
+P-00239,Agustín Pedro Cordero,28-Jun-1937,FEM,163.1,90.0,N,2023-08-11,Migraña cronica
+P-00240,Ing. Oswaldo Sisneros,22/09/1925,Hombre,162.7,52.6,N,2025-09-17,Colestero alto
+P-00241,Martha Mauro Soto,1976-10-07,femenino,0,81.4,1,08-15-2023,Diabetes tipo 2
+P-00242,Micaela Cabrera,30-Jul-1927,H,148.9,,1,02-25-2025,Migraña cronica
+P-00243,Mtro. Eric Olivera,22-Sep-1985,H,169.9,73.7,N,08/02/2024,Ansiedad
+P-00244,Ing. Aida Tello,07-Jun-1943,Hombre,189.6,113.5,1,04/09/2023,Depresion
+P-00245,Diego Modesto Almaraz Padrón,26-09-2010,FEM,63.4,119.0,No,01-06-2024,COVID-19
+P-00246,Pablo Rico,26-Sep-1997,Mujer,167.2,69.2,No,2025-08-02,COVID-19
+P-00247,Espartaco Viera Rodríquez,19-Dec-1995,FEM,,82.3,No,2025-09-18,Diabetes tipo 2
+P-00248,José Emilio Yuridia Altamirano,06-08-1945,Mujer,149.3,116.6,N,2024-07-28,Colesterol alto
+P-00249,Alejandro Zambrano,09-09-2007,Mujer,150.4,51.1,1,2025-11-28,Depresion
+P-00250,María Elena Garibay,10-Dec-1945,m,178.8,76.8,N,03-21-2024,Depreson
+P-00251,Ing. Salvador Ocampo,02-01-1960,f,185.0,106.3,0,2025-01-13,Asma
+P-00252,Alvaro Estefanía Sosa,30-Sep-2003,m,105.1,71.5,No,12-31-2024,Gripe estacional
+P-00253,Dr. Débora Holguín,23-Sep-1966,masculino,154.6,103.6,Sí,03/05/2025,Hiperension
+P-00254,Rocío Benjamín Adame,02-08-1956,H,,58.9,No,09/11/2023,Azma
+P-00255,Adela Mena Orosco,03-Mar-1966,m,181.4,,false,2025-07-14,Migraña cronica
+P-00256,Mtro. Rebeca Marín,2021-08-29,femenino,188.9,79.5,No,14/01/2026,COVID-19
+P-00257,Julia Corral,2022-06-24,m,177.3,86.3,S,05-27-2025,Ansiedad
+P-00258,Magdalena Brito Naranjo,22/12/1945,Hombre,168.7,86.7,N,04-11-2025,Dolor lumbar
+P-00259,Lorenzo Delgadillo Zepeda,02-12-1990,FEM,,78.7,N,11-15-2025,Hipertension
+P-00260,Horacio Wilfrido Navarrete,30-Jul-1984,F,117.6,50.7,false,11-15-2023,Gripe estacional
+P-00261,Homero Omar de la Garza,05/09/1977,Mujer,159.0,101.9,Sí,2026-01-25,Ansiedad
+P-00262,Sr(a). Hermelinda Loera,10-10-1953,F,169.8,101.4,No,2023-03-01,Gripe estacional
+P-00263,Paola Balderas Muñiz,19-Sep-1998,masculino,142.5,106.1,false,2025-11-26,Dolor lumbar
+P-00264,Patricia Gamboa Armas,13-Nov-1978,M,164.8,50.4,Yes,2025-10-11,Colesterol alto
+P-00265,Ing. María Luisa Sisneros,1929-08-03,M,150.2,108.3,1,12-05-2023,Dolor lumbar
+P-00266,Patricio Linda Jurado Dueñas,18-06-1981,Hombre,162.7,67.6,N,2025-10-04,Asma
+P-00267,Reynaldo María José Partida,29/11/1949,m,143.7,45.3,Sí,01/08/2023,Hipertension
+P-00268,Linda Serafín Sanabria Ávila,25-May-2024,F,189.1,86.9,S,05/12/2023,Hipertension
+P-00269,Elvia Rosales Cervantes,16-Jun-2015,F,,52.8,true,2024-03-03,Colesterol ato
+P-00270,José Eduardo Irene Urbina Narváez,2012-11-24,H,166.9,60.1,S,12-27-2025,Ansiedad
+P-00271,Camilo Vigil Domínguez,23/07/2016,H,161.9,100.4,N,2024-01-20,Depresion
+P-00272,Nelly Israel Haro,18/10/1972,masculino,157.7,93.7,0,2025-03-13,Dolor lumbar
+P-00273,Ing. Espartaco Mejía,1994-07-05,FEM,146.2,98.1,S,14/05/2025,Gripe estacional
+P-00274,Luz Jonás Salcido Sáenz,02-05-2011,FEM,164.8,,1,2024-10-31,Azma
+P-00275,Juan Urrutia Cintrón,02/11/1978,Mujer,161.1,53.6,false,12-13-2023,Asma
+P-00276,Ángela Lara,25-Jan-1954,Hombre,178.1,,No,2023-06-13,Depresion
+P-00277,Jonás Colón,23/02/2022,f,158.7,46.8,true,16/12/2024,Hiperension
+P-00278,Sonia Gallegos Moya,17-Nov-1932,M,146.6,102.4,No,29/05/2023,Asma
+P-00279,Ana Quiñónez,26-09-2021,f,180.1,117.2,S,2023-08-06,COVID-19
+P-00280,Ana María Ernesto Solorzano,24/03/1941,FEM,170.4,79.4,No,19/03/2023,COVID-19
+P-00281,Pascual Cotto Casanova,19-Nov-1949,masculino,174.5,115.3,0,03-08-2023,Depresion
+P-00282,Mateo Juana Montaño,1943-09-02,femenino,171.9,90.6,true,2023-03-21,Diabetes tipo 2
+P-00283,Eva Solano,26-07-1937,femenino,185.4,90.7,N,22/11/2023,Ansiedad
+P-00284,Tania Tello Barrera,12-11-1926,masculino,148.9,77.9,N,08/04/2025,Hipertesion
+P-00285,Jerónimo Correa Quiñones,15-Nov-2007,FEM,,106.5,Sí,04-21-2024,Migraña cronica
+P-00286,Amelia Gil Barraza,19-Aug-1988,FEM,175.5,75.6,S,16/02/2023,Ansiedad
+P-00287,Elena Fuentes,01/05/1977,H,156.4,92.5,false,2025-08-30,COVID-19
+P-00288,Gustavo Zaragoza Ayala,22-Jul-1965,M,155.6,83.1,N,2025-05-31,Dolor lumbar
+P-00289,Maximiliano Marrero,21-05-2024,masculino,185.9,0,false,06-22-2023,Gripe estacional
+P-00290,Eugenio Carranza,25/07/1985,Mujer,0,46.7,Sí,2024-05-06,Migraña cronica
+P-00291,Dr. Juan Mena,25-08-1960,Hombre,151.8,56.6,S,02-19-2024,Asmaa
+P-00292,Juana Borrego Robledo,1977-07-01,m,184.0,,Sí,2024-09-08,Diabetes tipo 2
+P-00293,Mitzy Raúl Benítez Urrutia,16-Oct-1959,f,152.3,102.9,Sí,03-02-2023,Hipertesion
+P-00294,Lorenzo Núñez,1999-01-03,M,180.7,0,true,08-23-2024,Asma
+P-00295,José Emilio Nancy Roybal Gastélum,19-Jun-1983,f,188.0,114.1,1,01-31-2024,Asma
+P-00296,Ariadna Leal,18-11-1956,masculino,163.3,110.7,S,06/09/2023,Ansiedad
+P-00297,Eric Urías Mondragón,22-Feb-1983,masculino,159.0,107.2,false,12/09/2025,Colestero alto
+P-00298,Alfonso Romo,11-07-2001,M,172.3,49.8,0,2024-06-02,Colesterol alto
+P-00299,Anel Abelardo Regalado Arredondo,27-Feb-1956,m,165.2,83.3,0,04-08-2024,Diabetes tpo 2
+P-00300,Itzel Dulce María Lemus,19-03-1989,H,169.9,68.0,Sí,24/06/2023,Migraña cronica
+P-00301,Cornelio Vanegas Batista,01-06-1961,F,177.9,0,N,09-27-2025,Colestero alto
+P-00302,Dr. Santiago Ojeda,17/08/2010,M,143.5,73.5,N,21/07/2024,Gripe estacional
+P-00303,Omar Arturo Loya,22-07-2010,H,159.7,60.1,false,06-30-2023,COVID-19
+P-00304,Georgina Véliz,03-Aug-2008,FEM,183.0,92.4,0,01-24-2026,COVID-19
+P-00305,Beatriz Casillas Garica,26-09-1987,f,150.6,54.7,1,2025-07-01,Ansiedad
+P-00306,Esther Cazares Ojeda,10-11-1990,Mujer,,112.6,N,08/01/2025,Ansiedad
+P-00307,Indira Porras Carvajal,09-05-1954,femenino,187.5,77.6,No,2023-02-09,Gripe estacional
+P-00308,Dr. Débora Monroy,26/03/1992,femenino,163.6,103.9,true,2024-10-03,Diabetes tipo 2
+P-00309,Jonás Ricardo Mojica Pérez,1988-02-19,H,142.4,52.9,S,2023-11-17,COVID-19
+P-00310,Aida Piña Lucio,07/02/1930,Mujer,159.9,104.7,S,2025-01-29,Ansiedad
+P-00311,Lucía Cristobal Mojica Monroy,24-Feb-1963,femenino,189.6,116.1,0,27/05/2025,Ansiedad
+P-00312,Sergio Jacinto Mares,07-Apr-1944,Hombre,173.6,80.9,S,07-31-2025,Ansiedad
+P-00313,Óliver Hernández,14-07-2007,FEM,0,99.3,N,09-28-2024,Migraña cronica
+P-00314,Mtro. Florencia Navarro,21/12/2000,H,170.0,84.4,N,2025-03-25,Dolor lumbar
+P-00315,Amelia José Luis Almanza,24-Sep-1942,masculino,167.2,109.3,false,07-05-2025,Hipertension
+P-00316,Conchita Angulo Barreto,18-06-2008,M,175.7,26.2,true,10/09/2023,Colesterol alto
+P-00317,Cynthia Cadena,03-Oct-2006,M,148.2,80.0,false,27/04/2025,Depresion
+P-00318,Ing. Alfredo Alejandro,22/11/1985,femenino,181.0,87.8,No,2024-08-16,Gripe estacional
+P-00319,David Yuridia Carrasco,14/11/1964,m,169.8,77.8,true,11-06-2024,Hiperension
+P-00320,Dr. Miriam Escalante,13/03/2010,femenino,153.5,,No,10-04-2025,COVID-19
+P-00321,Teodoro Negrón,2010-03-23,M,147.8,58.2,0,12-21-2025,Gripe estacional
+P-00322,Virginia Valle Olivárez,21/10/2008,M,142.9,58.5,N,04/03/2024,Gripe estacional
+P-00323,Sr(a). Ana María Almanza,1989-09-07,Mujer,166.2,,1,08-06-2024,Migraña cronica
+P-00324,Ramón Omar Rosario Jaramillo,1928-08-06,H,162.4,101.4,true,07-03-2024,COVID-19
+P-00325,Ing. Itzel Olivas,09-01-1999,f,162.1,59.0,1,2024-01-09,COVID-19
+P-00326,María Cristina Francisca Ureña,1962-03-02,Mujer,172.2,89.8,0,2023-06-15,COVID-19
+P-00327,Alejandra Delgado,08-02-2023,masculino,176.3,103.0,true,05-28-2024,Gripe estacional
+P-00328,Uriel Reséndez,1989-02-12,F,154.0,73.2,S,27/12/2025,Diabetes tipo 2
+P-00329,Lucía Susana Orozco,1984-07-31,masculino,183.1,112.6,0,18/01/2025,Gripe estacional
+P-00330,Lic. Oswaldo Naranjo,2004-07-17,M,175.2,57.9,0,11/03/2024,Ansiedad
+P-00331,Mtro. Óliver Mejía,1980-02-18,masculino,151.6,76.4,true,2024-08-22,Gripe estacional
+P-00332,Elsa Valle,15/02/1941,M,148.2,74.2,Yes,10/12/2024,Ansiedad
+P-00333,Indira Beatriz Romero,1996-09-12,masculino,140.0,86.6,Yes,01-25-2026,Colesterol alto
+P-00334,Héctor Medina Vela,30-06-1935,H,142.5,46.0,false,2024-12-04,Depresion
+P-00335,Omar Gilberto Muñiz,14/07/1925,M,169.6,105.5,Yes,07/11/2023,COVID-19
+P-00336,Pedro Moreno Colunga,12-10-2012,masculino,144.7,56.3,false,13/04/2025,COVID-19
+P-00337,Santiago Peña Briseño,1978-05-25,femenino,157.3,114.1,Sí,21/12/2025,Ansiedad
+P-00338,Dalia Úrsula Cervantes Vela,18-08-1945,femenino,184.1,62.7,Yes,11-01-2023,Hipertesion
+P-00339,Jorge Alfaro Acevedo,1972-11-06,Hombre,,53.1,S,01-18-2024,Gripe estacional
+P-00340,Rodolfo Ramón Zamora,1946-10-24,Mujer,159.9,0,Sí,18/01/2024,Diabetes tipo 2
+P-00341,Isaac Ángela Lovato,1985-03-14,m,178.0,118.6,1,17/05/2024,Gripe estacional
+P-00342,Gabino Wendolin del Valle,01/05/1935,f,169.4,55.9,0,07-31-2024,Asma
+P-00343,Gerardo Ruby Limón Gastélum,07/03/1957,masculino,177.6,71.8,Yes,06-23-2023,Depreson
+P-00344,Helena Colón Badillo,08/01/1984,M,159.9,104.4,No,04-24-2023,COVID-19
+P-00345,Trinidad Gurule Rodríguez,23/12/1962,femenino,186.6,101.9,Yes,04-17-2023,Migraña cronica
+P-00346,Mtro. Javier Padrón,15-03-1932,femenino,147.2,78.1,S,2023-09-06,Gripe estacional
+P-00347,Mercedes Vera,30-07-2000,m,153.6,,Sí,04-16-2025,Deprecion
+P-00348,Luis José Pulido,15-May-1973,femenino,158.9,88.4,N,15/04/2025,Diabetes tipo 2
+P-00349,Guillermo Gaona,03/10/1937,M,165.8,117.4,Yes,24/05/2024,COVID-19
+P-00350,Lic. Norma Saldivar,15-04-1955,femenino,162.9,73.4,No,03/02/2023,Depresion
+P-00351,Ing. Noelia Loera,14-May-1974,F,169.6,47.7,0,01-21-2026,Depresion
+P-00352,Isabela Ocasio Batista,29/07/2025,f,171.3,109.1,true,2023-11-10,Asma
+P-00353,Alberto Carranza Mares,28-Sep-1949,masculino,179.6,,false,2024-09-02,Colestero alto
+P-00354,Clemente Zúñiga Santana,23-07-1930,Mujer,147.1,90.2,0,05-31-2025,Depresion
+P-00355,Marisol Susana Briseño,11/08/1971,femenino,182.4,86.9,false,2025-09-08,Dolor lumbar
+P-00356,José Eduardo Quintana Delgadillo,14/09/1932,Hombre,,85.3,true,2023-10-10,Asma
+P-00357,Ivonne de la Rosa Adame,1952-04-11,M,173.0,93.5,false,2025-09-03,Migraña cronica
+P-00358,Humberto Angélica Lozada,18-Apr-1975,m,168.8,102.1,false,31/07/2025,Colesterol alto
+P-00359,Esmeralda Zavala Mesa,10-10-2001,femenino,153.0,118.9,N,05/04/2024,Ansiedad
+P-00360,Lic. Elvia Borrego,17/12/1954,Hombre,164.7,57.4,N,2025-08-04,Hipertension
+P-00361,Dr. Gloria Benavídez,29-03-1939,FEM,145.9,47.5,No,08-30-2025,Asmaa
+P-00362,José Manuél Pineda,14/09/2008,FEM,164.3,72.7,false,18/09/2025,Diavetes tipo 2
+P-00363,Graciela Nieto,24/07/1965,FEM,152.5,98.0,0,02-04-2024,Gripe estacional
+P-00364,Miguel Dulce María Rincón,03-11-2001,Mujer,165.8,63.5,No,03-26-2024,Gripe estacional
+P-00365,Isabela Ana Luisa Ornelas Nieves,27-Oct-1992,f,165.8,104.2,0,2024-11-07,Dolor lumbar
+P-00366,Leonel Nancy Cuellar Guillen,22/11/1936,F,167.0,113.8,true,03-27-2024,Hiperension
+P-00367,Citlali Tejeda Guzmán,1942-01-17,FEM,160.4,69.7,0,02-05-2024,Hipertension
+P-00368,Maximiliano Jacinto Irizarry,29-03-1975,m,188.0,86.8,No,10-02-2023,Dolor lumbar
+P-00369,Iván Rojas,25-Jun-2006,femenino,175.1,113.4,Sí,04-30-2025,COVID-19
+P-00370,Gabriela Casárez Vela,2011-12-05,F,163.3,100.2,1,2024-08-26,COVID-19
+P-00371,Amador Ricardo Dueñas,11/07/2019,FEM,153.9,118.7,N,10-07-2023,Migraña cronica
+P-00372,Antonio Rosales,03-May-1926,femenino,147.8,180.4,N,28/06/2025,Colesterol alto
+P-00373,Lic. Tania Menchaca,12-01-2016,H,148.3,75.4,0,01-27-2025,Dolor lumbar
+P-00374,Pamela Amador Méndez Moreno,1949-11-05,m,,107.3,N,03-09-2025,COVID-19
+P-00375,Francisco Leal,12/12/1962,FEM,182.5,77.8,No,2024-07-25,Asma
+P-00376,Mtro. Sessa Colón,1939-06-21,H,141.2,90.6,S,06-05-2023,Diavetes tipo 2
+P-00377,Maximiliano Tamez,24-08-1980,femenino,169.1,93.3,N,18/06/2025,COVID-19
+P-00378,Verónica Felipe Valladares,2010-04-07,H,172.4,234.1,false,12-29-2024,Diabetes tipo 2
+P-00379,Sandra Alcaraz,11/07/1983,M,157.9,102.4,S,02-10-2023,Hipertesion
+P-00380,Roberto Luis Rendón,1960-01-13,Mujer,164.9,93.2,N,15/07/2023,Depresion
+P-00381,Víctor Lugo Ceja,25/09/1981,f,163.9,103.8,1,2025-01-31,Asma
+P-00382,Mtro. Lilia Guillen,1967-03-24,FEM,169.0,106.0,1,06-26-2025,Gripe estacional
+P-00383,Felipe Genaro Cano,26-Aug-2008,femenino,140.1,152.8,No,14/01/2024,Asma
+P-00384,Anel Rojas Hernandes,25-05-1986,H,181.8,75.9,0,10/04/2025,Azma
+P-00385,Sr(a). Tomás del Río,15-11-1991,f,146.3,95.4,false,2024-04-08,Diabetes tipo 2
+P-00386,Leonor Gabriel Escamilla,2019-01-23,m,169.7,89.4,true,28/02/2024,COVID-19
+P-00387,Pablo Gloria Alba Chávez,03-Aug-1962,H,187.2,101.7,N,02-09-2023,Migraña cronica
+P-00388,Estefanía Longoria,11-Apr-1938,masculino,187.6,,Sí,02/08/2025,Colesterol alto
+P-00389,Eric Rosalia Chavarría Fonseca,06-03-2023,m,151.5,103.2,Sí,05-21-2025,Diabetes tipo 2
+P-00390,Ing. Juan Carlos Urrutia,18/05/2008,H,152.3,87.1,No,05/03/2023,Hipertension
+P-00391,Mtro. Alvaro Portillo,02-12-1936,FEM,143.6,87.9,0,01-23-2025,Diabetes tipo 2
+P-00392,Estela Orellana Urrutia,29-Oct-1947,f,164.5,82.4,false,2025-05-05,Ansiedad
+P-00393,Gilberto Echeverría,03-05-2004,Mujer,182.4,54.8,No,11-01-2023,COVID-19
+P-00394,Teodoro Gerardo Cuellar Zelaya,10-Apr-1951,F,164.5,50.2,Yes,08/01/2026,Asma
+P-00395,Marisol Cabrera Flores,01/12/1972,H,146.5,115.9,No,05-12-2023,Ansiedad
+P-00396,Ofelia Isabela Prado Espinosa,18-Nov-1943,Mujer,173.1,53.4,Yes,03-19-2023,Diabetes tipo 2
+P-00397,Estela Mitzy Cotto,02-Jun-1927,masculino,166.7,85.6,S,18/09/2025,COVID-19
+P-00398,Emilia Espartaco Cedillo,03-Feb-1984,FEM,174.5,45.8,S,12/10/2023,Dolor lumbar
+P-00399,Sr(a). Nayeli López,09/03/1930,f,167.5,,N,21/09/2023,Migraña cronica
+P-00400,Bruno Zepeda,24-08-1954,M,169.5,83.2,0,27/02/2023,Dolor lumbar
+P-00401,Gabino Darío Garza,20-10-2014,F,165.3,82.3,N,03/05/2024,Ansiedad
+P-00402,Pamela Beatriz Angulo,1973-10-04,f,177.5,118.4,Yes,2024-03-08,Colesterol alto
+P-00403,Lic. Bianca Armendáriz,1950-08-01,FEM,160.9,91.9,N,10/03/2025,Azma
+P-00404,Sr(a). Lucas Echeverría,27/08/2014,femenino,180.1,99.0,S,10-22-2023,Ansiedad
+P-00405,Caridad Nadia Córdova,01-02-2005,M,141.5,104.9,S,21/04/2024,Gripe estacional
+P-00406,Javier Araceli Casárez Vega,22/01/1959,Hombre,155.7,47.8,Sí,2023-05-15,Migraña cronica
+P-00407,Indira Daniela Ceja Villanueva,05/06/2020,F,188.4,0,N,16/06/2025,COVID-19
+P-00408,Marisela Emiliano Posada Tafoya,1927-05-14,FEM,146.8,101.7,false,27/05/2024,Colesterol alto
+P-00409,Pamela Leonel Rosales,24/12/2022,F,145.1,58.5,Sí,2025-09-04,Hiperension
+P-00410,Alejandra Rascón,16/01/1931,Mujer,152.9,48.9,0,2023-09-25,Azma
+P-00411,Ana Luisa Valentín,2020-06-22,m,167.9,104.8,1,14/11/2023,Ansiedad
+P-00412,Natalia David Cornejo,16-04-1997,M,177.9,100.1,N,03-26-2025,Depresion
+P-00413,Ramón Nicolás Paredes,09/04/1946,masculino,157.7,63.8,No,09-29-2023,Ansiedad
+P-00414,Lilia Nayeli Luevano,13-05-1984,H,153.6,108.2,N,04-06-2025,Ansiedad
+P-00415,Delia Cadena Flores,21/08/1946,FEM,164.2,92.5,true,27/04/2023,Dolor lumbar
+P-00416,Marisol de Jesús Sandoval,14-08-1934,masculino,171.6,77.3,0,23/09/2023,Ansiedad
+P-00417,Eloisa Tijerina,08/05/1967,F,186.5,107.4,1,2026-01-22,Gripe estacional
+P-00418,Amanda Anguiano Benítez,1962-07-21,Hombre,145.1,118.2,1,25/02/2024,Asma
+P-00419,Citlali Covarrubias,1999-08-02,M,149.2,117.1,1,04-14-2025,Dolor lumbar
+P-00420,Judith Ana Trejo,02/12/1956,FEM,,64.6,1,2025-11-24,COVID-19
+P-00421,María Leticia Montaño,06/02/2002,Hombre,158.1,103.9,false,03-13-2024,Dolor lumbar
+P-00422,Sr(a). Berta Sisneros,02/11/1975,Hombre,150.3,62.8,false,2024-09-20,Dolor lumbar
+P-00423,Dr. José María Luevano,30-07-2006,Hombre,144.1,81.7,S,08/07/2023,Ansiedad
+P-00424,Ana Luisa Eric Marrero Macías,14-08-1956,masculino,153.2,80.5,S,06-14-2025,Ansiedad
+P-00425,Lic. Abigail Aponte,1928-11-06,F,,78.3,N,2025-05-21,Hipertesion
+P-00426,Violeta Cardona Olivárez,1978-01-10,Mujer,159.2,63.6,false,2024-03-05,Diabetes tipo 2
+P-00427,Dr. Norma Benítez,1939-10-24,FEM,148.0,,true,10-23-2025,Diabetes tipo 2
+P-00428,Gloria Gálvez Rodrígez,2000-07-20,H,147.3,100.3,0,10-25-2024,Hipertension
+P-00429,Marcela Abril Reynoso Romero,03/02/1975,M,169.1,80.6,N,07/04/2023,COVID-19
+P-00430,Karla Benito Varela,28/12/2006,FEM,157.3,66.1,Yes,07/05/2025,Asma
+P-00431,Jesús Aurora Suárez Patiño,26/02/1953,H,,63.2,1,06-11-2023,Depresion
+P-00432,Natalia Karina Escalante Coronado,1972-11-02,Hombre,150.7,85.3,Sí,2025-06-02,Migraña cronica
+P-00433,Alfredo Magaña Perea,17-Oct-2012,masculino,162.8,53.3,true,07-17-2024,Colesterol alto
+P-00434,Mtro. María Luisa Maya,15/06/2008,m,168.6,81.3,No,30/07/2023,COVID-19
+P-00435,Teodoro Elsa Alvarado,08-05-1931,Mujer,186.5,77.7,1,2025-12-14,Hiperension
+P-00436,Elvira Amelia Pacheco Romero,25-Apr-1961,M,180.7,74.6,No,2025-08-29,Gripe estacional
+P-00437,Leonor Ofelia Tejada Maldonado,05/07/1925,Hombre,159.6,101.1,N,10-12-2023,Gripe estacional
+P-00438,Silvia Daniela Castillo,14-09-1982,Hombre,140.8,90.8,Yes,2024-10-03,Migraña cronica
+P-00439,Alonso Coronado Maestas,1979-06-05,M,182.4,87.6,S,01-13-2025,Depresion
+P-00440,Adela Granado Urrutia,1975-08-22,m,187.2,116.6,No,18/04/2025,COVID-19
+P-00441,Caridad Torres,06-Dec-2003,f,171.3,84.6,1,04-24-2024,Diabetes tipo 2
+P-00442,Genaro Serna,08-05-1988,Mujer,173.4,84.9,0,14/10/2025,Dolor lumbar
+P-00443,Socorro Nava Estrada,26-May-2021,F,156.4,79.2,N,2023-03-20,Hipertension
+P-00444,Alta  Gracia Germán Barrios Paredes,14-Mar-1939,m,,92.8,N,2025-11-12,Asmaa
+P-00445,Jacinto Cano,21-09-1937,FEM,155.5,45.8,false,31/05/2024,Migraña cronica
+P-00446,Wendolin Marcela Alejandro Maestas,27/07/1971,M,186.2,72.3,Yes,22/07/2024,Ansiedad
+P-00447,Abelardo Sierra de la O,02/05/1992,F,158.7,75.1,No,05-25-2023,Ansiedad
+P-00448,Jos Asunción Maldonado,08-07-1965,FEM,189.0,59.2,No,21/09/2023,Colesterol ato
+P-00449,Beatriz Carvajal,05/10/1969,M,,67.3,S,2023-05-29,COVID-19
+P-00450,Margarita Tomás Ferrer,30-Aug-1941,H,166.0,108.8,0,08-04-2024,Diabetes tipo 2
+P-00451,Samuel Berta Olivas,02-Apr-1927,FEM,172.5,50.4,0,10-16-2025,Asma
+P-00452,Arcelia Francisco Javier Archuleta,30/09/1936,F,170.9,117.0,N,21/12/2024,COVID-19
+P-00453,Yolanda Esteban Garibay Malave,12-11-1979,masculino,185.1,83.2,true,09-16-2024,Colesterol alto
+P-00454,Abigail Wilfrido Cuellar Serrano,09/02/1981,femenino,177.5,47.4,N,02-28-2024,Colesterol alto
+P-00455,Sandra Enrique León,1967-01-10,masculino,152.9,109.7,false,21/06/2024,Gripe estacional
+P-00456,Porfirio Andrés Alonso Vera,1958-10-08,Hombre,147.7,54.0,Sí,29/10/2025,Hiperension
+P-00457,Alejandra Barreto,03-Dec-1936,FEM,176.8,76.9,true,2023-12-02,Ansiedad
+P-00458,Dulce María Olivárez Elizondo,21-Aug-1987,F,152.6,83.6,No,2025-09-29,COVID-19
+P-00459,Miguel Ángel Casares Jimínez,07/02/1952,femenino,162.0,61.9,Yes,2025-11-19,Depresion
+P-00460,Mario Quintero Palomino,2004-09-15,Mujer,247.1,75.6,Sí,13/02/2023,Hiperension
+P-00461,Aurora Luz Leyva,26-Jun-2009,M,179.9,52.8,No,08-08-2024,Migraña cronica
+P-00462,Eva Irma Mesa Macías,2004-10-11,Hombre,159.0,68.6,true,04-02-2024,COVID-19
+P-00463,Citlali Alvaro Becerra Alemán,08-10-1966,Mujer,163.1,105.9,S,10-05-2023,Colesterol alto
+P-00464,Sr(a). Patricio Calvillo,19-05-1965,M,172.8,,S,04-22-2024,Dolor lumbar
+P-00465,Oswaldo Julia Badillo,15/06/1972,F,180.4,113.6,Sí,03-17-2025,Dolor lumbar
+P-00466,Alejandra Camilo Ocasio,21/08/1926,F,175.7,74.5,1,17/10/2023,Gripe estacional
+P-00467,Vicente Jaimes,01/11/1958,M,143.2,82.2,true,2024-06-21,Migraña cronica
+P-00468,Dr. Óliver Pabón,08-Nov-1995,Hombre,152.2,46.6,Yes,05-03-2024,Colesterol alto
+P-00469,María Teresa Zapata,02-02-2012,M,215.0,56.1,N,2024-11-16,Gripe estacional
+P-00470,Cristobal Oquendo Delgadillo,1992-10-03,Mujer,172.5,45.1,true,17/11/2023,Ansiedad
+P-00471,Roberto Hidalgo Jiménez,27/11/1984,Mujer,,65.7,Sí,01-09-2026,Depresion
+P-00472,Amalia Figueroa Carvajal,01-01-1989,H,152.4,110.6,Sí,12-28-2024,Gripe estacional
+P-00473,Jaqueline Elias Gutiérrez Ruelas,24/05/1951,femenino,158.5,117.9,S,07/06/2025,Migraña cronica
+P-00474,Federico Pedroza,17-Jan-2003,m,154.8,72.2,Yes,01-25-2026,Hipertension
+P-00475,Minerva de la O Haro,10-Jan-1943,M,144.8,104.2,Sí,2025-09-25,Hipertesion
+P-00476,Lorenzo Silvia Patiño,20/02/1985,Hombre,162.4,80.9,S,28/01/2025,COVID-19
+P-00477,Elisa Zamudio Velázquez,1963-09-08,f,151.3,72.7,0,2023-11-17,Asmaa
+P-00478,Ana María Navarro,01-10-1978,FEM,143.7,104.5,N,05-11-2025,Dolor lumbar
+P-00479,Graciela Martha Matos,1940-02-28,m,166.3,85.3,No,2024-10-22,Depresion
+P-00480,Guadalupe Rocha,31-01-2006,F,152.1,94.3,S,2023-11-17,Migraña cronica
+P-00481,María Luisa Arenas,01-09-2024,F,144.3,113.7,false,01-24-2026,Gripe estacional
+P-00482,Pamela Ángel Fajardo,07-Jan-2001,f,180.7,69.1,N,17/11/2023,Hipertension
+P-00483,Jorge Luis Lucas Lucero,08/04/1940,masculino,171.8,90.5,1,01-29-2023,Migraña cronica
+P-00484,Olivia Jorge Luis Cisneros Ávila,18-Dec-1958,femenino,147.7,45.2,N,04-25-2024,Depresion
+P-00485,Germán Salinas,04-01-2026,femenino,164.2,,0,2023-05-16,COVID-19
+P-00486,Zeferino Carmen Chavarría Barela,21/05/1961,F,172.4,91.4,true,2023-11-19,Depresion
+P-00487,Dulce María Alma Ordóñez,02-05-1966,Hombre,176.0,71.4,1,05-05-2023,Ansiedad
+P-00488,Salvador Elvira Negrón,29/07/1954,f,184.2,87.9,Sí,09-12-2023,Gripe estacional
+P-00489,Nadia Cantú Chacón,16/11/2024,f,168.6,90.8,0,2024-03-22,Ansiedad
+P-00490,Daniela Rangel,04-12-1933,f,146.0,,Yes,2025-05-28,Colesterol alto
+P-00491,Graciela Bahena,11/07/1995,F,175.1,55.2,true,06-05-2025,Azma
+P-00492,Pilar Sanabria Esquibel,10-Nov-2001,Mujer,186.7,87.0,N,11-04-2025,Gripe estacional
+P-00493,Rocío Porfirio Fernández Rojas,25/05/1956,F,169.6,86.4,false,2023-07-22,Ansiedad
+P-00494,Emilia Zapata,24-08-1991,M,239.6,97.3,true,19/02/2024,Ansiedad
+P-00495,Juana Gerónimo Negrete de León,25-Aug-1979,H,184.8,68.6,S,05-01-2024,Colesterol alto
+P-00496,Guillermo Candelaria,15-01-2004,F,178.5,104.0,S,03/12/2023,Colesterol alto
+P-00497,Dolores Mares Armas,24/09/1953,f,179.4,116.7,Sí,2025-01-05,Hipertension
+P-00498,Ricardo Rolando Mata,25-03-2003,femenino,163.5,47.0,Yes,19/08/2024,Dolor lumbar
+P-00499,Cristal Soria Gastélum,30/09/1943,femenino,171.2,74.9,N,19/10/2025,Asmaa
+P-00500,José María Fuentes Paredes,28-12-1941,FEM,172.3,0,1,20/01/2026,COVID-19
+P-00501,Diana Yáñez,18/09/2008,m,157.6,66.3,Sí,2024-02-06,COVID-19
+P-00502,Juana Riojas Calvillo,22-02-1965,F,179.8,60.5,S,12-16-2025,Diabetes tipo 2
+P-00503,Gregorio Zapata,1971-07-26,M,149.3,69.3,1,04/11/2023,Dolor lumbar
+P-00504,Eloisa Rodríguez,2016-07-22,m,160.2,115.2,1,01-31-2023,COVID-19
+P-00505,Omar Ureña Carrión,02/06/1956,Mujer,151.0,102.6,Yes,14/02/2023,Colesterol alto
+P-00506,Ing. Teresa de León,06-01-2007,F,141.6,,N,01-23-2026,Deprecion
+P-00507,Ing. Pilar Montes,1987-05-27,H,180.6,75.8,N,2024-06-09,Ansiedad
+P-00508,Ing. Genaro Samaniego,01/12/1967,masculino,154.1,73.9,Sí,08-04-2024,Dolor lumbar
+P-00509,Enrique Rolando Quiroz Benavídez,08-Jul-1981,masculino,0,80.6,N,2024-06-08,Gripe estacional
+P-00510,Isabel Balderas,02-Mar-1944,F,165.2,74.3,No,04-21-2023,Ansiedad
+P-00511,Adán Aragón,28-Mar-1959,Mujer,168.2,,N,03-11-2024,Colesterol alto
+P-00512,Mtro. Estefanía Hernádez,12-08-2002,f,188.5,88.8,N,03-19-2024,Asma
+P-00513,Aurora Espinoza,1939-10-25,masculino,172.2,103.4,Yes,14/06/2025,Dolor lumbar
+P-00514,Angélica Ybarra,25-12-1963,femenino,184.0,100.1,N,16/01/2025,COVID-19
+P-00515,Gabriela Eugenio Díaz Maldonado,27-Jan-2017,M,188.5,51.5,No,20/04/2025,Hipertension
+P-00516,Mauro Amador Naranjo,03-Dec-2022,FEM,164.1,80.1,S,12-03-2024,Asma
+P-00517,María Luisa Alcántar,31/03/2023,m,159.4,68.4,Yes,25/02/2025,Dolor lumbar
+P-00518,Amador Alejandro,02/03/1975,Hombre,154.8,113.4,0,2023-04-17,Azma
+P-00519,Agustín Gloria Carrillo,01-Feb-1946,Hombre,168.3,75.5,N,24/04/2024,COVID-19
+P-00520,Arturo Figueroa Mata,26-Apr-2010,M,183.8,112.3,Sí,19/04/2023,Dolor lumbar
+P-00521,Mauro Valles Madera,1945-10-15,Hombre,173.1,67.3,1,02-01-2024,COVID-19
+P-00522,Lic. Camila Urrutia,20-Mar-2003,femenino,173.1,45.4,true,2023-10-18,Diabetes tipo 2
+P-00523,Yolanda Ramón Vega Santillán,29/09/2019,FEM,182.7,114.4,false,05-07-2025,Colesterol alto
+P-00524,Marcela Ernesto Echeverría,27/06/1981,masculino,141.0,117.5,0,11/12/2024,Asma
+P-00525,Abigail Reina Jaramillo Fernández,08-Jun-1925,femenino,189.4,,false,14/12/2023,Migraña cronica
+P-00526,Francisco Ballesteros,2024-03-19,F,183.6,56.0,No,10-01-2024,Diabetes tipo 2
+P-00527,Jacobo Barragán,1935-05-21,masculino,141.4,51.9,false,07-27-2025,Hipertension
+P-00528,Adalberto Salcedo,2007-05-23,M,143.2,56.3,Yes,03/09/2024,COVID-19
+P-00529,Zoé Andrés Carrillo Estévez,1935-08-11,m,165.1,74.2,false,2025-11-18,Gripe estacional
+P-00530,Rolando Elisa Ureña Gómez,1947-03-02,F,172.9,86.5,0,01-13-2026,Ansiedad
+P-00531,Beatriz Godínez Terrazas,20-Dec-1993,FEM,155.8,69.9,0,2024-09-10,Hipertesion
+P-00532,Reina Canales,13-02-1929,F,0,97.2,1,2024-08-03,Dolor lumbar
+P-00533,Sr(a). Daniel Quezada,08-04-2016,H,0,60.6,true,08-30-2024,COVID-19
+P-00534,José Manuél Grijalva Quintero,07-Feb-1992,M,154.9,95.2,S,23/05/2023,Ansiedad
+P-00535,Marcela Vélez,20-Apr-1979,M,188.8,66.5,S,06-17-2023,Depresion
+P-00536,Joaquín Violeta Almanza Lozano,1999-08-28,F,189.2,63.8,S,11-11-2023,Diabetes tpo 2
+P-00537,Ing. Carlos Salas,08-08-2022,f,145.0,93.8,0,2023-06-13,Dolor lumbar
+P-00538,Santiago Urbina,08/04/1926,femenino,149.6,46.1,0,2024-01-23,Ansiedad
+P-00539,Modesto Luis Salgado Gaitán,26/04/2015,H,157.9,,No,17/08/2023,COVID-19
+P-00540,Darío María Camarillo de la Torre,1954-10-29,Mujer,168.8,51.4,false,04-30-2025,Migraña cronica
+P-00541,Sofía María Cristina Galván,19-08-1967,femenino,189.5,77.8,Sí,06-03-2023,Ansiedad
+P-00542,Francisca Florencia Robles,20-Apr-1980,femenino,174.7,105.9,S,01-27-2025,Gripe estacional
+P-00543,Lic. Cristobal Malave,06/02/2002,f,168.4,52.8,false,04/08/2024,COVID-19
+P-00544,Virginia Lorena Concepción Cervantes,05-Nov-1971,masculino,185.5,66.9,Sí,08/05/2024,Ansiedad
+P-00545,Timoteo Ramiro Noriega Alva,1963-08-28,masculino,157.0,89.1,N,07-19-2024,COVID-19
+P-00546,Ing. Ariadna Tijerina,14-Aug-1951,H,172.0,96.4,0,16/12/2023,Azma
+P-00547,María del Carmen Clemente Baeza,12/06/1938,M,152.2,50.1,true,15/05/2025,Colesterol ato
+P-00548,Rosario Francisca Contreras,1972-09-24,f,157.2,117.5,0,09-23-2025,Depresion
+P-00549,José Tijerina Rincón,19-Sep-1978,Hombre,160.9,101.1,1,11-14-2024,Gripe estacional
+P-00550,Ilse Bustos,1929-07-03,F,,62.8,N,05/02/2023,Hipertension
+P-00551,Dulce Miguel Quiroz Zepeda,31-05-1987,M,155.6,89.3,Sí,02/03/2023,Colesterol alto
+P-00552,Fernando Sanabria,27-02-1958,femenino,186.6,86.6,false,06/08/2024,Asma
+P-00553,Sr(a). Luis Miguel Salazar,27-Aug-1987,f,157.6,113.9,true,08-30-2024,Dolor lumbar
+P-00554,Liliana Barela,1980-12-18,F,156.2,65.0,Sí,2023-12-27,COVID-19
+P-00555,Ing. Margarita Dueñas,23/11/2023,f,148.4,,false,07-03-2023,Hipertension
+P-00556,Ofelia Terrazas Lucio,19-04-1952,Mujer,182.6,69.3,false,18/10/2025,Hipertesion
+P-00557,Mtro. Lorenzo Bermúdez,07-01-2022,F,144.8,95.6,N,01/07/2024,Migraña cronica
+P-00558,Agustín Mitzy Díaz Madera,27/05/1969,M,183.3,90.7,S,2023-05-18,Hipertension
+P-00559,Angélica Moya,25-Feb-1994,H,189.4,88.4,N,2023-08-23,Migraña cronica
+P-00560,Lic. Karla Perea,24-Nov-2004,FEM,189.2,58.4,0,02-24-2023,Ansiedad
+P-00561,Dr. Bernabé Collazo,24-Feb-2001,femenino,147.4,98.3,N,12/11/2025,Gripe estacional
+P-00562,Martha Romero,1970-04-02,Mujer,168.4,49.6,false,2024-07-19,Colesterol alto
+P-00563,Paola Calderón,23/06/1930,femenino,183.1,20.7,Sí,09-16-2025,Colesterol alto
+P-00564,Dr. Eva Gamboa,12-Mar-1958,m,189.0,117.4,Yes,12-22-2024,Depresion
+P-00565,Paola Gonzalo Rico Alcántar,02-Sep-1995,FEM,,74.2,1,05-03-2025,Diabetes tpo 2
+P-00566,Armando Arellano,28-07-1956,m,184.8,184.1,N,2024-08-06,Ansiedad
+P-00567,Luisa Arredondo,24/07/1948,F,150.8,81.4,S,2025-08-07,Gripe estacional
+P-00568,Juana Varela Varela,09-07-1958,M,177.0,47.6,S,04-28-2024,Migraña cronica
+P-00569,Mtro. Estefanía Leyva,10-Jan-1941,H,181.4,72.3,N,09-25-2024,Migraña cronica
+P-00570,Hernán Andrea Farías,11-04-1938,m,157.6,46.7,0,12/04/2024,Gripe estacional
+P-00571,Dr. Gerónimo Granado,06-11-1935,H,141.8,,Sí,2025-09-04,Asma
+P-00572,Fernando Bonilla,06-09-1998,M,151.3,116.8,N,2023-07-13,COVID-19
+P-00573,Ing. Francisco Vigil,08/12/1989,F,188.6,99.4,No,28/04/2023,Asmaa
+P-00574,Rufino Perales Villalobos,10-Mar-1952,f,175.3,119.2,No,19/04/2024,Hipertension
+P-00575,Anel Corrales Briseño,29-May-2017,M,168.2,93.3,Sí,06/02/2025,Gripe estacional
+P-00576,Ing. Santiago Salas,2023-10-11,Mujer,155.4,72.7,true,05/01/2026,Ansiedad
+P-00577,Rebeca Fernando Chapa Herrera,1933-11-12,FEM,177.7,104.9,0,07-14-2023,Diabetes tipo 2
+P-00578,Alejandro Dulce Morales,2015-08-26,f,152.8,113.8,S,2023-05-09,COVID-19
+P-00579,Olivia Cepeda Noriega,31-Aug-2017,Hombre,157.6,80.0,false,09-02-2024,Colesterol ato
+P-00580,Jorge Agustín Ulibarri,07-Apr-1964,f,175.3,93.5,0,2024-01-26,Colesterol alto
+P-00581,Lic. Clara Gallardo,22/03/1936,Mujer,172.4,105.0,false,27/09/2023,Hipertension
+P-00582,Luisa José Carlos Camacho,09-Jan-1970,FEM,,103.8,S,05-23-2023,Dolor lumbar
+P-00583,Eloisa Clemente Armendáriz,12-Oct-1963,F,157.7,66.0,Yes,29/09/2024,Migraña cronica
+P-00584,Eva Pizarro,13-Jun-1963,m,173.0,80.6,true,2025-07-24,Depresion
+P-00585,Judith María Eugenia Pacheco,27-Jan-2006,F,164.7,107.9,No,05-06-2024,Deprecion
+P-00586,Cristian Elvira Gaitán,18-Jul-1961,H,155.0,94.4,Sí,2023-02-08,COVID-19
+P-00587,Andrés Aldonza Preciado Nájera,2020-01-15,f,183.8,,1,2023-10-05,Gripe estacional
+P-00588,Porfirio Figueroa,20-04-2022,Mujer,142.8,75.9,N,09-21-2024,Colestero alto
+P-00589,Ing. Rosario Calvillo,1971-12-18,femenino,145.5,56.5,0,11-17-2023,Gripe estacional
+P-00590,Abril Montes Jaime,04-Nov-1996,f,154.5,76.4,No,11-07-2023,Colestero alto
+P-00591,Concepción Rufino Alemán,1956-01-28,F,186.4,108.2,S,31/12/2023,Colesterol ato
+P-00592,Sr(a). Esparta Nazario,1968-04-21,FEM,189.5,59.6,0,2025-12-16,COVID-19
+P-00593,Mtro. Itzel Bétancourt,2001-07-22,F,166.3,86.3,Sí,12/07/2025,Asma
+P-00594,Lucas Mireles,1979-02-04,femenino,162.1,49.7,1,07-21-2025,Ansiedad
+P-00595,Benjamín Natalia Vásquez,24-11-1949,F,170.8,112.4,0,01-12-2026,Dolor lumbar
+P-00596,Ariadna Batista Maldonado,1963-06-07,F,140.5,59.2,N,03-29-2025,Hiperension
+P-00597,Aida Limón,1989-04-06,f,144.7,69.7,N,11-10-2023,Colesterol ato
+P-00598,Sr(a). Eloisa Orta,2020-02-28,f,183.3,88.5,N,08-19-2023,Hipertension
+P-00599,Pilar Rosario,1970-02-06,Mujer,134.1,96.1,Sí,2024-02-07,Dolor lumbar
+P-00600,Julio César Regalado,2011-12-06,Hombre,151.0,98.6,S,12-20-2024,Diabetes tipo 2
+P-00601,Guillermo Sotelo,1957-10-02,masculino,0,95.0,false,2024-03-01,COVID-19
+P-00602,Dr. María Teresa Cazares,31-Jul-2018,FEM,173.0,,false,07-01-2023,Depresion
+P-00603,Estela Torres,09/03/1993,FEM,170.3,69.4,Sí,12-10-2025,Dolor lumbar
+P-00604,Catalina Luis Calvillo Mejía,04/09/1934,f,,116.7,Sí,11-20-2025,COVID-19
+P-00605,Mtro. Julia Manzanares,2021-01-13,M,164.6,84.0,true,17/05/2024,Ansiedad
+P-00606,Salma Miguel Ángel Franco Centeno,04/03/2020,M,178.9,108.5,Sí,18/05/2025,Asma
+P-00607,Wendolin Rocío Mojica,11-Oct-1956,femenino,177.5,101.1,0,2025-11-29,Ansiedad
+P-00608,Iván Catalina Velasco Casillas,21-02-1933,m,172.9,95.0,Sí,09-18-2023,Dolor lumbar
+P-00609,Reina Candelaria Espino,1929-11-12,f,186.8,62.3,Sí,23/05/2023,Migraña cronica
+P-00610,Ana María Bernal,25-Nov-1995,femenino,146.7,89.7,S,2023-02-12,Dolor lumbar
+P-00611,Celia Marcela Castillo Osorio,01/11/1995,F,172.8,85.0,false,19/01/2026,Gripe estacional
+P-00612,Antonia Abrego Ulloa,06/02/1970,F,144.0,88.6,No,05-30-2025,Diabetes tipo 2
+P-00613,Sr(a). Irma Manzanares,1998-03-25,M,177.8,,S,01-26-2024,Gripe estacional
+P-00614,Lic. Yeni de la O,05-09-2005,FEM,141.9,95.4,No,2025-12-12,COVID-19
+P-00615,Socorro Bustamante,2007-11-08,M,188.0,74.9,Yes,19/04/2025,Colesterol alto
+P-00616,Paola Hernádez Valdivia,2014-09-19,H,147.6,119.4,0,11/12/2025,COVID-19
+P-00617,Delia Adame Heredia,27-Jan-1935,masculino,140.1,64.1,Yes,2024-03-20,Depreson
+P-00618,Lic. Esteban Treviño,11-Jun-1947,m,175.9,118.3,S,27/06/2025,Depresion
+P-00619,Ing. Gregorio Rocha,1935-05-23,Hombre,179.4,68.4,N,2025-11-15,Diabetes tipo 2
+P-00620,Lic. Aldo Otero,18-Jan-1980,m,181.4,66.9,false,23/08/2025,COVID-19
+P-00621,Roberto Rosa Ramírez Ramos,01-Jul-1986,f,157.3,109.4,true,08-28-2024,Diabetes tipo 2
+P-00622,Mtro. Celia Alva,22-03-1997,m,165.5,17.7,false,06/07/2025,Gripe estacional
+P-00623,Estefanía Sauceda Polanco,12-Oct-2017,FEM,,97.6,No,12/08/2025,Hipertension
+P-00624,Esther Bahena,27-07-1941,f,148.6,90.8,No,23/06/2024,Asma
+P-00625,Mtro. Leonel Robles,17-Jun-1953,Mujer,149.0,78.7,false,2024-06-18,Ansiedad
+P-00626,Eric Solano Montero,2010-09-14,m,177.9,73.7,Sí,07-14-2025,Hipertension
+P-00627,Ing. Timoteo Páez,14-Aug-2012,Mujer,122.0,69.7,false,09-22-2023,Dolor lumbar
+P-00628,Elena Ángela Terán Zambrano,07/06/1927,f,,92.0,true,11/05/2025,COVID-19
+P-00629,Diana Zarate Ávalos,19-05-1926,masculino,168.4,98.8,S,06-14-2023,Diabetes tipo 2
+P-00630,Óscar María José Medina,21/05/1952,masculino,229.4,49.6,N,2025-06-21,Ansiedad
+P-00631,Diana Mejía,03-03-1930,FEM,183.8,106.4,false,2023-08-06,Depreson
+P-00632,Cristal Raya del Valle,16-Mar-1978,masculino,177.6,,No,05-06-2024,Depresion
+P-00633,Ivonne Lovato,2010-11-21,Hombre,165.6,46.0,N,07-06-2023,Depreson
+P-00634,Adalberto Báez Nevárez,06/04/1943,f,171.9,101.6,Yes,2024-05-01,Migraña cronica
+P-00635,Lic. Araceli Prado,12/07/1956,femenino,178.2,58.7,N,05-12-2024,Gripe estacional
+P-00636,Octavio Jorge Luis Dávila,28/04/1928,F,170.4,0,1,04/08/2024,Depresion
+P-00637,Antonia Barrios,26-10-1947,masculino,140.7,0,false,2025-12-25,Gripe estacional
+P-00638,Abel Manzanares,07/12/1996,M,185.1,64.3,Sí,06/12/2024,Gripe estacional
+P-00639,Jos Iván Urbina Quintanilla,14/11/2010,F,156.2,83.8,true,08-25-2023,Gripe estacional
+P-00640,Eugenio María Eugenia Cedillo Moreno,01-03-1928,FEM,,86.7,N,2026-01-26,Dolor lumbar
+P-00641,Eloisa Trinidad Zambrano Valdivia,29-Nov-1942,f,164.2,0,1,2025-11-22,Dolor lumbar
+P-00642,Mtro. Bernardo Montenegro,06/04/2016,m,154.9,67.9,false,05/08/2023,Depresion
+P-00643,Cristobal Gollum Muñiz,14-01-1930,Hombre,176.6,63.5,Yes,2024-07-29,Colesterol ato
+P-00644,Araceli Guadalupe Carranza León,1934-09-28,m,183.9,111.0,No,13/12/2024,Hipertesion
+P-00645,Úrsula Ana María Arteaga,12-02-1956,femenino,153.4,53.1,No,13/10/2025,COVID-19
+P-00646,Esperanza Saldivar Serna,2016-01-24,F,155.9,151.7,Yes,25/06/2024,COVID-19
+P-00647,Gabriel Quiñones,19-01-1993,femenino,145.0,54.1,1,2023-11-01,Hipertension
+P-00648,Arturo David Becerra,12/05/1959,femenino,,57.0,S,2024-07-14,COVID-19
+P-00649,Pablo Abel Arenas Peña,01-Jul-1948,Mujer,167.4,56.4,false,2024-04-30,Gripe estacional
+P-00650,Sr(a). Elvira Villanueva,06/06/1925,Hombre,175.2,50.0,S,07/11/2023,COVID-19
+P-00651,Victoria Catalina Castellanos,1941-07-25,femenino,162.6,90.9,false,29/03/2024,Depreson
+P-00652,Eva René Gálvez Monroy,22-Jul-1975,H,170.0,,N,2023-05-26,Diavetes tipo 2
+P-00653,Abel Montenegro,04-Feb-1981,masculino,174.4,89.3,S,11/03/2024,Colesterol alto
+P-00654,Hermelinda Zoé Espino,1991-10-13,M,145.0,62.0,false,12-23-2024,Colesterol alto
+P-00655,Patricio Dolores Gracia Arteaga,1964-11-10,F,158.8,48.9,0,2025-12-18,Hipertension
+P-00656,Pilar Trinidad Saiz Casares,04-01-1975,Hombre,176.2,53.4,No,11-03-2024,Ansiedad
+P-00657,Antonio Rosalia Raya,21-07-2006,m,175.3,93.3,1,19/05/2023,Hipertension
+P-00658,Gabriel Mateo Méndez,22-May-1951,Mujer,172.1,110.7,No,2024-11-30,Ansiedad
+P-00659,Mitzy Cabán Cortez,1940-04-14,m,179.6,138.1,0,04-01-2023,Depresion
+P-00660,Laura María Cristina Mascareñas Bonilla,04-Aug-1991,m,189.7,54.9,false,04-28-2024,Depreson
+P-00661,Javier Gabriel Contreras Aguayo,08/12/1992,M,173.8,100.3,N,05-29-2025,Diabetes tipo 2
+P-00662,Mtro. Francisca Iglesias,27-Mar-2014,femenino,180.6,49.7,false,14/10/2023,Migraña cronica
+P-00663,Antonio Armas,2008-12-21,Hombre,175.2,,0,2025-10-28,Depresion
+P-00664,Eugenia Magaña Samaniego,21-Feb-2013,FEM,147.2,80.0,true,2024-12-11,Colesterol alto
+P-00665,Dr. Jacinto Cortez,07-02-1995,F,176.9,72.1,N,25/02/2023,Diabetes tipo 2
+P-00666,Rafaél Adela Barrios,14-Jun-1996,FEM,174.0,113.1,true,02-20-2023,Asma
+P-00667,Leonor Esperanza Duarte,1937-08-06,M,146.8,0,1,28/11/2023,Colesterol ato
+P-00668,Sr(a). Cristobal Lerma,1936-11-15,M,182.7,100.0,false,07-28-2024,Ansiedad
+P-00669,Felix Solorio Correa,21-Mar-2024,masculino,150.2,86.6,1,2023-04-14,Diavetes tipo 2
+P-00670,Vicente Ortiz Lomeli,09-10-2001,H,149.2,49.9,Yes,12-03-2023,Gripe estacional
+P-00671,Ricardo Villagómez,26/08/1959,M,186.2,,S,05/07/2023,COVID-19
+P-00672,Ilse Zeferino Escalante Santillán,1949-06-09,FEM,172.7,84.8,Yes,05-13-2025,Asmaa
+P-00673,María Teresa Clara Munguía,2022-09-22,femenino,0,108.4,No,2024-01-28,Migraña cronica
+P-00674,Soledad Mitzy Alva Ontiveros,08-May-1950,femenino,145.6,78.4,Yes,08-18-2023,Diavetes tipo 2
+P-00675,Leonor Mota Gaitán,17/12/1986,f,168.8,82.7,No,15/01/2025,COVID-19
+P-00676,Tania Catalina Valverde Nieves,16-Aug-2020,M,144.8,60.7,false,18/10/2025,Diabetes tipo 2
+P-00677,Hernán Sonia Delgadillo Valdés,1988-01-17,H,184.8,112.8,Sí,10-21-2023,Migraña cronica
+P-00678,Virginia Sonia Pabón Narváez,17-Dec-1973,H,169.3,47.9,Yes,2023-07-04,COVID-19
+P-00679,Jacobo Orozco,10/06/2019,masculino,170.9,98.9,N,01-26-2026,Diabetes tipo 2
+P-00680,Gonzalo Laureano Valdez,20/10/2007,m,175.5,85.9,false,11-17-2024,Ansiedad
+P-00681,Mtro. Sonia Tirado,08-11-2020,M,163.9,83.0,S,2025-06-29,Migraña cronica
+P-00682,Esmeralda Rodríquez Cintrón,20-07-2015,m,185.6,99.3,Yes,2023-04-01,Depresion
+P-00683,Humberto Mascareñas,03-03-1963,H,145.6,46.6,Yes,10-23-2024,Depreson
+P-00684,Linda Barbara Muñoz,1932-05-02,femenino,187.5,111.5,No,2025-01-04,Migraña cronica
+P-00685,Nadia Federico Carbajal,15/03/1977,F,0,65.6,0,2025-12-21,Hipertension
+P-00686,Ernesto Isabela Lomeli Muñoz,1957-09-29,M,159.3,76.0,N,02/05/2025,Hipertension
+P-00687,María José Concepción Ochoa Rocha,1950-08-27,masculino,168.2,82.3,N,12-21-2025,Ansiedad
+P-00688,Esther Sáenz,10-Apr-1996,M,182.5,105.7,S,2024-10-27,COVID-19
+P-00689,Homero Carvajal,1984-11-13,M,147.1,,Sí,08/03/2023,Ansiedad
+P-00690,Karla Macías Munguía,04-08-1985,M,186.8,117.7,Sí,07-04-2024,Diabetes tipo 2
+P-00691,Mayte Pablo de Jesús,08/06/2011,Mujer,164.2,105.0,N,07-19-2024,Gripe estacional
+P-00692,Samuel Ferrer de Jesús,1960-09-29,H,174.9,94.3,1,07/04/2025,Asmaa
+P-00693,María Elena Flavio Espinoza,26-Oct-1998,Hombre,156.3,76.2,false,10/06/2024,Dolor lumbar
+P-00694,Marcos Prieto,18-05-2011,H,189.7,83.2,S,30/05/2025,Ansiedad
+P-00695,Fidel Esperanza Mora Salazar,1996-01-14,FEM,172.4,100.6,Sí,24/10/2025,Depresion
+P-00696,Salvador Ricardo Miranda,23-08-1961,Hombre,176.5,0,Sí,2024-06-05,Depresion
+P-00697,Dr. Julia Marín,12-Sep-2010,H,178.7,79.1,N,09-30-2024,Depresion
+P-00698,Sessa Octavio Laureano Roque,13-10-1945,FEM,186.5,107.4,No,10-11-2024,Diavetes tipo 2
+P-00699,Noemí Abelardo Malave,1990-10-07,Hombre,141.1,105.6,0,2024-09-07,Ansiedad
+P-00700,Gustavo Benavídez Tapia,28-Jan-2018,FEM,176.8,95.7,Yes,08-03-2023,Colesterol alto
+P-00701,Sr(a). Eloy Brito,1991-09-30,FEM,189.3,105.8,Yes,2025-01-05,Hipertension
+P-00702,Rolando Hernán Ojeda,08/07/1928,femenino,175.2,70.6,0,2024-10-09,Diabetes tipo 2
+P-00703,Omar Velázquez Prieto,16-07-1944,F,162.7,104.8,Sí,07/11/2025,Depresion
+P-00704,María Elena Ponce,2004-12-06,H,,91.8,No,14/07/2024,COVID-19
+P-00705,Ing. José Eduardo Pedraza,04/11/2006,f,144.7,86.2,No,2023-11-09,Migraña cronica
+P-00706,Humberto Arguello Rivero,15-Jun-1980,Hombre,152.7,106.4,false,2023-08-24,Dolor lumbar
+P-00707,Isaac Saldaña Cabán,17-10-1941,Mujer,173.5,118.5,false,06-19-2023,Diabetes tipo 2
+P-00708,Mtro. Amalia Berríos,28-Feb-1926,FEM,171.1,98.1,Yes,2024-05-24,Asma
+P-00709,Leonel Casanova,30-May-2009,F,176.1,50.2,No,14/11/2025,Hipertension
+P-00710,Cristobal Ricardo Contreras Barraza,2008-11-15,F,188.9,107.1,true,12-30-2023,Hipertension
+P-00711,Paola Sara Laboy,22/03/1971,FEM,143.9,53.3,false,2025-05-13,COVID-19
+P-00712,Beatriz Juana Navarro,23-Jul-2000,FEM,168.5,119.0,false,11-01-2025,Hipertension
+P-00713,Cristian Dueñas Carrillo,22-01-2004,M,162.6,106.7,No,05-21-2024,Dolor lumbar
+P-00714,Fidel Arenas,20-May-1996,Mujer,0,86.5,true,2023-12-25,Colesterol alto
+P-00715,Lic. Jorge León,22/05/2024,Hombre,181.2,85.2,N,2023-11-07,Gripe estacional
+P-00716,Timoteo García,1977-02-26,F,147.3,111.4,N,24/10/2023,Gripe estacional
+P-00717,María Teresa María Eugenia Gaitán,19-Apr-1984,M,180.4,119.8,Yes,2025-05-01,Asma
+P-00718,Noelia Noemí Galindo Castillo,08/03/1949,femenino,178.4,117.2,N,09-13-2024,Gripe estacional
+P-00719,Rolando Jerónimo Caldera Zambrano,2006-12-03,f,166.4,0,N,18/11/2025,Depreson
+P-00720,Mtro. Alicia Tirado,07-Mar-1925,M,158.8,76.7,0,2025-07-08,Migraña cronica
+P-00721,Dr. Ricardo Sepúlveda,30-Jul-2018,f,145.8,57.5,S,2023-06-20,Hipertension
+P-00722,Porfirio Cardenas Rodríguez,28-01-1972,Mujer,149.2,66.2,0,2025-05-29,Ansiedad
+P-00723,Ing. Ruby Saavedra,31-01-1956,M,178.7,118.9,Sí,03-05-2025,Depresion
+P-00724,Tania Nevárez,14-Jul-1944,femenino,176.6,24.0,0,10-21-2024,Dolor lumbar
+P-00725,Ing. Alberto Varela,14-06-1953,femenino,182.9,81.7,0,31/03/2025,Deprecion
+P-00726,Indira Juárez,06/12/1995,masculino,161.1,54.3,1,2025-10-23,Depreson
+P-00727,Nayeli Blanca Elizondo,1993-02-25,FEM,188.3,69.1,true,2025-08-10,COVID-19
+P-00728,María Alba Robledo,25-01-2019,masculino,181.0,,true,2025-09-01,Colesterol alto
+P-00729,Darío Padilla Cadena,2004-01-20,M,,71.9,1,07-25-2023,Ansiedad
+P-00730,Marisela Gerónimo Valentín Carvajal,30-09-1959,masculino,151.7,101.8,Yes,2025-05-29,Asma
+P-00731,Wendolin Roldán,1980-03-01,Mujer,165.1,74.0,false,06-22-2024,Depresion
+P-00732,Cristal Magdalena Valverde Madrid,28/06/2025,Mujer,181.0,77.6,true,04-26-2023,Gripe estacional
+P-00733,Patricio Guadalupe Gallegos,21/07/1938,H,185.5,56.3,0,2023-11-28,Diabetes tpo 2
+P-00734,Yolanda Sauceda Pizarro,16-Sep-1958,F,173.6,101.1,No,05/11/2024,Depresion
+P-00735,Ana Luisa Vélez Gálvez,01/11/1980,masculino,0,99.0,false,06-09-2025,Migraña cronica
+P-00736,Felipe Luis Manuel Becerra Vásquez,09-May-1960,H,187.9,98.6,Yes,2025-07-14,Diabetes tipo 2
+P-00737,José Manuél Espinal,2010-02-04,F,186.5,51.8,N,03-10-2024,Hiperension
+P-00738,Guillermina Muñoz,14-Jul-1984,Mujer,176.3,90.4,true,07-16-2025,Deprecion
+P-00739,Carlota Cristian Bustos,12-03-2018,F,147.4,115.7,Sí,22/11/2025,Ansiedad
+P-00740,Eugenio Alberto Ochoa,1928-06-23,F,165.1,118.6,0,09/10/2023,Colestero alto
+P-00741,Ofelia Cardenas Cuellar,08-04-1932,Mujer,140.7,56.2,Sí,15/04/2023,Hipertension
+P-00742,Lic. Florencia Leiva,21-05-1938,M,173.2,97.6,true,11/01/2024,Gripe estacional
+P-00743,Rubén Camila Medrano Alarcón,04-03-1956,Hombre,164.8,64.1,Yes,07/03/2024,Gripe estacional
+P-00744,Sr(a). Delia Estévez,1990-08-05,masculino,146.8,88.5,No,24/12/2025,Depreson
+P-00745,Lic. Luisa Carrasco,17/09/2006,masculino,184.1,73.4,Yes,07-05-2023,Ansiedad
+P-00746,Jorge Sánchez Valverde,1997-06-29,f,153.5,66.8,0,2025-06-17,Migraña cronica
+P-00747,Benjamín Norma Baeza,29-Aug-1940,H,151.5,46.2,Yes,30/11/2023,Gripe estacional
+P-00748,Estela Salinas,1985-10-11,f,161.9,98.2,N,02-16-2023,Dolor lumbar
+P-00749,Ing. Flavio Aguayo,22/03/1955,Mujer,174.0,61.7,N,22/03/2024,Deprecion
+P-00750,Jorge Pilar Romo,23-Apr-1926,masculino,140.1,73.9,0,2023-03-31,Colesterol alto
+P-00751,Luisa Dalia Dávila,02/07/1986,masculino,169.4,82.5,No,22/05/2025,COVID-19
+P-00752,Minerva Roberto Castillo Angulo,1930-09-05,m,189.0,101.9,0,04-16-2025,Migraña cronica
+P-00753,Maximiliano Terán Lucio,1973-06-09,H,173.8,83.5,No,01-20-2024,COVID-19
+P-00754,Zeferino Cynthia Yáñez Cuellar,26/06/1999,M,144.0,87.0,N,16/02/2025,Ansiedad
+P-00755,Dr. María José Cortés,24-11-1955,masculino,186.1,97.8,1,2023-12-12,Colesterol alto
+P-00756,Esther Guardado Paz,04-Aug-2015,FEM,146.6,93.3,true,2023-04-13,COVID-19
+P-00757,Héctor Roque,16-Oct-1940,FEM,149.6,103.0,No,05-23-2025,Asmaa
+P-00758,Yolanda Ramiro Rentería Villa,30/09/1937,F,188.4,102.4,false,02/02/2025,Colesterol ato
+P-00759,Eric María del Carmen Orosco,1947-09-13,m,151.5,75.1,N,02-11-2024,Asma
+P-00760,Ricardo Cortez Zúñiga,03/02/1985,FEM,145.8,109.2,0,06/11/2024,Asma
+P-00761,Ramiro Dolores Vega Martínez,1961-03-27,masculino,166.0,42.4,1,21/10/2023,COVID-19
+P-00762,Mtro. Adela Maldonado,24/11/1932,femenino,164.6,80.7,Yes,01-20-2025,Dolor lumbar
+P-00763,Amanda Pantoja,16-04-2021,masculino,177.1,108.1,true,03-29-2024,Depresion
+P-00764,Sr(a). Dulce Ozuna,29-08-2007,masculino,183.1,104.5,Sí,04/03/2025,Migraña cronica
+P-00765,Eduardo Pilar Girón Lovato,07/06/2003,femenino,168.6,117.9,N,11-16-2024,Migraña cronica
+P-00766,Elvira Sauceda Bueno,27/08/1971,H,182.0,148.6,N,2023-07-05,Ansiedad
+P-00767,Eloisa Gurule Flores,16-Sep-1981,FEM,150.5,97.8,N,2023-12-21,Asma
+P-00768,Clemente Nájera,30-Mar-1927,Mujer,177.5,48.0,0,2025-03-14,COVID-19
+P-00769,Liliana Manuel Beltrán Crespo,03-Nov-1982,femenino,159.7,70.1,S,06-30-2024,COVID-19
+P-00770,Noelia Ignacio Carrera Rentería,1974-06-03,H,189.6,95.6,1,2024-07-18,Hipertension
+P-00771,Serafín Matos,01/11/1994,F,156.0,97.5,Sí,06/05/2024,Diabetes tipo 2
+P-00772,Ing. Gerónimo Villaseñor,23-Sep-1993,H,187.7,107.4,1,2024-03-01,Hipertension
+P-00773,Juan Luis Manuel Casares,15/07/1964,f,243.3,70.1,No,07-05-2025,Depresion
+P-00774,Paola Inés Rentería,2017-09-20,Mujer,99.8,50.3,Sí,07/07/2024,Colesterol alto
+P-00775,Mitzy Barrios Franco,24-Oct-2005,f,141.1,81.5,No,2023-02-25,Ansiedad
+P-00776,María José Cristobal Palomino Villalpando,06/07/1944,femenino,157.3,69.7,true,02-02-2025,Migraña cronica
+P-00777,Dr. Yeni Echeverría,1938-03-31,Mujer,144.7,108.1,true,11-28-2025,Gripe estacional
+P-00778,José Emilio del Río Valenzuela,19/07/1970,masculino,155.2,119.6,1,07-27-2024,Asma
+P-00779,Jonás Gaytán Urrutia,1934-07-02,f,141.3,118.0,false,11/01/2025,COVID-19
+P-00780,Sandra Blanca Zaragoza Ocampo,08/05/1931,H,171.2,117.7,N,02-16-2025,Gripe estacional
+P-00781,Ing. Lourdes Meraz,07-02-2015,M,57.7,106.1,Sí,04-25-2023,COVID-19
+P-00782,Mario Negrón Saavedra,15-May-1973,Hombre,143.9,,0,05-19-2024,Migraña cronica
+P-00783,Adalberto Cortez Juárez,15/11/1926,M,140.1,100.4,true,02-07-2024,Dolor lumbar
+P-00784,Dr. Miguel Sarabia,07-09-1980,m,176.7,50.5,0,02/11/2024,COVID-19
+P-00785,Adela Jaimes,2012-07-22,H,165.0,77.2,0,07-13-2025,Azma
+P-00786,Julia Hernán Sauceda Carmona,1929-03-07,f,158.7,,N,11-02-2024,Colesterol alto
+P-00787,Gustavo Madrigal,2024-06-15,Hombre,177.2,91.1,Sí,02-05-2025,Diabetes tipo 2
+P-00788,Mauricio Silvano Marín Puga,07-Oct-1930,masculino,170.0,,false,2025-06-08,Hipertesion
+P-00789,Fidel Vásquez,01/04/2018,masculino,167.8,74.5,false,22/05/2023,Asmaa
+P-00790,Sr(a). Minerva Tamayo,2000-10-23,H,153.2,47.8,false,01-04-2026,COVID-19
+P-00791,Eva Emilia Loera,17-Jun-2011,F,188.7,71.1,No,2023-07-29,Colesterol ato
+P-00792,Sergio Alma Negrón,2017-01-20,M,174.0,49.6,false,04-30-2024,Depresion
+P-00793,Mtro. Nelly Sevilla,14-Apr-2012,FEM,151.6,96.5,S,2023-12-25,Ansiedad
+P-00794,Sonia Centeno,09-Jun-1943,H,,97.6,S,14/08/2024,Diabetes tipo 2
+P-00795,Estela Montoya Mireles,19-Jan-2006,H,158.7,56.1,N,26/03/2025,Diabetes tipo 2
+P-00796,Ing. Raquel Cardona,01/03/1927,M,173.3,83.0,N,13/07/2025,Gripe estacional
+P-00797,Mtro. Berta Ávila,02-Mar-1928,M,146.5,45.6,N,2025-06-21,Hipertension
+P-00798,Ing. Elvira Casárez,22-Oct-1959,Hombre,146.4,95.2,1,12-24-2024,Gripe estacional
+P-00799,Gerardo Marroquín Archuleta,23-Jun-2011,m,131.6,53.9,1,12-24-2023,Asma
+P-00800,Catalina Cornelio Orellana,06-May-2006,F,155.9,118.4,true,04/12/2025,Deprecion
+P-00801,Octavio Arenas Abrego,03-07-1993,f,169.2,66.7,1,16/05/2024,COVID-19
+P-00802,Jorge Arroyo,30-Dec-1959,M,148.3,0,No,07-18-2024,Migraña cronica
+P-00803,Verónica Linares Bañuelos,01/03/1998,f,163.4,0,S,12-25-2024,Asmaa
+P-00804,Leonardo Rosario,02-Jul-2018,f,177.5,95.9,false,02-08-2024,Dolor lumbar
+P-00805,Úrsula Rosa Nevárez,10/07/1988,Hombre,136.8,99.6,false,19/05/2023,Migraña cronica
+P-00806,Uriel Julio César Valle,13/07/1934,F,155.4,79.8,1,2025-06-22,Hipertension
+P-00807,Abril Amador Garibay,05-Jan-1989,H,170.7,117.3,false,22/10/2023,Gripe estacional
+P-00808,Dulce Holguín,2017-01-28,masculino,159.5,45.6,N,21/12/2024,Depreson
+P-00809,Gabriel Valdivia Lebrón,14-03-2003,H,168.6,,No,2025-05-24,Gripe estacional
+P-00810,Fernando Yolanda Alvarez,31/07/1928,masculino,188.6,67.7,N,2023-03-20,Colesterol alto
+P-00811,Ing. Zoé Casares,1974-09-17,FEM,167.8,96.4,No,2026-01-14,Dolor lumbar
+P-00812,Mtro. Alicia Almaraz,2001-07-26,M,177.1,108.0,true,12/04/2025,COVID-19
+P-00813,Raquel Tamayo,25-Sep-1985,masculino,170.5,117.8,0,2023-10-31,Colesterol ato
+P-00814,Lic. Nayeli Gallardo,26-11-2004,FEM,167.0,71.9,1,18/03/2024,Colesterol alto
+P-00815,Mtro. Guadalupe Velásquez,2022-12-05,masculino,170.0,76.0,0,04/01/2025,Colesterol alto
+P-00816,Mtro. Rodolfo Cedillo,03-Sep-1949,FEM,140.3,46.2,Yes,2025-01-05,Gripe estacional
+P-00817,Héctor Iglesias,15/12/1969,masculino,167.5,69.7,No,22/01/2025,Diabetes tipo 2
+P-00818,Ing. Natividad Vaca,15-05-1977,Mujer,147.9,62.3,0,2024-10-13,COVID-19
+P-00819,Maximiliano Sanches,1989-01-18,H,147.1,108.3,No,2024-10-31,Depresion
+P-00820,Sara María José Madrigal,02/03/1927,Hombre,182.1,113.6,true,20/12/2024,Migraña cronica
+P-00821,Verónica Zacarías Zambrano León,09/07/2023,femenino,,104.2,0,10-07-2025,Hipertension
+P-00822,Natividad Claudia Robledo Aguilera,2019-01-06,FEM,165.4,108.9,1,27/07/2025,Colesterol ato
+P-00823,Ruby Ferrer Rosas,08-Nov-1938,m,,119.8,N,07/12/2023,Depresion
+P-00824,Amanda Niño Campos,1940-08-28,F,163.1,63.7,S,2025-02-21,Azma
+P-00825,Magdalena Francisco Escamilla,28-03-2025,masculino,168.3,60.4,0,11-11-2025,Gripe estacional
+P-00826,Carlota Dulce Nieto,04/05/1961,M,176.2,64.8,0,06/10/2024,Ansiedad
+P-00827,Sofía Guevara,27-04-1975,masculino,179.3,,0,04/05/2023,Migraña cronica
+P-00828,Cristina Jaime Alvarado Rojas,25/12/1934,H,143.3,116.5,S,2025-03-03,Diabetes tipo 2
+P-00829,Florencia Muro Salgado,11-06-2004,Mujer,175.5,93.1,false,17/06/2025,Depreson
+P-00830,Mtro. Nelly Rojo,28-Nov-1981,femenino,164.6,,No,2023-08-09,Dolor lumbar
+P-00831,Emiliano Gerónimo Granado Caldera,14/01/1936,F,181.5,115.9,true,08-14-2024,Ansiedad
+P-00832,Beatriz Valle,06-06-2018,femenino,163.4,106.9,Yes,04-20-2023,Gripe estacional
+P-00833,Ariadna Marcela Saiz Mojica,27-Oct-1950,H,160.3,95.4,false,31/01/2023,Asma
+P-00834,Luis Urbina Murillo,1986-03-07,masculino,154.8,67.0,true,14/10/2025,Ansiedad
+P-00835,Frida Mena,1972-11-06,H,178.5,91.4,N,02-25-2023,Diabetes tpo 2
+P-00836,Anabel Solano Carrasco,19-06-2001,F,172.5,77.1,N,25/04/2023,Ansiedad
+P-00837,Zacarías Rolón,1988-03-15,F,174.4,97.9,No,02-12-2023,COVID-19
+P-00838,Estela Porras Burgos,07-Sep-1973,m,174.4,76.0,0,09-18-2023,Ansiedad
+P-00839,Francisca Genaro Pizarro,1927-02-03,H,140.5,,N,10-27-2025,Migraña cronica
+P-00840,Ángela Armando Ojeda Quiñones,1941-03-28,f,175.7,70.8,false,2026-01-05,Dolor lumbar
+P-00841,Ramiro Gerónimo Fernández,30/09/1984,Hombre,170.3,106.7,false,05-07-2023,Ansiedad
+P-00842,Bianca Daniela Escalante Contreras,04-02-2014,M,162.0,60.2,true,2023-08-12,Colestero alto
+P-00843,Sandra Soria,2004-07-19,femenino,158.9,116.2,N,2025-01-14,Depresion
+P-00844,Samuel Muñoz,1985-04-06,M,141.0,87.6,0,10/12/2024,Ansiedad
+P-00845,Estela Adela Verduzco,03-Sep-1978,F,168.3,76.1,false,09/10/2025,COVID-19
+P-00846,Pamela Aranda,1964-07-28,femenino,178.4,113.9,N,11-25-2025,Azma
+P-00847,Claudia Francisco Ojeda Montemayor,09/12/2016,H,149.2,61.0,N,2024-12-12,Asmaa
+P-00848,Irene Marcos Cedillo,2014-09-26,FEM,164.7,52.7,S,20/07/2025,Gripe estacional
+P-00849,Dulce María Daniel Amador,29/08/1987,m,148.4,80.1,1,13/12/2025,Hipertension
+P-00850,Claudia Agustín Botello,1990-04-11,m,,63.3,Sí,2025-01-04,COVID-19
+P-00851,Rosalia Romo,06-10-2004,FEM,189.8,0,1,2023-04-19,Ansiedad
+P-00852,Francisco Javier Ernesto Armas,21/04/1979,H,181.0,92.1,true,2023-03-15,Hipertesion
+P-00853,Dalia Claudia Peralta,1967-03-16,masculino,153.6,58.0,1,2025-06-06,Diavetes tipo 2
+P-00854,Sonia Luisa Reséndez,31/08/1937,H,158.2,64.2,Sí,29/03/2023,Hipertension
+P-00855,Reina Elsa Olvera,06-08-2011,m,149.0,57.8,N,11-11-2024,Ansiedad
+P-00856,Ing. Mercedes Cisneros,13/08/1997,Hombre,162.3,54.2,S,05-01-2025,Migraña cronica
+P-00857,Reynaldo Raúl Flórez Meraz,2006-12-13,Hombre,165.0,64.9,No,05/03/2025,Hipertesion
+P-00858,Jacinto Dulce Caraballo Pulido,18-Mar-1966,M,168.6,72.4,true,11-15-2025,Diabetes tipo 2
+P-00859,Dr. Minerva Aguilera,25-03-2018,H,188.7,61.7,No,02-19-2023,Gripe estacional
+P-00860,Minerva Castañeda Beltrán,14-04-2007,Mujer,140.6,111.6,Yes,2024-04-03,Gripe estacional
+P-00861,Mtro. Felipe Cornejo,04-Feb-1956,Mujer,151.3,99.4,0,06-21-2023,Migraña cronica
+P-00862,Gustavo Julio César Bustos,27-Aug-1939,f,148.9,62.9,Sí,01/02/2024,Hipertension
+P-00863,Natalia Jáquez Irizarry,13/01/1933,femenino,159.8,67.7,false,15/02/2023,Hipertension
+P-00864,Mtro. Leticia Cornejo,10-10-1961,masculino,164.0,91.8,0,01/04/2024,Hipertension
+P-00865,Virginia Alejandra Vanegas,20/04/1959,FEM,161.3,68.7,false,16/08/2025,Asma
+P-00866,Tania Rosado Monroy,03/10/1979,F,176.2,78.7,false,19/10/2023,Depresion
+P-00867,Dr. Camilo Jasso,05-Oct-1945,f,147.9,83.4,false,2025-02-16,COVID-19
+P-00868,Laura Luis Rosario Tafoya,1961-05-28,M,152.2,111.2,Yes,07-23-2024,Depresion
+P-00869,Ricardo Casanova,19-Apr-2015,m,179.4,86.7,S,2024-12-09,Diabetes tipo 2
+P-00870,Trinidad Soledad Gracia Tapia,27-07-1935,H,232.3,60.3,1,01/03/2024,Ansiedad
+P-00871,Juan Carlos Rosalia Roybal Santacruz,05/04/1957,F,172.7,79.1,0,01-30-2023,Hipertension
+P-00872,Ofelia Rosado,25/10/1926,m,163.7,113.4,S,05/11/2025,Dolor lumbar
+P-00873,Evelio Pichardo Gollum,04/09/1986,f,0,83.9,No,2025-02-14,Colesterol alto
+P-00874,Ángel Luisa Tamez,27-Jun-1954,FEM,151.4,0,0,2023-02-12,Hipertension
+P-00875,Emilia Amanda Jáquez,14/01/1957,Mujer,142.8,79.4,0,2024-12-17,Ansiedad
+P-00876,Linda Marín,23-10-1980,Mujer,168.6,107.0,Sí,23/11/2025,Migraña cronica
+P-00877,Juan Carlos Liliana Oquendo Fonseca,1930-12-04,F,170.5,77.5,true,2025-11-06,Ansiedad
+P-00878,Alejandro Mauricio Grijalva Hinojosa,06-Jul-1952,f,143.8,0,Sí,2023-10-24,Depresion
+P-00879,José Luis Pacheco Angulo,03/02/1989,FEM,168.4,54.4,Sí,25/01/2025,Ansiedad
+P-00880,Eric Tapia,22/10/1975,f,181.6,54.6,0,2023-11-26,COVID-19
+P-00881,Sergio Gonzalo Meza,1978-02-23,f,174.4,88.0,N,12/10/2024,Asma
+P-00882,Felipe Marisol Feliciano Gracia,2000-12-21,m,175.4,109.6,S,06/07/2024,Colesterol alto
+P-00883,Daniel Asunción Luevano,13-Mar-1968,m,176.4,72.6,0,2025-10-27,Hipertension
+P-00884,Abraham Bernal Mesa,06/06/2025,F,153.2,107.8,Yes,12-27-2025,Asma
+P-00885,Dr. Concepción Soliz,15-07-2016,H,163.3,46.8,Yes,24/04/2025,Gripe estacional
+P-00886,Jorge Asunción Cadena Salgado,2013-07-30,H,178.8,59.8,false,09/09/2025,Hipertesion
+P-00887,Violeta Orta,17-Apr-1932,femenino,144.7,72.4,Sí,17/10/2024,Diabetes tpo 2
+P-00888,Jacobo Díaz,07-May-1995,femenino,179.9,86.1,S,10-17-2023,COVID-19
+P-00889,Serafín Aponte Sanabria,07-06-2017,Hombre,143.4,49.0,1,2024-07-27,COVID-19
+P-00890,Jorge Véliz,30-04-1959,Mujer,181.0,64.2,1,27/02/2023,Depresion
+P-00891,Nancy Cristian Pelayo,25-01-1933,H,180.9,75.5,Yes,06-02-2023,Asma
+P-00892,Zoé Violeta Corona,19/08/2021,f,163.5,96.5,1,29/01/2025,Gripe estacional
+P-00893,Fernando Corral Barajas,08-Feb-1959,M,178.9,77.3,false,03-17-2023,COVID-19
+P-00894,María Cristina Samuel Soria,27/03/2005,H,187.0,61.7,N,02/06/2025,Gripe estacional
+P-00895,Micaela Francisco Ruelas,02-04-1955,H,148.1,109.0,S,03/12/2023,Diabetes tipo 2
+P-00896,Mariano Jasso,1986-05-15,m,154.6,87.5,false,19/09/2025,COVID-19
+P-00897,Esther López Corral,1987-05-26,H,169.1,55.0,true,17/09/2024,COVID-19
+P-00898,Felipe Emilio Perales,06/05/2009,Hombre,163.8,13.2,1,05-31-2023,Gripe estacional
+P-00899,Micaela Karla Pulido,04/06/1999,FEM,180.6,97.9,N,08/05/2024,COVID-19
+P-00900,Emilia Beltrán Valadez,2024-04-13,femenino,152.2,85.0,Sí,26/02/2025,Diabetes tipo 2
+P-00901,José María Barreto,31-Jul-1950,Hombre,188.5,95.4,Sí,2024-08-14,Diabetes tipo 2
+P-00902,Mtro. Carmen Cornejo,10-Jul-2019,femenino,54.2,76.8,false,2024-02-10,Dolor lumbar
+P-00903,Ing. Rolando de la Crúz,10-Apr-1995,M,177.4,87.6,1,10-25-2025,COVID-19
+P-00904,Marcos Socorro Garza Orosco,10-Feb-1953,f,175.1,,N,11/09/2025,Depresion
+P-00905,Hugo Cristina Salas,11-11-1962,m,178.5,111.3,N,21/10/2024,Hiperension
+P-00906,Minerva Crespo Arguello,04-04-1999,FEM,150.9,62.9,S,06-08-2023,Depresion
+P-00907,Gonzalo Arriaga Cortés,03-May-1946,masculino,187.2,84.3,No,2023-03-10,Dolor lumbar
+P-00908,Sr(a). Lucas Gonzales,06-11-2002,FEM,187.0,77.8,true,06-19-2025,Diabetes tipo 2
+P-00909,Bernardo Rodrígez González,01-02-1992,f,164.5,82.9,Yes,01-01-2025,COVID-19
+P-00910,Itzel Juan Martínez,29/08/2002,f,181.2,73.7,Sí,2025-08-25,Depresion
+P-00911,Ing. José Hinojosa,1962-04-11,f,174.6,93.2,Sí,2024-06-17,Diabetes tipo 2
+P-00912,Araceli Baca,21-Nov-1995,masculino,,72.1,0,25/03/2025,Depresion
+P-00913,Tania Elisa Castañeda Armendáriz,1986-12-07,Mujer,149.0,,true,11/10/2025,Gripe estacional
+P-00914,Mtro. Elena Castañeda,1984-07-12,Mujer,144.5,72.1,N,06-12-2025,Hipertension
+P-00915,Abraham Emilio Soria Chapa,29-Apr-1943,masculino,168.6,95.4,true,10-29-2024,Depreson
+P-00916,Alicia Laura Aguilar Ordóñez,1964-09-07,F,,77.8,No,2025-01-12,Depresion
+P-00917,Estela Esther Cadena Barela,26-10-1990,FEM,,81.0,Sí,2024-01-06,Hipertension
+P-00918,Ernesto Nayeli Arriaga Puga,10/08/1972,Hombre,152.6,75.6,S,04-17-2025,Migraña cronica
+P-00919,Federico Andrés Alonso Bétancourt,23-05-2006,FEM,174.8,58.5,N,27/10/2023,Colesterol alto
+P-00920,Óscar Emiliano Santana Moreno,1938-03-30,M,178.8,104.5,0,2024-10-12,Migraña cronica
+P-00921,Cecilia María Elena Ramírez,06-Aug-1937,M,171.6,57.9,false,22/04/2023,Hiperension
+P-00922,Trinidad Abel Alba Luevano,05-03-1990,f,151.8,104.7,N,2024-12-03,Diabetes tipo 2
+P-00923,Mtro. Federico Valles,15-03-1925,Hombre,239.8,66.5,false,2024-02-06,Depresion
+P-00924,Timoteo Vicente Sánchez,30/06/2005,Mujer,166.4,76.9,false,13/08/2024,Depresion
+P-00925,Victoria Francisco Javier de la Crúz,1939-08-02,f,151.2,109.4,true,11-26-2023,Hipertesion
+P-00926,María Cristina Marisol Franco,2025-08-08,masculino,155.5,86.2,Yes,10-08-2023,Deprecion
+P-00927,Ramón Velázquez,10-Feb-2015,f,161.0,95.5,true,17/08/2025,Hipertension
+P-00928,Mtro. Reynaldo Ballesteros,26-May-2003,m,167.5,48.3,Yes,2023-10-26,Deprecion
+P-00929,Yolanda Trujillo Griego,08-Aug-2011,Hombre,169.5,81.8,No,02/12/2025,Hipertension
+P-00930,Claudia María Luisa López Negrón,1979-01-17,FEM,159.9,60.6,false,19/05/2024,COVID-19
+P-00931,Úrsula Almonte Lozada,04-05-1963,F,160.6,99.0,No,2024-06-21,Asma
+P-00932,Mtro. Jos Vigil,19/10/1952,femenino,186.8,95.1,Sí,2023-08-18,Gripe estacional
+P-00933,Abelardo Marcos Franco Castellanos,15-Oct-1934,f,174.8,62.2,1,2025-06-11,Migraña cronica
+P-00934,Sr(a). Noemí Valdivia,2015-11-09,Hombre,142.8,55.4,No,07-10-2023,Deprecion
+P-00935,Delia Alberto Escalante,30-08-1932,F,178.0,91.8,0,2023-10-10,Gripe estacional
+P-00936,Marisol Eric Roque Casares,2018-08-01,Mujer,156.6,102.1,true,2025-03-26,Gripe estacional
+P-00937,Dr. Abraham Saavedra,16-Feb-1958,H,147.8,101.6,S,12-02-2025,Colesterol alto
+P-00938,Gustavo Téllez Gastélum,22-Sep-1941,F,180.6,98.3,0,2024-11-21,Gripe estacional
+P-00939,Lic. Isabela Covarrubias,27-Jan-2009,H,0,47.6,false,13/07/2023,Asma
+P-00940,Francisca Gabriel Ortega,07/03/1972,H,146.4,60.1,false,01/09/2024,Migraña cronica
+P-00941,Salma Reséndez,1935-11-06,Hombre,145.7,50.4,true,05/11/2024,COVID-19
+P-00942,Roberto Ofelia Tapia,16-05-1979,m,157.2,0,0,01/10/2024,Asmaa
+P-00943,Nayeli Rebeca Cervántez Cabrera,1973-10-21,masculino,184.7,68.7,false,2025-09-12,Dolor lumbar
+P-00944,Mtro. René Vigil,18/05/1974,femenino,184.1,39.5,Yes,10-20-2023,Colesterol alto
+P-00945,Horacio Guerrero Serrato,30/05/1943,m,155.2,51.4,S,06-02-2025,Gripe estacional
+P-00946,Hermelinda Morales,1993-03-21,FEM,155.7,113.4,S,05-02-2023,Depreson
+P-00947,Ofelia Vela Hernández,21/12/1968,masculino,151.2,88.8,Sí,2025-02-26,Depresion
+P-00948,Isabel Valenzuela,08/04/2007,m,155.4,115.3,Yes,01-14-2024,Gripe estacional
+P-00949,Gregorio Lorena Benítez,2003-06-12,Hombre,170.1,70.4,true,2023-03-02,Gripe estacional
+P-00950,Dr. Ernesto Otero,02-04-1989,F,156.6,,false,2024-11-23,Ansiedad
+P-00951,Jos Velázquez,1995-04-24,f,174.1,88.2,1,12-13-2025,Deprecion
+P-00952,Leonel Vela,1955-11-25,m,163.8,74.9,No,2023-07-16,Asma
+P-00953,Abel Zedillo Ledesma,23-06-1992,m,187.4,66.3,S,2025-09-11,Hipertension
+P-00954,María Luisa Marín,27/02/1958,Mujer,179.0,79.7,Yes,07-11-2024,COVID-19
+P-00955,Minerva Reyna León,13-Oct-2005,Hombre,161.5,115.6,No,17/11/2024,Ansiedad
+P-00956,Ilse Esteban Lugo,23-03-1929,FEM,,56.7,false,19/05/2024,Depresion
+P-00957,Dr. Irma Tijerina,11/06/1999,masculino,180.1,,Sí,14/10/2024,Migraña cronica
+P-00958,Nancy Arredondo Rodarte,31-03-2005,FEM,146.2,82.2,1,12-07-2023,Dolor lumbar
+P-00959,Gloria Mascareñas Mora,29-03-2017,Mujer,142.7,111.5,0,2024-08-06,Dolor lumbar
+P-00960,Mitzy Tamayo Galarza,20/09/1985,f,171.1,65.2,Yes,22/12/2023,Dolor lumbar
+P-00961,Renato Elvia Véliz,24/07/2025,masculino,181.8,49.4,true,01-20-2026,Depreson
+P-00962,Emilio Linda Serna Vázquez,1949-08-01,M,145.3,117.2,S,05-03-2023,Colesterol alto
+P-00963,Itzel Eric Sarabia Lemus,02-Nov-1965,f,147.5,103.2,false,06-08-2023,Migraña cronica
+P-00964,Isabela Margarita Garica,2004-10-05,H,183.5,,Sí,28/11/2025,Diabetes tipo 2
+P-00965,Aida Emiliano Segura Curiel,2016-11-07,M,144.5,0,No,13/09/2025,Colesterol alto
+P-00966,Miriam Chacón Véliz,1963-08-09,Hombre,161.5,57.8,false,21/11/2024,Migraña cronica
+P-00967,Rosario Verónica Cortés,20-Jun-1945,f,180.3,68.7,0,2023-09-09,Diavetes tipo 2
+P-00968,Darío Rodrigo Valdivia Muñiz,13-09-1971,FEM,166.2,46.1,S,2024-06-20,Depresion
+P-00969,Mtro. Esperanza Pelayo,29-Dec-2020,f,158.4,73.0,N,11-07-2024,Colestero alto
+P-00970,Dr. Minerva Lucero,1967-02-10,f,178.1,89.2,0,2024-04-28,Gripe estacional
+P-00971,Mtro. Ana Brito,1951-04-17,M,181.4,113.5,No,2025-03-02,Gripe estacional
+P-00972,Claudia Abelardo Santiago Moreno,11-05-1980,H,151.4,97.6,false,21/06/2025,COVID-19
+P-00973,Ignacio Abigail Aguilar,05-09-1997,M,176.6,73.5,S,12-30-2024,Migraña cronica
+P-00974,Dr. Adalberto Godínez,30-09-1975,M,178.4,81.5,Sí,2024-03-13,Gripe estacional
+P-00975,Ing. Rufino Rodríguez,28/04/1935,M,174.3,52.5,0,03/12/2024,Diabetes tipo 2
+P-00976,Abelardo Florencia de León Casas,19-Apr-2002,f,166.5,104.8,0,2025-03-20,Gripe estacional
+P-00977,Uriel Juana Fonseca,2020-02-29,f,149.1,119.1,Yes,2025-05-30,COVID-19
+P-00978,Mtro. Cynthia Corral,29-Nov-2015,M,155.2,70.9,Yes,04/11/2025,Diabetes tipo 2
+P-00979,Alonso María Teresa Mena,24-02-2003,Hombre,168.6,61.0,true,14/06/2025,Colesterol alto
+P-00980,Leonor Amador,26-Apr-1946,f,170.4,64.4,0,07-04-2025,Colesterol alto
+P-00981,Florencia Lozada Zambrano,07-Dec-1941,m,166.4,66.8,0,2024-02-05,COVID-19
+P-00982,Leonor Julia Salazar Jáquez,27-Feb-1987,F,167.9,113.9,No,05/07/2024,COVID-19
+P-00983,Sandra Quintero Moya,1994-07-11,H,184.9,79.8,true,18/08/2025,Migraña cronica
+P-00984,Andrés José Parra,14/10/1936,H,175.6,174.0,Yes,2024-06-29,Hipertension
+P-00985,Dulce Celia Ulibarri Montoya,15-04-1995,m,150.5,80.6,N,10/09/2024,COVID-19
+P-00986,Amalia Cavazos Godínez,18/12/2025,H,168.4,84.0,true,25/02/2024,Colestero alto
+P-00987,Antonia Fonseca,06-01-1995,M,145.3,74.3,N,08/11/2024,Migraña cronica
+P-00988,Asunción Mónica Benavídez,1983-05-12,F,187.3,82.1,S,31/12/2025,Hipertesion
+P-00989,Aida Acosta Escobar,18/02/1925,m,177.0,71.0,0,05-07-2024,Gripe estacional
+P-00990,Dr. Leonardo Magaña,07-Mar-1983,femenino,178.0,73.6,Sí,2023-06-04,Asma
+P-00991,Renato Páez Rosas,25-07-1958,FEM,166.9,53.4,Yes,2023-04-25,Dolor lumbar
+P-00992,Emilia Iván Gómez Garay,03-05-2017,M,187.9,77.7,Yes,2024-06-26,COVID-19
+P-00993,José Emilio Inés Esquivel,06-11-2025,f,178.3,72.4,Sí,12-29-2024,Hipertension
+P-00994,Victoria Humberto Alba Aparicio,18-08-2022,femenino,172.9,79.4,N,30/05/2024,Dolor lumbar
+P-00995,Paulina Hernádez Cardona,21-03-1990,H,177.3,80.0,No,2023-04-01,Hipertension
+P-00996,Aurelio Salma Caraballo,13-04-2012,F,144.9,117.5,1,2023-10-27,Migraña cronica
+P-00997,Lic. Yeni Sánchez,29/09/1973,f,188.0,50.6,S,2025-05-23,COVID-19
+P-00998,Sr(a). Bianca Toledo,1995-10-28,femenino,189.0,53.1,No,08-30-2024,Gripe estacional
+P-00999,Guillermina Altamirano,1963-12-16,FEM,156.4,64.4,Yes,10-18-2024,Ansiedad
+P-01000,Dr. Diego Tamez,04/12/1963,H,147.5,111.3,S,23/05/2024,Migraña cronica
+P-01001,Lic. Anabel Grijalva,1949-10-29,Hombre,147.2,69.5,Sí,2023-12-05,Hipertension
+P-01002,Andrea Márquez Rivas,10/01/2026,H,154.4,109.6,No,30/05/2023,Ansiedad
+P-01003,Julio César Mireles Avilés,1982-11-27,FEM,165.1,118.5,No,02-10-2025,Gripe estacional
+P-01004,Ing. Leticia Zedillo,15-07-1943,F,166.1,100.7,Yes,2024-12-02,Diabetes tipo 2
+P-01005,Vanesa Limón,2021-01-04,H,,118.1,S,05/08/2023,Asmaa
+P-01006,Sr(a). Delia Guzmán,2006-11-13,m,151.1,45.6,No,20/05/2025,Colesterol alto
+P-01007,Susana González Mota,2021-05-31,M,154.0,50.4,Yes,11-24-2025,COVID-19
+P-01008,Pablo Vergara,12/07/2007,FEM,189.9,52.1,true,28/12/2024,Diabetes tipo 2
+P-01009,Araceli Escobar,30-06-1955,Mujer,165.4,91.9,S,2025-02-27,Gripe estacional
+P-01010,Dr. José Manuél Armendáriz,22-09-2003,Hombre,168.3,77.3,false,2025-01-11,Asma
+P-01011,Iván Padilla Valles,1985-05-15,masculino,177.3,91.1,Yes,30/01/2024,Gripe estacional
+P-01012,Florencia Salgado,1926-04-18,masculino,158.9,99.1,false,20/04/2023,COVID-19
+P-01013,Margarita Sessa Acosta Canales,05-Jan-2023,F,158.8,75.8,0,05-02-2023,Gripe estacional
+P-01014,Mtro. Homero Cervántez,2018-11-11,Hombre,177.5,112.6,0,07-09-2025,Migraña cronica
+P-01015,José Manuél Puga,11/10/1973,H,152.2,117.1,true,06-23-2024,Gripe estacional
+P-01016,Alfredo Sanches,09-Mar-2022,masculino,180.8,101.6,No,2023-06-30,Azma
+P-01017,Araceli Celia Echeverría,23-Jul-1984,femenino,144.9,63.0,true,2023-07-05,Diabetes tpo 2
+P-01018,Sara Vergara Bueno,07/02/1956,Hombre,142.4,86.6,Sí,12-01-2024,Migraña cronica
+P-01019,Alfredo Ilse Lucio,07-Jul-2013,M,159.2,72.9,1,04-11-2025,Migraña cronica
+P-01020,Isabel Bernabé del Río Cadena,2023-02-19,Hombre,184.1,108.4,Yes,10/04/2025,Hipertension
+P-01021,Lic. Silvano Enríquez,1961-01-15,F,186.6,54.1,true,14/11/2023,Migraña cronica
+P-01022,Marisol Pabón,18/05/1930,Mujer,181.0,50.2,N,2025-08-24,Dolor lumbar
+P-01023,Socorro Armas,18-08-1928,Mujer,166.4,51.6,N,02-22-2025,Migraña cronica
+P-01024,Ernesto Yuridia Echeverría,1968-07-24,F,140.7,67.0,S,2025-07-14,Depresion
+P-01025,Eduardo Maldonado Luevano,31-Jan-1994,f,168.3,,false,18/12/2024,Gripe estacional
+P-01026,Mayte Menéndez Villalobos,18/04/2024,masculino,183.4,99.3,Sí,06-15-2024,Migraña cronica
+P-01027,Abigail Acosta Guerrero,04/05/2015,Hombre,178.9,79.4,No,02/12/2025,COVID-19
+P-01028,Arturo Eloy Venegas,29/07/1993,M,147.2,75.7,Yes,06-29-2024,Colesterol alto
+P-01029,José Manuél Timoteo Espinal Esquivel,1947-10-17,M,172.5,92.1,N,18/05/2024,Dolor lumbar
+P-01030,Santiago Villagómez,29-Apr-2013,femenino,173.5,113.5,No,2024-06-02,COVID-19
+P-01031,Joaquín Karina Cervantes Rivas,11-Jan-1978,f,186.8,115.1,1,03-23-2024,Asma
+P-01032,Horacio Cordero,15-Dec-1984,masculino,158.0,91.3,1,24/09/2025,Gripe estacional
+P-01033,Marcos Ignacio Ordóñez Varela,19/12/2003,FEM,164.0,55.6,S,2023-12-06,Colesterol alto
+P-01034,Concepción Salma Palacios,03/06/2018,M,157.2,91.9,Yes,25/03/2024,Dolor lumbar
+P-01035,Ing. Wendolin Cotto,18-12-2006,f,183.0,,Yes,09-02-2025,Colesterol ato
+P-01036,Sr(a). Carlota Porras,1927-11-18,m,142.6,116.3,false,08/05/2023,Hipertesion
+P-01037,Ing. Julio César Olivera,2020-07-23,masculino,151.4,113.8,N,19/06/2025,Gripe estacional
+P-01038,Esteban Acosta Sosa,11-Aug-1977,m,163.0,56.8,1,2025-03-31,COVID-19
+P-01039,Cornelio Soliz Cabán,06/02/1992,masculino,122.1,73.1,false,07/07/2025,Colesterol alto
+P-01040,Mayte Joaquín Sepúlveda Ayala,1941-02-09,Hombre,0,73.3,true,31/07/2024,Colesterol alto
+P-01041,Conchita Meza,24-Sep-1990,masculino,142.7,58.8,false,01-30-2024,Hipertension
+P-01042,Francisco Camarillo Iglesias,05-Oct-1995,f,188.2,77.8,1,17/01/2025,Migraña cronica
+P-01043,Lic. Eloy Candelaria,16/08/2017,H,174.8,0,N,14/05/2025,COVID-19
+P-01044,Nayeli Laura Solorzano Juárez,1993-09-23,M,142.7,91.4,0,23/04/2025,Diabetes tipo 2
+P-01045,Ignacio Mercado,11-07-1926,femenino,175.4,76.5,false,2025-11-19,Gripe estacional
+P-01046,Eugenio Alta  Gracia Ledesma Bonilla,05/02/1997,Hombre,150.0,48.2,0,2025-04-29,Migraña cronica
+P-01047,María José Antonio Tovar Solís,10-May-1995,Hombre,144.7,80.4,N,07-09-2025,Diabetes tpo 2
+P-01048,Vicente Cervántez Reséndez,18-04-1930,Hombre,185.8,57.9,false,2025-06-02,Gripe estacional
+P-01049,Olga Paola Cortés Griego,2013-04-20,Mujer,178.0,56.9,N,09-13-2023,Dolor lumbar
+P-01050,Javier Israel Ballesteros Valenzuela,1987-05-14,FEM,159.6,47.5,N,11-12-2025,Ansiedad
+P-01051,Andrés Armendáriz,03-Apr-1955,f,171.0,109.5,Sí,01-30-2025,Gripe estacional
+P-01052,Dr. Ana María Hernádez,1981-09-20,FEM,182.4,49.6,0,06-16-2024,Gripe estacional
+P-01053,Carlos Cantú Llamas,04-12-1971,femenino,56.1,100.5,Sí,18/06/2024,Diabetes tipo 2
+P-01054,Paulina Saldaña Bermúdez,05-Apr-1989,FEM,185.9,62.7,S,2023-02-07,Gripe estacional
+P-01055,Mtro. Modesto Feliciano,26-12-1929,m,169.6,65.5,N,2024-10-09,Dolor lumbar
+P-01056,Francisco Javier Chapa Madera,19-Feb-2018,FEM,173.9,89.6,false,03-15-2024,Migraña cronica
+P-01057,Sr(a). Abelardo Partida,03-Feb-1935,H,183.9,,No,26/10/2025,COVID-19
+P-01058,Carmen Samuel Galván Vásquez,21/08/1968,FEM,187.0,,0,25/08/2023,Gripe estacional
+P-01059,Caridad Rojo Tamez,29/06/1953,m,171.4,76.7,Yes,24/09/2024,Migraña cronica
+P-01060,Cristina Muñiz Maestas,03-09-1991,M,163.9,104.0,No,19/10/2025,Colestero alto
+P-01061,Eloisa Saldivar,1957-04-11,Mujer,178.7,59.3,0,15/11/2024,Ansiedad
+P-01062,Mtro. Esmeralda Velázquez,25/07/2025,H,172.5,72.6,N,13/01/2026,Gripe estacional
+P-01063,Jorge Luis Roybal Sotelo,19-02-1965,Mujer,185.7,72.9,No,2025-05-15,Hiperension
+P-01064,Mtro. Fidel Matos,31/01/2025,femenino,157.9,105.3,S,21/05/2024,Migraña cronica
+P-01065,Abigail Alicia Gollum Urrutia,18-05-2000,masculino,185.9,107.1,Yes,2024-07-11,COVID-19
+P-01066,Irene Suárez,1938-03-07,masculino,122.0,68.9,false,08-09-2025,Colesterol alto
+P-01067,Carla Maldonado Chacón,18-Oct-1986,M,,57.0,N,2024-10-02,Gripe estacional
+P-01068,Ing. Lilia Cano,13-Mar-2019,H,146.2,97.3,1,07-09-2024,COVID-19
+P-01069,Olivia Rosas,19-Mar-1953,Mujer,170.4,83.5,Sí,2024-02-28,Migraña cronica
+P-01070,Miguel Ángel María Luisa Loya,1994-08-09,M,134.2,98.4,Sí,21/12/2023,Gripe estacional
+P-01071,Dr. Ernesto Perea,1975-10-16,H,185.3,89.6,0,2025-05-18,Dolor lumbar
+P-01072,Martín Molina Villagómez,17/04/1984,FEM,154.9,,No,06/07/2025,Dolor lumbar
+P-01073,Sr(a). Nelly Mata,09-Nov-2012,Mujer,144.9,66.3,Yes,2025-09-09,Depreson
+P-01074,Vicente Velasco,04/02/1927,F,162.6,92.6,1,29/12/2024,Depresion
+P-01075,Abigail Moreno Leyva,1950-08-06,F,184.2,117.7,No,2024-06-23,Diavetes tipo 2
+P-01076,María Elena Delia Cervantes,11/12/1926,m,172.1,98.6,1,23/12/2025,Dolor lumbar
+P-01077,Ángel Eric Elizondo,06-08-1997,M,182.3,116.6,1,29/08/2023,Asma
+P-01078,Emiliano Abelardo Alcaraz Navarrete,1935-07-05,Hombre,168.6,54.8,No,09/12/2024,Gripe estacional
+P-01079,Fabiola Torres Valdez,07/01/1997,FEM,166.0,98.9,N,2024-08-05,Colesterol ato
+P-01080,Florencia Marisela Villanueva Rodríquez,2020-11-10,H,182.6,45.1,N,2025-06-28,Dolor lumbar
+P-01081,Sr(a). Ilse Perales,29/10/2000,masculino,181.0,47.5,Yes,10-21-2024,Ansiedad
+P-01082,Ing. Ana María Partida,08-04-1988,Hombre,182.4,117.7,Sí,2023-11-11,Hiperension
+P-01083,Hilda Botello Chacón,11-Aug-1937,f,184.6,69.7,true,02/02/2023,Gripe estacional
+P-01084,Mateo María Ávalos Rael,17/08/2024,FEM,146.4,63.2,0,28/09/2025,Asma
+P-01085,Verónica Nadia Cervántez Barragán,01/09/1956,FEM,184.6,98.0,No,05/11/2024,Colesterol alto
+P-01086,María Ana Cordero,09-Nov-2005,Hombre,176.5,86.5,false,09/02/2025,Diabetes tpo 2
+P-01087,Gabino Medina,17-11-1959,m,186.2,119.4,0,2024-11-10,Ansiedad
+P-01088,Martín Orosco,13/01/1954,m,168.2,70.7,1,19/06/2023,Migraña cronica
+P-01089,María Teresa Vargas,1960-08-03,Mujer,151.5,88.5,Sí,10-31-2025,COVID-19
+P-01090,Cristal Ana Suárez,24-12-2022,masculino,0,100.7,1,08-21-2024,Ansiedad
+P-01091,Sr(a). Flavio Acevedo,28-Oct-1957,F,144.3,89.1,N,11-15-2023,Ansiedad
+P-01092,Ricardo Arias,16/09/1946,masculino,155.9,114.3,No,2024-01-19,COVID-19
+P-01093,Ing. Citlali Valdés,28-04-2014,f,153.0,77.9,S,2025-10-22,Gripe estacional
+P-01094,Dr. Cristobal Gaytán,2012-10-25,f,161.2,106.8,0,2025-12-21,COVID-19
+P-01095,Marisol Alemán,17/06/1958,f,144.3,45.9,true,25/11/2025,Azma
+P-01096,Mtro. Karla Granado,09-02-2011,femenino,145.7,52.9,0,17/01/2024,Colesterol alto
+P-01097,María Elena Puga Madera,24/04/2018,M,187.2,49.8,S,11-24-2023,Hipertension
+P-01098,Mónica José Luis Sanabria Aguilar,08-Sep-1934,FEM,169.1,115.9,false,02-05-2025,Migraña cronica
+P-01099,Sr(a). Gabriel Cardenas,13/09/1950,masculino,178.8,103.9,false,02-07-2025,Migraña cronica
+P-01100,Fernando Bernabé Montaño,06-Aug-1986,femenino,157.5,77.2,Sí,2023-02-12,Hipertension
+P-01101,Abril Benjamín Alcántar,1982-08-18,FEM,183.4,57.4,Sí,27/08/2024,COVID-19
+P-01102,Citlali Ortega Véliz,2014-10-25,masculino,161.1,117.8,0,20/01/2026,Diabetes tipo 2
+P-01103,Benito Palomo Salgado,1975-04-06,FEM,143.9,118.0,No,28/12/2024,COVID-19
+P-01104,Dr. Reina Balderas,13-Jan-1931,F,143.7,53.2,0,2024-01-04,Depreson
+P-01105,Lic. José Manuél Irizarry,08-Dec-1939,f,175.0,,false,17/03/2025,Gripe estacional
+P-01106,Javier Camarillo,04/11/1959,m,141.1,112.9,Yes,2023-05-18,Hipertension
+P-01107,Raquel Estefanía Vela,11-Oct-1983,Mujer,178.5,99.4,Yes,12-07-2023,Ansiedad
+P-01108,Lic. Alfredo Frías,2006-09-13,f,179.7,92.4,No,2024-12-03,COVID-19
+P-01109,Joaquín Eloy Tello Yáñez,08/11/2025,F,156.2,47.4,1,02-07-2025,Gripe estacional
+P-01110,Lourdes Bustamante de la Rosa,26-Jul-2009,M,165.3,84.0,S,06-30-2025,Asma
+P-01111,Óliver Julia Fuentes,19-05-2014,FEM,149.5,65.9,1,01-06-2026,Migraña cronica
+P-01112,Araceli Cotto,17/05/2016,M,187.8,46.0,N,2023-04-09,Hipertension
+P-01113,Olga Martín Monroy Segura,22/11/1974,M,170.0,108.9,No,2025-07-15,Hipertension
+P-01114,Julio Casillas,11/09/2011,m,156.0,55.6,Sí,2025-03-19,Depresion
+P-01115,Norma Bustos,19-Jan-1942,Mujer,,111.6,true,2023-12-11,Ansiedad
+P-01116,Sr(a). Noelia Cervantes,09-09-1993,f,167.6,73.0,S,2023-11-20,Colesterol alto
+P-01117,Catalina Meléndez Arroyo,22-09-1934,M,0,103.4,0,2024-08-15,COVID-19
+P-01118,Ing. Mónica Urrutia,15-Aug-1995,FEM,172.5,66.3,No,27/03/2023,Ansiedad
+P-01119,Mercedes Maldonado,1959-11-18,F,175.5,119.1,N,07-20-2025,Asma
+P-01120,Elias Madrigal Navarro,23/04/1925,masculino,176.9,58.9,No,2025-04-18,Dolor lumbar
+P-01121,Eva Macías Garica,1927-06-08,F,142.0,93.4,No,2025-03-14,Hipertension
+P-01122,Estela Guillen,30-Sep-2008,m,178.8,113.2,Sí,03-01-2024,Gripe estacional
+P-01123,Rocío Antonio Valadez Ojeda,04/07/1959,H,180.9,48.0,No,2023-04-25,Colestero alto
+P-01124,Gerónimo Agustín Barela Nieto,18/02/1969,f,162.4,59.0,S,12-22-2024,Ansiedad
+P-01125,Ing. Gabriela Quesada,30-09-1991,FEM,143.2,63.2,No,2024-12-05,COVID-19
+P-01126,Daniel Alejandro Laureano,12/04/1988,m,162.2,92.2,false,2025-09-24,Colesterol alto
+P-01127,Sr(a). Eduardo Alcaraz,1940-02-29,Mujer,159.2,109.4,true,07-28-2023,Diavetes tipo 2
+P-01128,Antonio Espartaco Lara,03-Oct-2021,Hombre,160.2,79.0,0,27/09/2023,Gripe estacional
+P-01129,Augusto Borrego,05-Jul-2023,H,177.7,95.0,No,2024-01-21,Hipertension
+P-01130,Bruno Toro,1998-05-13,H,180.4,99.5,1,16/10/2023,Dolor lumbar
+P-01131,Fernando Montes,1938-10-25,f,163.1,,S,2025-06-05,Asma
+P-01132,Mateo Mena,2022-02-14,Hombre,153.3,94.3,1,23/08/2024,Hipertension
+P-01133,Lic. José Eduardo Fernández,1951-07-19,Hombre,186.7,50.2,true,2025-08-16,Colesterol alto
+P-01134,Ing. Natividad Ontiveros,08-10-1934,H,188.4,72.4,No,10-07-2024,Colestero alto
+P-01135,Sr(a). Darío Escalante,14-Aug-2020,FEM,171.4,,0,23/01/2026,Dolor lumbar
+P-01136,Antonia Leticia Escamilla Mares,03-Jun-1988,FEM,165.1,71.9,0,24/02/2023,Diabetes tpo 2
+P-01137,Octavio María Luisa Santiago,11-Jan-2017,M,182.4,47.2,1,06-05-2024,COVID-19
+P-01138,Fidel Tapia Valle,2016-05-13,F,176.0,113.0,0,12-19-2025,Dolor lumbar
+P-01139,Raquel Araceli Zapata Villareal,22/09/2025,M,187.2,112.9,Sí,2023-11-11,Dolor lumbar
+P-01140,David Ramiro Carvajal Garay,18-May-1926,M,176.9,112.5,N,2024-01-16,COVID-19
+P-01141,Hilda Morales Robledo,28/06/1930,Hombre,171.6,57.2,No,05-20-2024,Hipertesion
+P-01142,Lic. Elisa Godínez,14-Dec-1979,femenino,166.6,93.8,true,2025-01-07,Migraña cronica
+P-01143,Juan Carlos Juan Zamudio Rosales,13-Sep-2000,H,163.2,51.2,No,15/12/2025,Ansiedad
+P-01144,Homero Gracia,2008-03-12,femenino,166.1,65.0,S,28/04/2025,Depresion
+P-01145,Ing. Evelio Loera,24-Mar-2008,M,161.5,107.3,N,01-07-2025,Colesterol alto
+P-01146,Angélica Raúl Portillo Salas,25-08-1954,Hombre,176.7,77.4,0,2025-01-27,COVID-19
+P-01147,Guadalupe Ortiz,26-Jan-2017,H,156.9,119.1,1,2025-06-05,Ansiedad
+P-01148,Mercedes Apodaca Arias,30-Jan-2014,Mujer,188.5,64.7,0,29/10/2024,Deprecion
+P-01149,Carlota Joaquín Guardado Lemus,1935-04-07,M,172.5,118.9,1,27/04/2024,Diabetes tpo 2
+P-01150,Miguel Lourdes Parra Solorio,21-09-2006,femenino,148.1,,true,2023-05-20,Dolor lumbar
+P-01151,Lic. Martín Urbina,09-Dec-1934,f,184.4,112.0,Yes,03/11/2024,Diabetes tipo 2
+P-01152,Marisol Prado,1997-02-05,f,181.4,53.5,0,2025-07-31,Deprecion
+P-01153,Miguel Monroy Mendoza,28-Jun-1995,Mujer,153.4,50.5,N,12/09/2024,Gripe estacional
+P-01154,Pedro María Cristina Lomeli,01-Nov-1954,Mujer,184.9,77.5,N,2025-03-31,Colesterol ato
+P-01155,Lic. Nancy Guerra,16-12-1949,masculino,149.2,66.3,true,27/12/2024,Diabetes tipo 2
+P-01156,Salvador Iván Farías,1948-02-07,Mujer,182.8,47.8,1,05-12-2025,Azma
+P-01157,José Luis Abigail Ramos,1978-05-27,H,182.4,52.7,No,26/04/2023,Asma
+P-01158,Lilia María Luisa de la Fuente,1971-05-04,m,,94.9,0,2023-11-14,Gripe estacional
+P-01159,Darío Badillo,23-04-1964,m,157.2,52.5,Yes,2024-05-29,Deprecion
+P-01160,Vicente Alta  Gracia Gallegos Espinoza,04-Nov-1936,f,,60.4,Sí,2023-05-25,Ansiedad
+P-01161,Blanca Cristian Juárez Saldaña,1959-06-19,Hombre,165.3,,true,22/02/2024,Dolor lumbar
+P-01162,Mauricio María Teresa Sosa López,07-05-2005,Mujer,168.0,99.1,Yes,02/12/2025,Diabetes tipo 2
+P-01163,Lic. Cristina Verduzco,30-Aug-1990,FEM,185.1,71.5,S,08-27-2023,Migraña cronica
+P-01164,Dr. Abraham Preciado,01-10-1926,m,167.4,57.6,S,2024-09-11,Ansiedad
+P-01165,Laura Ángela Cortez,1934-04-12,femenino,,88.6,Sí,04-08-2025,Depresion
+P-01166,Emiliano Timoteo Soto,01-Oct-1964,H,145.6,107.9,1,09-17-2025,COVID-19
+P-01167,Mtro. Mitzy Ramón,1944-09-18,masculino,141.2,52.0,S,03-30-2023,Hipertension
+P-01168,Gustavo Adalberto Meraz Velázquez,02-02-1929,F,169.2,88.8,No,2025-10-01,Ansiedad
+P-01169,Olivia Urbina Carrero,29-05-1982,masculino,160.3,88.0,Yes,2023-08-28,COVID-19
+P-01170,Cristian Rafaél Casillas Robles,04-07-1953,masculino,,68.2,1,2023-12-23,Asma
+P-01171,Guadalupe Esparza,25-Jun-1968,f,169.2,75.3,false,2025-03-06,Diavetes tipo 2
+P-01172,Rubén Omar Vera Núñez,15/03/1933,H,155.8,114.7,N,06-11-2025,Diabetes tipo 2
+P-01173,Omar Inés Madrigal,26-Sep-2014,FEM,150.4,100.7,1,2024-11-01,Migraña cronica
+P-01174,Sr(a). Verónica Quiñónez,01-Jun-2010,f,165.5,191.3,1,08/02/2023,Migraña cronica
+P-01175,Soledad Paulina Montalvo,1975-08-23,masculino,186.3,101.6,Yes,2025-01-29,Ansiedad
+P-01176,Darío Ayala Colón,1985-05-23,femenino,,112.5,Yes,10-27-2025,Dolor lumbar
+P-01177,Sr(a). Sandra Tórrez,20-Feb-2000,m,166.9,93.6,Sí,10-11-2024,Depresion
+P-01178,Felix Gerónimo Rojo Herrera,18/03/1936,Hombre,,74.6,false,2023-09-09,COVID-19
+P-01179,Lic. Abraham Mojica,1990-10-15,M,165.6,101.3,Yes,01-08-2025,Depresion
+P-01180,Roberto Canales,12-Oct-1957,F,180.7,87.9,true,02-13-2024,COVID-19
+P-01181,Reina Aranda Castañeda,22-Feb-1961,m,180.2,99.5,N,11-15-2023,Hipertension
+P-01182,Natalia Lozada Peres,06/03/2023,masculino,,97.0,No,05-24-2023,COVID-19
+P-01183,Silvano Arevalo Alcala,18-10-1996,M,165.8,,Yes,2023-09-25,COVID-19
+P-01184,Andrea Aguayo,1987-10-08,Hombre,73.1,88.2,true,2025-12-13,Depresion
+P-01185,Alvaro Alfredo Robles,05-02-1991,Hombre,171.8,113.3,No,27/01/2025,Gripe estacional
+P-01186,Frida Mireles,26-Apr-1968,F,180.0,91.5,No,29/01/2024,COVID-19
+P-01187,Ivonne Ortiz,05-09-1991,m,167.5,45.1,No,27/05/2023,Hiperension
+P-01188,René Jorge Ortiz,15-12-1998,m,160.3,99.6,Yes,12-03-2025,COVID-19
+P-01189,Mateo Judith Zelaya,10-05-1963,M,161.5,65.4,Yes,07/01/2025,Ansiedad
+P-01190,Emiliano Toro Villalpando,24/06/1996,Hombre,143.9,78.9,true,16/10/2025,Migraña cronica
+P-01191,Ramón Vanegas,09/09/1959,femenino,165.4,118.2,Yes,07-01-2023,Asma
+P-01192,José Luis Teodoro Alonso,31/12/1928,Hombre,180.3,78.4,No,2023-03-22,Colesterol alto
+P-01193,Sr(a). Abraham Beltrán,2006-07-28,FEM,175.4,99.0,Sí,30/11/2024,Dolor lumbar
+P-01194,Dr. Berta Casárez,05/09/2003,FEM,164.8,86.2,Sí,08-13-2025,Colesterol alto
+P-01195,Luis Miguel de Jesús Contreras,15/01/1964,m,147.4,79.9,Yes,2024-10-20,COVID-19
+P-01196,Luisa Lucio,23-10-2000,Mujer,149.9,76.4,true,26/04/2025,Depresion
+P-01197,Julio José Carlos Toledo Juárez,08/07/1942,f,154.8,,true,01-07-2026,COVID-19
+P-01198,Mtro. Rodolfo Esquibel,16/01/1977,Mujer,158.9,97.1,true,09-23-2024,Azma
+P-01199,Jaime Terán,10-01-2002,Hombre,159.1,73.0,0,2024-12-15,Hipertension
+P-01200,Claudia Violeta Villalobos,30-04-1927,F,171.0,,S,11-17-2024,Depreson
+P-01201,Dr. Alfonso Barrios,31/10/1944,masculino,158.1,61.1,true,2024-04-28,COVID-19
+P-01202,Irene Cervantes,2008-04-11,F,169.2,88.1,S,11-05-2024,Migraña cronica
+P-01203,Andrés Emiliano Velázquez,1940-09-07,m,144.2,100.2,Sí,05/03/2023,Ansiedad
+P-01204,Óscar Virginia Nava Reyna,03/02/1974,FEM,190.0,68.9,S,22/12/2023,Gripe estacional
+P-01205,Barbara Ariadna Ruiz Vera,21/06/1946,H,168.1,142.8,0,2025-12-11,Diabetes tipo 2
+P-01206,Rolando Carlota Nava,31/10/1970,m,171.8,54.9,0,12-09-2024,Ansiedad
+P-01207,Adela Miriam Godínez,02-Nov-1987,FEM,181.6,94.4,true,07-26-2025,Diavetes tipo 2
+P-01208,Sr(a). Adela Longoria,07-Jun-1985,femenino,186.6,54.0,true,12-15-2024,Diabetes tipo 2
+P-01209,Alfonso Godínez,09-12-1992,femenino,148.9,93.4,Sí,2025-05-22,Ansiedad
+P-01210,Carolina Aranda,12-May-1957,Mujer,150.6,117.5,Sí,30/01/2023,Dolor lumbar
+P-01211,Vicente Ozuna Rosas,1944-09-27,m,182.1,65.8,Yes,2023-06-20,Asma
+P-01212,Esther Arteaga,2014-08-14,H,147.3,91.2,Yes,2025-12-25,Hipertension
+P-01213,Cornelio Ilse Brito,1944-04-03,masculino,151.3,64.5,Sí,17/07/2025,Gripe estacional
+P-01214,Miriam Isaac Robles Amador,1969-10-01,femenino,156.3,103.2,0,15/09/2025,Dolor lumbar
+P-01215,Sr(a). Hermelinda Camacho,05-11-2019,F,182.4,,true,15/07/2023,Hipertension
+P-01216,Lorenzo Ofelia Cazares Sotelo,01/09/1997,M,156.3,55.9,S,03/01/2026,Colesterol alto
+P-01217,Omar Calvillo Armenta,1956-02-29,F,182.9,47.1,1,12-09-2024,Colesterol alto
+P-01218,Cynthia León Marrero,1956-07-09,FEM,162.7,91.9,Sí,02/09/2023,Gripe estacional
+P-01219,Mtro. Andrea Gamez,2006-08-05,masculino,186.7,66.6,Yes,08-17-2025,Colesterol alto
+P-01220,Alfonso Velázquez,29/08/2008,Hombre,140.2,112.4,N,2023-12-14,COVID-19
+P-01221,Esparta Santillán,21-12-1955,Mujer,140.2,89.4,Yes,05-05-2025,Diabetes tipo 2
+P-01222,Minerva Hermelinda Tórrez Montaño,25-02-2012,H,144.8,48.5,false,02/03/2023,Depresion
+P-01223,Sofía Ariadna Gallardo,02-May-1994,FEM,177.4,107.1,true,28/10/2024,Diabetes tipo 2
+P-01224,Rafaél Nancy Matías,07-Aug-1994,masculino,168.8,81.0,0,2025-12-22,Hiperension
+P-01225,Magdalena Longoria Razo,14-Jun-1975,femenino,178.4,111.0,false,26/09/2025,Ansiedad
+P-01226,José Manuél Ríos,2013-08-22,Hombre,153.1,107.7,N,06/09/2023,Ansiedad
+P-01227,Rocío Esperanza Mena Aguayo,04/04/1981,M,154.6,50.5,Sí,2023-12-17,Dolor lumbar
+P-01228,Raquel Débora Arriaga García,27-03-1992,femenino,170.7,105.2,N,22/03/2025,Colestero alto
+P-01229,Emilio Mora,19-10-1942,F,166.4,62.2,0,2023-04-10,Hipertension
+P-01230,Emilia Dolores Hinojosa Rascón,17-May-2022,Hombre,142.1,49.0,Sí,2026-01-17,Dolor lumbar
+P-01231,Cynthia Valentín,1936-06-16,masculino,175.5,,0,01-10-2025,Asmaa
+P-01232,Ing. Juana Gaona,22-05-1936,m,183.7,89.4,Sí,04-03-2025,Ansiedad
+P-01233,Abril Eugenia Tello,28-Mar-1964,m,143.5,111.9,false,29/11/2023,COVID-19
+P-01234,Isaac Perla Villegas,1964-09-09,Mujer,187.0,88.1,N,2024-02-26,Hipertension
+P-01235,María del Carmen Zedillo,1986-07-25,masculino,177.6,102.1,Sí,2024-09-02,COVID-19
+P-01236,Lic. Reina Armendáriz,10-05-2016,H,142.3,58.3,true,2024-04-29,Hipertension
+P-01237,René Murillo Munguía,22/12/1959,f,149.6,64.0,true,03-23-2024,Ansiedad
+P-01238,Alvaro Alberto Gaitán,27-02-1927,femenino,166.1,102.6,N,2025-05-19,Hiperension
+P-01239,Perla Franco,29/05/2017,masculino,164.7,83.9,false,12-17-2025,Migraña cronica
+P-01240,María Mayte Bañuelos,19-11-2012,femenino,186.9,49.8,N,2023-05-01,COVID-19
+P-01241,Jacinto Bahena Armendáriz,2013-04-17,FEM,171.3,72.9,Yes,12-01-2023,Ansiedad
+P-01242,María José Sonia Brito Vergara,24-03-1940,FEM,175.2,54.7,0,2023-11-21,Diabetes tipo 2
+P-01243,Darío Rocha,29-05-1929,H,170.9,93.8,true,01-06-2024,Depresion
+P-01244,Teresa Uribe,19-Sep-1998,femenino,163.2,111.1,0,05-04-2025,Gripe estacional
+P-01245,Ing. Guillermo Garibay,21-07-2010,M,0,61.8,No,10-10-2024,Ansiedad
+P-01246,María Eugenia Rosa Baeza,21-Jun-1932,FEM,186.7,60.7,Yes,2023-11-14,Asmaa
+P-01247,Adán María José Ramón,12-Sep-2014,masculino,170.3,48.3,S,2024-01-17,Depresion
+P-01248,Alejandro Jimínez,1987-12-09,M,159.4,87.7,S,19/07/2023,COVID-19
+P-01249,Ing. Timoteo Solorzano,10/06/1978,masculino,141.7,61.6,false,2023-09-16,Ansiedad
+P-01250,Lucas Clemente Paredes,03-04-2003,M,171.7,67.4,Yes,2024-02-27,Gripe estacional
+P-01251,Dulce Puga Pedraza,13-09-1989,Mujer,153.4,67.6,0,25/05/2023,Colesterol alto
+P-01252,Clemente Julio Arellano Maldonado,2007-03-29,Mujer,165.4,112.2,true,24/03/2025,Gripe estacional
+P-01253,Julio Marcela Rocha,03/02/2013,femenino,184.6,73.5,N,07-31-2025,Diabetes tipo 2
+P-01254,Eugenio María Eugenia Alcaraz Arellano,13-10-2004,Mujer,186.1,53.7,false,2025-08-07,Deprecion
+P-01255,Gustavo Liliana Carranza Jaramillo,1945-01-10,M,142.2,100.5,No,2023-07-05,Hipertension
+P-01256,José Luis Miguel Muro Escamilla,22-05-1949,F,183.5,,N,04/10/2025,Gripe estacional
+P-01257,Trinidad Flavio Benítez,19-Oct-1957,femenino,166.8,65.4,No,2024-08-16,Ansiedad
+P-01258,Berta Pamela Solorio,1954-04-09,Hombre,183.4,73.6,0,2026-01-16,Colesterol alto
+P-01259,María Luisa Jacinto Valadez Pichardo,2013-12-12,FEM,186.7,127.6,1,2023-05-16,Dolor lumbar
+P-01260,Lic. Abraham Alvarado,05-Apr-1987,H,144.2,71.8,Yes,11/06/2024,Depresion
+P-01261,Mtro. Susana Sauceda,29/12/1973,Mujer,157.8,65.8,S,12/10/2025,Diabetes tipo 2
+P-01262,Lic. Cristina Palomo,25-10-1932,M,156.8,115.4,1,07/01/2025,Gripe estacional
+P-01263,Ernesto Raúl Luevano,11-Aug-1934,Mujer,179.7,83.3,true,2024-12-27,Dolor lumbar
+P-01264,Flavio Piña Llamas,31-08-1989,Hombre,161.1,86.4,false,27/07/2024,Migraña cronica
+P-01265,Mtro. Uriel Zavala,2007-10-15,M,156.9,79.4,false,01-01-2024,Depresion
+P-01266,Fernando Colón,11-Oct-1954,Hombre,144.3,56.1,N,09-23-2023,Gripe estacional
+P-01267,Anabel Enrique Gonzales Laureano,04-04-1933,H,188.5,0,true,2023-03-18,Hipertension
+P-01268,Martín Hinojosa,13-01-2007,masculino,159.7,54.6,No,30/07/2025,Dolor lumbar
+P-01269,Jacobo Alfonso Ceja,30-11-2022,m,169.2,92.7,false,13/11/2024,Asma
+P-01270,Leonor Héctor Jasso Zavala,1935-12-04,Hombre,151.7,,N,2023-10-16,Colesterol alto
+P-01271,Dulce Marcos Naranjo Casárez,22-11-2006,M,159.2,116.4,false,2023-02-28,Diabetes tipo 2
+P-01272,Rosa Tamez,12-07-1927,Mujer,170.8,,Sí,10-28-2025,Gripe estacional
+P-01273,Jerónimo Jaime Hurtado Lomeli,04-Mar-1935,m,176.6,110.8,0,06-10-2023,Diavetes tipo 2
+P-01274,Lic. Abigail Olivas,05-Nov-1928,FEM,187.5,69.6,S,2023-02-23,Asma
+P-01275,Elena Leonor Luevano,23-06-2000,FEM,,107.2,true,22/07/2023,Colestero alto
+P-01276,Laura Esmeralda Benavides Godoy,06-02-1961,M,98.9,87.8,false,2025-12-22,Dolor lumbar
+P-01277,Esmeralda Ulibarri,01/02/1977,Mujer,167.0,90.8,Yes,08-05-2025,Ansiedad
+P-01278,Mateo Tirado Ureña,23-08-1963,femenino,163.8,86.1,1,12-09-2023,Dolor lumbar
+P-01279,Fidel Barraza Esquivel,09/01/1945,Mujer,168.4,68.3,1,2024-08-17,Colesterol alto
+P-01280,Alfredo Roldán Narváez,1933-10-21,M,165.7,56.3,1,12/03/2025,COVID-19
+P-01281,Dalia Roldán,22/11/1975,femenino,181.2,56.7,N,16/12/2024,Asmaa
+P-01282,María Luisa Rascón,1952-11-26,M,166.1,67.9,Sí,01-11-2025,Migraña cronica
+P-01283,Zeferino Pabón,06-11-1982,Hombre,185.8,119.4,false,01-25-2025,Diabetes tipo 2
+P-01284,Ing. Emilio Quintero,01-Jul-1982,Hombre,148.6,109.7,true,09-14-2024,COVID-19
+P-01285,Ing. María Eugenia Villareal,18/11/1930,H,147.0,53.8,N,04-29-2025,COVID-19
+P-01286,Aurelio Alonzo Alonzo,29/10/1999,H,158.1,116.2,false,06-07-2025,Asma
+P-01287,Dr. Leonel Portillo,1984-09-02,F,150.7,,0,04-12-2025,Deprecion
+P-01288,Ariadna María Luisa Fonseca,06-03-2008,M,180.2,55.2,false,2023-05-19,Dolor lumbar
+P-01289,Benito Escalante Gaytán,20-12-1978,Mujer,181.5,84.5,false,2023-08-13,COVID-19
+P-01290,Luz Galván,13-07-1992,f,142.0,70.4,Yes,2023-04-04,COVID-19
+P-01291,José Manuél Ávalos Reyes,17-Dec-1957,masculino,170.4,92.5,Sí,16/01/2026,Colesterol alto
+P-01292,Tomás Arroyo Molina,01-08-2013,m,163.3,102.5,false,09-30-2025,Depresion
+P-01293,Ing. Inés Zavala,10-05-1936,femenino,158.9,114.3,N,01/04/2025,Ansiedad
+P-01294,Dulce María Altamirano Sepúlveda,27/05/1968,F,181.9,61.9,No,2024-12-09,Ansiedad
+P-01295,Cynthia Natividad Sanches Carrión,14/03/1993,FEM,142.7,81.0,Yes,04-16-2024,Ansiedad
+P-01296,Ruby Preciado Mena,1997-09-01,f,175.4,74.1,N,2026-01-25,Hipertension
+P-01297,Tomás Gilberto Espino,02-04-1943,femenino,201.8,75.5,false,06-28-2025,Depresion
+P-01298,Enrique Ramiro Castellanos,10/06/1941,masculino,189.5,49.4,false,06-14-2025,Dolor lumbar
+P-01299,Cristal Sessa Orozco,22-Dec-1978,H,165.4,99.3,true,20/01/2025,Colesterol alto
+P-01300,Zeferino Hinojosa,20-Oct-1987,Mujer,184.0,105.9,false,08-29-2025,Diavetes tipo 2
+P-01301,Benito Zepeda,08/06/2025,F,184.2,117.5,Yes,06-20-2023,Colesterol alto
+P-01302,Augusto Francisca Páez Quintana,1927-06-27,Hombre,170.0,115.0,Sí,28/10/2025,Colesterol alto
+P-01303,Nicolás Alonso Barrera,10-04-1993,femenino,145.5,109.7,No,2025-04-15,COVID-19
+P-01304,Salvador Olmos Cabrera,1986-05-02,F,187.6,61.5,No,11/06/2023,Gripe estacional
+P-01305,Patricio Trujillo,1969-11-12,M,157.7,,false,05/07/2025,Dolor lumbar
+P-01306,Victoria Farías Meraz,01-Dec-1968,Hombre,158.7,83.5,Yes,05-21-2025,Asma
+P-01307,Laura Carrasco,03-Oct-1926,F,181.3,238.1,No,03-10-2025,COVID-19
+P-01308,Pascual Mateo Jáquez,26-12-1944,FEM,140.4,66.2,0,08/07/2024,Gripe estacional
+P-01309,Uriel Peres Ojeda,26-11-1963,F,186.7,77.6,1,01/04/2023,Depresion
+P-01310,Celia Cantú,01/11/1946,masculino,102.7,66.8,Yes,16/02/2024,COVID-19
+P-01311,Carla Verónica Nájera Ordóñez,09/01/1965,Hombre,182.1,,No,28/12/2023,COVID-19
+P-01312,Manuel Bustamante Zelaya,1995-10-20,Mujer,168.0,108.2,true,2024-06-20,Dolor lumbar
+P-01313,Benito Chapa,1997-11-07,FEM,157.2,,S,22/12/2025,Hipertension
+P-01314,Dr. Camilo Aguirre,30/05/1992,Hombre,187.5,101.8,S,21/09/2025,Asmaa
+P-01315,Marisela Alfonso Pineda,16-01-1947,Hombre,158.3,0,No,27/02/2025,Gripe estacional
+P-01316,Evelio Longoria,1954-02-10,Mujer,189.7,69.9,S,2024-09-29,Diabetes tipo 2
+P-01317,Ing. Ruby Casillas,10-03-1982,H,176.9,108.7,1,09-25-2025,Dolor lumbar
+P-01318,Antonia Magaña Arellano,2005-09-24,H,162.5,104.2,Yes,2024-09-07,COVID-19
+P-01319,Mario Urías,03-Jul-1978,Hombre,177.5,118.6,1,01-30-2023,Ansiedad
+P-01320,Emilia Roldán,1981-02-25,f,157.0,79.5,0,14/04/2025,Migraña cronica
+P-01321,Luis Manuel Bustamante Casillas,10-Jul-1928,masculino,178.1,85.1,Yes,14/09/2024,Gripe estacional
+P-01322,Ilse Cepeda Godínez,20/08/1943,Mujer,155.5,78.0,S,09/04/2023,Migraña cronica
+P-01323,Jacobo Olga Casares Montero,29-12-1979,m,140.7,106.3,No,07-18-2023,Gripe estacional
+P-01324,Socorro Gracia Toledo,07-Aug-2007,F,174.7,116.5,1,2025-01-12,Hiperension
+P-01325,Jonás Montaño Acosta,16-10-1958,femenino,,65.6,S,01-14-2025,Colesterol ato
+P-01326,Ing. Benjamín de la Torre,1962-11-11,Mujer,165.7,87.4,S,08/12/2024,Colesterol alto
+P-01327,Francisca Omar Manzanares,2009-03-31,m,181.9,68.1,false,2025-04-16,Depreson
+P-01328,Mauro Wendolin Caballero Madrid,2020-05-16,FEM,161.1,62.0,Sí,08-07-2025,Migraña cronica
+P-01329,Dr. Estefanía Páez,16-05-1992,m,175.7,51.5,true,04-06-2024,Hipertension
+P-01330,Homero Bruno Quezada Ramírez,06-10-1951,Hombre,179.4,98.9,Sí,2025-09-17,Hipertension
+P-01331,Aurora Anabel Suárez Cervantes,03-04-2007,FEM,141.2,66.6,No,09-07-2025,Diabetes tpo 2
+P-01332,Ing. Itzel Sandoval,27-Mar-2014,F,185.2,108.6,Yes,2023-11-14,Asma
+P-01333,Julio César Isabela Rojo,1946-07-25,Hombre,171.9,109.2,0,13/05/2023,Depreson
+P-01334,Omar Ana López,11-09-2019,masculino,148.9,54.1,false,12-06-2023,Gripe estacional
+P-01335,Serafín Beatriz Alemán González,24-Jul-2015,f,,58.2,No,10-14-2025,Gripe estacional
+P-01336,Bernardo Dalia Garrido Ozuna,13-12-1965,H,180.7,99.8,No,27/07/2023,Migraña cronica
+P-01337,Sr(a). Concepción Chacón,26-01-2001,femenino,173.3,53.2,false,11-12-2024,Colesterol alto
+P-01338,Germán Espinal Nájera,28/12/2006,masculino,179.7,114.9,Sí,20/10/2024,Gripe estacional
+P-01339,Amador Miguel Ángel Saiz,23/08/1997,Hombre,145.1,119.1,true,08-18-2024,Dolor lumbar
+P-01340,Nicolás Alemán,03-Mar-1976,femenino,178.1,118.0,0,05-21-2024,Diabetes tipo 2
+P-01341,Dr. Úrsula Dávila,1983-08-18,m,144.4,65.6,Sí,07-10-2023,Ansiedad
+P-01342,Vanesa López,1981-10-27,masculino,144.2,81.6,1,29/10/2025,Gripe estacional
+P-01343,Lic. Trinidad Tórrez,06-May-2007,FEM,169.7,85.8,S,11-10-2024,Diabetes tpo 2
+P-01344,Aida Mauro Santillán,1972-04-12,FEM,149.1,83.9,true,08/03/2023,Ansiedad
+P-01345,Dulce Oquendo Varela,25-Mar-2000,F,153.1,97.8,1,27/04/2023,COVID-19
+P-01346,Daniela Aida Covarrubias Canales,18/05/1955,f,166.3,91.1,No,23/04/2025,COVID-19
+P-01347,Mtro. Jos Escobedo,21-07-1943,F,140.5,,No,01-24-2025,Depresion
+P-01348,Estela Alberto Mora,13/01/1988,F,162.0,0,Sí,02-08-2023,Diabetes tpo 2
+P-01349,Ramón Arcelia Marín Navarro,2021-02-07,H,180.1,63.2,false,09-25-2025,Depresion
+P-01350,Fidel Montero,11/11/1993,M,157.4,95.4,0,15/08/2023,Asma
+P-01351,Estela Murillo,27-Jul-2020,H,180.7,49.3,Sí,03-22-2023,Migraña cronica
+P-01352,Gerardo Benavídez,30-12-1966,f,145.1,115.6,Yes,06-27-2025,Depresion
+P-01353,Mtro. Claudia Arias,18/02/1993,M,154.0,60.7,false,12-07-2025,Colesterol alto
+P-01354,Sr(a). Dolores Bonilla,28-12-1963,m,146.9,35.9,0,24/04/2024,Gripe estacional
+P-01355,Fabiola Naranjo,24-Apr-1996,M,180.7,115.3,Sí,15/09/2025,Gripe estacional
+P-01356,Luis Miguel Caballero Zamudio,25-Feb-1944,F,181.3,97.8,1,20/10/2025,Dolor lumbar
+P-01357,Ramón Vélez,1975-05-08,femenino,155.3,93.7,false,2023-10-12,Depresion
+P-01358,Patricia Alemán,31-12-1990,f,165.6,66.8,No,2024-04-20,Depresion
+P-01359,José Manuél Alba Rangel,11/10/2023,masculino,157.8,86.3,1,2023-09-08,Colestero alto
+P-01360,Jesús Aurora Guevara,06/11/1929,f,165.5,57.4,Sí,04-04-2025,Diavetes tipo 2
+P-01361,Oswaldo Nayeli Delgadillo Figueroa,02-02-2023,m,171.3,66.6,Yes,2024-08-08,Diabetes tipo 2
+P-01362,Aida Villalpando Piña,13/05/1955,Hombre,142.5,114.1,0,2023-05-02,Ansiedad
+P-01363,Angélica Martín Aragón,26-05-2004,masculino,,50.7,0,23/01/2026,Depresion
+P-01364,Dolores Roybal,1957-02-08,Mujer,147.8,0,N,18/03/2024,Depresion
+P-01365,Iván Arevalo Lovato,03-Jan-1928,Mujer,166.1,60.8,1,09-08-2023,Diabetes tipo 2
+P-01366,Víctor Raúl Segura,08-Nov-1976,Hombre,152.0,62.9,0,2024-12-10,Depreson
+P-01367,Itzel Centeno,1931-12-14,femenino,183.0,84.4,false,05-03-2024,Hipertension
+P-01368,Silvano Gaona,23/05/1959,masculino,149.0,89.6,0,02-22-2024,Hipertension
+P-01369,Israel Sanabria,24-06-1963,Hombre,146.9,116.3,1,11-04-2024,Hipertesion
+P-01370,Carolina Saucedo Carrera,19/06/1995,m,169.4,45.6,Sí,08-08-2025,Diabetes tipo 2
+P-01371,Violeta Briseño Rendón,1988-10-05,Mujer,187.5,77.5,No,09-04-2024,Migraña cronica
+P-01372,Lilia Ocasio Casares,01-01-2000,Mujer,159.0,110.1,1,2024-10-20,Ansiedad
+P-01373,Sr(a). Daniel Ojeda,23-Mar-1971,Mujer,178.9,71.6,0,03-28-2025,Asma
+P-01374,Angélica Israel Burgos Laureano,2008-10-14,M,159.6,65.8,false,09-15-2025,COVID-19
+P-01375,Sr(a). Verónica Flores,2023-05-01,masculino,0,98.2,No,12/07/2024,Colesterol alto
+P-01376,Luisa Aguilera,03-05-1943,f,152.6,59.5,No,02-15-2025,Colesterol alto
+P-01377,Mtro. José María Ulibarri,2021-11-06,m,159.5,,1,05-04-2023,Asma
+P-01378,Ivonne Tejeda,13/02/1993,F,171.3,69.6,Sí,02/03/2024,Colesterol alto
+P-01379,Clara Llamas,16-Jan-1927,FEM,152.0,75.6,N,26/11/2023,Dolor lumbar
+P-01380,Pablo Asunción Longoria,29-Nov-1950,f,184.4,113.7,S,2025-09-15,Hipertension
+P-01381,Israel Alejandra Padrón,14-Mar-1962,f,183.7,46.8,N,2024-07-31,Diavetes tipo 2
+P-01382,José María Luz Arriaga Limón,1994-09-29,H,156.9,46.7,1,20/09/2025,Colesterol ato
+P-01383,Sr(a). Mauro Salazar,23-09-2024,M,142.9,50.9,Sí,2025-07-04,Gripe estacional
+P-01384,Nadia Botello,2007-08-21,H,154.9,,1,12-22-2023,Diabetes tipo 2
+P-01385,Felix Sepúlveda Rivero,17-06-1959,f,185.8,118.5,No,2023-03-18,Dolor lumbar
+P-01386,Pascual Robles,08-02-1962,F,168.5,79.3,false,2023-06-01,Ansiedad
+P-01387,Fidel Pacheco Borrego,06-12-1970,femenino,172.9,59.4,S,06-19-2025,Hipertension
+P-01388,Ing. Abraham Dueñas,1957-10-07,F,173.0,73.7,No,09-29-2025,Gripe estacional
+P-01389,Ing. Omar Aparicio,1980-09-11,f,204.0,104.1,Yes,17/05/2023,Diabetes tipo 2
+P-01390,Sofía Porras Nevárez,22/02/2007,M,,72.3,false,29/10/2025,Migraña cronica
+P-01391,Dr. Linda Montenegro,15/05/1998,masculino,140.2,51.2,Sí,11-13-2025,Dolor lumbar
+P-01392,Sr(a). Karina Ulloa,2016-09-14,FEM,159.3,97.9,false,14/10/2025,Migraña cronica
+P-01393,Estefanía Casillas,08-03-1963,Hombre,147.6,107.2,Sí,25/03/2024,Diavetes tipo 2
+P-01394,Gabriela Hernández Balderas,03-10-2007,H,174.9,111.0,No,2023-10-22,Colesterol alto
+P-01395,Juan Carolina Zayas Jaimes,13/06/1987,femenino,166.7,88.1,S,10-07-2023,Asma
+P-01396,Mtro. Helena Pulido,14/12/1975,M,189.7,111.4,false,21/09/2024,Migraña cronica
+P-01397,José Luis Quezada,19-11-1987,F,147.7,105.5,false,13/03/2025,Asma
+P-01398,Esperanza Nicolás Burgos,09-Jan-1960,F,175.7,67.0,N,2023-07-31,Migraña cronica
+P-01399,Mariano Pacheco Calvillo,1998-01-12,femenino,158.1,101.4,Sí,14/04/2023,Hiperension
+P-01400,José Emilio Reséndez Zelaya,19/03/1944,m,187.9,51.9,N,18/03/2023,Colesterol alto
+P-01401,Sr(a). Nayeli Olivares,1937-05-01,Mujer,157.0,108.7,N,2023-10-23,Asma
+P-01402,Bernardo Cornelio Acosta Villa,09-Jun-1925,m,159.9,53.2,No,04-01-2023,COVID-19
+P-01403,Juan Bernal,28-Oct-2016,femenino,181.9,58.9,N,17/12/2024,Gripe estacional
+P-01404,Mauricio Delia Montemayor Roque,02/10/1968,f,175.4,0,N,14/10/2024,Gripe estacional
+P-01405,Sr(a). María del Carmen Negrete,30-Mar-1964,m,141.8,60.4,Sí,03/03/2023,Migraña cronica
+P-01406,Jacobo Bétancourt,30/10/1926,M,150.1,108.5,false,2025-09-22,Depresion
+P-01407,Lic. Guadalupe Cotto,17-12-1993,femenino,189.8,76.8,false,22/06/2024,Diabetes tipo 2
+P-01408,Mtro. Dulce María Raya,10-Nov-1976,f,166.6,47.6,Sí,09-22-2025,Ansiedad
+P-01409,Elias Carmona,04-Feb-1989,Hombre,164.9,117.7,Sí,09-09-2024,COVID-19
+P-01410,Emiliano Ortiz Arreola,1940-12-02,m,148.0,117.3,No,11-15-2024,Hipertension
+P-01411,Soledad Meraz Tello,13-07-2023,FEM,152.9,53.1,Yes,2025-10-28,Dolor lumbar
+P-01412,Sr(a). Ana Luisa Marrero,17-Sep-2024,f,181.4,67.2,Yes,19/02/2023,Asmaa
+P-01413,Mtro. Abraham Colunga,06-Dec-1951,FEM,153.3,94.2,false,2025-03-18,COVID-19
+P-01414,Yolanda Bravo,03-09-1962,Mujer,180.4,57.0,false,31/12/2025,Dolor lumbar
+P-01415,Araceli Valverde Zúñiga,02-03-1965,H,151.5,70.1,Sí,2023-04-23,Dolor lumbar
+P-01416,Dulce Raúl Arias,20/12/1990,m,161.9,77.9,true,01-02-2024,COVID-19
+P-01417,Iván Pilar Quesada Caraballo,19/04/1996,f,140.9,97.4,N,17/09/2024,Colesterol alto
+P-01418,Lic. Sara Suárez,2006-02-10,H,143.2,105.3,Sí,05/09/2024,Migraña cronica
+P-01419,Leonor Gabino Alva Muñiz,27-Dec-1969,Hombre,157.1,88.2,Sí,07-22-2024,Dolor lumbar
+P-01420,Perla Caldera,28/09/1933,FEM,158.6,117.9,N,05-11-2025,Ansiedad
+P-01421,Zoé Villarreal Valles,22-11-2007,Hombre,156.7,79.0,1,17/01/2026,COVID-19
+P-01422,Carolina Luis Rosado Oquendo,07-Feb-1980,m,171.9,71.8,Yes,2024-01-27,Dolor lumbar
+P-01423,Lorena Partida,13-10-1944,f,164.2,52.7,0,06-02-2023,Diabetes tipo 2
+P-01424,Margarita Claudia Enríquez Bermúdez,1953-07-29,masculino,184.4,55.3,N,06-02-2024,Azma
+P-01425,Isabel Blanca Sepúlveda Jiménez,1988-11-15,F,157.4,81.8,No,20/03/2023,Gripe estacional
+P-01426,Olivia Balderas Esquivel,25-10-1988,femenino,164.7,107.7,N,06-09-2024,Ansiedad
+P-01427,Rodolfo Mariana Lebrón,25-Apr-1957,H,142.3,92.2,No,06-16-2023,Gripe estacional
+P-01428,Nadia Zacarías Baeza Marroquín,27/02/1977,femenino,152.1,65.5,Yes,2024-01-14,COVID-19
+P-01429,Ing. Rufino Moya,27-Mar-1957,H,140.1,66.8,1,08-25-2025,Diabetes tipo 2
+P-01430,Claudio Ceballos,2016-05-27,H,0,104.5,1,25/03/2025,Asma
+P-01431,Lic. Ignacio Murillo,1974-02-27,M,153.8,45.9,S,04-27-2023,Colestero alto
+P-01432,Alma Juana Piña,1998-02-18,H,155.0,62.5,0,15/12/2023,Diavetes tipo 2
+P-01433,Wilfrido Partida Chapa,12-12-2011,m,140.4,49.1,No,06-26-2025,Ansiedad
+P-01434,Alonso Altamirano,24/05/2024,m,180.7,62.9,true,2023-11-19,Migraña cronica
+P-01435,Luis Manuel Gabriela Mayorga Olivares,06-Jul-1983,FEM,173.7,47.1,No,07-20-2023,Depresion
+P-01436,Humberto Maestas Carranza,14-May-1998,femenino,236.5,107.6,Sí,2025-07-14,Diavetes tipo 2
+P-01437,Ing. Israel Sánchez,24-Aug-1942,H,189.8,115.6,true,01/10/2024,Diabetes tipo 2
+P-01438,Ing. Amador Toledo,16-03-2024,H,144.5,80.3,S,2025-02-01,Migraña cronica
+P-01439,Mtro. Amalia Villagómez,1944-12-09,H,179.4,0,false,2023-04-01,Dolor lumbar
+P-01440,Ernesto Hugo Olivares Suárez,23-11-1980,M,154.7,72.0,S,03-19-2024,Depreson
+P-01441,Ing. Flavio Guajardo,02/08/1971,f,145.8,106.8,No,04-11-2023,Hiperension
+P-01442,Mitzy Arriaga,23-Jun-2017,Mujer,156.4,53.5,N,10-13-2023,Asmaa
+P-01443,Cecilia Rivero de Jesús,1931-06-14,M,161.8,177.0,false,11/09/2023,Gripe estacional
+P-01444,Judith Gallegos Valencia,24/11/1972,m,171.1,54.4,0,2025-12-15,Dolor lumbar
+P-01445,Zacarías Tejada,1967-09-26,F,169.5,106.8,1,10/06/2024,Gripe estacional
+P-01446,Dr. Graciela Correa,21/11/2007,Mujer,161.1,107.6,true,18/05/2024,COVID-19
+P-01447,Luz Escobar Zayas,08/04/2021,H,140.5,64.8,0,2023-11-11,Gripe estacional
+P-01448,Esther Cornelio Delgadillo,02-Jan-1936,Hombre,175.0,56.8,false,2024-03-18,COVID-19
+P-01449,Elisa Beatriz Lozano Valenzuela,09/10/1954,M,184.1,94.1,1,2025-08-10,Asma
+P-01450,Mtro. Carla Vallejo,04-Aug-1963,H,154.2,74.9,true,08/10/2024,COVID-19
+P-01451,María del Carmen del Valle,27/05/1998,femenino,185.7,119.2,true,03-31-2023,Migraña cronica
+P-01452,Sr(a). Oswaldo Peralta,24-Jul-2007,H,,48.7,N,11-30-2025,Depresion
+P-01453,Maximiliano Julio Olmos Aguilar,08/04/1949,F,176.5,98.7,Yes,2023-10-26,Asma
+P-01454,Sr(a). Carlota Madrid,1948-11-16,femenino,172.1,69.4,false,2026-01-04,Dolor lumbar
+P-01455,Genaro Benavídez Naranjo,1934-03-03,f,186.4,45.3,false,2023-11-02,Migraña cronica
+P-01456,Amelia Almaraz,29-07-1950,FEM,163.9,97.5,0,2023-06-26,Ansiedad
+P-01457,Dalia Salma Rangel Anguiano,12-Dec-1985,m,152.9,106.8,No,02-15-2025,Depreson
+P-01458,Berta Adame,1998-08-27,Hombre,165.8,93.8,1,04-28-2025,Ansiedad
+P-01459,Helena Alfonso Córdova Verdugo,26/01/1958,H,158.3,88.7,Sí,06-24-2025,Gripe estacional
+P-01460,Mario Pedro Camacho,18-Aug-1992,M,155.0,47.6,1,05-21-2023,Colesterol alto
+P-01461,Silvano Meza,29-Jan-1961,f,178.3,0,false,02-04-2024,Diabetes tipo 2
+P-01462,Citlali Fabiola Valenzuela,14/08/1957,FEM,161.8,50.6,Yes,15/07/2023,COVID-19
+P-01463,Natividad Estela Valentín,12/07/2015,H,,73.4,1,31/08/2025,Ansiedad
+P-01464,Amador Paz,01-Aug-1980,m,148.7,60.2,N,24/02/2024,Hipertension
+P-01465,Wendolin Montemayor Altamirano,17-02-1985,M,129.0,100.0,S,2023-07-03,Migraña cronica
+P-01466,Lic. Genaro Laureano,02-01-1943,m,177.0,89.2,1,25/07/2024,Diabetes tipo 2
+P-01467,José Manuél Reina Guevara Montemayor,1970-04-04,Mujer,151.1,95.7,Sí,08/12/2023,COVID-19
+P-01468,Marco Antonio Cervántez Briseño,08-08-1983,H,163.6,58.0,false,03/06/2023,Gripe estacional
+P-01469,Emiliano Julia Quintanilla Linares,21/02/1984,m,172.6,51.7,N,06/06/2024,Migraña cronica
+P-01470,Araceli Micaela Espinosa,17/04/1963,Mujer,183.9,109.0,true,2023-02-12,Diabetes tipo 2
+P-01471,Gerardo Sierra Arreola,09-06-1981,Hombre,159.4,108.5,Sí,08-04-2024,Colesterol alto
+P-01472,Gregorio Jonás Rosado,22-11-1960,Mujer,173.6,109.5,1,05-11-2024,Diabetes tipo 2
+P-01473,Estela Estela Vergara,25-Sep-1926,m,172.8,55.0,N,2025-06-22,Depresion
+P-01474,José Carlos Padilla Lara,1936-02-05,F,177.7,105.4,1,2024-02-03,Colesterol alto
+P-01475,Débora Robledo,1931-09-05,Hombre,144.6,109.5,1,2025-12-20,Diavetes tipo 2
+P-01476,Patricio Villarreal Guzmán,12/09/1974,Hombre,147.2,,false,2025-02-10,Gripe estacional
+P-01477,Diana Teresa Reynoso,24-07-1929,Hombre,156.7,116.2,N,06-08-2024,Diabetes tipo 2
+P-01478,René Aguilar Otero,1936-04-19,FEM,181.4,86.3,true,01-31-2023,Diabetes tipo 2
+P-01479,Renato Arenas,31/07/1929,Hombre,140.0,75.0,false,07-15-2025,Hiperension
+P-01480,Jonás Briones,07-Nov-1948,H,188.1,65.4,true,04-18-2025,Dolor lumbar
+P-01481,Marisol Villagómez Vega,1975-07-09,FEM,144.2,167.4,1,12-20-2024,Dolor lumbar
+P-01482,Mtro. Conchita Irizarry,09/01/1960,masculino,162.6,86.5,Yes,2023-02-13,Dolor lumbar
+P-01483,Lic. Eugenia Roldán,20-03-1954,Mujer,180.9,,true,2025-02-09,Migraña cronica
+P-01484,Mónica Aranda Figueroa,06-06-1993,M,189.0,,No,2024-08-13,Migraña cronica
+P-01485,Natalia Morales Garay,13-03-2024,Mujer,153.9,,false,15/01/2026,Ansiedad
+P-01486,Clara Antonio Bétancourt Blanco,09/04/1962,H,140.8,58.1,N,02-08-2024,Hipertension
+P-01487,Graciela Antonia Rosales Sevilla,05-Apr-1962,M,179.7,90.4,false,2025-08-16,Colesterol alto
+P-01488,Teresa Alta  Gracia Villanueva Alvarado,25/04/1988,M,161.5,109.5,0,2025-12-21,Diabetes tpo 2
+P-01489,Elias Saavedra Henríquez,08/05/1965,femenino,172.8,,N,02-13-2024,Ansiedad
+P-01490,César Narváez,12/02/1990,M,0,71.5,No,14/03/2025,Colesterol alto
+P-01491,Nancy Catalina Mata,28/10/1974,F,147.0,75.6,S,06-24-2024,COVID-19
+P-01492,Marisol Leticia Fonseca,14/06/1985,femenino,150.3,68.3,Sí,09-27-2023,Ansiedad
+P-01493,Anabel Jerónimo Esparza,02/08/2001,H,178.2,79.7,false,03-15-2024,Diabetes tipo 2
+P-01494,Alejandro Segura Rodarte,12/06/1970,m,167.4,77.5,false,14/11/2025,Hipertension
+P-01495,Juana Olmos Briones,24/01/1995,FEM,179.1,79.5,Sí,2023-05-16,Colesterol alto
+P-01496,Blanca Karla Barragán,1970-09-29,femenino,146.3,67.7,Yes,2024-07-21,Hipertension
+P-01497,Dr. Samuel Santana,26/02/1938,m,171.6,117.2,false,2024-03-21,Colesterol alto
+P-01498,Aurelio Noelia Lemus Hernandes,1963-01-19,masculino,188.9,86.9,0,28/11/2025,Migraña cronica
+P-01499,Anel Alfaro Reynoso,1977-07-18,f,167.1,118.4,N,2024-11-03,Depreson
+P-01500,Graciela Cervántez Carrasco,05/03/1928,femenino,147.7,118.8,Yes,05-31-2024,Colesterol alto
+P-01501,Elvira Silvano Miranda Mayorga,23-Sep-1974,H,172.8,,N,02/07/2024,Hiperension
+P-01502,César Clemente Noriega Villaseñor,19-Sep-1987,Mujer,177.7,50.3,N,2025-10-25,Colesterol ato
+P-01503,Catalina Lourdes Cornejo Suárez,29-Apr-1941,Hombre,173.6,64.4,Sí,05-29-2025,Colesterol ato
+P-01504,Jaqueline Alba,13/11/1971,H,180.3,59.9,false,04-01-2024,Migraña cronica
+P-01505,María Luisa Pedro Cardona Gómez,25/04/1953,Mujer,159.9,55.6,Yes,06-26-2023,Colesterol alto
+P-01506,Reina Leonor Parra Villagómez,27-11-1948,f,140.6,104.7,No,2023-04-30,Depresion
+P-01507,Lic. Tania Guevara,20-04-1929,F,173.6,66.4,S,06/01/2026,Hipertesion
+P-01508,Fernando Berta Valadez,14-Mar-1946,H,69.1,69.8,true,05-05-2024,Gripe estacional
+P-01509,Angélica Beatriz Tijerina Parra,1963-09-10,m,154.0,64.2,true,16/09/2023,COVID-19
+P-01510,Dr. Hernán Aguilar,12-12-1949,FEM,73.9,92.6,No,2024-03-25,Gripe estacional
+P-01511,Lic. Lorena Cuellar,29-11-2000,Mujer,185.5,59.1,S,13/03/2023,Migraña cronica
+P-01512,María Eugenia Lemus Gamboa,1961-09-30,masculino,178.2,96.6,Yes,16/11/2023,COVID-19
+P-01513,Laura Israel Ortega Godoy,15-Sep-2014,m,148.2,0,No,06/11/2025,COVID-19
+P-01514,Alma Elisa Granados Velázquez,26/03/1993,Hombre,156.5,85.7,1,2025-02-24,Asma
+P-01515,Ing. Wilfrido Bétancourt,17-08-2024,masculino,144.1,66.6,Sí,09-17-2025,Depresion
+P-01516,Alberto Villaseñor Gutiérrez,26-06-2014,m,170.1,,N,02-13-2025,Asmaa
+P-01517,Celia Silvano Acosta Carreón,17/02/2017,masculino,142.7,112.8,N,2025-11-29,Hipertesion
+P-01518,Angélica Olivares,08-Jul-2007,H,167.7,100.1,No,15/11/2025,Depresion
+P-01519,Claudia Garibay Zamudio,24-08-2015,H,144.0,56.1,Yes,2024-07-03,Diabetes tipo 2
+P-01520,Delia Quiñónez Vela,28/09/1941,m,148.3,95.0,1,02-25-2025,Colesterol alto
+P-01521,Antonio Cedillo,14-Jan-1965,H,171.8,100.1,N,07-15-2023,Colestero alto
+P-01522,Lic. Pamela Camarillo,10-04-2024,Mujer,170.1,117.2,0,16/02/2024,Migraña cronica
+P-01523,Miriam Mesa Barrera,31-Mar-2004,Mujer,177.2,89.5,S,09-05-2023,Migraña cronica
+P-01524,Guillermo Fernando Quiñones,31/03/1960,M,171.7,116.2,Sí,09-04-2024,Migraña cronica
+P-01525,Natalia Martínez,1937-09-28,f,187.3,99.0,S,08-12-2024,Dolor lumbar
+P-01526,José Carlos Montemayor,01/04/2012,H,145.7,116.2,1,2025-11-17,Deprecion
+P-01527,Conchita Pilar Pedraza Aragón,04/09/1952,Mujer,0,76.3,S,10/05/2023,Diabetes tipo 2
+P-01528,Sr(a). Aurelio Villarreal,23-02-1998,femenino,178.9,52.6,false,02/09/2023,Migraña cronica
+P-01529,Martha Maestas de la O,17-Apr-1932,F,144.9,80.4,No,08-21-2023,Depresion
+P-01530,Bianca Adalberto Jáquez,1979-02-25,masculino,188.2,92.1,No,04/01/2024,Hipertension
+P-01531,Ramiro Montañez Salas,09-Jun-1963,femenino,0,96.3,S,21/04/2025,Diabetes tipo 2
+P-01532,Dr. Federico Granados,2022-12-23,Mujer,170.3,63.3,1,2024-05-02,Gripe estacional
+P-01533,Ana María Vera,21-01-1956,Mujer,172.8,77.7,N,2024-02-12,Colesterol alto
+P-01534,Esparta Aponte del Valle,1973-04-27,femenino,151.0,57.2,0,2023-03-11,Diabetes tipo 2
+P-01535,Dulce Tania Nieves,1964-01-29,Hombre,186.0,0,true,2025-09-12,Migraña cronica
+P-01536,Nayeli Alva Matías,05-Feb-2006,F,179.8,70.9,N,05-20-2025,Diabetes tpo 2
+P-01537,Evelio Gracia,2021-11-09,femenino,168.5,93.7,0,03-17-2025,Dolor lumbar
+P-01538,Abelardo Concepción Mireles,17/10/1941,FEM,170.9,83.7,0,2025-10-21,Depresion
+P-01539,Ing. Francisca Santiago,26/07/1944,m,175.4,81.7,0,12/04/2025,Depresion
+P-01540,Sergio Marroquín Valenzuela,1980-04-06,Hombre,151.9,72.9,S,02-04-2024,Asmaa
+P-01541,José Abrego,28-Jun-1933,femenino,158.8,49.5,Yes,29/07/2024,Dolor lumbar
+P-01542,Magdalena Aguilera,2019-07-02,H,164.5,117.2,1,2024-09-29,Colesterol alto
+P-01543,Rosa César Carvajal Bravo,1979-06-24,M,176.0,111.4,S,03/11/2025,Colesterol alto
+P-01544,Timoteo Villanueva,1962-11-14,Mujer,177.6,76.2,S,01/06/2023,Dolor lumbar
+P-01545,Guillermo Montes Aragón,02-May-1988,m,184.7,109.4,S,2024-09-07,Depresion
+P-01546,Estefanía Lerma Meraz,23/03/1959,H,149.7,105.9,false,10-23-2023,Dolor lumbar
+P-01547,Cornelio Roldán de la Crúz,25-Feb-2015,H,159.9,71.5,true,16/11/2024,Gripe estacional
+P-01548,Celia Nancy Lebrón Rosario,1927-06-02,m,178.3,57.9,false,04-20-2023,Colesterol ato
+P-01549,Ruby Cristal Espinoza Salinas,25-Apr-1981,femenino,150.0,56.1,1,04-02-2024,Hipertension
+P-01550,Eugenio Mateo Romo Pérez,02-Aug-1940,H,175.4,93.1,0,2023-10-22,Diabetes tipo 2
+P-01551,Mtro. Araceli Enríquez,06-Mar-2003,masculino,161.7,63.0,S,11-13-2023,COVID-19
+P-01552,Federico Reyes Villegas,09-Jun-1977,masculino,146.1,109.3,0,06-15-2024,Asma
+P-01553,Mtro. Julia Loya,22-Sep-1930,F,189.2,103.3,S,2023-04-17,Migraña cronica
+P-01554,Andrea Valdez Jiménez,23-08-1941,f,185.5,61.6,Yes,24/09/2023,Colesterol ato
+P-01555,Lic. Alejandra Sepúlveda,1982-01-25,FEM,175.2,118.6,0,27/01/2026,Diavetes tipo 2
+P-01556,Wilfrido Bañuelos Loera,1928-04-26,F,162.1,72.5,Yes,2024-05-25,Colesterol alto
+P-01557,Silvia Guillen,25-Aug-1995,masculino,,78.5,No,2025-06-09,Migraña cronica
+P-01558,Esther Venegas,19-07-1989,m,145.3,114.5,No,07/03/2025,Gripe estacional
+P-01559,Delia Trejo Rentería,2025-12-28,femenino,154.8,55.7,0,2023-08-19,Dolor lumbar
+P-01560,Mercedes Cabán,19-07-1964,Hombre,150.1,218.0,false,10-05-2025,Gripe estacional
+P-01561,Margarita Barajas Rael,01/08/1975,masculino,149.3,65.0,Sí,05/05/2023,Colesterol ato
+P-01562,Guadalupe Concepción Arguello Salas,29-09-2019,H,158.8,159.0,Sí,08-11-2025,Depreson
+P-01563,Sr(a). Luz Borrego,2008-06-18,Hombre,158.8,57.7,N,09-28-2023,Asma
+P-01564,Yeni Solorio Santillán,1978-10-11,m,140.9,80.0,0,06/06/2025,Diabetes tipo 2
+P-01565,René Camila Rodríguez Lovato,1971-06-01,femenino,176.0,109.0,false,2023-05-09,Colesterol alto
+P-01566,Cecilia Ponce Santiago,1955-05-04,F,170.0,97.8,Yes,04-01-2025,Dolor lumbar
+P-01567,Cecilia Armenta Rosado,22/04/1980,H,182.2,68.6,1,02-01-2025,Dolor lumbar
+P-01568,Israel Carolina Tamez,03/09/1992,H,174.4,70.8,1,10-26-2024,Dolor lumbar
+P-01569,Leonor Rosario Lugo,18-06-1990,H,189.0,146.4,S,03-29-2023,Depresion
+P-01570,Mtro. Miguel Casanova,21/01/2025,F,181.7,95.4,No,06/12/2024,Diabetes tpo 2
+P-01571,Lorenzo Delgado Salinas,20-Jun-1985,M,151.2,0,1,18/07/2024,Migraña cronica
+P-01572,Olivia Ojeda,06-Sep-1925,m,156.9,85.4,Yes,29/10/2023,Hipertension
+P-01573,Cynthia Santiago,1953-06-17,FEM,188.6,104.7,0,08-08-2023,Gripe estacional
+P-01574,Helena Javier Tejada,1958-06-28,Mujer,146.7,60.3,0,11/12/2023,Gripe estacional
+P-01575,Jacobo César Ybarra,18/05/2022,M,169.3,77.5,0,2025-09-22,Migraña cronica
+P-01576,Itzel Montero,31-07-2006,Hombre,177.1,77.4,true,01/01/2025,COVID-19
+P-01577,Sr(a). Ángela de Jesús,1951-11-18,femenino,0,79.3,false,08/06/2023,Depresion
+P-01578,Eduardo Ocasio,1941-05-10,FEM,157.5,,0,2024-11-26,Asma
+P-01579,Marco Antonio Soto Alvarez,26-Dec-1935,m,168.1,48.7,No,04-23-2025,Ansiedad
+P-01580,Dr. Carlota Montez,10/06/2025,femenino,161.2,45.1,false,07-02-2025,Asma
+P-01581,Susana Vergara,18/08/1965,femenino,156.0,68.9,Sí,2024-05-06,Hipertension
+P-01582,Lucas Montemayor,29/10/1987,H,0,77.6,S,15/03/2024,Diavetes tipo 2
+P-01583,Ing. Yeni de Anda,03-11-1946,F,180.2,54.1,Yes,23/08/2023,Colesterol alto
+P-01584,Hilda Leiva Puente,18-05-1937,m,189.0,48.2,No,2024-07-11,Gripe estacional
+P-01585,Gerardo Olivares,1943-05-22,F,169.8,78.8,0,2023-02-10,Dolor lumbar
+P-01586,Marisol de Anda Arevalo,19-Aug-1970,F,148.8,84.9,1,2025-03-15,Ansiedad
+P-01587,Virginia Rojas,14-Jan-1939,Mujer,140.9,91.2,0,30/11/2024,Depresion
+P-01588,Maximiliano Pulido,1952-02-03,F,155.7,47.3,No,12/07/2023,Diabetes tipo 2
+P-01589,Julio César Aguilera,12/11/1934,H,164.2,101.7,0,24/10/2025,Hipertension
+P-01590,Marcela Rico Espinoza,01/03/1987,m,148.1,92.1,1,2024-06-25,COVID-19
+P-01591,Dr. Eloy Vega,2020-02-15,masculino,152.9,99.8,0,2023-10-10,Depresion
+P-01592,Rufino Salcido Farías,22-04-1928,M,147.8,48.0,No,16/08/2025,Colesterol alto
+P-01593,Carmen Marisol Prado,18-08-1955,Hombre,181.5,97.5,No,01-22-2025,Migraña cronica
+P-01594,Amalia Agustín Godínez Peralta,1934-11-14,femenino,181.8,60.2,false,28/02/2025,Gripe estacional
+P-01595,Juan Pilar Merino Jiménez,12-08-1950,femenino,144.9,76.5,false,23/12/2024,Diabetes tipo 2
+P-01596,Dr. Elvia Zamora,20/10/1935,Mujer,142.1,63.4,S,2025-07-08,Dolor lumbar
+P-01597,Eugenio Jaimes Rivas,12-02-2015,f,167.3,104.9,S,2025-12-25,Hipertension
+P-01598,Zeferino Muñoz,31-10-2014,M,,111.6,Yes,2025-09-17,Depresion
+P-01599,Blanca Rosario,05/09/1986,Hombre,,79.9,true,27/12/2025,Colestero alto
+P-01600,Mayte Israel Arteaga,1946-06-13,femenino,160.9,89.3,No,08-21-2023,Asma
+P-01601,Humberto Minerva Toledo Muñoz,2003-07-18,Hombre,174.7,100.6,1,2023-06-04,Hipertension
+P-01602,Julio Garza,16-06-1973,F,181.8,,No,2023-05-18,Gripe estacional
+P-01603,Mariano Ruby Pedraza,08-Jan-2016,M,188.2,90.7,1,13/01/2025,Ansiedad
+P-01604,Flavio Marrero,27-Aug-1946,femenino,144.7,96.4,No,24/07/2024,Hiperension
+P-01605,Silvia Solís,18/12/1952,masculino,54.2,118.6,No,14/04/2025,Migraña cronica
+P-01606,Germán Alfaro Fajardo,1957-02-05,FEM,149.4,76.7,false,22/02/2024,Deprecion
+P-01607,Yeni Claudia Avilés Rico,21-07-1980,Mujer,150.3,103.3,true,2024-01-23,Ansiedad
+P-01608,Hermelinda Parra,2010-10-25,F,141.4,76.4,N,06-29-2024,Hipertension
+P-01609,Marisela Olivas Murillo,09/06/1970,Mujer,186.9,,No,2023-07-21,Diabetes tipo 2
+P-01610,Emilia Eloisa Nevárez,20-Aug-1959,m,149.6,66.8,Sí,31/01/2024,Hiperension
+P-01611,Ing. Beatriz Aguirre,2005-08-12,femenino,149.1,48.7,S,2023-07-02,Hipertension
+P-01612,Ariadna Ortiz,25/06/2007,FEM,156.5,66.4,true,2025-10-31,Hipertesion
+P-01613,Mariana Villareal Córdova,07/09/2016,m,150.4,45.3,0,2023-08-30,Colesterol alto
+P-01614,Ricardo María Teresa Hernádez Girón,2012-10-29,Hombre,176.1,65.8,true,22/09/2024,Colesterol alto
+P-01615,Leonel Paola Delgado Herrera,15-Jul-1994,H,187.9,,false,30/08/2024,Colestero alto
+P-01616,Barbara Caldera,2017-07-17,M,173.4,107.1,false,31/10/2024,Colesterol ato
+P-01617,Violeta Adriana González Zamora,14/04/1933,m,163.0,118.9,S,2024-06-03,Gripe estacional
+P-01618,Lic. Ana Rosario,1951-03-08,f,143.8,103.2,S,16/10/2023,Colesterol alto
+P-01619,José Carlos Liliana Cuellar,27/01/1982,femenino,149.3,50.6,No,2025-09-12,Asma
+P-01620,Conchita Marcos Sanabria,1997-06-07,f,187.1,92.9,No,13/02/2024,Migraña cronica
+P-01621,Yeni Ulloa,11/07/1934,M,182.7,96.6,Sí,02-06-2023,Azma
+P-01622,Roberto Mariano Carreón,1998-08-14,femenino,142.3,107.1,Yes,2025-08-17,Diabetes tipo 2
+P-01623,Adán Chacón Lomeli,11/05/2009,f,184.3,57.5,false,2023-11-16,Gripe estacional
+P-01624,Lilia Raquel Flores,08-12-1934,m,174.0,45.2,S,08/09/2025,Ansiedad
+P-01625,Jacobo Norma Lucero Treviño,08/08/1941,masculino,164.1,54.5,false,01-31-2025,Colesterol alto
+P-01626,Frida Gurule Riojas,1956-09-09,FEM,174.9,57.8,1,2024-08-09,Migraña cronica
+P-01627,Ruby Amador Prado Aguilera,02-Jun-2004,F,175.9,100.4,false,10-17-2025,COVID-19
+P-01628,Flavio Ochoa,07-05-1968,f,,102.9,No,2025-07-16,Ansiedad
+P-01629,Eric Barrera Collado,2021-05-19,femenino,181.6,90.0,Sí,01/11/2023,Dolor lumbar
+P-01630,Sr(a). Benjamín del Valle,12/01/1933,F,169.6,125.5,false,2024-03-23,Gripe estacional
+P-01631,Mtro. Esmeralda Olivares,1989-10-16,M,,101.9,false,2023-07-25,COVID-19
+P-01632,Lourdes Ilse Salinas Bétancourt,23/01/1992,f,174.2,119.9,1,2026-01-04,Gripe estacional
+P-01633,Teodoro Toledo,28-Sep-1995,m,156.6,83.8,false,2025-08-13,Asma
+P-01634,Laura Lomeli,19-10-1974,Mujer,163.3,,true,07-26-2025,Ansiedad
+P-01635,Concepción Mayorga,09/10/1937,f,176.4,101.4,N,29/09/2023,Ansiedad
+P-01636,Dr. Frida Arce,27-12-2008,Hombre,119.9,82.9,1,2025-11-28,Ansiedad
+P-01637,Dr. Oswaldo Zepeda,1981-10-05,M,,95.9,No,02/11/2023,Dolor lumbar
+P-01638,José Luis Rocha,1930-08-12,masculino,174.5,45.7,false,11-02-2024,Asma
+P-01639,Ing. Aida Nevárez,03/10/1992,Mujer,,100.3,S,22/06/2025,Diabetes tpo 2
+P-01640,Ing. Berta Grijalva,26/01/1966,FEM,175.9,114.1,Yes,2025-02-02,Hipertension
+P-01641,Marisol Miriam Peres,16-07-1943,f,160.0,66.4,No,2024-09-05,Asma
+P-01642,María Elena Lucio Regalado,20/08/1954,Mujer,,56.9,Sí,09-13-2023,COVID-19
+P-01643,Olga Florencia Serrano,18-Oct-1992,f,158.6,50.9,S,06-11-2025,Hipertension
+P-01644,Cecilia Alta  Gracia Baeza,17-Feb-1962,f,154.8,47.1,Sí,2024-02-23,Asma
+P-01645,Angélica Barrios Ríos,16/12/1959,FEM,163.6,164.7,1,12-01-2023,Diabetes tpo 2
+P-01646,Violeta Ponce Muñoz,05-04-1954,H,0,101.9,1,25/05/2025,Deprecion
+P-01647,Bianca Quiroz,19-01-1977,f,164.7,108.7,0,31/10/2023,Colesterol alto
+P-01648,Dalia Gil Pacheco,1954-10-03,Mujer,168.3,89.8,1,2025-08-29,COVID-19
+P-01649,Elisa Irma Puente Vigil,1949-07-26,H,140.0,85.3,true,19/02/2025,Diabetes tipo 2
+P-01650,Daniel Marín,14-Aug-1948,M,164.4,108.2,Sí,01-26-2024,Migraña cronica
+P-01651,Mónica Pascual Casárez Solís,1938-02-14,FEM,178.5,56.4,S,02-08-2023,Migraña cronica
+P-01652,Cornelio María José Ayala Treviño,28-09-2017,Mujer,175.6,47.0,S,14/04/2024,COVID-19
+P-01653,Pedro Gonzalo Montañez Tafoya,1960-09-13,m,169.8,113.7,Sí,31/03/2025,Dolor lumbar
+P-01654,Cecilia Collado,25-Jan-1932,f,172.4,72.9,S,2024-11-21,Ansiedad
+P-01655,Abraham Estefanía Rocha Ruiz,27-Jan-2019,masculino,174.2,52.9,false,18/08/2025,Dolor lumbar
+P-01656,Mtro. Alma Cardona,24-07-1969,H,140.3,107.5,false,2023-09-07,Hipertension
+P-01657,Marisol Aurelio Viera Gonzales,1949-08-17,Mujer,185.5,0,true,2023-09-01,Dolor lumbar
+P-01658,Iván Laboy Ochoa,1991-05-16,F,147.2,114.3,false,15/12/2025,COVID-19
+P-01659,Andrés Emilio Rosales Carrasco,11-Nov-1927,masculino,175.3,82.7,0,05-06-2023,Ansiedad
+P-01660,Raquel Germán Irizarry Malave,28-Jul-1960,m,144.3,72.9,N,05-28-2025,Dolor lumbar
+P-01661,Carlos Raúl Pedroza Mesa,05-Oct-1942,H,149.4,57.1,false,06-26-2024,Dolor lumbar
+P-01662,Lic. José Emilio Martínez,25-Jul-1982,FEM,221.7,81.3,Sí,03-11-2024,Migraña cronica
+P-01663,Marisol José Manuél Tamez,13/09/1968,Mujer,215.5,69.1,false,09-30-2024,Depresion
+P-01664,Anabel Felipe Fernández,20/01/1940,FEM,181.2,94.2,0,18/08/2023,Asma
+P-01665,Zacarías Norma Apodaca,25-09-1974,F,143.6,,Sí,05-18-2023,Ansiedad
+P-01666,Abel Isabel Abrego,21/05/1951,H,,48.7,No,2025-01-03,Deprecion
+P-01667,Trinidad Candelaria,1962-06-07,M,160.2,108.1,S,05-04-2023,Migraña cronica
+P-01668,José Eduardo Jimínez Fonseca,2011-01-18,FEM,183.5,119.9,false,10-18-2024,Depresion
+P-01669,Mayte María Eugenia Bétancourt Escamilla,2025-01-17,FEM,150.8,62.3,false,07-01-2025,Diabetes tipo 2
+P-01670,Miguel Armendáriz,25-06-1985,f,151.0,112.4,N,03/05/2023,Colesterol alto
+P-01671,Virginia Suárez Bueno,29/09/1949,masculino,188.7,80.4,0,2025-09-25,Colestero alto
+P-01672,Alejandra Óscar Gamez,1942-01-27,m,0,79.0,1,05/02/2024,Colesterol alto
+P-01673,Luis Manuel Laura Cortez Blanco,30-Dec-1940,FEM,183.6,80.6,Sí,2023-02-21,Gripe estacional
+P-01674,Alfredo María Luisa Cardenas Valencia,1948-03-22,F,158.5,49.6,N,17/04/2025,Depresion
+P-01675,Soledad Felipe Grijalva,1986-04-14,FEM,182.4,,No,2023-01-29,Depresion
+P-01676,Mateo Bernabé Ceja Ozuna,18-07-1952,femenino,166.8,100.4,1,06/08/2023,Diabetes tipo 2
+P-01677,Mauricio Blanca Batista,02-06-1942,Mujer,,92.6,false,12-15-2025,Colesterol alto
+P-01678,Daniela Valentín Aguilar,24-05-1995,Mujer,164.9,,Yes,11/09/2023,Hiperension
+P-01679,Jorge Luis Mauricio Angulo de Anda,1954-03-22,masculino,174.4,52.4,S,10/07/2025,Migraña cronica
+P-01680,Micaela Tello Munguía,01/05/1992,f,183.3,50.0,Sí,10-09-2023,Ansiedad
+P-01681,Dr. Jaime de la Torre,20-12-1987,H,167.3,100.8,true,11/03/2023,Diabetes tpo 2
+P-01682,Sr(a). Reynaldo Santillán,27/05/1942,F,141.7,70.1,Sí,2025-04-04,Colestero alto
+P-01683,Jaqueline Ramírez Casillas,30/08/1978,f,175.5,70.3,N,11-30-2025,Gripe estacional
+P-01684,Pedro Orozco Soria,30/06/2010,FEM,158.9,106.5,S,2025-09-21,Hipertension
+P-01685,Mónica Gabino Oquendo Velasco,02/10/2017,femenino,188.2,102.6,1,14/08/2024,Migraña cronica
+P-01686,Mtro. Delia Núñez,12-Jun-1926,Hombre,176.8,66.6,N,21/07/2024,COVID-19
+P-01687,Rodolfo Santana,15-Nov-1944,F,161.0,77.9,0,10-16-2024,Depresion
+P-01688,Humberto Barbara de la O Zamudio,02-03-1979,masculino,141.2,236.3,N,2024-11-01,Dolor lumbar
+P-01689,Mtro. Armando Dávila,2023-06-04,femenino,158.7,84.9,Yes,2023-09-28,COVID-19
+P-01690,Mtro. Fabiola Villalobos,14-Mar-1952,f,165.5,71.6,Yes,12-19-2023,Colestero alto
+P-01691,Adalberto Lucas Gollum,07/04/1978,F,189.7,91.9,Sí,02-22-2024,Dolor lumbar
+P-01692,María Cristina Silvia Menchaca Espinoza,17-Dec-1947,masculino,176.1,126.8,S,04-02-2025,Ansiedad
+P-01693,Leonel Holguín Tirado,18-12-1965,F,170.4,99.7,1,2025-02-14,Gripe estacional
+P-01694,Dr. Mariano Griego,10/10/1928,F,149.4,98.1,false,08-27-2024,Diabetes tipo 2
+P-01695,Dr. Esperanza Mayorga,1930-06-09,M,155.6,50.1,No,04-04-2023,Asma
+P-01696,Gloria Leonardo Madrigal Fajardo,12-09-1955,H,171.3,103.9,0,2025-04-20,Gripe estacional
+P-01697,Abril Pacheco,1992-11-17,Hombre,155.7,84.4,N,08-10-2025,Dolor lumbar
+P-01698,Mauro Rosado Tapia,2006-09-20,Hombre,162.1,97.2,N,2024-01-07,COVID-19
+P-01699,Abril Emilia Lovato Rodríguez,28-Feb-1968,M,151.3,53.5,false,01-09-2024,Gripe estacional
+P-01700,Lic. Verónica Rascón,12/03/2019,Hombre,142.1,91.1,Yes,02-20-2025,Hiperension
+P-01701,Juan Carlos Dueñas,29-08-2002,Mujer,140.4,66.2,Sí,10-07-2023,Colesterol alto
+P-01702,Frida Rascón Carbajal,25-11-1946,femenino,154.2,116.0,true,08-19-2024,Depresion
+P-01703,María Cristina Hernandes,08/11/1974,FEM,188.4,103.8,Yes,25/03/2024,Ansiedad
+P-01704,Paulina Cotto,09-01-1974,M,140.7,112.3,0,09-18-2024,COVID-19
+P-01705,Leonardo Alma Noriega Carranza,1943-11-12,H,145.5,47.5,N,10-23-2023,Asma
+P-01706,Cristal Sara Villalobos Tafoya,07-Dec-1939,Hombre,156.3,104.2,N,2024-01-12,Diabetes tipo 2
+P-01707,Ramiro Quintana,03-02-2021,FEM,144.2,116.3,Yes,16/02/2023,Gripe estacional
+P-01708,Mtro. Pilar Malave,2013-09-10,f,153.7,79.3,Yes,05-10-2023,Asma
+P-01709,Isabela Delgadillo Meza,09-01-1979,Hombre,159.8,63.9,N,06-19-2025,Migraña cronica
+P-01710,Eduardo Humberto Gurule,01/09/1945,femenino,163.0,0,0,2025-12-21,Dolor lumbar
+P-01711,Lucía Apodaca,1926-11-21,Hombre,143.6,64.2,Sí,24/05/2024,Ansiedad
+P-01712,Patricio Ofelia Gallegos Ordóñez,11-02-2009,m,180.3,69.2,Yes,14/01/2025,Hipertesion
+P-01713,Jonás Bueno,09/04/1925,f,168.1,65.6,No,06-28-2024,COVID-19
+P-01714,Sofía Adriana Menéndez Domínguez,11-Jun-1997,FEM,154.0,0,No,2025-11-18,Deprecion
+P-01715,Lic. José Luis Pérez,23/05/1974,F,164.8,91.5,S,2023-03-25,Colesterol alto
+P-01716,Ing. Elena Peña,30/08/2019,M,173.9,80.0,0,07/10/2023,Gripe estacional
+P-01717,Lic. Lucía Pizarro,1949-11-26,Mujer,177.7,103.2,S,2024-12-20,Ansiedad
+P-01718,Lic. José Manuél Pérez,27-Jan-1948,Hombre,185.3,75.7,Sí,04/07/2023,Hipertension
+P-01719,Luz Jacobo Escamilla,29/09/1930,Mujer,158.7,84.4,Sí,09-20-2025,Diabetes tpo 2
+P-01720,Claudia Anabel Tovar Reynoso,10-Sep-1960,Mujer,162.0,118.8,0,10-09-2025,Asma
+P-01721,Jonás Alejandro Valdez Lomeli,25-08-2024,H,171.8,112.0,N,07/08/2023,Gripe estacional
+P-01722,Nancy Tello Alvarez,17-01-1947,f,,82.9,true,14/03/2024,Gripe estacional
+P-01723,Antonia Sandra Roybal Prieto,20-Dec-2004,F,186.7,101.9,true,03-10-2025,Azma
+P-01724,Dr. Ofelia Vargas,11-Aug-1966,Hombre,156.4,58.8,1,12-22-2024,Ansiedad
+P-01725,Eric Vázquez Marrero,10-Jun-2008,Mujer,164.9,63.1,S,12-22-2024,Ansiedad
+P-01726,Esteban Espartaco Rocha,10-May-1966,M,175.2,81.4,Sí,2024-12-19,COVID-19
+P-01727,Mtro. Minerva Valverde,14-Aug-2006,M,187.3,61.0,Yes,2024-12-05,Migraña cronica
+P-01728,Diana Saldivar Vaca,09-08-2006,H,167.7,70.3,false,06-29-2023,Migraña cronica
+P-01729,Patricia Samuel Cazares Rodrígez,2021-01-22,masculino,166.8,104.0,S,2023-10-19,Ansiedad
+P-01730,Rosario Tamez,1958-09-20,H,185.4,111.8,0,08-10-2023,Diabetes tipo 2
+P-01731,Marcela Villagómez Vega,1953-04-29,FEM,180.8,77.9,Sí,07-08-2023,Diavetes tipo 2
+P-01732,Ana Luisa Gerónimo de la O Alcántar,16-Aug-1938,M,0,87.1,Yes,2025-03-14,Hipertension
+P-01733,José María Barbara Garza,01-Nov-1932,femenino,151.5,,No,26/07/2025,Gripe estacional
+P-01734,Ignacio Araceli Pedraza,26-07-1941,m,189.4,53.9,1,2025-04-05,Colesterol alto
+P-01735,Alfonso Octavio Zepeda Heredia,21-Nov-2024,masculino,150.0,99.8,Yes,08/03/2023,Dolor lumbar
+P-01736,Noelia Ceja Perea,05-Mar-2017,Hombre,185.7,48.9,N,13/11/2023,Asmaa
+P-01737,Gustavo Abelardo Navarro,1977-08-30,FEM,150.2,65.5,false,08/02/2024,Ansiedad
+P-01738,Mtro. Sessa Berríos,30-05-1941,M,151.0,105.9,No,04-08-2025,COVID-19
+P-01739,Espartaco Zarate Aguayo,1994-02-25,Hombre,184.6,71.3,No,2023-12-27,Gripe estacional
+P-01740,Dolores Corrales Mota,08/01/1945,f,164.3,119.6,Yes,2023-07-19,Diabetes tipo 2
+P-01741,Magdalena Lozano,15/06/1925,M,0,103.6,1,09/04/2024,Hiperension
+P-01742,Minerva Montero,09/07/1934,FEM,164.5,60.6,Sí,03-02-2024,Hipertension
+P-01743,Abril Girón,12-Jan-1967,f,159.4,,true,06-08-2023,COVID-19
+P-01744,Mauricio Perales,08/08/1950,H,178.2,107.6,Sí,2023-03-15,Ansiedad
+P-01745,Israel Amalia Bermúdez,15/01/1977,FEM,185.6,97.2,true,2024-03-06,COVID-19
+P-01746,Dr. José Luis Barreto,12-May-1949,F,158.8,0,No,02-06-2025,Ansiedad
+P-01747,Angélica Ornelas,19-Jun-1927,f,167.2,102.9,1,11-06-2023,Depresion
+P-01748,María José Florencia Reséndez,08-Feb-1960,masculino,181.4,45.7,N,04/03/2023,Colesterol alto
+P-01749,María Eugenia Quezada,05-02-2018,FEM,175.7,88.2,1,01-25-2024,Dolor lumbar
+P-01750,Emilia Ana Luisa Palomo,1946-04-09,M,145.2,56.4,N,27/05/2023,COVID-19
+P-01751,Sr(a). Josefina Concepción,09-01-1979,F,145.6,65.3,N,08-06-2023,Ansiedad
+P-01752,Lic. Helena Concepción,1990-04-25,f,159.9,86.4,No,07/06/2024,Depreson
+P-01753,María José Celia Arenas Posada,11/11/1984,Mujer,185.5,108.0,N,2025-12-15,Dolor lumbar
+P-01754,Omar Karla Santana Narváez,1939-09-09,H,166.0,58.8,false,22/02/2023,Asma
+P-01755,Hermelinda Esparta Olmos,24-05-1974,FEM,145.2,73.4,Yes,2024-10-14,Asma
+P-01756,Juana Madrid Lozada,04-Jan-1928,m,167.8,119.2,No,10/09/2023,Dolor lumbar
+P-01757,Cristobal Abelardo Quiroz,15-Apr-1937,F,169.1,71.6,Yes,21/04/2025,Ansiedad
+P-01758,Felipe Solano Lozada,2016-09-22,H,188.8,114.1,1,02/01/2024,Diabetes tipo 2
+P-01759,Gregorio Maximiliano Oquendo,1958-12-07,m,180.4,48.2,N,06/02/2023,Depresion
+P-01760,Dr. Daniel Verduzco,29-03-1939,M,175.2,86.4,1,09/07/2023,Colesterol alto
+P-01761,Víctor Terán Rubio,2013-06-17,H,157.7,,true,2024-02-07,Asma
+P-01762,Isabel Romero Ortiz,09/04/2022,F,187.7,87.7,Sí,07-24-2025,Ansiedad
+P-01763,Soledad de la Rosa Olivas,1985-04-26,Mujer,185.7,86.1,true,09/06/2025,COVID-19
+P-01764,Dr. Zacarías Mendoza,04-07-1970,femenino,144.3,72.4,S,17/08/2023,Diabetes tipo 2
+P-01765,Ing. Natalia Vega,16/12/2019,masculino,153.4,47.8,0,19/07/2025,Colestero alto
+P-01766,Gerardo Mota Velázquez,12-09-1997,M,157.7,98.8,Yes,03/05/2023,Depresion
+P-01767,Trinidad Hermelinda Guerra Castañeda,24/11/1978,FEM,160.5,114.9,N,10/11/2023,Asma
+P-01768,Carolina Iglesias Beltrán,05-06-1987,femenino,189.6,90.2,true,06-02-2025,Migraña cronica
+P-01769,Jesús Medrano Acevedo,04/07/1944,Mujer,140.8,88.4,S,08-08-2025,Ansiedad
+P-01770,Amelia Reyes Morales,13/01/1954,f,183.5,49.8,Yes,03-30-2024,Migraña cronica
+P-01771,David Alejandra Pantoja Olivárez,13-May-2013,Mujer,168.4,46.7,1,2024-10-16,Colesterol alto
+P-01772,Diana Arredondo,24/07/2000,f,176.7,89.6,N,10-12-2024,Diabetes tipo 2
+P-01773,Dr. Abelardo Oquendo,29-Jun-2000,m,142.5,79.8,Sí,04-02-2025,Migraña cronica
+P-01774,Raquel Ponce,11-06-2005,Mujer,178.4,101.3,1,12-03-2024,Dolor lumbar
+P-01775,Dulce María Ledesma Guzmán,03-May-1956,femenino,184.0,52.5,1,2023-06-09,Gripe estacional
+P-01776,Mariana Nava,10-Feb-1981,masculino,180.2,59.2,0,11/01/2024,Hipertension
+P-01777,Dr. Mónica Rojas,1941-11-08,femenino,145.1,106.0,Yes,2024-12-10,Depresion
+P-01778,Anel Luis Miguel Aranda Fuentes,2009-06-26,Hombre,154.8,74.5,Yes,2024-01-01,Gripe estacional
+P-01779,Maximiliano Estefanía Griego Coronado,09-Apr-1980,m,180.0,53.0,N,08/06/2023,Gripe estacional
+P-01780,María Teresa Armas,05/07/1969,Hombre,184.6,87.6,Sí,30/01/2024,Hiperension
+P-01781,Bernardo Valdivia Jiménez,1938-03-12,F,,54.9,N,2023-05-19,Ansiedad
+P-01782,Jacobo Marisol Dueñas Quesada,21-Jan-2006,masculino,156.3,88.1,No,05-25-2023,Dolor lumbar
+P-01783,Ing. Blanca Solís,26/02/1947,m,176.5,90.1,N,02-11-2024,Gripe estacional
+P-01784,Natalia Baeza,04-12-1938,m,140.5,,No,23/05/2023,Colestero alto
+P-01785,Rodolfo Jorge Ferrer Lovato,1980-05-18,M,152.8,65.2,Yes,12-22-2025,COVID-19
+P-01786,Salvador Godínez Duarte,02-Mar-1939,Hombre,153.8,58.7,N,2025-07-02,Azma
+P-01787,José Emilio Sánchez Méndez,14-12-2001,Hombre,172.7,62.7,Sí,09-26-2023,Ansiedad
+P-01788,Jos Quintanilla Alcaraz,21-Apr-1971,Hombre,153.3,52.4,No,11-27-2025,Migraña cronica
+P-01789,Francisco Javier Castro,15-06-1966,m,144.5,113.1,N,2023-11-20,Migraña cronica
+P-01790,Teresa Miguel Saiz Chapa,14-03-2024,Mujer,173.7,65.5,Yes,31/12/2023,Diabetes tipo 2
+P-01791,Diego Mónica Manzanares,06-Mar-2020,femenino,164.2,0,1,02-08-2025,Ansiedad
+P-01792,Óliver Jos Limón,04-06-1934,masculino,157.1,64.7,false,16/05/2025,Hipertension
+P-01793,Carolina Muro Griego,1976-07-28,femenino,169.7,104.1,true,10/12/2025,Diabetes tipo 2
+P-01794,Nelly Alcala Robles,2004-01-16,femenino,176.8,73.2,No,01/10/2024,COVID-19
+P-01795,Lic. Rosa Briones,25/07/1964,M,166.9,61.1,No,03/10/2025,Migraña cronica
+P-01796,Luisa Cynthia Quiñones,1930-08-24,Hombre,144.7,,S,22/11/2023,COVID-19
+P-01797,Sr(a). Óliver Muñoz,24-Nov-2019,masculino,183.0,86.5,No,2025-07-24,Gripe estacional
+P-01798,Felipe Corona,09/05/1941,Mujer,164.3,48.5,Yes,09-06-2023,Diabetes tipo 2
+P-01799,Minerva Loya Vélez,02-09-1954,f,152.8,56.1,S,30/08/2025,Colesterol alto
+P-01800,Mtro. Mauro Márquez,14-Oct-1992,Mujer,,88.5,S,2025-08-27,Colesterol alto
+P-01801,Estela Adán Marrero,27-09-1982,F,160.7,88.9,1,10-08-2025,Ansiedad
+P-01802,Jacinto Fidel Barrientos,13-04-1966,F,182.7,83.7,1,08-21-2023,Migraña cronica
+P-01803,Agustín Octavio Padilla,1980-08-22,m,184.3,118.9,Sí,15/11/2023,Ansiedad
+P-01804,Dolores Mesa Meléndez,04-09-1937,masculino,144.7,79.5,S,01-25-2025,Ansiedad
+P-01805,Alma Laura Fuentes Apodaca,24/12/1945,Hombre,177.2,45.7,N,05-28-2025,Migraña cronica
+P-01806,Ing. Julio Maya,12-05-2014,femenino,159.8,125.0,N,01-10-2026,Diabetes tipo 2
+P-01807,Lic. Timoteo Solano,03-Jul-2020,M,142.2,101.0,false,13/10/2023,Ansiedad
+P-01808,David Mariano Cuellar Negrón,27-06-1982,femenino,169.5,81.3,N,12/02/2024,Dolor lumbar
+P-01809,Clara Carmen Leiva,23/09/1994,H,143.7,49.7,1,03/02/2024,Migraña cronica
+P-01810,Joaquín Elvira Leiva,2001-12-10,masculino,169.1,68.7,No,08-21-2025,Diavetes tipo 2
+P-01811,Carlota Nájera Flores,2022-10-22,FEM,173.3,52.3,Yes,01-31-2023,Dolor lumbar
+P-01812,Teodoro Carlota Ybarra Díaz,04/01/1952,M,165.6,66.3,false,05-16-2023,Diabetes tipo 2
+P-01813,Joaquín Gaona,21-Jan-1986,Mujer,162.6,72.5,Yes,10-08-2023,Diabetes tipo 2
+P-01814,Luis Juan Rendón,21/04/1970,m,143.6,55.0,Yes,2024-07-19,Migraña cronica
+P-01815,Francisca Sandoval Garrido,1973-07-31,masculino,171.1,135.9,N,2024-01-26,Asma
+P-01816,Agustín Soledad Valles Arguello,1939-03-13,femenino,189.2,107.5,true,2024-07-16,Gripe estacional
+P-01817,Roberto Ayala Preciado,11/05/1956,M,174.4,69.3,Sí,21/09/2024,Colesterol alto
+P-01818,Lucía Alta  Gracia Hernádez Rosado,25-Jul-1934,masculino,181.4,74.9,true,2025-11-03,COVID-19
+P-01819,Soledad Mena,1981-01-26,H,186.3,51.3,1,2026-01-04,Colesterol ato
+P-01820,Cristobal Isabel Guillen,1976-01-10,masculino,154.9,71.1,No,02-15-2023,Ansiedad
+P-01821,Marcos Cristina Ureña,09-09-1980,FEM,184.1,104.6,false,2023-03-17,Colesterol alto
+P-01822,Samuel Ricardo Enríquez,29-Dec-1960,m,173.7,75.8,S,01/06/2024,Hipertension
+P-01823,Alfredo Ruelas Calvillo,16-Feb-2024,Hombre,104.0,101.7,0,2024-11-03,Gripe estacional
+P-01824,Aurora Jáquez,24-Aug-1939,masculino,174.1,76.7,true,30/12/2025,Dolor lumbar
+P-01825,María Eugenia Abraham Partida,29/04/2014,Hombre,153.0,79.6,Sí,2025-09-07,COVID-19
+P-01826,Óliver Osorio Rascón,21-04-1965,Mujer,167.4,220.7,Yes,13/09/2023,Hipertension
+P-01827,Bernabé Paulina Longoria Olivo,28-Nov-1973,F,142.7,91.1,Yes,2025-10-18,Migraña cronica
+P-01828,Georgina Alta  Gracia Paz Padilla,21-Oct-1997,M,163.3,73.9,false,06-22-2023,Hipertension
+P-01829,Cristina Bustamante,31-Jul-1943,H,177.4,82.8,true,03/06/2025,Ansiedad
+P-01830,Genaro Orta,24-Jun-1992,M,168.2,94.0,0,12-19-2024,Asma
+P-01831,David Beltrán Jaimes,23-Sep-1964,f,160.2,112.7,0,10-13-2024,Gripe estacional
+P-01832,Alberto Eloy Venegas,1945-12-14,H,188.0,85.1,false,24/10/2025,COVID-19
+P-01833,Rodrigo Calvillo,30-Apr-1935,m,,109.5,N,2023-12-23,COVID-19
+P-01834,Dr. Barbara Alcala,1971-04-29,m,159.7,69.0,true,03-14-2024,Diabetes tipo 2
+P-01835,Lic. Felix Gollum,1959-06-03,H,171.0,62.7,0,2023-04-05,Hipertension
+P-01836,Sofía Óliver Matías,31-05-1959,FEM,140.9,,true,26/11/2023,Diabetes tipo 2
+P-01837,Estela Meraz,11-02-1927,Hombre,184.5,113.1,Sí,2023-08-29,Hipertension
+P-01838,Paulina Alicia Hernádez,27/10/2005,m,160.9,,Sí,08/08/2024,Migraña cronica
+P-01839,Conchita Cortés Brito,16-04-2001,Mujer,184.5,,0,02-28-2024,Migraña cronica
+P-01840,Carlos Esther Martínez,13/08/1992,Mujer,172.4,78.4,No,03-31-2024,Dolor lumbar
+P-01841,Mariano Lozano Montañez,12-06-1950,M,182.1,107.4,Yes,09/10/2023,Ansiedad
+P-01842,Pilar Castellanos,23/03/1946,Hombre,153.1,87.5,No,02-03-2024,Ansiedad
+P-01843,Antonia Reyna Rivero,27/04/2023,femenino,193.3,51.5,No,2026-01-06,COVID-19
+P-01844,Lic. Clemente Ávila,20/03/1943,femenino,187.8,90.1,Yes,2024-04-11,Migraña cronica
+P-01845,Adela Carvajal,04/09/1953,F,166.8,59.2,N,06-13-2024,Migraña cronica
+P-01846,Blanca Casanova,27-Mar-1961,FEM,151.4,89.6,1,10/09/2024,Colestero alto
+P-01847,Ernesto Moreno Arce,03/09/1988,M,155.9,79.5,true,28/09/2024,Diabetes tipo 2
+P-01848,Rafaél Norma Valles Mercado,28/01/1949,masculino,144.7,,false,09/02/2024,Ansiedad
+P-01849,Sr(a). Victoria Posada,04-Aug-1995,femenino,152.5,92.3,true,02-22-2024,COVID-19
+P-01850,Elena Cristina Quezada,1995-03-20,Hombre,141.7,81.4,N,2025-04-17,Hipertension
+P-01851,Miguel Mata,29-10-2022,M,178.0,53.9,0,11-19-2025,COVID-19
+P-01852,Dalia Zedillo,02-Aug-1946,M,150.9,75.7,Sí,25/12/2023,Asma
+P-01853,Julio Eric Venegas Grijalva,05-Jul-1937,masculino,185.3,0,N,08-11-2025,Gripe estacional
+P-01854,Evelio Roberto Vergara del Río,12/05/1987,m,181.4,86.0,Sí,08-30-2024,Gripe estacional
+P-01855,Cristian Arroyo Vázquez,28-06-2014,H,170.6,100.3,No,2023-12-25,Gripe estacional
+P-01856,Sr(a). Salvador Melgar,07-Sep-1974,Mujer,151.3,,false,24/10/2025,Migraña cronica
+P-01857,Reynaldo Úrsula Aragón,09-03-1931,M,188.9,80.4,Sí,27/08/2025,Asma
+P-01858,Marcela Flavio Villa,31/05/2015,masculino,157.9,47.8,0,03-25-2025,Diabetes tipo 2
+P-01859,Martín Garrido Orta,1984-01-07,M,150.6,,N,2023-11-24,Dolor lumbar
+P-01860,Ernesto Brito Ramos,05/10/1986,masculino,155.9,,Sí,07-06-2023,Diavetes tipo 2
+P-01861,Mtro. Abel Collado,14/12/1959,H,189.1,84.8,false,04/07/2025,Hipertension
+P-01862,Ana María Ángel Leyva Zarate,01-07-2000,m,157.3,72.5,No,2024-03-10,COVID-19
+P-01863,Elsa Tejada Aguilera,20/08/1954,H,156.1,118.3,No,2024-03-30,Hipertension
+P-01864,Isabel Vera Serrato,2022-12-22,Hombre,157.4,78.5,No,11-18-2024,Gripe estacional
+P-01865,Lorenzo Mariana Collado Serrano,01-08-1976,Hombre,146.2,114.2,0,03-31-2023,Colesterol alto
+P-01866,Ing. Gerónimo Mota,23-Jan-1984,Mujer,173.1,102.2,false,2025-08-03,Hipertension
+P-01867,Sessa Salazar,18/03/1942,H,166.4,114.6,Sí,02-03-2023,Dolor lumbar
+P-01868,Carlos Villegas Rolón,28-Aug-1971,FEM,172.4,115.4,No,06-08-2024,Gripe estacional
+P-01869,Lic. Elisa Altamirano,09/04/2020,masculino,142.0,64.3,Sí,08/01/2024,Gripe estacional
+P-01870,Soledad Teresa Arellano Vanegas,28-Nov-2020,masculino,174.7,118.1,Sí,2023-12-05,Asma
+P-01871,Teresa Trejo Bonilla,13/02/1929,H,180.4,116.7,S,03/04/2023,Hipertesion
+P-01872,Ilse Estefanía Gómez,15-Oct-1971,masculino,164.2,55.2,N,2023-05-05,Migraña cronica
+P-01873,José Carlos Verduzco Montemayor,1981-08-27,Hombre,165.7,45.9,Yes,03/07/2025,Dolor lumbar
+P-01874,Alejandra Navarrete,23-Jul-1968,Mujer,181.0,84.4,No,11-24-2025,COVID-19
+P-01875,Mtro. Verónica Robledo,04-02-1984,M,156.5,62.6,No,2025-06-23,Hipertension
+P-01876,Octavio Herrera,19/08/2014,f,175.2,82.6,false,10-06-2024,Diabetes tipo 2
+P-01877,Minerva Ariadna Cortez Aguilar,26/02/2014,M,165.4,112.1,No,2024-07-19,COVID-19
+P-01878,Juan Pabón,2015-07-11,F,175.0,56.9,No,01-06-2025,Hipertension
+P-01879,Leticia Concepción,1981-06-18,f,152.6,83.3,N,2024-05-16,COVID-19
+P-01880,Barbara Silvano Gutiérrez Cuellar,23-11-2023,masculino,162.5,110.1,Yes,2025-11-07,Dolor lumbar
+P-01881,Gonzalo Salinas,04-Jun-2013,m,167.6,114.8,true,06-12-2023,Ansiedad
+P-01882,María Cuellar,11/10/1969,m,166.1,53.2,N,25/10/2024,Ansiedad
+P-01883,José Emilio Ayala Peres,17-08-1933,femenino,160.5,88.5,N,29/01/2023,Asma
+P-01884,Leonardo Páez,17-01-1983,Hombre,166.5,70.4,Sí,11-12-2024,Depresion
+P-01885,Salvador Fierro Rivera,22-Aug-1986,Hombre,188.9,112.2,0,02-13-2023,Depresion
+P-01886,Guillermina Torres,11/05/1943,masculino,161.5,111.0,false,2023-12-20,Migraña cronica
+P-01887,Camila María Eugenia Bahena,11-Jun-1942,masculino,158.9,74.9,Sí,2023-06-20,Colesterol alto
+P-01888,Ing. Miriam Contreras,28-01-2020,femenino,162.3,97.5,Sí,05/03/2023,Ansiedad
+P-01889,Bernabé Ballesteros de la Fuente,20/07/2004,Mujer,158.2,115.5,No,2023-07-13,Dolor lumbar
+P-01890,Noelia Flórez Salazar,14-Feb-2020,m,154.8,92.7,N,2024-04-03,Depresion
+P-01891,Dr. Silvano Lara,12-06-1952,FEM,165.1,90.7,true,03-07-2025,Dolor lumbar
+P-01892,Tania Perea,14-10-1992,Hombre,174.2,45.6,0,10-27-2025,COVID-19
+P-01893,Dulce María Delia Godoy,17-07-2013,masculino,157.8,239.7,0,05-21-2025,Hipertension
+P-01894,Estela Pineda Casárez,26-Oct-1990,Mujer,149.6,73.6,No,2025-04-16,Diabetes tipo 2
+P-01895,Arcelia Bustamante Colunga,25/11/2016,H,164.9,59.4,S,2024-03-01,Depresion
+P-01896,Liliana Esther Cortés,1932-08-14,m,154.2,94.5,N,15/02/2024,Depresion
+P-01897,Dr. Mauro Suárez,2009-10-17,Mujer,162.9,48.1,S,17/12/2023,Migraña cronica
+P-01898,Graciela Porras,02-Apr-1973,M,189.8,96.7,true,2025-12-25,Diabetes tipo 2
+P-01899,Lic. Amalia Mota,2023-03-21,F,147.7,82.8,S,2023-10-23,Gripe estacional
+P-01900,Nicolás Octavio Mares Anguiano,11/01/1932,H,171.6,87.3,0,01-03-2025,Hipertension
+P-01901,Francisco Juan Solorzano Lomeli,06-07-1926,Mujer,167.9,118.4,No,01-10-2025,Asma
+P-01902,Alfredo Aldo Quintana,10-08-2018,Hombre,185.6,60.3,false,01-18-2026,Ansiedad
+P-01903,Serafín José Carlos Narváez Niño,05-Nov-1972,f,166.4,99.9,No,2025-08-19,Ansiedad
+P-01904,Pablo Estrada Arevalo,1974-10-27,Mujer,163.8,95.2,false,05-14-2025,Hipertension
+P-01905,Ofelia Estefanía Villalpando Baca,1993-03-29,f,170.6,64.6,Sí,11-12-2023,Gripe estacional
+P-01906,Ana María Elsa Anguiano Solano,27/01/2003,Hombre,152.0,77.9,Yes,09-20-2023,Hipertension
+P-01907,Gilberto Guillermo Gaona,24-01-2010,F,144.6,62.8,true,30/09/2023,Diabetes tipo 2
+P-01908,María Luisa Luis Miguel Rubio Páez,20-Mar-1968,M,169.0,185.6,S,23/02/2024,Dolor lumbar
+P-01909,Bruno Gerardo Olivares,1947-07-27,F,165.4,96.8,No,01-14-2026,COVID-19
+P-01910,Patricia Olivares Toro,05-04-1990,masculino,145.0,67.0,No,2025-11-26,Diabetes tipo 2
+P-01911,Darío Benjamín Rojas Ruiz,07-Feb-1939,F,189.7,119.1,1,01-05-2026,Gripe estacional
+P-01912,Ana Luisa Genaro Villagómez,1983-10-08,M,170.2,0,No,01-05-2025,Gripe estacional
+P-01913,Úrsula Carlos Camacho,1977-05-21,m,185.1,,false,05/10/2025,Hipertension
+P-01914,Lic. Josefina Nieto,14-Aug-2002,M,163.4,118.8,Sí,2024-11-14,Hipertension
+P-01915,Jonás Urrutia,07-Sep-1978,M,175.0,23.8,No,2025-06-19,Dolor lumbar
+P-01916,Irma Pérez Nieves,28-12-1941,FEM,177.7,108.1,No,12/09/2025,Azma
+P-01917,Ricardo Durán,01-07-1969,FEM,77.7,95.7,true,03-06-2024,Deprecion
+P-01918,Nancy Cazares,17-01-1952,Mujer,227.3,58.3,true,10/02/2024,Dolor lumbar
+P-01919,Anabel Maestas Montaño,02/06/1995,FEM,144.9,101.8,0,04-26-2024,Migraña cronica
+P-01920,Francisca Lebrón Bétancourt,09-Mar-2005,f,174.5,63.0,Sí,10/11/2023,Migraña cronica
+P-01921,Hugo Vázquez Barrera,24-07-1946,Mujer,,76.1,true,2024-01-11,Hipertension
+P-01922,Silvano Héctor Esparza,25-05-2018,M,142.0,54.6,S,2024-09-13,Dolor lumbar
+P-01923,Nelly Zúñiga,26-May-1951,H,159.0,88.6,Yes,22/02/2023,Diabetes tipo 2
+P-01924,Esperanza Sosa Oquendo,28/05/1952,F,186.2,72.8,false,09-01-2025,Depresion
+P-01925,Sr(a). Laura Solorio,01-Jan-1938,femenino,156.3,107.5,S,2024-08-11,Diabetes tipo 2
+P-01926,Gregorio Irma Guerra,06-08-2001,m,158.3,117.7,S,2023-10-31,Diabetes tpo 2
+P-01927,José Portillo Santacruz,26-May-2023,f,174.9,83.9,1,03-26-2025,COVID-19
+P-01928,Porfirio Zapata Ruiz,22-Feb-1962,F,172.4,,Yes,13/05/2025,Migraña cronica
+P-01929,Anabel Esperanza Colón Rivera,1963-06-30,femenino,158.5,50.4,false,2023-12-25,Depresion
+P-01930,Rocío Karina Olivo,03/01/1993,FEM,142.3,77.7,S,09-09-2023,Ansiedad
+P-01931,Estela Patricia de la Garza,2024-09-27,masculino,142.0,106.2,S,14/02/2025,Asma
+P-01932,Gabriel Ángela Armas,15-05-2017,H,156.3,0,N,2024-10-03,Gripe estacional
+P-01933,Octavio Enrique Holguín,26-Dec-1972,F,162.3,102.2,No,07/12/2024,Hiperension
+P-01934,Lic. Benjamín Ocasio,15/03/1996,Mujer,188.1,119.7,true,10-05-2023,Migraña cronica
+P-01935,Rebeca Nicolás Velasco,12-03-1931,M,170.8,112.2,N,06-26-2025,Migraña cronica
+P-01936,Lic. Espartaco Gurule,14/02/1967,H,159.3,101.1,0,2024-10-21,Ansiedad
+P-01937,Georgina Alba Ballesteros,30/10/1935,masculino,165.9,65.6,Yes,03-31-2024,COVID-19
+P-01938,Rodolfo Mitzy Botello,03-10-1954,F,156.1,101.4,S,17/02/2023,Dolor lumbar
+P-01939,Bernabé Palomo,05/01/1975,Mujer,185.8,96.2,true,29/09/2024,Dolor lumbar
+P-01940,Sr(a). Aurora Ledesma,11-Jun-1930,m,187.0,49.3,0,01-02-2024,Hipertension
+P-01941,Clemente Estela Uribe Montemayor,17/05/1942,m,152.8,81.5,S,08-15-2024,Asma
+P-01942,Mtro. Norma Montañez,18-12-1994,f,165.2,94.6,true,01/05/2025,Asma
+P-01943,Fidel Bruno Olivárez Quiñónez,02-11-1981,femenino,80.8,107.1,1,10-01-2024,Gripe estacional
+P-01944,Alejandra Clemente Vélez,23-02-1955,Hombre,170.2,96.8,0,17/10/2025,COVID-19
+P-01945,José Manuél Terrazas,27-Feb-1974,H,151.4,100.3,1,01-30-2024,Diabetes tipo 2
+P-01946,Teodoro Daniela Montoya Castañeda,19-Sep-1985,Mujer,159.9,108.2,0,24/04/2025,Gripe estacional
+P-01947,Aldo Garza Pulido,15/08/1994,femenino,167.9,110.4,0,2025-05-12,Deprecion
+P-01948,Clara Jacinto Luna Ramos,20-Sep-2012,Hombre,165.5,86.7,false,02-22-2025,Ansiedad
+P-01949,José Moreno Acuña,27-Feb-1941,F,150.3,91.2,1,02-04-2023,COVID-19
+P-01950,José María Francisco Melgar Reynoso,2015-08-24,Hombre,167.4,101.3,false,23/05/2025,COVID-19
+P-01951,Ing. Soledad Ramírez,1936-05-22,Mujer,142.9,102.0,false,04-26-2024,Gripe estacional
+P-01952,Mtro. Amador Estévez,2000-05-20,f,171.4,0,No,2024-06-22,Gripe estacional
+P-01953,Jacinto Linda Garibay Ferrer,22/01/1999,f,188.5,59.7,No,04-05-2024,Colesterol ato
+P-01954,Miriam Andrea Calvillo Pelayo,28-Sep-2022,m,180.6,63.4,0,2023-05-06,Migraña cronica
+P-01955,Dr. María Teresa Angulo,1968-06-09,femenino,148.6,,Sí,02-25-2024,Ansiedad
+P-01956,Sr(a). Lourdes Raya,12-Nov-1936,f,176.3,92.0,1,24/09/2025,Colestero alto
+P-01957,Angélica Mejía Berríos,28-03-1975,H,163.5,59.4,S,2025-05-11,Ansiedad
+P-01958,Bianca Aldonza Holguín Estévez,01-Jul-1964,H,146.4,86.4,Sí,01-06-2026,Ansiedad
+P-01959,Helena Teodoro Carmona,31-05-1966,H,148.8,62.1,N,01-22-2024,Hipertension
+P-01960,Flavio Vicente Cabrera Lucero,24/03/1996,FEM,,45.2,Yes,2023-09-19,Hipertension
+P-01961,Cecilia Conchita Valles,30-05-2014,H,147.0,79.5,false,05-12-2024,Ansiedad
+P-01962,Vicente Aguilar Rolón,18-12-1964,masculino,175.7,96.1,No,26/05/2023,Colesterol alto
+P-01963,Claudio Rocío Menchaca Montalvo,19/01/2024,Hombre,141.0,111.7,No,07-27-2023,Hipertension
+P-01964,Esparta Brito Cornejo,04-02-1954,H,162.8,85.2,Sí,08-28-2025,Ansiedad
+P-01965,Cornelio Sanabria,03-05-1976,m,183.2,56.7,S,02-23-2025,Depresion
+P-01966,Martín Nadia Cortés Aguayo,12-06-1929,femenino,173.0,47.2,Sí,2023-11-23,Hipertension
+P-01967,Gerónimo Jaime Alcántar Solorzano,17/05/1938,FEM,187.0,117.6,true,04-30-2025,Gripe estacional
+P-01968,Jorge Bruno Carrión,30-10-1957,M,154.0,84.3,N,05-01-2023,Gripe estacional
+P-01969,Ernesto Lilia Cedillo,2025-07-24,femenino,146.3,111.5,No,2023-03-28,Diabetes tipo 2
+P-01970,Darío Enrique Olivas Montez,17-02-1934,M,146.2,103.9,Sí,29/10/2024,Diabetes tpo 2
+P-01971,Abril Alfredo Soto Pedraza,21-01-1939,FEM,166.4,53.3,N,2023-09-23,Hiperension
+P-01972,Adán Sosa Carrión,1937-03-16,f,173.9,107.3,true,2025-10-10,Hipertension
+P-01973,Ing. Trinidad del Río,23/08/1959,FEM,174.3,,Sí,04-03-2025,Gripe estacional
+P-01974,Dulce Guadalupe Ríos Roque,1934-07-30,H,156.0,107.7,1,04-11-2025,Ansiedad
+P-01975,Vanesa Olga Lebrón,21/10/1932,m,150.6,65.4,0,06-24-2025,Depresion
+P-01976,Eloy Saucedo,1942-01-24,m,143.6,59.4,S,05-23-2023,Migraña cronica
+P-01977,Dr. Adela Feliciano,1955-12-19,FEM,150.0,89.2,Yes,19/01/2024,Colesterol alto
+P-01978,Dr. Zeferino Ibarra,06-Mar-1982,F,160.8,51.8,Yes,14/05/2024,Dolor lumbar
+P-01979,Lic. Tania Pineda,14-Aug-1939,Hombre,158.5,95.4,No,06-24-2023,Gripe estacional
+P-01980,Ana Luisa Valenzuela,09-Mar-1941,Hombre,164.5,90.6,true,2025-04-24,Asma
+P-01981,Dr. Nelly Parra,06-09-2000,FEM,176.1,102.9,S,11-11-2025,Hipertension
+P-01982,Jonás Flavio Maldonado,2017-02-25,Hombre,144.9,92.1,Yes,03/07/2025,Hipertesion
+P-01983,José María Collazo,11-Dec-1997,FEM,150.9,77.7,N,2023-10-10,Diabetes tipo 2
+P-01984,Mtro. Miguel Lemus,22-Nov-2022,Hombre,165.3,94.5,No,26/08/2024,Diabetes tpo 2
+P-01985,Lic. Andrés Núñez,2014-02-12,M,157.9,118.8,Sí,03-08-2024,Hipertension
+P-01986,Ing. Pilar Viera,24/01/1995,M,155.1,102.9,Yes,11-11-2025,Hipertesion
+P-01987,Violeta Gerónimo Ballesteros Amador,23-08-1995,femenino,179.2,65.8,S,04-28-2025,COVID-19
+P-01988,Rebeca Horacio Sánchez Naranjo,09-12-1981,Hombre,109.9,94.6,1,09-10-2023,Asma
+P-01989,Cristobal Felipe Alonso,26-03-2022,femenino,156.3,,1,2024-10-03,Dolor lumbar
+P-01990,Roberto Sosa Heredia,07-09-1974,FEM,175.2,95.5,true,2024-07-21,Ansiedad
+P-01991,Manuel Haro Calderón,1943-06-23,femenino,159.3,69.2,N,07-26-2023,Diabetes tpo 2
+P-01992,Lic. Mayte Navarro,18/12/1934,M,183.8,97.3,No,18/10/2023,Ansiedad
+P-01993,Teresa Farías Zavala,16-Nov-1939,masculino,140.8,77.7,0,2023-05-28,Asmaa
+P-01994,Nancy Mayte Girón,09-Jul-1940,Hombre,183.0,53.4,No,03-21-2023,Colesterol alto
+P-01995,Dr. José Eduardo Hinojosa,20/02/1941,Mujer,180.6,54.6,true,09-19-2023,Gripe estacional
+P-01996,Olivia Robledo,05-Jun-1936,M,170.8,52.7,Sí,24/11/2025,Hiperension
+P-01997,Patricia Nieto,1991-09-19,m,147.3,69.2,No,12-26-2025,Hipertesion
+P-01998,Zoé Pabón,03-Jul-1925,Hombre,158.7,60.3,N,13/11/2024,Migraña cronica
+P-01999,Armando Marco Antonio Urías Amaya,22/11/1957,H,0,101.3,false,11-09-2023,Asma
+P-02000,Estela Valverde Abrego,28-Feb-1966,Mujer,162.0,117.6,Yes,2023-04-11,Gripe estacional
