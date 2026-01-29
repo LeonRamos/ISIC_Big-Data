@@ -1,0 +1,8 @@
+import csv
+
+archivo = "subvenciones.csv"
+
+with open(archivo, mode="r", encoding="utf-8") as f:
+    lector = csv.reader(f)
+    for fila in lector:
+        print(fila)
