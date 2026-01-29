@@ -1,0 +1,51 @@
+id_cliente,nombre,email,telefono,ciudad,edad
+1,Pablo Noelia Muro,gaonagregorio@example.com,(224)350-0907x046,San Dalia los altos,22
+2,Citlali Karina Hernádez Lemus,omenendez@example.org,519-616-3045,Nueva Australia,27
+3,Linda Fuentes Regalado,renato46@example.com,(794)562-5508x24166,Vieja Yemen,76
+4,Florencia Negrete,rene20@example.org,+34(7)0677590106,San Mariana los altos,61
+5,Salvador Castillo,nancy15@example.net,02607078515,San Pilar los altos,36
+6,Bernardo Chacón Collazo,otijerina@example.net,1-132-593-8754x168,San Rafaél los bajos,77
+7,Dr. Minerva Altamirano,cervantesgraciela@example.org,(140)135-2458x3483,Nueva Etiopía,60
+8,Trinidad Aponte,sofia89@example.net,084.399.1133,San Diana de la Montaña,56
+9,Ing. Rosario Angulo,barreramariana@example.org,(534)514-8465x27512,Nueva Canadá,71
+10,Ricardo Córdova Sanches,andreaaguayo@example.com,533-521-3232x75487,Nueva Costa Rica,73
+11,Margarita Torres,estefaniapaz@example.com,479-984-4750x056,San Mauricio los altos,48
+12,Sr(a). Cristobal Garrido,maganaalejandro@example.net,087.559.4810x622,San Omar los altos,52
+13,Pamela Serafín Polanco Ramírez,unino@example.com,178-312-5737x9847,Nueva Suiza,67
+14,Irma Anabel López Mayorga,adriana43@example.org,+31(5)7640424843,San Lucía los altos,68
+15,Araceli Soledad Rincón,guadalupegodoy@example.net,570.935.5164x93204,Nueva Fiji,70
+16,Ruby Alarcón Jaimes,barbara95@example.org,+50(7)6563739375,San Leticia los altos,54
+17,Bernabé Briones Raya,nancynajera@example.net,(022)054-0072,Nueva Eslovaquia,31
+18,Alejandra Llamas González,jesusjimenez@example.net,052-205-3377,Vieja Uruguay,52
+19,Florencia Amaya,benjamin03@example.net,957.124.0824x0400,San Vanesa los bajos,60
+20,Ángela Olga Centeno,mmontalvo@example.com,(724)745-0471x695,San Carmen de la Montaña,43
+21,Cristian Antonia Noriega Palacios,verdugoantonio@example.org,642-086-4692,Nueva Benin,32
+22,Sr(a). Gabriela Palomino,narmendariz@example.com,(983)730-4505x2609,Vieja Côte d'Ivoire,37
+23,Guillermina David Peña Salazar,xrojas@example.com,(712)231-2875x61648,Nueva Timor-Leste,27
+24,Helena Peralta,gonzalo36@example.com,(657)334-7389,San Jos los altos,29
+25,María Luisa Flavio Ramos Valdés,concepcioncelia@example.com,216.642.0789,San Florencia los altos,59
+26,Concepción Aida Valles,angelica33@example.com,678-109-5098x8604,Vieja Kuwait,47
+27,Ing. Nancy Quintanilla,felix01@example.com,1-057-059-8200,Vieja Ghana,72
+28,Mtro. Abel Badillo,sarabiailse@example.net,512-053-2510,San Eugenia de la Montaña,75
+29,Vicente Mercado,ignaciosegura@example.org,+13(6)2798479249,San Zeferino de la Montaña,60
+30,Ing. Patricio Lemus,rosarioruelas@example.org,1-491-269-4894x60726,San Francisca los bajos,48
+31,Raúl Jacinto López Nevárez,vvigil@example.com,(336)886-5367x7720,San Linda los altos,58
+32,Ing. Tomás Trujillo,villanuevaursula@example.com,1-367-390-9008x953,Nueva Ecuador,35
+33,Irma Israel Angulo,rescalante@example.net,528-687-6681,Vieja Francia,72
+34,Amalia Jaimes,ortagerman@example.org,(272)472-1889x3495,San Oswaldo los altos,40
+35,Marisol Zoé Camacho,gaonasusana@example.com,554.741.7862x4615,San Miriam los bajos,34
+36,Lic. Amelia Cantú,juancazares@example.net,(960)730-7369,San Fidel de la Montaña,28
+37,Isabel Chapa,vmontanez@example.org,1-359-284-9304,San Gonzalo de la Montaña,64
+38,Dr. Socorro Trejo,klovato@example.com,998-158-2711,San Caridad los bajos,68
+39,Lorenzo Verónica Arias,svillalobos@example.net,434-183-6743x558,Vieja Cabo Verde,43
+40,Julia Ontiveros,isabelaespinoza@example.net,248.850.7742x9554,San Abril los bajos,31
+41,Javier Partida,julio-cesar64@example.org,(032)429-9817,Nueva Bahrein,68
+42,Salma Terrazas,santillanbernardo@example.net,050-424-8951x222,San José Manuél de la Montaña,77
+43,Ricardo Barraza,estefania91@example.net,573-777-7902,San Mauro de la Montaña,43
+44,Lic. Rosario Valle,rubenvaladez@example.net,989.417.7450x901,Vieja Brunei Darussalam,24
+45,Silvano Concepción Quesada Escobar,uriel69@example.org,+11(0)2962302701,San Lucas los altos,75
+46,Mtro. Clara Puga,xalmanza@example.net,547-376-8985,San Gerónimo de la Montaña,29
+47,Sr(a). Patricia Montemayor,yuridiapadron@example.org,476-664-8102x241,Nueva Burundi,42
+48,Mónica Linares,oscar55@example.com,04290873842,San Antonio los altos,54
+49,Sr(a). Nelly Prado,sara16@example.org,078-598-3368x46347,San Virginia los bajos,22
+50,Pilar Pablo Vega,sandravillasenor@example.org,462.957.8977,San Jerónimo los altos,63
