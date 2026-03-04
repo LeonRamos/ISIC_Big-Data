@@ -1,17 +1,14 @@
 FROM apache/airflow:2.9.0
 
-# Cambiamos a root para instalar dependencias
-USER root
+# Copiar requirements antes (mejora cache)
+COPY requirements.txt /requirements.txt
 
-# Instalar Faker dentro del contenedor
-RUN pip install Faker
+# Instalar paquetes como usuario airflow (ya es el default en la imagen)
+RUN pip install --no-cache-dir -r /requirements.txt
 
-# Crear carpetas para dags, scripts y data
+# Crear carpetas para dags, scripts y data (como airflow)
 RUN mkdir -p /opt/airflow/dags /opt/airflow/scripts /opt/airflow/data
 
-# Copiar nuestro código al contenedor
+# Copiar código
 COPY dags /opt/airflow/dags
 COPY scripts /opt/airflow/scripts
-
-# Volver al usuario airflow (recomendado por la documentación oficial)
-USER airflow

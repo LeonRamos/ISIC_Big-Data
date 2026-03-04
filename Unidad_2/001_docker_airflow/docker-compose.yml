@@ -11,8 +11,13 @@ services:
       - AIRFLOW__CORE__FERNET_KEY=MI_FERNET_KEY_1234567890123456789012
       - AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION=False
       - AIRFLOW__WEBSERVER__RBAC=True
+      - _AIRFLOW_DB_UPGRADE=True
+      - _AIRFLOW_WWW_USER_CREATE=True
       - _AIRFLOW_WWW_USER_USERNAME=admin
       - _AIRFLOW_WWW_USER_PASSWORD=admin
+      - _AIRFLOW_WWW_USER_FIRSTNAME=Admin
+      - _AIRFLOW_WWW_USER_LASTNAME=User
+      - _AIRFLOW_WWW_USER_EMAIL=admin@example.com
     ports:
       - "8080:8080"
     volumes:
@@ -21,13 +26,7 @@ services:
       - ./data:/opt/airflow/data
     command: >
       bash -c "
-      airflow db init &&
-      airflow users create
-        --username admin
-        --firstname Admin
-        --lastname User
-        --role Admin
-        --email admin@example.com
-        --password admin &&
-      airflow webserver & airflow scheduler
+      airflow db upgrade &&
+      airflow webserver --port 8080 --host 0.0.0.0 & 
+      airflow scheduler
       "
