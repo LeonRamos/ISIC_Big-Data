@@ -4,8 +4,8 @@ import pandas as pd
 import plotly.express as px
 
 # 1. Carga y limpieza de datos
-df_detalle = pd.read_csv('dashboard_inventarios_utiles_detalle.csv')
-df_resumen = pd.read_csv('dashboard_inventarios_utiles_resumen.csv')
+df_detalle = pd.read_csv('/Users/leonmiguelramoscorchado/Documents/GitHub/ISIC_Big-Data/Unidad_2/003_Dashboard/dashboard_inventarios_utiles_detalle.csv')
+df_resumen = pd.read_csv('/Users/leonmiguelramoscorchado/Documents/GitHub/ISIC_Big-Data/Unidad_2/003_Dashboard/dashboard_inventarios_utiles_resumen.csv')
 
 # Asegurar formato de fecha
 df_detalle['Fecha'] = pd.to_datetime(df_detalle['Fecha'])
@@ -82,4 +82,4 @@ def update_dashboard(marca_seleccionada):
     return fig_ventas, fig_tendencia, filtered_df.to_dict('records')
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
