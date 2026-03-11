@@ -1,0 +1,60 @@
+version: "3.8"
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: bronze_postgres
+    environment:
+      - POSTGRES_USER=bronze_user
+      - POSTGRES_PASSWORD=bronze_pass
+      - POSTGRES_DB=bronze_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bronze_user -d bronze_db"]
+      interval: 10s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+
+  airflow:
+    build: .
+    container_name: hola_airflow_faker
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__CORE__FERNET_KEY=MI_FERNET_KEY_1234567890123456789012
+      - AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION=False
+      - AIRFLOW__WEBSERVER__RBAC=True
+      - _AIRFLOW_DB_UPGRADE=True
+      - _AIRFLOW_WWW_USER_CREATE=True
+      - _AIRFLOW_WWW_USER_USERNAME=admin
+      - _AIRFLOW_WWW_USER_PASSWORD=admin
+      - _AIRFLOW_WWW_USER_FIRSTNAME=Admin
+      - _AIRFLOW_WWW_USER_LASTNAME=User
+      - _AIRFLOW_WWW_USER_EMAIL=admin@example.com
+      # conexión a Postgres bronce para el script
+      - BRONZE_PG_HOST=postgres
+      - BRONZE_PG_DB=bronze_db
+      - BRONZE_PG_USER=bronze_user
+      - BRONZE_PG_PASSWORD=bronze_pass
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./scripts:/opt/airflow/scripts
+      - ./data:/opt/airflow/data
+    command: >
+      bash -c "
+      airflow webserver --port 8080 --host 0.0.0.0 & 
+      airflow scheduler
+      "
+
+volumes:
+  pgdata:

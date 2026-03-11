@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Eugenio Espinoza",
+    "email": "fernandezaurora@example.net",
+    "direccion": "Circuito Acosta 215 772\nSan Agustín de la Montaña, GTO 41290-9793"
+  },
+  {
+    "id": 2,
+    "nombre": "Aurora Valdez",
+    "email": "gamboaalonso@example.org",
+    "direccion": "Diagonal Belarús 495 Interior 413\nVieja Irlanda, AGS 73427"
+  },
+  {
+    "id": 3,
+    "nombre": "Alvaro Soria",
+    "email": "avilaalma@example.com",
+    "direccion": "Calle Nuevo León 311 Interior 853\nNueva Ghana, MEX 12667-2518"
+  },
+  {
+    "id": 4,
+    "nombre": "Ofelia Nieto Linares",
+    "email": "villanuevaestefania@example.com",
+    "direccion": "Prolongación Norte Olvera 546 732\nSan Beatriz los altos, OAX 99047"
+  },
+  {
+    "id": 5,
+    "nombre": "Estela María Sanches Valdivia",
+    "email": "ricardorosado@example.net",
+    "direccion": "Viaducto Aponte 856 298\nSan Esther los altos, TLAX 29920"
+  },
+  {
+    "id": 6,
+    "nombre": "Natividad Briseño",
+    "email": "alvarofajardo@example.com",
+    "direccion": "Viaducto Bahrein 321 530\nVieja Israel, BCS 90816"
+  },
+  {
+    "id": 7,
+    "nombre": "Barbara Santiago Chávez",
+    "email": "elsaverduzco@example.com",
+    "direccion": "Corredor Norte Escobedo 133 670\nNueva Omán, GTO 10327"
+  },
+  {
+    "id": 8,
+    "nombre": "Marisol Herrera",
+    "email": "barbaraaleman@example.org",
+    "direccion": "Cerrada Madagascar 092 Interior 463\nSan Cristal de la Montaña, BC 86595-3106"
+  },
+  {
+    "id": 9,
+    "nombre": "Evelio Luis Manuel Carranza",
+    "email": "oscar83@example.org",
+    "direccion": "Privada Farías 773 Interior 838\nNueva San Marino, JAL 54133-1861"
+  },
+  {
+    "id": 10,
+    "nombre": "Miguel Sosa",
+    "email": "paulinameraz@example.com",
+    "direccion": "Callejón Quintana Roo 632 991\nVieja Congo, NAY 24512"
+  }
+]
