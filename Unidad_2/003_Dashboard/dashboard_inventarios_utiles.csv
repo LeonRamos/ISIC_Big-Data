@@ -1,0 +1,2753 @@
+﻿Fecha,Hora,Nivel_Escolar,Marca,Inventario_Inicial,Ventas,Inventario_Final
+2025-08-01,9,Preescolar,TopKids,101,17,84
+2025-08-01,9,Kínder,TopKids,121,17,104
+2025-08-01,9,Primaria 1°,SuperSchool,132,11,121
+2025-08-01,9,Primaria 2°,TopKids,124,12,112
+2025-08-01,9,Primaria 3°,SuperSchool,149,12,137
+2025-08-01,9,Primaria 4°,TopKids,71,9,62
+2025-08-01,9,Primaria 5°,EduMax,137,16,121
+2025-08-01,9,Primaria 6°,EduMax,87,6,81
+2025-08-01,10,Preescolar,SuperSchool,82,16,66
+2025-08-01,10,Kínder,EduMax,71,17,54
+2025-08-01,10,Primaria 1°,SuperSchool,98,15,83
+2025-08-01,10,Primaria 2°,TopKids,91,16,75
+2025-08-01,10,Primaria 3°,TopKids,111,18,93
+2025-08-01,10,Primaria 4°,TopKids,111,7,104
+2025-08-01,10,Primaria 5°,TopKids,113,13,100
+2025-08-01,10,Primaria 6°,TopKids,100,11,89
+2025-08-01,11,Preescolar,SuperSchool,122,11,111
+2025-08-01,11,Kínder,EduMax,53,13,40
+2025-08-01,11,Primaria 1°,EduMax,58,14,44
+2025-08-01,11,Primaria 2°,SuperSchool,51,8,43
+2025-08-01,11,Primaria 3°,TopKids,109,11,98
+2025-08-01,11,Primaria 4°,SuperSchool,57,19,38
+2025-08-01,11,Primaria 5°,TopKids,127,5,122
+2025-08-01,11,Primaria 6°,EduMax,53,6,47
+2025-08-01,12,Preescolar,EduMax,55,10,45
+2025-08-01,12,Kínder,EduMax,53,10,43
+2025-08-01,12,Primaria 1°,SuperSchool,112,6,106
+2025-08-01,12,Primaria 2°,EduMax,93,6,87
+2025-08-01,12,Primaria 3°,EduMax,111,8,103
+2025-08-01,12,Primaria 4°,EduMax,144,19,125
+2025-08-01,12,Primaria 5°,EduMax,136,16,120
+2025-08-01,12,Primaria 6°,SuperSchool,111,12,99
+2025-08-01,13,Preescolar,SuperSchool,129,17,112
+2025-08-01,13,Kínder,EduMax,102,12,90
+2025-08-01,13,Primaria 1°,EduMax,138,16,122
+2025-08-01,13,Primaria 2°,SuperSchool,90,17,73
+2025-08-01,13,Primaria 3°,TopKids,94,5,89
+2025-08-01,13,Primaria 4°,SuperSchool,120,13,107
+2025-08-01,13,Primaria 5°,SuperSchool,57,12,45
+2025-08-01,13,Primaria 6°,TopKids,60,7,53
+2025-08-01,14,Preescolar,SuperSchool,57,7,50
+2025-08-01,14,Kínder,TopKids,82,15,67
+2025-08-01,14,Primaria 1°,SuperSchool,90,16,74
+2025-08-01,14,Primaria 2°,TopKids,122,12,110
+2025-08-01,14,Primaria 3°,EduMax,82,11,71
+2025-08-01,14,Primaria 4°,TopKids,111,12,99
+2025-08-01,14,Primaria 5°,SuperSchool,148,16,132
+2025-08-01,14,Primaria 6°,EduMax,140,7,133
+2025-08-01,15,Preescolar,SuperSchool,148,9,139
+2025-08-01,15,Kínder,TopKids,127,7,120
+2025-08-01,15,Primaria 1°,SuperSchool,54,14,40
+2025-08-01,15,Primaria 2°,TopKids,63,11,52
+2025-08-01,15,Primaria 3°,TopKids,58,19,39
+2025-08-01,15,Primaria 4°,TopKids,139,14,125
+2025-08-01,15,Primaria 5°,SuperSchool,100,19,81
+2025-08-01,15,Primaria 6°,TopKids,101,17,84
+2025-08-01,16,Preescolar,EduMax,72,11,61
+2025-08-01,16,Kínder,SuperSchool,64,15,49
+2025-08-01,16,Primaria 1°,SuperSchool,85,17,68
+2025-08-01,16,Primaria 2°,TopKids,108,7,101
+2025-08-01,16,Primaria 3°,EduMax,77,6,71
+2025-08-01,16,Primaria 4°,EduMax,94,18,76
+2025-08-01,16,Primaria 5°,SuperSchool,55,16,39
+2025-08-01,16,Primaria 6°,EduMax,111,15,96
+2025-08-04,9,Preescolar,EduMax,141,13,128
+2025-08-04,9,Kínder,TopKids,111,5,106
+2025-08-04,9,Primaria 1°,SuperSchool,76,18,58
+2025-08-04,9,Primaria 2°,SuperSchool,126,13,113
+2025-08-04,9,Primaria 3°,TopKids,119,12,107
+2025-08-04,9,Primaria 4°,TopKids,58,18,40
+2025-08-04,9,Primaria 5°,SuperSchool,146,7,139
+2025-08-04,9,Primaria 6°,EduMax,93,12,81
+2025-08-04,10,Preescolar,TopKids,108,10,98
+2025-08-04,10,Kínder,SuperSchool,101,5,96
+2025-08-04,10,Primaria 1°,EduMax,107,8,99
+2025-08-04,10,Primaria 2°,EduMax,88,6,82
+2025-08-04,10,Primaria 3°,TopKids,105,5,100
+2025-08-04,10,Primaria 4°,TopKids,51,6,45
+2025-08-04,10,Primaria 5°,EduMax,136,9,127
+2025-08-04,10,Primaria 6°,SuperSchool,50,7,43
+2025-08-04,11,Preescolar,EduMax,51,9,42
+2025-08-04,11,Kínder,EduMax,81,10,71
+2025-08-04,11,Primaria 1°,TopKids,117,11,106
+2025-08-04,11,Primaria 2°,TopKids,105,15,90
+2025-08-04,11,Primaria 3°,SuperSchool,87,12,75
+2025-08-04,11,Primaria 4°,SuperSchool,147,10,137
+2025-08-04,11,Primaria 5°,EduMax,60,19,41
+2025-08-04,11,Primaria 6°,SuperSchool,122,16,106
+2025-08-04,12,Preescolar,TopKids,119,17,102
+2025-08-04,12,Kínder,TopKids,69,16,53
+2025-08-04,12,Primaria 1°,TopKids,85,7,78
+2025-08-04,12,Primaria 2°,EduMax,116,19,97
+2025-08-04,12,Primaria 3°,TopKids,69,11,58
+2025-08-04,12,Primaria 4°,SuperSchool,82,12,70
+2025-08-04,12,Primaria 5°,TopKids,131,12,119
+2025-08-04,12,Primaria 6°,SuperSchool,60,16,44
+2025-08-04,13,Preescolar,SuperSchool,138,6,132
+2025-08-04,13,Kínder,TopKids,80,18,62
+2025-08-04,13,Primaria 1°,EduMax,148,11,137
+2025-08-04,13,Primaria 2°,EduMax,109,5,104
+2025-08-04,13,Primaria 3°,EduMax,50,18,32
+2025-08-04,13,Primaria 4°,SuperSchool,86,15,71
+2025-08-04,13,Primaria 5°,TopKids,58,13,45
+2025-08-04,13,Primaria 6°,TopKids,68,7,61
+2025-08-04,14,Preescolar,EduMax,82,12,70
+2025-08-04,14,Kínder,TopKids,121,8,113
+2025-08-04,14,Primaria 1°,EduMax,133,18,115
+2025-08-04,14,Primaria 2°,TopKids,138,7,131
+2025-08-04,14,Primaria 3°,SuperSchool,142,6,136
+2025-08-04,14,Primaria 4°,EduMax,131,6,125
+2025-08-04,14,Primaria 5°,EduMax,84,17,67
+2025-08-04,14,Primaria 6°,SuperSchool,149,5,144
+2025-08-04,15,Preescolar,SuperSchool,63,9,54
+2025-08-04,15,Kínder,TopKids,116,5,111
+2025-08-04,15,Primaria 1°,SuperSchool,97,16,81
+2025-08-04,15,Primaria 2°,TopKids,135,11,124
+2025-08-04,15,Primaria 3°,EduMax,79,10,69
+2025-08-04,15,Primaria 4°,EduMax,100,10,90
+2025-08-04,15,Primaria 5°,TopKids,76,6,70
+2025-08-04,15,Primaria 6°,SuperSchool,79,5,74
+2025-08-04,16,Preescolar,TopKids,113,5,108
+2025-08-04,16,Kínder,SuperSchool,110,7,103
+2025-08-04,16,Primaria 1°,TopKids,113,5,108
+2025-08-04,16,Primaria 2°,SuperSchool,93,16,77
+2025-08-04,16,Primaria 3°,EduMax,142,18,124
+2025-08-04,16,Primaria 4°,SuperSchool,55,7,48
+2025-08-04,16,Primaria 5°,SuperSchool,86,12,74
+2025-08-04,16,Primaria 6°,SuperSchool,95,9,86
+2025-08-05,9,Preescolar,TopKids,148,16,132
+2025-08-05,9,Kínder,SuperSchool,112,17,95
+2025-08-05,9,Primaria 1°,SuperSchool,81,11,70
+2025-08-05,9,Primaria 2°,SuperSchool,116,6,110
+2025-08-05,9,Primaria 3°,SuperSchool,144,10,134
+2025-08-05,9,Primaria 4°,EduMax,116,12,104
+2025-08-05,9,Primaria 5°,EduMax,73,6,67
+2025-08-05,9,Primaria 6°,TopKids,135,11,124
+2025-08-05,10,Preescolar,EduMax,76,14,62
+2025-08-05,10,Kínder,EduMax,139,5,134
+2025-08-05,10,Primaria 1°,SuperSchool,58,15,43
+2025-08-05,10,Primaria 2°,EduMax,97,11,86
+2025-08-05,10,Primaria 3°,SuperSchool,91,11,80
+2025-08-05,10,Primaria 4°,EduMax,148,6,142
+2025-08-05,10,Primaria 5°,SuperSchool,73,17,56
+2025-08-05,10,Primaria 6°,EduMax,56,13,43
+2025-08-05,11,Preescolar,SuperSchool,69,5,64
+2025-08-05,11,Kínder,EduMax,65,18,47
+2025-08-05,11,Primaria 1°,TopKids,136,19,117
+2025-08-05,11,Primaria 2°,EduMax,115,11,104
+2025-08-05,11,Primaria 3°,TopKids,135,7,128
+2025-08-05,11,Primaria 4°,SuperSchool,107,19,88
+2025-08-05,11,Primaria 5°,EduMax,71,14,57
+2025-08-05,11,Primaria 6°,EduMax,135,5,130
+2025-08-05,12,Preescolar,EduMax,119,19,100
+2025-08-05,12,Kínder,EduMax,109,9,100
+2025-08-05,12,Primaria 1°,SuperSchool,57,9,48
+2025-08-05,12,Primaria 2°,SuperSchool,117,10,107
+2025-08-05,12,Primaria 3°,SuperSchool,145,8,137
+2025-08-05,12,Primaria 4°,EduMax,96,7,89
+2025-08-05,12,Primaria 5°,TopKids,89,8,81
+2025-08-05,12,Primaria 6°,SuperSchool,79,7,72
+2025-08-05,13,Preescolar,SuperSchool,112,7,105
+2025-08-05,13,Kínder,EduMax,104,14,90
+2025-08-05,13,Primaria 1°,SuperSchool,139,9,130
+2025-08-05,13,Primaria 2°,EduMax,72,19,53
+2025-08-05,13,Primaria 3°,SuperSchool,61,9,52
+2025-08-05,13,Primaria 4°,SuperSchool,107,14,93
+2025-08-05,13,Primaria 5°,SuperSchool,83,18,65
+2025-08-05,13,Primaria 6°,EduMax,97,13,84
+2025-08-05,14,Preescolar,SuperSchool,50,17,33
+2025-08-05,14,Kínder,TopKids,113,19,94
+2025-08-05,14,Primaria 1°,SuperSchool,71,17,54
+2025-08-05,14,Primaria 2°,TopKids,116,16,100
+2025-08-05,14,Primaria 3°,EduMax,65,7,58
+2025-08-05,14,Primaria 4°,SuperSchool,135,13,122
+2025-08-05,14,Primaria 5°,SuperSchool,127,16,111
+2025-08-05,14,Primaria 6°,SuperSchool,96,5,91
+2025-08-05,15,Preescolar,EduMax,111,8,103
+2025-08-05,15,Kínder,SuperSchool,125,14,111
+2025-08-05,15,Primaria 1°,EduMax,97,9,88
+2025-08-05,15,Primaria 2°,TopKids,149,5,144
+2025-08-05,15,Primaria 3°,EduMax,143,9,134
+2025-08-05,15,Primaria 4°,TopKids,59,10,49
+2025-08-05,15,Primaria 5°,SuperSchool,149,6,143
+2025-08-05,15,Primaria 6°,TopKids,59,14,45
+2025-08-05,16,Preescolar,TopKids,107,5,102
+2025-08-05,16,Kínder,SuperSchool,53,12,41
+2025-08-05,16,Primaria 1°,TopKids,51,5,46
+2025-08-05,16,Primaria 2°,TopKids,133,12,121
+2025-08-05,16,Primaria 3°,EduMax,84,16,68
+2025-08-05,16,Primaria 4°,SuperSchool,82,17,65
+2025-08-05,16,Primaria 5°,TopKids,92,9,83
+2025-08-05,16,Primaria 6°,TopKids,114,5,109
+2025-08-06,9,Preescolar,EduMax,92,16,76
+2025-08-06,9,Kínder,SuperSchool,62,16,46
+2025-08-06,9,Primaria 1°,TopKids,95,6,89
+2025-08-06,9,Primaria 2°,SuperSchool,84,11,73
+2025-08-06,9,Primaria 3°,SuperSchool,139,12,127
+2025-08-06,9,Primaria 4°,SuperSchool,75,14,61
+2025-08-06,9,Primaria 5°,EduMax,83,7,76
+2025-08-06,9,Primaria 6°,SuperSchool,56,8,48
+2025-08-06,10,Preescolar,EduMax,124,17,107
+2025-08-06,10,Kínder,SuperSchool,70,17,53
+2025-08-06,10,Primaria 1°,SuperSchool,85,14,71
+2025-08-06,10,Primaria 2°,SuperSchool,122,12,110
+2025-08-06,10,Primaria 3°,TopKids,98,7,91
+2025-08-06,10,Primaria 4°,EduMax,145,12,133
+2025-08-06,10,Primaria 5°,TopKids,111,9,102
+2025-08-06,10,Primaria 6°,SuperSchool,104,17,87
+2025-08-06,11,Preescolar,TopKids,138,7,131
+2025-08-06,11,Kínder,SuperSchool,79,5,74
+2025-08-06,11,Primaria 1°,SuperSchool,111,8,103
+2025-08-06,11,Primaria 2°,SuperSchool,135,17,118
+2025-08-06,11,Primaria 3°,TopKids,68,5,63
+2025-08-06,11,Primaria 4°,SuperSchool,68,16,52
+2025-08-06,11,Primaria 5°,SuperSchool,120,16,104
+2025-08-06,11,Primaria 6°,EduMax,144,8,136
+2025-08-06,12,Preescolar,TopKids,65,9,56
+2025-08-06,12,Kínder,SuperSchool,148,16,132
+2025-08-06,12,Primaria 1°,SuperSchool,101,15,86
+2025-08-06,12,Primaria 2°,SuperSchool,149,9,140
+2025-08-06,12,Primaria 3°,TopKids,65,13,52
+2025-08-06,12,Primaria 4°,TopKids,102,14,88
+2025-08-06,12,Primaria 5°,EduMax,88,18,70
+2025-08-06,12,Primaria 6°,TopKids,54,7,47
+2025-08-06,13,Preescolar,TopKids,142,15,127
+2025-08-06,13,Kínder,TopKids,67,19,48
+2025-08-06,13,Primaria 1°,SuperSchool,123,14,109
+2025-08-06,13,Primaria 2°,SuperSchool,56,18,38
+2025-08-06,13,Primaria 3°,SuperSchool,89,14,75
+2025-08-06,13,Primaria 4°,SuperSchool,99,15,84
+2025-08-06,13,Primaria 5°,EduMax,115,9,106
+2025-08-06,13,Primaria 6°,SuperSchool,86,10,76
+2025-08-06,14,Preescolar,TopKids,57,17,40
+2025-08-06,14,Kínder,SuperSchool,135,8,127
+2025-08-06,14,Primaria 1°,SuperSchool,120,13,107
+2025-08-06,14,Primaria 2°,SuperSchool,53,8,45
+2025-08-06,14,Primaria 3°,EduMax,80,7,73
+2025-08-06,14,Primaria 4°,SuperSchool,103,11,92
+2025-08-06,14,Primaria 5°,TopKids,123,14,109
+2025-08-06,14,Primaria 6°,TopKids,88,18,70
+2025-08-06,15,Preescolar,TopKids,94,17,77
+2025-08-06,15,Kínder,EduMax,141,18,123
+2025-08-06,15,Primaria 1°,EduMax,69,16,53
+2025-08-06,15,Primaria 2°,SuperSchool,88,5,83
+2025-08-06,15,Primaria 3°,TopKids,126,16,110
+2025-08-06,15,Primaria 4°,EduMax,112,16,96
+2025-08-06,15,Primaria 5°,SuperSchool,74,12,62
+2025-08-06,15,Primaria 6°,SuperSchool,87,9,78
+2025-08-06,16,Preescolar,EduMax,107,16,91
+2025-08-06,16,Kínder,SuperSchool,81,17,64
+2025-08-06,16,Primaria 1°,SuperSchool,96,9,87
+2025-08-06,16,Primaria 2°,EduMax,134,15,119
+2025-08-06,16,Primaria 3°,SuperSchool,85,7,78
+2025-08-06,16,Primaria 4°,TopKids,69,13,56
+2025-08-06,16,Primaria 5°,EduMax,96,13,83
+2025-08-06,16,Primaria 6°,SuperSchool,63,19,44
+2025-08-07,9,Preescolar,TopKids,50,9,41
+2025-08-07,9,Kínder,EduMax,52,11,41
+2025-08-07,9,Primaria 1°,SuperSchool,124,16,108
+2025-08-07,9,Primaria 2°,EduMax,145,12,133
+2025-08-07,9,Primaria 3°,EduMax,125,12,113
+2025-08-07,9,Primaria 4°,SuperSchool,57,14,43
+2025-08-07,9,Primaria 5°,EduMax,57,14,43
+2025-08-07,9,Primaria 6°,EduMax,77,16,61
+2025-08-07,10,Preescolar,SuperSchool,90,8,82
+2025-08-07,10,Kínder,TopKids,112,5,107
+2025-08-07,10,Primaria 1°,SuperSchool,82,9,73
+2025-08-07,10,Primaria 2°,SuperSchool,141,17,124
+2025-08-07,10,Primaria 3°,SuperSchool,95,7,88
+2025-08-07,10,Primaria 4°,SuperSchool,55,6,49
+2025-08-07,10,Primaria 5°,TopKids,118,19,99
+2025-08-07,10,Primaria 6°,SuperSchool,115,14,101
+2025-08-07,11,Preescolar,EduMax,54,11,43
+2025-08-07,11,Kínder,SuperSchool,114,6,108
+2025-08-07,11,Primaria 1°,TopKids,98,15,83
+2025-08-07,11,Primaria 2°,SuperSchool,75,19,56
+2025-08-07,11,Primaria 3°,SuperSchool,135,15,120
+2025-08-07,11,Primaria 4°,TopKids,98,17,81
+2025-08-07,11,Primaria 5°,SuperSchool,147,13,134
+2025-08-07,11,Primaria 6°,TopKids,50,9,41
+2025-08-07,12,Preescolar,TopKids,55,16,39
+2025-08-07,12,Kínder,SuperSchool,118,19,99
+2025-08-07,12,Primaria 1°,SuperSchool,52,9,43
+2025-08-07,12,Primaria 2°,TopKids,102,9,93
+2025-08-07,12,Primaria 3°,EduMax,123,7,116
+2025-08-07,12,Primaria 4°,SuperSchool,134,18,116
+2025-08-07,12,Primaria 5°,SuperSchool,50,7,43
+2025-08-07,12,Primaria 6°,SuperSchool,126,8,118
+2025-08-07,13,Preescolar,EduMax,114,5,109
+2025-08-07,13,Kínder,EduMax,141,19,122
+2025-08-07,13,Primaria 1°,TopKids,75,14,61
+2025-08-07,13,Primaria 2°,EduMax,103,10,93
+2025-08-07,13,Primaria 3°,TopKids,99,16,83
+2025-08-07,13,Primaria 4°,SuperSchool,103,16,87
+2025-08-07,13,Primaria 5°,SuperSchool,143,18,125
+2025-08-07,13,Primaria 6°,TopKids,106,5,101
+2025-08-07,14,Preescolar,TopKids,96,11,85
+2025-08-07,14,Kínder,TopKids,134,18,116
+2025-08-07,14,Primaria 1°,EduMax,124,7,117
+2025-08-07,14,Primaria 2°,TopKids,87,16,71
+2025-08-07,14,Primaria 3°,EduMax,87,6,81
+2025-08-07,14,Primaria 4°,EduMax,131,18,113
+2025-08-07,14,Primaria 5°,TopKids,140,7,133
+2025-08-07,14,Primaria 6°,TopKids,147,8,139
+2025-08-07,15,Preescolar,SuperSchool,87,5,82
+2025-08-07,15,Kínder,TopKids,79,11,68
+2025-08-07,15,Primaria 1°,EduMax,100,5,95
+2025-08-07,15,Primaria 2°,SuperSchool,78,8,70
+2025-08-07,15,Primaria 3°,EduMax,105,5,100
+2025-08-07,15,Primaria 4°,EduMax,66,16,50
+2025-08-07,15,Primaria 5°,SuperSchool,83,10,73
+2025-08-07,15,Primaria 6°,SuperSchool,115,17,98
+2025-08-07,16,Preescolar,EduMax,92,15,77
+2025-08-07,16,Kínder,TopKids,72,11,61
+2025-08-07,16,Primaria 1°,TopKids,124,10,114
+2025-08-07,16,Primaria 2°,SuperSchool,116,7,109
+2025-08-07,16,Primaria 3°,TopKids,142,6,136
+2025-08-07,16,Primaria 4°,SuperSchool,100,7,93
+2025-08-07,16,Primaria 5°,SuperSchool,54,6,48
+2025-08-07,16,Primaria 6°,EduMax,110,10,100
+2025-08-08,9,Preescolar,SuperSchool,119,5,114
+2025-08-08,9,Kínder,SuperSchool,61,14,47
+2025-08-08,9,Primaria 1°,EduMax,83,5,78
+2025-08-08,9,Primaria 2°,EduMax,139,17,122
+2025-08-08,9,Primaria 3°,TopKids,122,14,108
+2025-08-08,9,Primaria 4°,SuperSchool,96,13,83
+2025-08-08,9,Primaria 5°,EduMax,105,18,87
+2025-08-08,9,Primaria 6°,TopKids,112,17,95
+2025-08-08,10,Preescolar,SuperSchool,75,8,67
+2025-08-08,10,Kínder,SuperSchool,57,5,52
+2025-08-08,10,Primaria 1°,TopKids,101,19,82
+2025-08-08,10,Primaria 2°,TopKids,105,10,95
+2025-08-08,10,Primaria 3°,EduMax,139,16,123
+2025-08-08,10,Primaria 4°,TopKids,127,12,115
+2025-08-08,10,Primaria 5°,EduMax,75,18,57
+2025-08-08,10,Primaria 6°,TopKids,105,7,98
+2025-08-08,11,Preescolar,TopKids,52,19,33
+2025-08-08,11,Kínder,TopKids,67,14,53
+2025-08-08,11,Primaria 1°,EduMax,148,7,141
+2025-08-08,11,Primaria 2°,TopKids,113,13,100
+2025-08-08,11,Primaria 3°,TopKids,77,14,63
+2025-08-08,11,Primaria 4°,TopKids,106,5,101
+2025-08-08,11,Primaria 5°,TopKids,135,14,121
+2025-08-08,11,Primaria 6°,EduMax,93,13,80
+2025-08-08,12,Preescolar,SuperSchool,62,8,54
+2025-08-08,12,Kínder,SuperSchool,117,14,103
+2025-08-08,12,Primaria 1°,TopKids,67,19,48
+2025-08-08,12,Primaria 2°,TopKids,135,6,129
+2025-08-08,12,Primaria 3°,TopKids,57,12,45
+2025-08-08,12,Primaria 4°,SuperSchool,132,14,118
+2025-08-08,12,Primaria 5°,SuperSchool,55,8,47
+2025-08-08,12,Primaria 6°,EduMax,113,6,107
+2025-08-08,13,Preescolar,TopKids,105,15,90
+2025-08-08,13,Kínder,SuperSchool,119,9,110
+2025-08-08,13,Primaria 1°,SuperSchool,82,9,73
+2025-08-08,13,Primaria 2°,EduMax,70,10,60
+2025-08-08,13,Primaria 3°,EduMax,53,18,35
+2025-08-08,13,Primaria 4°,TopKids,111,18,93
+2025-08-08,13,Primaria 5°,EduMax,144,12,132
+2025-08-08,13,Primaria 6°,TopKids,58,11,47
+2025-08-08,14,Preescolar,TopKids,80,12,68
+2025-08-08,14,Kínder,SuperSchool,85,12,73
+2025-08-08,14,Primaria 1°,TopKids,55,6,49
+2025-08-08,14,Primaria 2°,TopKids,53,19,34
+2025-08-08,14,Primaria 3°,EduMax,143,12,131
+2025-08-08,14,Primaria 4°,EduMax,100,18,82
+2025-08-08,14,Primaria 5°,SuperSchool,115,19,96
+2025-08-08,14,Primaria 6°,TopKids,57,14,43
+2025-08-08,15,Preescolar,TopKids,94,16,78
+2025-08-08,15,Kínder,SuperSchool,119,14,105
+2025-08-08,15,Primaria 1°,EduMax,117,7,110
+2025-08-08,15,Primaria 2°,SuperSchool,69,5,64
+2025-08-08,15,Primaria 3°,TopKids,50,14,36
+2025-08-08,15,Primaria 4°,EduMax,113,10,103
+2025-08-08,15,Primaria 5°,SuperSchool,60,19,41
+2025-08-08,15,Primaria 6°,SuperSchool,52,5,47
+2025-08-08,16,Preescolar,EduMax,99,12,87
+2025-08-08,16,Kínder,EduMax,54,11,43
+2025-08-08,16,Primaria 1°,EduMax,93,6,87
+2025-08-08,16,Primaria 2°,SuperSchool,89,6,83
+2025-08-08,16,Primaria 3°,SuperSchool,112,9,103
+2025-08-08,16,Primaria 4°,SuperSchool,66,13,53
+2025-08-08,16,Primaria 5°,TopKids,64,12,52
+2025-08-08,16,Primaria 6°,EduMax,84,18,66
+2025-08-11,9,Preescolar,TopKids,98,9,89
+2025-08-11,9,Kínder,EduMax,109,16,93
+2025-08-11,9,Primaria 1°,EduMax,127,9,118
+2025-08-11,9,Primaria 2°,TopKids,58,6,52
+2025-08-11,9,Primaria 3°,TopKids,84,5,79
+2025-08-11,9,Primaria 4°,EduMax,109,17,92
+2025-08-11,9,Primaria 5°,TopKids,63,16,47
+2025-08-11,9,Primaria 6°,EduMax,84,9,75
+2025-08-11,10,Preescolar,SuperSchool,54,7,47
+2025-08-11,10,Kínder,TopKids,127,14,113
+2025-08-11,10,Primaria 1°,EduMax,53,13,40
+2025-08-11,10,Primaria 2°,SuperSchool,91,13,78
+2025-08-11,10,Primaria 3°,EduMax,89,12,77
+2025-08-11,10,Primaria 4°,TopKids,63,7,56
+2025-08-11,10,Primaria 5°,SuperSchool,87,5,82
+2025-08-11,10,Primaria 6°,TopKids,112,19,93
+2025-08-11,11,Preescolar,SuperSchool,74,5,69
+2025-08-11,11,Kínder,SuperSchool,115,18,97
+2025-08-11,11,Primaria 1°,SuperSchool,100,11,89
+2025-08-11,11,Primaria 2°,TopKids,119,10,109
+2025-08-11,11,Primaria 3°,TopKids,56,7,49
+2025-08-11,11,Primaria 4°,EduMax,113,8,105
+2025-08-11,11,Primaria 5°,TopKids,78,5,73
+2025-08-11,11,Primaria 6°,EduMax,76,8,68
+2025-08-11,12,Preescolar,SuperSchool,87,13,74
+2025-08-11,12,Kínder,SuperSchool,76,11,65
+2025-08-11,12,Primaria 1°,SuperSchool,117,10,107
+2025-08-11,12,Primaria 2°,EduMax,59,9,50
+2025-08-11,12,Primaria 3°,TopKids,123,5,118
+2025-08-11,12,Primaria 4°,EduMax,87,17,70
+2025-08-11,12,Primaria 5°,TopKids,96,8,88
+2025-08-11,12,Primaria 6°,SuperSchool,137,8,129
+2025-08-11,13,Preescolar,TopKids,78,12,66
+2025-08-11,13,Kínder,SuperSchool,78,19,59
+2025-08-11,13,Primaria 1°,SuperSchool,51,15,36
+2025-08-11,13,Primaria 2°,TopKids,85,8,77
+2025-08-11,13,Primaria 3°,EduMax,92,15,77
+2025-08-11,13,Primaria 4°,SuperSchool,69,15,54
+2025-08-11,13,Primaria 5°,EduMax,123,12,111
+2025-08-11,13,Primaria 6°,EduMax,55,12,43
+2025-08-11,14,Preescolar,TopKids,96,14,82
+2025-08-11,14,Kínder,EduMax,61,14,47
+2025-08-11,14,Primaria 1°,SuperSchool,111,6,105
+2025-08-11,14,Primaria 2°,SuperSchool,146,19,127
+2025-08-11,14,Primaria 3°,TopKids,125,16,109
+2025-08-11,14,Primaria 4°,SuperSchool,86,12,74
+2025-08-11,14,Primaria 5°,TopKids,141,19,122
+2025-08-11,14,Primaria 6°,EduMax,58,10,48
+2025-08-11,15,Preescolar,TopKids,78,18,60
+2025-08-11,15,Kínder,SuperSchool,135,15,120
+2025-08-11,15,Primaria 1°,TopKids,50,18,32
+2025-08-11,15,Primaria 2°,SuperSchool,70,14,56
+2025-08-11,15,Primaria 3°,EduMax,85,10,75
+2025-08-11,15,Primaria 4°,TopKids,106,5,101
+2025-08-11,15,Primaria 5°,TopKids,103,11,92
+2025-08-11,15,Primaria 6°,TopKids,89,19,70
+2025-08-11,16,Preescolar,SuperSchool,96,13,83
+2025-08-11,16,Kínder,SuperSchool,58,14,44
+2025-08-11,16,Primaria 1°,SuperSchool,75,13,62
+2025-08-11,16,Primaria 2°,TopKids,112,8,104
+2025-08-11,16,Primaria 3°,SuperSchool,139,15,124
+2025-08-11,16,Primaria 4°,EduMax,51,11,40
+2025-08-11,16,Primaria 5°,EduMax,140,6,134
+2025-08-11,16,Primaria 6°,TopKids,66,15,51
+2025-08-12,9,Preescolar,TopKids,100,10,90
+2025-08-12,9,Kínder,SuperSchool,120,8,112
+2025-08-12,9,Primaria 1°,EduMax,137,5,132
+2025-08-12,9,Primaria 2°,SuperSchool,78,19,59
+2025-08-12,9,Primaria 3°,TopKids,71,14,57
+2025-08-12,9,Primaria 4°,EduMax,134,5,129
+2025-08-12,9,Primaria 5°,TopKids,130,8,122
+2025-08-12,9,Primaria 6°,SuperSchool,98,8,90
+2025-08-12,10,Preescolar,EduMax,135,16,119
+2025-08-12,10,Kínder,TopKids,110,12,98
+2025-08-12,10,Primaria 1°,SuperSchool,120,5,115
+2025-08-12,10,Primaria 2°,SuperSchool,143,11,132
+2025-08-12,10,Primaria 3°,TopKids,105,7,98
+2025-08-12,10,Primaria 4°,EduMax,81,18,63
+2025-08-12,10,Primaria 5°,SuperSchool,98,17,81
+2025-08-12,10,Primaria 6°,SuperSchool,79,12,67
+2025-08-12,11,Preescolar,TopKids,67,5,62
+2025-08-12,11,Kínder,EduMax,96,6,90
+2025-08-12,11,Primaria 1°,EduMax,141,5,136
+2025-08-12,11,Primaria 2°,EduMax,143,10,133
+2025-08-12,11,Primaria 3°,TopKids,112,8,104
+2025-08-12,11,Primaria 4°,SuperSchool,57,17,40
+2025-08-12,11,Primaria 5°,TopKids,52,14,38
+2025-08-12,11,Primaria 6°,EduMax,132,18,114
+2025-08-12,12,Preescolar,EduMax,146,11,135
+2025-08-12,12,Kínder,TopKids,141,6,135
+2025-08-12,12,Primaria 1°,TopKids,142,12,130
+2025-08-12,12,Primaria 2°,SuperSchool,106,11,95
+2025-08-12,12,Primaria 3°,TopKids,137,11,126
+2025-08-12,12,Primaria 4°,TopKids,121,10,111
+2025-08-12,12,Primaria 5°,SuperSchool,116,7,109
+2025-08-12,12,Primaria 6°,SuperSchool,141,19,122
+2025-08-12,13,Preescolar,EduMax,84,12,72
+2025-08-12,13,Kínder,EduMax,81,12,69
+2025-08-12,13,Primaria 1°,EduMax,65,8,57
+2025-08-12,13,Primaria 2°,SuperSchool,103,9,94
+2025-08-12,13,Primaria 3°,EduMax,144,11,133
+2025-08-12,13,Primaria 4°,EduMax,56,14,42
+2025-08-12,13,Primaria 5°,TopKids,82,11,71
+2025-08-12,13,Primaria 6°,SuperSchool,68,17,51
+2025-08-12,14,Preescolar,TopKids,85,17,68
+2025-08-12,14,Kínder,EduMax,51,5,46
+2025-08-12,14,Primaria 1°,TopKids,118,8,110
+2025-08-12,14,Primaria 2°,TopKids,51,7,44
+2025-08-12,14,Primaria 3°,TopKids,61,8,53
+2025-08-12,14,Primaria 4°,SuperSchool,86,10,76
+2025-08-12,14,Primaria 5°,EduMax,58,6,52
+2025-08-12,14,Primaria 6°,SuperSchool,93,7,86
+2025-08-12,15,Preescolar,EduMax,135,16,119
+2025-08-12,15,Kínder,SuperSchool,123,18,105
+2025-08-12,15,Primaria 1°,TopKids,136,5,131
+2025-08-12,15,Primaria 2°,EduMax,130,18,112
+2025-08-12,15,Primaria 3°,SuperSchool,89,6,83
+2025-08-12,15,Primaria 4°,SuperSchool,74,11,63
+2025-08-12,15,Primaria 5°,SuperSchool,71,15,56
+2025-08-12,15,Primaria 6°,EduMax,53,14,39
+2025-08-12,16,Preescolar,EduMax,78,17,61
+2025-08-12,16,Kínder,EduMax,136,9,127
+2025-08-12,16,Primaria 1°,TopKids,119,6,113
+2025-08-12,16,Primaria 2°,SuperSchool,91,8,83
+2025-08-12,16,Primaria 3°,SuperSchool,87,6,81
+2025-08-12,16,Primaria 4°,SuperSchool,86,13,73
+2025-08-12,16,Primaria 5°,EduMax,125,11,114
+2025-08-12,16,Primaria 6°,SuperSchool,135,9,126
+2025-08-13,9,Preescolar,TopKids,106,19,87
+2025-08-13,9,Kínder,EduMax,140,12,128
+2025-08-13,9,Primaria 1°,EduMax,61,17,44
+2025-08-13,9,Primaria 2°,SuperSchool,102,11,91
+2025-08-13,9,Primaria 3°,EduMax,94,5,89
+2025-08-13,9,Primaria 4°,EduMax,134,16,118
+2025-08-13,9,Primaria 5°,EduMax,95,6,89
+2025-08-13,9,Primaria 6°,EduMax,114,7,107
+2025-08-13,10,Preescolar,SuperSchool,85,7,78
+2025-08-13,10,Kínder,EduMax,78,9,69
+2025-08-13,10,Primaria 1°,TopKids,89,15,74
+2025-08-13,10,Primaria 2°,SuperSchool,108,11,97
+2025-08-13,10,Primaria 3°,TopKids,103,6,97
+2025-08-13,10,Primaria 4°,TopKids,73,10,63
+2025-08-13,10,Primaria 5°,EduMax,118,12,106
+2025-08-13,10,Primaria 6°,SuperSchool,85,19,66
+2025-08-13,11,Preescolar,TopKids,148,8,140
+2025-08-13,11,Kínder,TopKids,130,18,112
+2025-08-13,11,Primaria 1°,TopKids,147,13,134
+2025-08-13,11,Primaria 2°,EduMax,115,9,106
+2025-08-13,11,Primaria 3°,SuperSchool,122,12,110
+2025-08-13,11,Primaria 4°,SuperSchool,50,13,37
+2025-08-13,11,Primaria 5°,SuperSchool,92,12,80
+2025-08-13,11,Primaria 6°,EduMax,74,11,63
+2025-08-13,12,Preescolar,TopKids,52,6,46
+2025-08-13,12,Kínder,SuperSchool,93,7,86
+2025-08-13,12,Primaria 1°,EduMax,147,16,131
+2025-08-13,12,Primaria 2°,TopKids,93,15,78
+2025-08-13,12,Primaria 3°,TopKids,98,17,81
+2025-08-13,12,Primaria 4°,SuperSchool,123,13,110
+2025-08-13,12,Primaria 5°,TopKids,96,16,80
+2025-08-13,12,Primaria 6°,EduMax,129,12,117
+2025-08-13,13,Preescolar,TopKids,57,19,38
+2025-08-13,13,Kínder,SuperSchool,130,11,119
+2025-08-13,13,Primaria 1°,SuperSchool,129,10,119
+2025-08-13,13,Primaria 2°,SuperSchool,131,13,118
+2025-08-13,13,Primaria 3°,TopKids,108,14,94
+2025-08-13,13,Primaria 4°,SuperSchool,75,19,56
+2025-08-13,13,Primaria 5°,EduMax,65,11,54
+2025-08-13,13,Primaria 6°,SuperSchool,72,14,58
+2025-08-13,14,Preescolar,SuperSchool,135,14,121
+2025-08-13,14,Kínder,TopKids,63,19,44
+2025-08-13,14,Primaria 1°,SuperSchool,56,13,43
+2025-08-13,14,Primaria 2°,TopKids,97,12,85
+2025-08-13,14,Primaria 3°,EduMax,108,11,97
+2025-08-13,14,Primaria 4°,SuperSchool,131,19,112
+2025-08-13,14,Primaria 5°,EduMax,88,7,81
+2025-08-13,14,Primaria 6°,EduMax,108,14,94
+2025-08-13,15,Preescolar,TopKids,66,18,48
+2025-08-13,15,Kínder,TopKids,73,7,66
+2025-08-13,15,Primaria 1°,SuperSchool,147,7,140
+2025-08-13,15,Primaria 2°,SuperSchool,92,12,80
+2025-08-13,15,Primaria 3°,EduMax,104,11,93
+2025-08-13,15,Primaria 4°,TopKids,64,12,52
+2025-08-13,15,Primaria 5°,SuperSchool,53,17,36
+2025-08-13,15,Primaria 6°,EduMax,74,17,57
+2025-08-13,16,Preescolar,EduMax,82,17,65
+2025-08-13,16,Kínder,EduMax,115,11,104
+2025-08-13,16,Primaria 1°,TopKids,91,6,85
+2025-08-13,16,Primaria 2°,EduMax,62,17,45
+2025-08-13,16,Primaria 3°,EduMax,81,7,74
+2025-08-13,16,Primaria 4°,TopKids,88,18,70
+2025-08-13,16,Primaria 5°,SuperSchool,111,5,106
+2025-08-13,16,Primaria 6°,SuperSchool,111,9,102
+2025-08-14,9,Preescolar,SuperSchool,65,12,53
+2025-08-14,9,Kínder,TopKids,59,18,41
+2025-08-14,9,Primaria 1°,SuperSchool,133,9,124
+2025-08-14,9,Primaria 2°,SuperSchool,143,5,138
+2025-08-14,9,Primaria 3°,TopKids,94,18,76
+2025-08-14,9,Primaria 4°,EduMax,117,6,111
+2025-08-14,9,Primaria 5°,EduMax,86,13,73
+2025-08-14,9,Primaria 6°,SuperSchool,102,18,84
+2025-08-14,10,Preescolar,TopKids,122,19,103
+2025-08-14,10,Kínder,SuperSchool,137,8,129
+2025-08-14,10,Primaria 1°,TopKids,86,17,69
+2025-08-14,10,Primaria 2°,SuperSchool,92,16,76
+2025-08-14,10,Primaria 3°,EduMax,88,12,76
+2025-08-14,10,Primaria 4°,TopKids,95,12,83
+2025-08-14,10,Primaria 5°,TopKids,111,17,94
+2025-08-14,10,Primaria 6°,EduMax,74,11,63
+2025-08-14,11,Preescolar,TopKids,121,8,113
+2025-08-14,11,Kínder,SuperSchool,112,10,102
+2025-08-14,11,Primaria 1°,SuperSchool,123,15,108
+2025-08-14,11,Primaria 2°,EduMax,106,14,92
+2025-08-14,11,Primaria 3°,SuperSchool,52,12,40
+2025-08-14,11,Primaria 4°,EduMax,54,9,45
+2025-08-14,11,Primaria 5°,EduMax,96,11,85
+2025-08-14,11,Primaria 6°,SuperSchool,58,7,51
+2025-08-14,12,Preescolar,EduMax,110,15,95
+2025-08-14,12,Kínder,EduMax,84,6,78
+2025-08-14,12,Primaria 1°,EduMax,111,5,106
+2025-08-14,12,Primaria 2°,TopKids,81,7,74
+2025-08-14,12,Primaria 3°,EduMax,62,12,50
+2025-08-14,12,Primaria 4°,SuperSchool,138,13,125
+2025-08-14,12,Primaria 5°,EduMax,147,15,132
+2025-08-14,12,Primaria 6°,SuperSchool,105,7,98
+2025-08-14,13,Preescolar,TopKids,141,17,124
+2025-08-14,13,Kínder,SuperSchool,116,13,103
+2025-08-14,13,Primaria 1°,EduMax,125,14,111
+2025-08-14,13,Primaria 2°,SuperSchool,128,12,116
+2025-08-14,13,Primaria 3°,SuperSchool,54,15,39
+2025-08-14,13,Primaria 4°,TopKids,147,12,135
+2025-08-14,13,Primaria 5°,TopKids,87,12,75
+2025-08-14,13,Primaria 6°,TopKids,54,14,40
+2025-08-14,14,Preescolar,EduMax,119,9,110
+2025-08-14,14,Kínder,SuperSchool,77,9,68
+2025-08-14,14,Primaria 1°,SuperSchool,130,6,124
+2025-08-14,14,Primaria 2°,SuperSchool,145,18,127
+2025-08-14,14,Primaria 3°,SuperSchool,107,7,100
+2025-08-14,14,Primaria 4°,EduMax,89,15,74
+2025-08-14,14,Primaria 5°,SuperSchool,82,10,72
+2025-08-14,14,Primaria 6°,TopKids,129,12,117
+2025-08-14,15,Preescolar,SuperSchool,108,15,93
+2025-08-14,15,Kínder,SuperSchool,62,15,47
+2025-08-14,15,Primaria 1°,SuperSchool,138,9,129
+2025-08-14,15,Primaria 2°,EduMax,149,19,130
+2025-08-14,15,Primaria 3°,TopKids,87,16,71
+2025-08-14,15,Primaria 4°,TopKids,54,15,39
+2025-08-14,15,Primaria 5°,SuperSchool,107,13,94
+2025-08-14,15,Primaria 6°,TopKids,80,11,69
+2025-08-14,16,Preescolar,EduMax,59,15,44
+2025-08-14,16,Kínder,SuperSchool,79,11,68
+2025-08-14,16,Primaria 1°,TopKids,131,8,123
+2025-08-14,16,Primaria 2°,EduMax,127,17,110
+2025-08-14,16,Primaria 3°,SuperSchool,61,11,50
+2025-08-14,16,Primaria 4°,EduMax,145,17,128
+2025-08-14,16,Primaria 5°,EduMax,76,5,71
+2025-08-14,16,Primaria 6°,SuperSchool,66,12,54
+2025-08-15,9,Preescolar,TopKids,147,16,131
+2025-08-15,9,Kínder,SuperSchool,84,10,74
+2025-08-15,9,Primaria 1°,TopKids,79,11,68
+2025-08-15,9,Primaria 2°,EduMax,145,6,139
+2025-08-15,9,Primaria 3°,TopKids,77,16,61
+2025-08-15,9,Primaria 4°,TopKids,143,9,134
+2025-08-15,9,Primaria 5°,SuperSchool,71,8,63
+2025-08-15,9,Primaria 6°,EduMax,117,15,102
+2025-08-15,10,Preescolar,SuperSchool,61,10,51
+2025-08-15,10,Kínder,SuperSchool,59,10,49
+2025-08-15,10,Primaria 1°,SuperSchool,71,14,57
+2025-08-15,10,Primaria 2°,TopKids,131,6,125
+2025-08-15,10,Primaria 3°,EduMax,113,19,94
+2025-08-15,10,Primaria 4°,SuperSchool,125,8,117
+2025-08-15,10,Primaria 5°,TopKids,148,8,140
+2025-08-15,10,Primaria 6°,SuperSchool,125,11,114
+2025-08-15,11,Preescolar,SuperSchool,60,5,55
+2025-08-15,11,Kínder,EduMax,128,7,121
+2025-08-15,11,Primaria 1°,TopKids,107,11,96
+2025-08-15,11,Primaria 2°,EduMax,147,18,129
+2025-08-15,11,Primaria 3°,EduMax,78,8,70
+2025-08-15,11,Primaria 4°,SuperSchool,148,17,131
+2025-08-15,11,Primaria 5°,SuperSchool,88,19,69
+2025-08-15,11,Primaria 6°,TopKids,78,17,61
+2025-08-15,12,Preescolar,TopKids,81,6,75
+2025-08-15,12,Kínder,TopKids,127,8,119
+2025-08-15,12,Primaria 1°,EduMax,124,15,109
+2025-08-15,12,Primaria 2°,TopKids,130,18,112
+2025-08-15,12,Primaria 3°,SuperSchool,70,19,51
+2025-08-15,12,Primaria 4°,SuperSchool,108,8,100
+2025-08-15,12,Primaria 5°,EduMax,68,13,55
+2025-08-15,12,Primaria 6°,SuperSchool,52,15,37
+2025-08-15,13,Preescolar,SuperSchool,107,16,91
+2025-08-15,13,Kínder,EduMax,64,6,58
+2025-08-15,13,Primaria 1°,SuperSchool,84,5,79
+2025-08-15,13,Primaria 2°,SuperSchool,73,16,57
+2025-08-15,13,Primaria 3°,EduMax,64,16,48
+2025-08-15,13,Primaria 4°,TopKids,121,16,105
+2025-08-15,13,Primaria 5°,EduMax,138,5,133
+2025-08-15,13,Primaria 6°,SuperSchool,102,12,90
+2025-08-15,14,Preescolar,TopKids,76,18,58
+2025-08-15,14,Kínder,EduMax,120,7,113
+2025-08-15,14,Primaria 1°,SuperSchool,113,16,97
+2025-08-15,14,Primaria 2°,SuperSchool,73,16,57
+2025-08-15,14,Primaria 3°,EduMax,52,8,44
+2025-08-15,14,Primaria 4°,EduMax,64,13,51
+2025-08-15,14,Primaria 5°,EduMax,127,11,116
+2025-08-15,14,Primaria 6°,SuperSchool,133,8,125
+2025-08-15,15,Preescolar,SuperSchool,87,13,74
+2025-08-15,15,Kínder,TopKids,135,10,125
+2025-08-15,15,Primaria 1°,SuperSchool,51,12,39
+2025-08-15,15,Primaria 2°,TopKids,113,17,96
+2025-08-15,15,Primaria 3°,SuperSchool,121,9,112
+2025-08-15,15,Primaria 4°,EduMax,143,6,137
+2025-08-15,15,Primaria 5°,EduMax,144,10,134
+2025-08-15,15,Primaria 6°,TopKids,94,13,81
+2025-08-15,16,Preescolar,SuperSchool,90,12,78
+2025-08-15,16,Kínder,TopKids,135,7,128
+2025-08-15,16,Primaria 1°,SuperSchool,66,16,50
+2025-08-15,16,Primaria 2°,SuperSchool,95,19,76
+2025-08-15,16,Primaria 3°,EduMax,135,16,119
+2025-08-15,16,Primaria 4°,SuperSchool,123,12,111
+2025-08-15,16,Primaria 5°,EduMax,146,6,140
+2025-08-15,16,Primaria 6°,SuperSchool,82,13,69
+2025-08-18,9,Preescolar,SuperSchool,79,5,74
+2025-08-18,9,Kínder,SuperSchool,75,10,65
+2025-08-18,9,Primaria 1°,TopKids,115,10,105
+2025-08-18,9,Primaria 2°,TopKids,139,18,121
+2025-08-18,9,Primaria 3°,EduMax,64,6,58
+2025-08-18,9,Primaria 4°,EduMax,93,5,88
+2025-08-18,9,Primaria 5°,TopKids,110,7,103
+2025-08-18,9,Primaria 6°,TopKids,55,13,42
+2025-08-18,10,Preescolar,EduMax,122,11,111
+2025-08-18,10,Kínder,TopKids,81,13,68
+2025-08-18,10,Primaria 1°,EduMax,125,12,113
+2025-08-18,10,Primaria 2°,EduMax,141,18,123
+2025-08-18,10,Primaria 3°,EduMax,56,15,41
+2025-08-18,10,Primaria 4°,EduMax,107,10,97
+2025-08-18,10,Primaria 5°,EduMax,52,19,33
+2025-08-18,10,Primaria 6°,SuperSchool,109,14,95
+2025-08-18,11,Preescolar,EduMax,124,6,118
+2025-08-18,11,Kínder,EduMax,61,11,50
+2025-08-18,11,Primaria 1°,SuperSchool,74,17,57
+2025-08-18,11,Primaria 2°,TopKids,68,11,57
+2025-08-18,11,Primaria 3°,EduMax,149,17,132
+2025-08-18,11,Primaria 4°,SuperSchool,102,11,91
+2025-08-18,11,Primaria 5°,TopKids,93,6,87
+2025-08-18,11,Primaria 6°,EduMax,67,7,60
+2025-08-18,12,Preescolar,EduMax,86,12,74
+2025-08-18,12,Kínder,SuperSchool,108,7,101
+2025-08-18,12,Primaria 1°,EduMax,84,17,67
+2025-08-18,12,Primaria 2°,SuperSchool,103,19,84
+2025-08-18,12,Primaria 3°,TopKids,146,11,135
+2025-08-18,12,Primaria 4°,SuperSchool,143,9,134
+2025-08-18,12,Primaria 5°,TopKids,107,17,90
+2025-08-18,12,Primaria 6°,SuperSchool,53,16,37
+2025-08-18,13,Preescolar,EduMax,69,16,53
+2025-08-18,13,Kínder,EduMax,98,7,91
+2025-08-18,13,Primaria 1°,SuperSchool,85,14,71
+2025-08-18,13,Primaria 2°,SuperSchool,147,8,139
+2025-08-18,13,Primaria 3°,EduMax,128,6,122
+2025-08-18,13,Primaria 4°,EduMax,88,14,74
+2025-08-18,13,Primaria 5°,TopKids,107,10,97
+2025-08-18,13,Primaria 6°,SuperSchool,61,7,54
+2025-08-18,14,Preescolar,SuperSchool,67,12,55
+2025-08-18,14,Kínder,SuperSchool,64,5,59
+2025-08-18,14,Primaria 1°,TopKids,75,12,63
+2025-08-18,14,Primaria 2°,EduMax,136,14,122
+2025-08-18,14,Primaria 3°,EduMax,127,6,121
+2025-08-18,14,Primaria 4°,TopKids,86,9,77
+2025-08-18,14,Primaria 5°,EduMax,90,18,72
+2025-08-18,14,Primaria 6°,EduMax,109,17,92
+2025-08-18,15,Preescolar,TopKids,63,12,51
+2025-08-18,15,Kínder,TopKids,138,8,130
+2025-08-18,15,Primaria 1°,EduMax,119,5,114
+2025-08-18,15,Primaria 2°,TopKids,138,13,125
+2025-08-18,15,Primaria 3°,EduMax,84,9,75
+2025-08-18,15,Primaria 4°,SuperSchool,114,12,102
+2025-08-18,15,Primaria 5°,SuperSchool,72,19,53
+2025-08-18,15,Primaria 6°,TopKids,60,14,46
+2025-08-18,16,Preescolar,TopKids,63,14,49
+2025-08-18,16,Kínder,SuperSchool,59,16,43
+2025-08-18,16,Primaria 1°,EduMax,50,9,41
+2025-08-18,16,Primaria 2°,TopKids,125,5,120
+2025-08-18,16,Primaria 3°,SuperSchool,113,10,103
+2025-08-18,16,Primaria 4°,SuperSchool,86,19,67
+2025-08-18,16,Primaria 5°,SuperSchool,125,9,116
+2025-08-18,16,Primaria 6°,SuperSchool,93,12,81
+2025-08-19,9,Preescolar,TopKids,128,10,118
+2025-08-19,9,Kínder,TopKids,110,8,102
+2025-08-19,9,Primaria 1°,EduMax,127,6,121
+2025-08-19,9,Primaria 2°,SuperSchool,86,8,78
+2025-08-19,9,Primaria 3°,EduMax,78,5,73
+2025-08-19,9,Primaria 4°,TopKids,84,10,74
+2025-08-19,9,Primaria 5°,SuperSchool,108,9,99
+2025-08-19,9,Primaria 6°,SuperSchool,100,18,82
+2025-08-19,10,Preescolar,EduMax,69,9,60
+2025-08-19,10,Kínder,EduMax,137,15,122
+2025-08-19,10,Primaria 1°,TopKids,147,13,134
+2025-08-19,10,Primaria 2°,EduMax,78,13,65
+2025-08-19,10,Primaria 3°,TopKids,144,12,132
+2025-08-19,10,Primaria 4°,TopKids,92,6,86
+2025-08-19,10,Primaria 5°,TopKids,93,10,83
+2025-08-19,10,Primaria 6°,TopKids,94,8,86
+2025-08-19,11,Preescolar,EduMax,57,6,51
+2025-08-19,11,Kínder,SuperSchool,50,11,39
+2025-08-19,11,Primaria 1°,SuperSchool,145,10,135
+2025-08-19,11,Primaria 2°,SuperSchool,135,19,116
+2025-08-19,11,Primaria 3°,EduMax,114,11,103
+2025-08-19,11,Primaria 4°,TopKids,139,15,124
+2025-08-19,11,Primaria 5°,EduMax,79,6,73
+2025-08-19,11,Primaria 6°,EduMax,66,14,52
+2025-08-19,12,Preescolar,TopKids,125,15,110
+2025-08-19,12,Kínder,SuperSchool,95,8,87
+2025-08-19,12,Primaria 1°,SuperSchool,50,7,43
+2025-08-19,12,Primaria 2°,TopKids,129,18,111
+2025-08-19,12,Primaria 3°,SuperSchool,97,9,88
+2025-08-19,12,Primaria 4°,SuperSchool,139,18,121
+2025-08-19,12,Primaria 5°,EduMax,113,10,103
+2025-08-19,12,Primaria 6°,TopKids,122,5,117
+2025-08-19,13,Preescolar,SuperSchool,138,17,121
+2025-08-19,13,Kínder,SuperSchool,126,19,107
+2025-08-19,13,Primaria 1°,SuperSchool,124,8,116
+2025-08-19,13,Primaria 2°,EduMax,53,10,43
+2025-08-19,13,Primaria 3°,TopKids,119,6,113
+2025-08-19,13,Primaria 4°,EduMax,62,13,49
+2025-08-19,13,Primaria 5°,TopKids,132,17,115
+2025-08-19,13,Primaria 6°,TopKids,50,12,38
+2025-08-19,14,Preescolar,EduMax,103,11,92
+2025-08-19,14,Kínder,SuperSchool,134,19,115
+2025-08-19,14,Primaria 1°,SuperSchool,125,14,111
+2025-08-19,14,Primaria 2°,TopKids,64,9,55
+2025-08-19,14,Primaria 3°,TopKids,109,17,92
+2025-08-19,14,Primaria 4°,SuperSchool,82,5,77
+2025-08-19,14,Primaria 5°,SuperSchool,84,16,68
+2025-08-19,14,Primaria 6°,EduMax,139,15,124
+2025-08-19,15,Preescolar,TopKids,121,18,103
+2025-08-19,15,Kínder,EduMax,123,6,117
+2025-08-19,15,Primaria 1°,EduMax,58,7,51
+2025-08-19,15,Primaria 2°,SuperSchool,75,12,63
+2025-08-19,15,Primaria 3°,EduMax,119,16,103
+2025-08-19,15,Primaria 4°,SuperSchool,142,14,128
+2025-08-19,15,Primaria 5°,SuperSchool,61,9,52
+2025-08-19,15,Primaria 6°,EduMax,97,9,88
+2025-08-19,16,Preescolar,TopKids,93,8,85
+2025-08-19,16,Kínder,TopKids,92,11,81
+2025-08-19,16,Primaria 1°,EduMax,95,6,89
+2025-08-19,16,Primaria 2°,TopKids,92,17,75
+2025-08-19,16,Primaria 3°,SuperSchool,72,15,57
+2025-08-19,16,Primaria 4°,TopKids,129,19,110
+2025-08-19,16,Primaria 5°,SuperSchool,64,13,51
+2025-08-19,16,Primaria 6°,TopKids,100,19,81
+2025-08-20,9,Preescolar,SuperSchool,62,10,52
+2025-08-20,9,Kínder,TopKids,83,18,65
+2025-08-20,9,Primaria 1°,SuperSchool,117,9,108
+2025-08-20,9,Primaria 2°,EduMax,76,17,59
+2025-08-20,9,Primaria 3°,TopKids,77,7,70
+2025-08-20,9,Primaria 4°,EduMax,85,18,67
+2025-08-20,9,Primaria 5°,EduMax,51,5,46
+2025-08-20,9,Primaria 6°,SuperSchool,53,14,39
+2025-08-20,10,Preescolar,SuperSchool,143,15,128
+2025-08-20,10,Kínder,TopKids,144,16,128
+2025-08-20,10,Primaria 1°,EduMax,88,17,71
+2025-08-20,10,Primaria 2°,TopKids,120,19,101
+2025-08-20,10,Primaria 3°,SuperSchool,91,17,74
+2025-08-20,10,Primaria 4°,EduMax,105,8,97
+2025-08-20,10,Primaria 5°,EduMax,56,10,46
+2025-08-20,10,Primaria 6°,SuperSchool,93,12,81
+2025-08-20,11,Preescolar,SuperSchool,96,15,81
+2025-08-20,11,Kínder,SuperSchool,71,10,61
+2025-08-20,11,Primaria 1°,SuperSchool,135,16,119
+2025-08-20,11,Primaria 2°,SuperSchool,75,13,62
+2025-08-20,11,Primaria 3°,TopKids,59,12,47
+2025-08-20,11,Primaria 4°,EduMax,91,12,79
+2025-08-20,11,Primaria 5°,SuperSchool,75,15,60
+2025-08-20,11,Primaria 6°,SuperSchool,117,6,111
+2025-08-20,12,Preescolar,TopKids,149,16,133
+2025-08-20,12,Kínder,TopKids,123,13,110
+2025-08-20,12,Primaria 1°,EduMax,68,8,60
+2025-08-20,12,Primaria 2°,EduMax,146,11,135
+2025-08-20,12,Primaria 3°,EduMax,118,19,99
+2025-08-20,12,Primaria 4°,SuperSchool,148,16,132
+2025-08-20,12,Primaria 5°,EduMax,82,11,71
+2025-08-20,12,Primaria 6°,SuperSchool,130,10,120
+2025-08-20,13,Preescolar,SuperSchool,64,7,57
+2025-08-20,13,Kínder,TopKids,81,15,66
+2025-08-20,13,Primaria 1°,EduMax,122,18,104
+2025-08-20,13,Primaria 2°,SuperSchool,106,18,88
+2025-08-20,13,Primaria 3°,SuperSchool,51,7,44
+2025-08-20,13,Primaria 4°,TopKids,134,6,128
+2025-08-20,13,Primaria 5°,TopKids,91,10,81
+2025-08-20,13,Primaria 6°,SuperSchool,88,13,75
+2025-08-20,14,Preescolar,SuperSchool,124,11,113
+2025-08-20,14,Kínder,EduMax,68,8,60
+2025-08-20,14,Primaria 1°,EduMax,91,11,80
+2025-08-20,14,Primaria 2°,SuperSchool,85,12,73
+2025-08-20,14,Primaria 3°,SuperSchool,146,8,138
+2025-08-20,14,Primaria 4°,TopKids,122,12,110
+2025-08-20,14,Primaria 5°,SuperSchool,119,13,106
+2025-08-20,14,Primaria 6°,TopKids,117,17,100
+2025-08-20,15,Preescolar,SuperSchool,109,6,103
+2025-08-20,15,Kínder,SuperSchool,93,15,78
+2025-08-20,15,Primaria 1°,SuperSchool,57,10,47
+2025-08-20,15,Primaria 2°,EduMax,116,10,106
+2025-08-20,15,Primaria 3°,SuperSchool,107,7,100
+2025-08-20,15,Primaria 4°,EduMax,119,6,113
+2025-08-20,15,Primaria 5°,TopKids,93,6,87
+2025-08-20,15,Primaria 6°,EduMax,130,7,123
+2025-08-20,16,Preescolar,EduMax,136,18,118
+2025-08-20,16,Kínder,EduMax,93,14,79
+2025-08-20,16,Primaria 1°,SuperSchool,126,17,109
+2025-08-20,16,Primaria 2°,TopKids,96,13,83
+2025-08-20,16,Primaria 3°,TopKids,129,14,115
+2025-08-20,16,Primaria 4°,EduMax,79,13,66
+2025-08-20,16,Primaria 5°,TopKids,65,16,49
+2025-08-20,16,Primaria 6°,SuperSchool,65,16,49
+2025-08-21,9,Preescolar,TopKids,65,18,47
+2025-08-21,9,Kínder,SuperSchool,72,16,56
+2025-08-21,9,Primaria 1°,TopKids,54,8,46
+2025-08-21,9,Primaria 2°,SuperSchool,79,9,70
+2025-08-21,9,Primaria 3°,EduMax,71,6,65
+2025-08-21,9,Primaria 4°,TopKids,81,5,76
+2025-08-21,9,Primaria 5°,SuperSchool,65,16,49
+2025-08-21,9,Primaria 6°,EduMax,147,17,130
+2025-08-21,10,Preescolar,EduMax,85,5,80
+2025-08-21,10,Kínder,TopKids,115,13,102
+2025-08-21,10,Primaria 1°,SuperSchool,51,15,36
+2025-08-21,10,Primaria 2°,SuperSchool,122,5,117
+2025-08-21,10,Primaria 3°,TopKids,116,8,108
+2025-08-21,10,Primaria 4°,EduMax,72,14,58
+2025-08-21,10,Primaria 5°,EduMax,104,10,94
+2025-08-21,10,Primaria 6°,TopKids,71,15,56
+2025-08-21,11,Preescolar,TopKids,135,16,119
+2025-08-21,11,Kínder,SuperSchool,61,19,42
+2025-08-21,11,Primaria 1°,SuperSchool,91,10,81
+2025-08-21,11,Primaria 2°,EduMax,94,7,87
+2025-08-21,11,Primaria 3°,EduMax,137,14,123
+2025-08-21,11,Primaria 4°,EduMax,127,10,117
+2025-08-21,11,Primaria 5°,TopKids,129,11,118
+2025-08-21,11,Primaria 6°,EduMax,122,19,103
+2025-08-21,12,Preescolar,SuperSchool,84,6,78
+2025-08-21,12,Kínder,TopKids,51,7,44
+2025-08-21,12,Primaria 1°,EduMax,127,8,119
+2025-08-21,12,Primaria 2°,EduMax,59,13,46
+2025-08-21,12,Primaria 3°,EduMax,74,17,57
+2025-08-21,12,Primaria 4°,EduMax,82,8,74
+2025-08-21,12,Primaria 5°,TopKids,63,5,58
+2025-08-21,12,Primaria 6°,EduMax,129,10,119
+2025-08-21,13,Preescolar,EduMax,101,7,94
+2025-08-21,13,Kínder,TopKids,90,10,80
+2025-08-21,13,Primaria 1°,SuperSchool,62,9,53
+2025-08-21,13,Primaria 2°,EduMax,57,9,48
+2025-08-21,13,Primaria 3°,EduMax,117,13,104
+2025-08-21,13,Primaria 4°,TopKids,117,17,100
+2025-08-21,13,Primaria 5°,SuperSchool,80,18,62
+2025-08-21,13,Primaria 6°,EduMax,142,16,126
+2025-08-21,14,Preescolar,TopKids,55,17,38
+2025-08-21,14,Kínder,TopKids,51,16,35
+2025-08-21,14,Primaria 1°,TopKids,132,19,113
+2025-08-21,14,Primaria 2°,TopKids,54,7,47
+2025-08-21,14,Primaria 3°,EduMax,59,13,46
+2025-08-21,14,Primaria 4°,EduMax,60,6,54
+2025-08-21,14,Primaria 5°,SuperSchool,80,12,68
+2025-08-21,14,Primaria 6°,TopKids,122,11,111
+2025-08-21,15,Preescolar,TopKids,58,7,51
+2025-08-21,15,Kínder,SuperSchool,122,16,106
+2025-08-21,15,Primaria 1°,EduMax,56,16,40
+2025-08-21,15,Primaria 2°,SuperSchool,53,8,45
+2025-08-21,15,Primaria 3°,TopKids,89,5,84
+2025-08-21,15,Primaria 4°,SuperSchool,101,17,84
+2025-08-21,15,Primaria 5°,EduMax,99,19,80
+2025-08-21,15,Primaria 6°,SuperSchool,112,18,94
+2025-08-21,16,Preescolar,SuperSchool,148,11,137
+2025-08-21,16,Kínder,TopKids,141,10,131
+2025-08-21,16,Primaria 1°,EduMax,120,9,111
+2025-08-21,16,Primaria 2°,SuperSchool,135,9,126
+2025-08-21,16,Primaria 3°,EduMax,104,6,98
+2025-08-21,16,Primaria 4°,EduMax,140,9,131
+2025-08-21,16,Primaria 5°,EduMax,128,9,119
+2025-08-21,16,Primaria 6°,EduMax,136,14,122
+2025-08-22,9,Preescolar,TopKids,54,5,49
+2025-08-22,9,Kínder,SuperSchool,134,14,120
+2025-08-22,9,Primaria 1°,EduMax,134,9,125
+2025-08-22,9,Primaria 2°,EduMax,94,8,86
+2025-08-22,9,Primaria 3°,SuperSchool,148,5,143
+2025-08-22,9,Primaria 4°,TopKids,112,9,103
+2025-08-22,9,Primaria 5°,TopKids,75,18,57
+2025-08-22,9,Primaria 6°,EduMax,101,16,85
+2025-08-22,10,Preescolar,EduMax,148,13,135
+2025-08-22,10,Kínder,SuperSchool,101,17,84
+2025-08-22,10,Primaria 1°,EduMax,91,9,82
+2025-08-22,10,Primaria 2°,EduMax,62,5,57
+2025-08-22,10,Primaria 3°,SuperSchool,113,5,108
+2025-08-22,10,Primaria 4°,SuperSchool,90,5,85
+2025-08-22,10,Primaria 5°,EduMax,109,17,92
+2025-08-22,10,Primaria 6°,SuperSchool,59,6,53
+2025-08-22,11,Preescolar,EduMax,109,12,97
+2025-08-22,11,Kínder,SuperSchool,77,15,62
+2025-08-22,11,Primaria 1°,TopKids,83,12,71
+2025-08-22,11,Primaria 2°,TopKids,135,12,123
+2025-08-22,11,Primaria 3°,SuperSchool,128,5,123
+2025-08-22,11,Primaria 4°,TopKids,137,17,120
+2025-08-22,11,Primaria 5°,TopKids,118,16,102
+2025-08-22,11,Primaria 6°,SuperSchool,136,9,127
+2025-08-22,12,Preescolar,SuperSchool,121,13,108
+2025-08-22,12,Kínder,TopKids,92,5,87
+2025-08-22,12,Primaria 1°,SuperSchool,100,12,88
+2025-08-22,12,Primaria 2°,TopKids,73,5,68
+2025-08-22,12,Primaria 3°,SuperSchool,69,9,60
+2025-08-22,12,Primaria 4°,EduMax,80,18,62
+2025-08-22,12,Primaria 5°,TopKids,101,19,82
+2025-08-22,12,Primaria 6°,TopKids,56,7,49
+2025-08-22,13,Preescolar,TopKids,107,9,98
+2025-08-22,13,Kínder,SuperSchool,143,10,133
+2025-08-22,13,Primaria 1°,EduMax,87,19,68
+2025-08-22,13,Primaria 2°,SuperSchool,144,12,132
+2025-08-22,13,Primaria 3°,SuperSchool,122,6,116
+2025-08-22,13,Primaria 4°,TopKids,99,7,92
+2025-08-22,13,Primaria 5°,SuperSchool,85,18,67
+2025-08-22,13,Primaria 6°,EduMax,90,13,77
+2025-08-22,14,Preescolar,EduMax,111,19,92
+2025-08-22,14,Kínder,EduMax,59,9,50
+2025-08-22,14,Primaria 1°,TopKids,51,10,41
+2025-08-22,14,Primaria 2°,SuperSchool,102,19,83
+2025-08-22,14,Primaria 3°,EduMax,60,14,46
+2025-08-22,14,Primaria 4°,TopKids,66,12,54
+2025-08-22,14,Primaria 5°,EduMax,104,13,91
+2025-08-22,14,Primaria 6°,SuperSchool,108,18,90
+2025-08-22,15,Preescolar,EduMax,138,6,132
+2025-08-22,15,Kínder,EduMax,79,8,71
+2025-08-22,15,Primaria 1°,SuperSchool,93,7,86
+2025-08-22,15,Primaria 2°,EduMax,70,7,63
+2025-08-22,15,Primaria 3°,EduMax,81,18,63
+2025-08-22,15,Primaria 4°,TopKids,88,5,83
+2025-08-22,15,Primaria 5°,SuperSchool,96,6,90
+2025-08-22,15,Primaria 6°,SuperSchool,62,18,44
+2025-08-22,16,Preescolar,SuperSchool,57,18,39
+2025-08-22,16,Kínder,EduMax,56,11,45
+2025-08-22,16,Primaria 1°,TopKids,135,10,125
+2025-08-22,16,Primaria 2°,TopKids,138,10,128
+2025-08-22,16,Primaria 3°,SuperSchool,62,6,56
+2025-08-22,16,Primaria 4°,EduMax,78,9,69
+2025-08-22,16,Primaria 5°,TopKids,101,15,86
+2025-08-22,16,Primaria 6°,EduMax,144,19,125
+2025-08-25,9,Preescolar,TopKids,72,12,60
+2025-08-25,9,Kínder,SuperSchool,71,15,56
+2025-08-25,9,Primaria 1°,SuperSchool,110,5,105
+2025-08-25,9,Primaria 2°,TopKids,112,10,102
+2025-08-25,9,Primaria 3°,TopKids,72,17,55
+2025-08-25,9,Primaria 4°,EduMax,88,16,72
+2025-08-25,9,Primaria 5°,TopKids,74,9,65
+2025-08-25,9,Primaria 6°,TopKids,57,14,43
+2025-08-25,10,Preescolar,EduMax,65,12,53
+2025-08-25,10,Kínder,SuperSchool,54,7,47
+2025-08-25,10,Primaria 1°,SuperSchool,53,12,41
+2025-08-25,10,Primaria 2°,TopKids,145,14,131
+2025-08-25,10,Primaria 3°,EduMax,138,14,124
+2025-08-25,10,Primaria 4°,SuperSchool,95,11,84
+2025-08-25,10,Primaria 5°,TopKids,76,6,70
+2025-08-25,10,Primaria 6°,SuperSchool,62,13,49
+2025-08-25,11,Preescolar,EduMax,139,14,125
+2025-08-25,11,Kínder,EduMax,61,5,56
+2025-08-25,11,Primaria 1°,EduMax,63,13,50
+2025-08-25,11,Primaria 2°,EduMax,102,13,89
+2025-08-25,11,Primaria 3°,TopKids,65,7,58
+2025-08-25,11,Primaria 4°,TopKids,119,12,107
+2025-08-25,11,Primaria 5°,TopKids,107,8,99
+2025-08-25,11,Primaria 6°,TopKids,53,8,45
+2025-08-25,12,Preescolar,EduMax,73,10,63
+2025-08-25,12,Kínder,TopKids,75,9,66
+2025-08-25,12,Primaria 1°,EduMax,134,10,124
+2025-08-25,12,Primaria 2°,TopKids,70,14,56
+2025-08-25,12,Primaria 3°,EduMax,95,8,87
+2025-08-25,12,Primaria 4°,SuperSchool,94,8,86
+2025-08-25,12,Primaria 5°,SuperSchool,120,8,112
+2025-08-25,12,Primaria 6°,SuperSchool,63,7,56
+2025-08-25,13,Preescolar,SuperSchool,129,14,115
+2025-08-25,13,Kínder,TopKids,53,12,41
+2025-08-25,13,Primaria 1°,EduMax,73,6,67
+2025-08-25,13,Primaria 2°,EduMax,131,7,124
+2025-08-25,13,Primaria 3°,TopKids,109,16,93
+2025-08-25,13,Primaria 4°,TopKids,98,19,79
+2025-08-25,13,Primaria 5°,EduMax,132,10,122
+2025-08-25,13,Primaria 6°,SuperSchool,125,18,107
+2025-08-25,14,Preescolar,EduMax,80,8,72
+2025-08-25,14,Kínder,TopKids,97,17,80
+2025-08-25,14,Primaria 1°,EduMax,104,5,99
+2025-08-25,14,Primaria 2°,TopKids,146,6,140
+2025-08-25,14,Primaria 3°,TopKids,141,15,126
+2025-08-25,14,Primaria 4°,TopKids,124,13,111
+2025-08-25,14,Primaria 5°,EduMax,94,5,89
+2025-08-25,14,Primaria 6°,SuperSchool,119,8,111
+2025-08-25,15,Preescolar,TopKids,140,19,121
+2025-08-25,15,Kínder,EduMax,96,18,78
+2025-08-25,15,Primaria 1°,TopKids,58,14,44
+2025-08-25,15,Primaria 2°,SuperSchool,110,14,96
+2025-08-25,15,Primaria 3°,EduMax,52,17,35
+2025-08-25,15,Primaria 4°,TopKids,143,18,125
+2025-08-25,15,Primaria 5°,EduMax,119,5,114
+2025-08-25,15,Primaria 6°,TopKids,100,9,91
+2025-08-25,16,Preescolar,TopKids,91,7,84
+2025-08-25,16,Kínder,EduMax,75,7,68
+2025-08-25,16,Primaria 1°,SuperSchool,142,9,133
+2025-08-25,16,Primaria 2°,SuperSchool,70,14,56
+2025-08-25,16,Primaria 3°,SuperSchool,149,10,139
+2025-08-25,16,Primaria 4°,EduMax,53,18,35
+2025-08-25,16,Primaria 5°,TopKids,88,6,82
+2025-08-25,16,Primaria 6°,TopKids,50,12,38
+2025-08-26,9,Preescolar,SuperSchool,149,10,139
+2025-08-26,9,Kínder,SuperSchool,103,18,85
+2025-08-26,9,Primaria 1°,SuperSchool,80,8,72
+2025-08-26,9,Primaria 2°,SuperSchool,85,9,76
+2025-08-26,9,Primaria 3°,EduMax,73,16,57
+2025-08-26,9,Primaria 4°,EduMax,79,10,69
+2025-08-26,9,Primaria 5°,TopKids,84,11,73
+2025-08-26,9,Primaria 6°,EduMax,59,10,49
+2025-08-26,10,Preescolar,TopKids,138,17,121
+2025-08-26,10,Kínder,EduMax,93,13,80
+2025-08-26,10,Primaria 1°,SuperSchool,149,12,137
+2025-08-26,10,Primaria 2°,TopKids,133,6,127
+2025-08-26,10,Primaria 3°,EduMax,106,9,97
+2025-08-26,10,Primaria 4°,EduMax,82,15,67
+2025-08-26,10,Primaria 5°,TopKids,119,19,100
+2025-08-26,10,Primaria 6°,TopKids,131,12,119
+2025-08-26,11,Preescolar,TopKids,69,12,57
+2025-08-26,11,Kínder,TopKids,97,11,86
+2025-08-26,11,Primaria 1°,SuperSchool,91,14,77
+2025-08-26,11,Primaria 2°,EduMax,106,9,97
+2025-08-26,11,Primaria 3°,EduMax,70,6,64
+2025-08-26,11,Primaria 4°,SuperSchool,52,11,41
+2025-08-26,11,Primaria 5°,EduMax,86,12,74
+2025-08-26,11,Primaria 6°,SuperSchool,68,7,61
+2025-08-26,12,Preescolar,SuperSchool,134,16,118
+2025-08-26,12,Kínder,SuperSchool,110,13,97
+2025-08-26,12,Primaria 1°,SuperSchool,99,9,90
+2025-08-26,12,Primaria 2°,TopKids,120,10,110
+2025-08-26,12,Primaria 3°,TopKids,82,5,77
+2025-08-26,12,Primaria 4°,SuperSchool,110,6,104
+2025-08-26,12,Primaria 5°,EduMax,92,13,79
+2025-08-26,12,Primaria 6°,TopKids,135,5,130
+2025-08-26,13,Preescolar,SuperSchool,147,10,137
+2025-08-26,13,Kínder,EduMax,119,6,113
+2025-08-26,13,Primaria 1°,SuperSchool,123,9,114
+2025-08-26,13,Primaria 2°,SuperSchool,51,10,41
+2025-08-26,13,Primaria 3°,SuperSchool,115,14,101
+2025-08-26,13,Primaria 4°,EduMax,65,7,58
+2025-08-26,13,Primaria 5°,SuperSchool,88,10,78
+2025-08-26,13,Primaria 6°,TopKids,89,10,79
+2025-08-26,14,Preescolar,TopKids,59,7,52
+2025-08-26,14,Kínder,TopKids,112,5,107
+2025-08-26,14,Primaria 1°,TopKids,70,8,62
+2025-08-26,14,Primaria 2°,EduMax,117,18,99
+2025-08-26,14,Primaria 3°,EduMax,64,12,52
+2025-08-26,14,Primaria 4°,SuperSchool,128,10,118
+2025-08-26,14,Primaria 5°,EduMax,76,17,59
+2025-08-26,14,Primaria 6°,SuperSchool,89,14,75
+2025-08-26,15,Preescolar,EduMax,112,6,106
+2025-08-26,15,Kínder,SuperSchool,52,12,40
+2025-08-26,15,Primaria 1°,SuperSchool,91,8,83
+2025-08-26,15,Primaria 2°,TopKids,55,11,44
+2025-08-26,15,Primaria 3°,TopKids,138,15,123
+2025-08-26,15,Primaria 4°,EduMax,92,7,85
+2025-08-26,15,Primaria 5°,SuperSchool,100,15,85
+2025-08-26,15,Primaria 6°,EduMax,57,12,45
+2025-08-26,16,Preescolar,SuperSchool,85,9,76
+2025-08-26,16,Kínder,SuperSchool,121,11,110
+2025-08-26,16,Primaria 1°,SuperSchool,96,19,77
+2025-08-26,16,Primaria 2°,EduMax,131,14,117
+2025-08-26,16,Primaria 3°,EduMax,61,6,55
+2025-08-26,16,Primaria 4°,TopKids,129,7,122
+2025-08-26,16,Primaria 5°,SuperSchool,52,15,37
+2025-08-26,16,Primaria 6°,EduMax,89,10,79
+2025-08-27,9,Preescolar,SuperSchool,141,5,136
+2025-08-27,9,Kínder,TopKids,57,9,48
+2025-08-27,9,Primaria 1°,TopKids,53,18,35
+2025-08-27,9,Primaria 2°,EduMax,68,13,55
+2025-08-27,9,Primaria 3°,TopKids,95,11,84
+2025-08-27,9,Primaria 4°,SuperSchool,112,17,95
+2025-08-27,9,Primaria 5°,TopKids,70,18,52
+2025-08-27,9,Primaria 6°,SuperSchool,83,8,75
+2025-08-27,10,Preescolar,EduMax,144,15,129
+2025-08-27,10,Kínder,TopKids,76,9,67
+2025-08-27,10,Primaria 1°,SuperSchool,52,5,47
+2025-08-27,10,Primaria 2°,SuperSchool,69,6,63
+2025-08-27,10,Primaria 3°,EduMax,54,7,47
+2025-08-27,10,Primaria 4°,SuperSchool,141,17,124
+2025-08-27,10,Primaria 5°,SuperSchool,99,10,89
+2025-08-27,10,Primaria 6°,TopKids,109,16,93
+2025-08-27,11,Preescolar,SuperSchool,60,6,54
+2025-08-27,11,Kínder,TopKids,122,9,113
+2025-08-27,11,Primaria 1°,EduMax,135,7,128
+2025-08-27,11,Primaria 2°,EduMax,139,9,130
+2025-08-27,11,Primaria 3°,EduMax,111,5,106
+2025-08-27,11,Primaria 4°,SuperSchool,84,8,76
+2025-08-27,11,Primaria 5°,EduMax,90,7,83
+2025-08-27,11,Primaria 6°,TopKids,131,14,117
+2025-08-27,12,Preescolar,TopKids,106,11,95
+2025-08-27,12,Kínder,EduMax,66,9,57
+2025-08-27,12,Primaria 1°,TopKids,143,19,124
+2025-08-27,12,Primaria 2°,TopKids,84,5,79
+2025-08-27,12,Primaria 3°,SuperSchool,65,6,59
+2025-08-27,12,Primaria 4°,EduMax,148,12,136
+2025-08-27,12,Primaria 5°,TopKids,88,10,78
+2025-08-27,12,Primaria 6°,SuperSchool,69,16,53
+2025-08-27,13,Preescolar,SuperSchool,121,11,110
+2025-08-27,13,Kínder,TopKids,112,7,105
+2025-08-27,13,Primaria 1°,EduMax,74,19,55
+2025-08-27,13,Primaria 2°,EduMax,64,19,45
+2025-08-27,13,Primaria 3°,SuperSchool,148,13,135
+2025-08-27,13,Primaria 4°,SuperSchool,102,18,84
+2025-08-27,13,Primaria 5°,EduMax,149,16,133
+2025-08-27,13,Primaria 6°,SuperSchool,88,13,75
+2025-08-27,14,Preescolar,TopKids,126,19,107
+2025-08-27,14,Kínder,EduMax,146,10,136
+2025-08-27,14,Primaria 1°,TopKids,140,11,129
+2025-08-27,14,Primaria 2°,TopKids,140,6,134
+2025-08-27,14,Primaria 3°,EduMax,87,18,69
+2025-08-27,14,Primaria 4°,SuperSchool,121,18,103
+2025-08-27,14,Primaria 5°,TopKids,68,18,50
+2025-08-27,14,Primaria 6°,TopKids,127,15,112
+2025-08-27,15,Preescolar,SuperSchool,74,12,62
+2025-08-27,15,Kínder,EduMax,75,10,65
+2025-08-27,15,Primaria 1°,TopKids,71,13,58
+2025-08-27,15,Primaria 2°,TopKids,100,7,93
+2025-08-27,15,Primaria 3°,EduMax,68,13,55
+2025-08-27,15,Primaria 4°,SuperSchool,120,18,102
+2025-08-27,15,Primaria 5°,TopKids,122,15,107
+2025-08-27,15,Primaria 6°,TopKids,68,19,49
+2025-08-27,16,Preescolar,EduMax,87,9,78
+2025-08-27,16,Kínder,SuperSchool,85,12,73
+2025-08-27,16,Primaria 1°,SuperSchool,79,13,66
+2025-08-27,16,Primaria 2°,SuperSchool,101,13,88
+2025-08-27,16,Primaria 3°,EduMax,124,9,115
+2025-08-27,16,Primaria 4°,TopKids,108,18,90
+2025-08-27,16,Primaria 5°,EduMax,90,8,82
+2025-08-27,16,Primaria 6°,TopKids,117,16,101
+2025-08-28,9,Preescolar,EduMax,135,13,122
+2025-08-28,9,Kínder,TopKids,104,17,87
+2025-08-28,9,Primaria 1°,EduMax,97,18,79
+2025-08-28,9,Primaria 2°,TopKids,60,18,42
+2025-08-28,9,Primaria 3°,EduMax,134,19,115
+2025-08-28,9,Primaria 4°,SuperSchool,118,8,110
+2025-08-28,9,Primaria 5°,SuperSchool,116,16,100
+2025-08-28,9,Primaria 6°,SuperSchool,122,17,105
+2025-08-28,10,Preescolar,SuperSchool,117,7,110
+2025-08-28,10,Kínder,SuperSchool,147,12,135
+2025-08-28,10,Primaria 1°,SuperSchool,57,17,40
+2025-08-28,10,Primaria 2°,TopKids,96,12,84
+2025-08-28,10,Primaria 3°,EduMax,125,18,107
+2025-08-28,10,Primaria 4°,TopKids,64,13,51
+2025-08-28,10,Primaria 5°,TopKids,75,8,67
+2025-08-28,10,Primaria 6°,SuperSchool,71,12,59
+2025-08-28,11,Preescolar,SuperSchool,100,10,90
+2025-08-28,11,Kínder,SuperSchool,78,7,71
+2025-08-28,11,Primaria 1°,TopKids,120,16,104
+2025-08-28,11,Primaria 2°,EduMax,125,17,108
+2025-08-28,11,Primaria 3°,TopKids,135,16,119
+2025-08-28,11,Primaria 4°,EduMax,137,6,131
+2025-08-28,11,Primaria 5°,TopKids,104,13,91
+2025-08-28,11,Primaria 6°,SuperSchool,121,11,110
+2025-08-28,12,Preescolar,EduMax,55,10,45
+2025-08-28,12,Kínder,SuperSchool,131,5,126
+2025-08-28,12,Primaria 1°,SuperSchool,61,10,51
+2025-08-28,12,Primaria 2°,EduMax,76,12,64
+2025-08-28,12,Primaria 3°,TopKids,114,13,101
+2025-08-28,12,Primaria 4°,SuperSchool,148,12,136
+2025-08-28,12,Primaria 5°,EduMax,84,17,67
+2025-08-28,12,Primaria 6°,SuperSchool,62,17,45
+2025-08-28,13,Preescolar,EduMax,98,18,80
+2025-08-28,13,Kínder,SuperSchool,111,12,99
+2025-08-28,13,Primaria 1°,TopKids,69,16,53
+2025-08-28,13,Primaria 2°,SuperSchool,139,11,128
+2025-08-28,13,Primaria 3°,SuperSchool,98,18,80
+2025-08-28,13,Primaria 4°,EduMax,103,18,85
+2025-08-28,13,Primaria 5°,SuperSchool,58,12,46
+2025-08-28,13,Primaria 6°,SuperSchool,98,13,85
+2025-08-28,14,Preescolar,SuperSchool,137,9,128
+2025-08-28,14,Kínder,TopKids,108,11,97
+2025-08-28,14,Primaria 1°,TopKids,90,11,79
+2025-08-28,14,Primaria 2°,SuperSchool,113,15,98
+2025-08-28,14,Primaria 3°,EduMax,68,15,53
+2025-08-28,14,Primaria 4°,SuperSchool,95,17,78
+2025-08-28,14,Primaria 5°,SuperSchool,89,16,73
+2025-08-28,14,Primaria 6°,TopKids,125,12,113
+2025-08-28,15,Preescolar,SuperSchool,61,17,44
+2025-08-28,15,Kínder,SuperSchool,94,14,80
+2025-08-28,15,Primaria 1°,TopKids,141,14,127
+2025-08-28,15,Primaria 2°,SuperSchool,57,13,44
+2025-08-28,15,Primaria 3°,TopKids,95,11,84
+2025-08-28,15,Primaria 4°,EduMax,96,11,85
+2025-08-28,15,Primaria 5°,SuperSchool,96,8,88
+2025-08-28,15,Primaria 6°,EduMax,67,6,61
+2025-08-28,16,Preescolar,EduMax,82,19,63
+2025-08-28,16,Kínder,EduMax,68,19,49
+2025-08-28,16,Primaria 1°,SuperSchool,146,16,130
+2025-08-28,16,Primaria 2°,EduMax,64,13,51
+2025-08-28,16,Primaria 3°,TopKids,51,19,32
+2025-08-28,16,Primaria 4°,SuperSchool,123,6,117
+2025-08-28,16,Primaria 5°,TopKids,124,17,107
+2025-08-28,16,Primaria 6°,EduMax,63,6,57
+2025-08-29,9,Preescolar,TopKids,122,13,109
+2025-08-29,9,Kínder,TopKids,77,7,70
+2025-08-29,9,Primaria 1°,EduMax,76,9,67
+2025-08-29,9,Primaria 2°,EduMax,142,10,132
+2025-08-29,9,Primaria 3°,TopKids,65,18,47
+2025-08-29,9,Primaria 4°,EduMax,130,13,117
+2025-08-29,9,Primaria 5°,EduMax,61,7,54
+2025-08-29,9,Primaria 6°,TopKids,114,11,103
+2025-08-29,10,Preescolar,SuperSchool,128,14,114
+2025-08-29,10,Kínder,SuperSchool,134,18,116
+2025-08-29,10,Primaria 1°,SuperSchool,144,13,131
+2025-08-29,10,Primaria 2°,TopKids,73,13,60
+2025-08-29,10,Primaria 3°,EduMax,77,9,68
+2025-08-29,10,Primaria 4°,EduMax,67,8,59
+2025-08-29,10,Primaria 5°,TopKids,94,11,83
+2025-08-29,10,Primaria 6°,SuperSchool,102,10,92
+2025-08-29,11,Preescolar,EduMax,79,16,63
+2025-08-29,11,Kínder,EduMax,81,7,74
+2025-08-29,11,Primaria 1°,TopKids,77,16,61
+2025-08-29,11,Primaria 2°,TopKids,90,19,71
+2025-08-29,11,Primaria 3°,TopKids,124,14,110
+2025-08-29,11,Primaria 4°,TopKids,106,10,96
+2025-08-29,11,Primaria 5°,SuperSchool,73,11,62
+2025-08-29,11,Primaria 6°,EduMax,105,16,89
+2025-08-29,12,Preescolar,SuperSchool,56,8,48
+2025-08-29,12,Kínder,SuperSchool,105,5,100
+2025-08-29,12,Primaria 1°,SuperSchool,96,8,88
+2025-08-29,12,Primaria 2°,TopKids,78,14,64
+2025-08-29,12,Primaria 3°,EduMax,141,7,134
+2025-08-29,12,Primaria 4°,TopKids,144,15,129
+2025-08-29,12,Primaria 5°,EduMax,60,5,55
+2025-08-29,12,Primaria 6°,SuperSchool,87,9,78
+2025-08-29,13,Preescolar,EduMax,97,8,89
+2025-08-29,13,Kínder,EduMax,114,19,95
+2025-08-29,13,Primaria 1°,SuperSchool,99,9,90
+2025-08-29,13,Primaria 2°,EduMax,137,15,122
+2025-08-29,13,Primaria 3°,TopKids,124,17,107
+2025-08-29,13,Primaria 4°,EduMax,76,18,58
+2025-08-29,13,Primaria 5°,EduMax,113,15,98
+2025-08-29,13,Primaria 6°,EduMax,100,6,94
+2025-08-29,14,Preescolar,EduMax,108,17,91
+2025-08-29,14,Kínder,TopKids,79,14,65
+2025-08-29,14,Primaria 1°,SuperSchool,86,14,72
+2025-08-29,14,Primaria 2°,SuperSchool,84,11,73
+2025-08-29,14,Primaria 3°,EduMax,117,6,111
+2025-08-29,14,Primaria 4°,SuperSchool,78,17,61
+2025-08-29,14,Primaria 5°,TopKids,96,18,78
+2025-08-29,14,Primaria 6°,SuperSchool,145,10,135
+2025-08-29,15,Preescolar,SuperSchool,86,13,73
+2025-08-29,15,Kínder,SuperSchool,62,6,56
+2025-08-29,15,Primaria 1°,SuperSchool,135,9,126
+2025-08-29,15,Primaria 2°,TopKids,136,7,129
+2025-08-29,15,Primaria 3°,TopKids,91,6,85
+2025-08-29,15,Primaria 4°,SuperSchool,100,14,86
+2025-08-29,15,Primaria 5°,SuperSchool,134,18,116
+2025-08-29,15,Primaria 6°,TopKids,70,16,54
+2025-08-29,16,Preescolar,TopKids,117,7,110
+2025-08-29,16,Kínder,SuperSchool,141,19,122
+2025-08-29,16,Primaria 1°,SuperSchool,148,17,131
+2025-08-29,16,Primaria 2°,TopKids,147,15,132
+2025-08-29,16,Primaria 3°,TopKids,66,7,59
+2025-08-29,16,Primaria 4°,EduMax,135,13,122
+2025-08-29,16,Primaria 5°,EduMax,68,9,59
+2025-08-29,16,Primaria 6°,TopKids,134,12,122
+2025-09-01,9,Preescolar,SuperSchool,66,9,57
+2025-09-01,9,Kínder,EduMax,68,19,49
+2025-09-01,9,Primaria 1°,TopKids,147,15,132
+2025-09-01,9,Primaria 2°,EduMax,94,19,75
+2025-09-01,9,Primaria 3°,EduMax,70,10,60
+2025-09-01,9,Primaria 4°,TopKids,141,9,132
+2025-09-01,9,Primaria 5°,SuperSchool,105,8,97
+2025-09-01,9,Primaria 6°,SuperSchool,95,14,81
+2025-09-01,10,Preescolar,EduMax,66,7,59
+2025-09-01,10,Kínder,TopKids,75,16,59
+2025-09-01,10,Primaria 1°,EduMax,104,14,90
+2025-09-01,10,Primaria 2°,EduMax,124,5,119
+2025-09-01,10,Primaria 3°,EduMax,137,11,126
+2025-09-01,10,Primaria 4°,TopKids,76,15,61
+2025-09-01,10,Primaria 5°,SuperSchool,130,7,123
+2025-09-01,10,Primaria 6°,SuperSchool,127,15,112
+2025-09-01,11,Preescolar,EduMax,141,7,134
+2025-09-01,11,Kínder,TopKids,53,11,42
+2025-09-01,11,Primaria 1°,SuperSchool,84,19,65
+2025-09-01,11,Primaria 2°,SuperSchool,121,8,113
+2025-09-01,11,Primaria 3°,SuperSchool,130,5,125
+2025-09-01,11,Primaria 4°,SuperSchool,146,12,134
+2025-09-01,11,Primaria 5°,TopKids,112,10,102
+2025-09-01,11,Primaria 6°,TopKids,108,9,99
+2025-09-01,12,Preescolar,SuperSchool,96,18,78
+2025-09-01,12,Kínder,SuperSchool,80,11,69
+2025-09-01,12,Primaria 1°,EduMax,145,10,135
+2025-09-01,12,Primaria 2°,SuperSchool,135,15,120
+2025-09-01,12,Primaria 3°,TopKids,103,14,89
+2025-09-01,12,Primaria 4°,EduMax,113,18,95
+2025-09-01,12,Primaria 5°,SuperSchool,129,16,113
+2025-09-01,12,Primaria 6°,EduMax,90,12,78
+2025-09-01,13,Preescolar,TopKids,105,18,87
+2025-09-01,13,Kínder,SuperSchool,143,19,124
+2025-09-01,13,Primaria 1°,TopKids,68,6,62
+2025-09-01,13,Primaria 2°,EduMax,120,18,102
+2025-09-01,13,Primaria 3°,TopKids,116,5,111
+2025-09-01,13,Primaria 4°,SuperSchool,86,5,81
+2025-09-01,13,Primaria 5°,TopKids,86,17,69
+2025-09-01,13,Primaria 6°,SuperSchool,109,13,96
+2025-09-01,14,Preescolar,TopKids,50,8,42
+2025-09-01,14,Kínder,TopKids,115,19,96
+2025-09-01,14,Primaria 1°,TopKids,58,6,52
+2025-09-01,14,Primaria 2°,EduMax,127,8,119
+2025-09-01,14,Primaria 3°,EduMax,144,10,134
+2025-09-01,14,Primaria 4°,TopKids,148,12,136
+2025-09-01,14,Primaria 5°,TopKids,63,16,47
+2025-09-01,14,Primaria 6°,SuperSchool,94,6,88
+2025-09-01,15,Preescolar,SuperSchool,110,7,103
+2025-09-01,15,Kínder,TopKids,65,6,59
+2025-09-01,15,Primaria 1°,SuperSchool,83,14,69
+2025-09-01,15,Primaria 2°,EduMax,109,6,103
+2025-09-01,15,Primaria 3°,EduMax,139,17,122
+2025-09-01,15,Primaria 4°,TopKids,80,16,64
+2025-09-01,15,Primaria 5°,EduMax,88,7,81
+2025-09-01,15,Primaria 6°,TopKids,127,12,115
+2025-09-01,16,Preescolar,EduMax,104,15,89
+2025-09-01,16,Kínder,EduMax,142,11,131
+2025-09-01,16,Primaria 1°,SuperSchool,88,5,83
+2025-09-01,16,Primaria 2°,SuperSchool,79,9,70
+2025-09-01,16,Primaria 3°,SuperSchool,70,7,63
+2025-09-01,16,Primaria 4°,SuperSchool,68,13,55
+2025-09-01,16,Primaria 5°,SuperSchool,135,19,116
+2025-09-01,16,Primaria 6°,SuperSchool,104,11,93
+2025-09-02,9,Preescolar,EduMax,123,14,109
+2025-09-02,9,Kínder,EduMax,101,8,93
+2025-09-02,9,Primaria 1°,EduMax,63,6,57
+2025-09-02,9,Primaria 2°,EduMax,102,12,90
+2025-09-02,9,Primaria 3°,TopKids,71,18,53
+2025-09-02,9,Primaria 4°,TopKids,53,17,36
+2025-09-02,9,Primaria 5°,TopKids,136,12,124
+2025-09-02,9,Primaria 6°,EduMax,61,11,50
+2025-09-02,10,Preescolar,TopKids,127,6,121
+2025-09-02,10,Kínder,EduMax,147,19,128
+2025-09-02,10,Primaria 1°,TopKids,125,5,120
+2025-09-02,10,Primaria 2°,TopKids,106,19,87
+2025-09-02,10,Primaria 3°,SuperSchool,142,14,128
+2025-09-02,10,Primaria 4°,EduMax,145,10,135
+2025-09-02,10,Primaria 5°,EduMax,130,11,119
+2025-09-02,10,Primaria 6°,EduMax,57,13,44
+2025-09-02,11,Preescolar,EduMax,118,16,102
+2025-09-02,11,Kínder,SuperSchool,113,17,96
+2025-09-02,11,Primaria 1°,TopKids,114,15,99
+2025-09-02,11,Primaria 2°,TopKids,58,15,43
+2025-09-02,11,Primaria 3°,EduMax,93,8,85
+2025-09-02,11,Primaria 4°,EduMax,64,7,57
+2025-09-02,11,Primaria 5°,SuperSchool,132,5,127
+2025-09-02,11,Primaria 6°,EduMax,105,16,89
+2025-09-02,12,Preescolar,TopKids,86,5,81
+2025-09-02,12,Kínder,EduMax,136,14,122
+2025-09-02,12,Primaria 1°,SuperSchool,82,16,66
+2025-09-02,12,Primaria 2°,TopKids,138,12,126
+2025-09-02,12,Primaria 3°,TopKids,59,19,40
+2025-09-02,12,Primaria 4°,TopKids,134,9,125
+2025-09-02,12,Primaria 5°,TopKids,62,9,53
+2025-09-02,12,Primaria 6°,SuperSchool,73,16,57
+2025-09-02,13,Preescolar,TopKids,66,8,58
+2025-09-02,13,Kínder,TopKids,74,18,56
+2025-09-02,13,Primaria 1°,SuperSchool,70,8,62
+2025-09-02,13,Primaria 2°,TopKids,132,16,116
+2025-09-02,13,Primaria 3°,SuperSchool,91,5,86
+2025-09-02,13,Primaria 4°,SuperSchool,97,11,86
+2025-09-02,13,Primaria 5°,SuperSchool,148,19,129
+2025-09-02,13,Primaria 6°,EduMax,127,7,120
+2025-09-02,14,Preescolar,SuperSchool,120,13,107
+2025-09-02,14,Kínder,SuperSchool,131,9,122
+2025-09-02,14,Primaria 1°,SuperSchool,149,19,130
+2025-09-02,14,Primaria 2°,EduMax,65,13,52
+2025-09-02,14,Primaria 3°,SuperSchool,87,15,72
+2025-09-02,14,Primaria 4°,EduMax,105,10,95
+2025-09-02,14,Primaria 5°,SuperSchool,149,17,132
+2025-09-02,14,Primaria 6°,TopKids,94,17,77
+2025-09-02,15,Preescolar,EduMax,58,12,46
+2025-09-02,15,Kínder,TopKids,85,6,79
+2025-09-02,15,Primaria 1°,TopKids,77,10,67
+2025-09-02,15,Primaria 2°,SuperSchool,77,12,65
+2025-09-02,15,Primaria 3°,EduMax,103,5,98
+2025-09-02,15,Primaria 4°,SuperSchool,148,17,131
+2025-09-02,15,Primaria 5°,SuperSchool,98,10,88
+2025-09-02,15,Primaria 6°,EduMax,59,9,50
+2025-09-02,16,Preescolar,TopKids,102,14,88
+2025-09-02,16,Kínder,EduMax,62,9,53
+2025-09-02,16,Primaria 1°,EduMax,73,6,67
+2025-09-02,16,Primaria 2°,EduMax,130,8,122
+2025-09-02,16,Primaria 3°,EduMax,59,7,52
+2025-09-02,16,Primaria 4°,SuperSchool,52,19,33
+2025-09-02,16,Primaria 5°,EduMax,66,16,50
+2025-09-02,16,Primaria 6°,EduMax,73,17,56
+2025-09-03,9,Preescolar,TopKids,74,8,66
+2025-09-03,9,Kínder,EduMax,109,14,95
+2025-09-03,9,Primaria 1°,EduMax,114,8,106
+2025-09-03,9,Primaria 2°,TopKids,77,19,58
+2025-09-03,9,Primaria 3°,SuperSchool,141,14,127
+2025-09-03,9,Primaria 4°,TopKids,102,14,88
+2025-09-03,9,Primaria 5°,TopKids,96,18,78
+2025-09-03,9,Primaria 6°,SuperSchool,83,9,74
+2025-09-03,10,Preescolar,EduMax,56,9,47
+2025-09-03,10,Kínder,SuperSchool,82,11,71
+2025-09-03,10,Primaria 1°,EduMax,56,8,48
+2025-09-03,10,Primaria 2°,SuperSchool,61,15,46
+2025-09-03,10,Primaria 3°,SuperSchool,149,17,132
+2025-09-03,10,Primaria 4°,TopKids,149,19,130
+2025-09-03,10,Primaria 5°,TopKids,122,15,107
+2025-09-03,10,Primaria 6°,SuperSchool,136,13,123
+2025-09-03,11,Preescolar,SuperSchool,135,15,120
+2025-09-03,11,Kínder,TopKids,78,13,65
+2025-09-03,11,Primaria 1°,SuperSchool,147,6,141
+2025-09-03,11,Primaria 2°,SuperSchool,128,16,112
+2025-09-03,11,Primaria 3°,TopKids,93,14,79
+2025-09-03,11,Primaria 4°,EduMax,58,11,47
+2025-09-03,11,Primaria 5°,SuperSchool,105,8,97
+2025-09-03,11,Primaria 6°,EduMax,124,19,105
+2025-09-03,12,Preescolar,EduMax,66,15,51
+2025-09-03,12,Kínder,EduMax,120,14,106
+2025-09-03,12,Primaria 1°,SuperSchool,75,13,62
+2025-09-03,12,Primaria 2°,EduMax,94,7,87
+2025-09-03,12,Primaria 3°,TopKids,126,9,117
+2025-09-03,12,Primaria 4°,TopKids,144,16,128
+2025-09-03,12,Primaria 5°,TopKids,114,5,109
+2025-09-03,12,Primaria 6°,TopKids,101,10,91
+2025-09-03,13,Preescolar,EduMax,109,13,96
+2025-09-03,13,Kínder,TopKids,80,13,67
+2025-09-03,13,Primaria 1°,EduMax,75,5,70
+2025-09-03,13,Primaria 2°,EduMax,54,8,46
+2025-09-03,13,Primaria 3°,SuperSchool,124,12,112
+2025-09-03,13,Primaria 4°,EduMax,82,6,76
+2025-09-03,13,Primaria 5°,EduMax,76,6,70
+2025-09-03,13,Primaria 6°,TopKids,145,17,128
+2025-09-03,14,Preescolar,EduMax,70,18,52
+2025-09-03,14,Kínder,SuperSchool,55,10,45
+2025-09-03,14,Primaria 1°,EduMax,135,18,117
+2025-09-03,14,Primaria 2°,EduMax,127,14,113
+2025-09-03,14,Primaria 3°,EduMax,62,19,43
+2025-09-03,14,Primaria 4°,EduMax,52,18,34
+2025-09-03,14,Primaria 5°,EduMax,142,12,130
+2025-09-03,14,Primaria 6°,SuperSchool,82,5,77
+2025-09-03,15,Preescolar,TopKids,126,6,120
+2025-09-03,15,Kínder,TopKids,144,16,128
+2025-09-03,15,Primaria 1°,EduMax,90,8,82
+2025-09-03,15,Primaria 2°,TopKids,97,12,85
+2025-09-03,15,Primaria 3°,TopKids,139,18,121
+2025-09-03,15,Primaria 4°,SuperSchool,125,15,110
+2025-09-03,15,Primaria 5°,SuperSchool,138,6,132
+2025-09-03,15,Primaria 6°,TopKids,136,11,125
+2025-09-03,16,Preescolar,EduMax,131,14,117
+2025-09-03,16,Kínder,EduMax,53,16,37
+2025-09-03,16,Primaria 1°,TopKids,78,15,63
+2025-09-03,16,Primaria 2°,SuperSchool,147,5,142
+2025-09-03,16,Primaria 3°,TopKids,92,9,83
+2025-09-03,16,Primaria 4°,EduMax,83,11,72
+2025-09-03,16,Primaria 5°,SuperSchool,57,18,39
+2025-09-03,16,Primaria 6°,TopKids,143,5,138
+2025-09-04,9,Preescolar,TopKids,88,5,83
+2025-09-04,9,Kínder,TopKids,133,12,121
+2025-09-04,9,Primaria 1°,EduMax,135,17,118
+2025-09-04,9,Primaria 2°,EduMax,93,13,80
+2025-09-04,9,Primaria 3°,SuperSchool,123,8,115
+2025-09-04,9,Primaria 4°,SuperSchool,141,16,125
+2025-09-04,9,Primaria 5°,EduMax,92,9,83
+2025-09-04,9,Primaria 6°,EduMax,115,11,104
+2025-09-04,10,Preescolar,TopKids,71,9,62
+2025-09-04,10,Kínder,TopKids,142,7,135
+2025-09-04,10,Primaria 1°,SuperSchool,94,14,80
+2025-09-04,10,Primaria 2°,SuperSchool,103,12,91
+2025-09-04,10,Primaria 3°,TopKids,76,6,70
+2025-09-04,10,Primaria 4°,TopKids,50,13,37
+2025-09-04,10,Primaria 5°,SuperSchool,120,5,115
+2025-09-04,10,Primaria 6°,TopKids,133,8,125
+2025-09-04,11,Preescolar,SuperSchool,143,7,136
+2025-09-04,11,Kínder,TopKids,140,14,126
+2025-09-04,11,Primaria 1°,EduMax,66,6,60
+2025-09-04,11,Primaria 2°,SuperSchool,142,8,134
+2025-09-04,11,Primaria 3°,SuperSchool,140,6,134
+2025-09-04,11,Primaria 4°,SuperSchool,50,14,36
+2025-09-04,11,Primaria 5°,EduMax,69,8,61
+2025-09-04,11,Primaria 6°,TopKids,59,15,44
+2025-09-04,12,Preescolar,TopKids,90,13,77
+2025-09-04,12,Kínder,SuperSchool,114,5,109
+2025-09-04,12,Primaria 1°,EduMax,147,12,135
+2025-09-04,12,Primaria 2°,SuperSchool,90,17,73
+2025-09-04,12,Primaria 3°,SuperSchool,60,12,48
+2025-09-04,12,Primaria 4°,TopKids,70,7,63
+2025-09-04,12,Primaria 5°,EduMax,68,17,51
+2025-09-04,12,Primaria 6°,TopKids,96,11,85
+2025-09-04,13,Preescolar,TopKids,75,12,63
+2025-09-04,13,Kínder,SuperSchool,70,18,52
+2025-09-04,13,Primaria 1°,TopKids,133,19,114
+2025-09-04,13,Primaria 2°,EduMax,142,12,130
+2025-09-04,13,Primaria 3°,SuperSchool,68,11,57
+2025-09-04,13,Primaria 4°,EduMax,77,18,59
+2025-09-04,13,Primaria 5°,SuperSchool,140,8,132
+2025-09-04,13,Primaria 6°,EduMax,64,7,57
+2025-09-04,14,Preescolar,SuperSchool,50,7,43
+2025-09-04,14,Kínder,TopKids,73,15,58
+2025-09-04,14,Primaria 1°,TopKids,110,8,102
+2025-09-04,14,Primaria 2°,EduMax,142,12,130
+2025-09-04,14,Primaria 3°,EduMax,53,7,46
+2025-09-04,14,Primaria 4°,EduMax,106,5,101
+2025-09-04,14,Primaria 5°,TopKids,102,12,90
+2025-09-04,14,Primaria 6°,TopKids,118,19,99
+2025-09-04,15,Preescolar,EduMax,102,18,84
+2025-09-04,15,Kínder,SuperSchool,106,17,89
+2025-09-04,15,Primaria 1°,SuperSchool,109,10,99
+2025-09-04,15,Primaria 2°,EduMax,106,14,92
+2025-09-04,15,Primaria 3°,TopKids,87,9,78
+2025-09-04,15,Primaria 4°,SuperSchool,133,7,126
+2025-09-04,15,Primaria 5°,TopKids,135,19,116
+2025-09-04,15,Primaria 6°,EduMax,85,19,66
+2025-09-04,16,Preescolar,SuperSchool,118,17,101
+2025-09-04,16,Kínder,TopKids,107,6,101
+2025-09-04,16,Primaria 1°,EduMax,111,9,102
+2025-09-04,16,Primaria 2°,SuperSchool,76,7,69
+2025-09-04,16,Primaria 3°,EduMax,106,18,88
+2025-09-04,16,Primaria 4°,TopKids,96,10,86
+2025-09-04,16,Primaria 5°,TopKids,65,12,53
+2025-09-04,16,Primaria 6°,EduMax,134,10,124
+2025-09-05,9,Preescolar,SuperSchool,121,5,116
+2025-09-05,9,Kínder,TopKids,80,14,66
+2025-09-05,9,Primaria 1°,EduMax,81,15,66
+2025-09-05,9,Primaria 2°,EduMax,58,5,53
+2025-09-05,9,Primaria 3°,TopKids,145,14,131
+2025-09-05,9,Primaria 4°,EduMax,66,8,58
+2025-09-05,9,Primaria 5°,TopKids,74,15,59
+2025-09-05,9,Primaria 6°,SuperSchool,114,19,95
+2025-09-05,10,Preescolar,SuperSchool,100,8,92
+2025-09-05,10,Kínder,SuperSchool,137,6,131
+2025-09-05,10,Primaria 1°,TopKids,145,11,134
+2025-09-05,10,Primaria 2°,TopKids,119,5,114
+2025-09-05,10,Primaria 3°,TopKids,72,14,58
+2025-09-05,10,Primaria 4°,TopKids,106,5,101
+2025-09-05,10,Primaria 5°,EduMax,90,17,73
+2025-09-05,10,Primaria 6°,SuperSchool,62,10,52
+2025-09-05,11,Preescolar,EduMax,133,8,125
+2025-09-05,11,Kínder,SuperSchool,52,5,47
+2025-09-05,11,Primaria 1°,TopKids,98,16,82
+2025-09-05,11,Primaria 2°,TopKids,104,5,99
+2025-09-05,11,Primaria 3°,SuperSchool,116,14,102
+2025-09-05,11,Primaria 4°,TopKids,149,8,141
+2025-09-05,11,Primaria 5°,EduMax,132,15,117
+2025-09-05,11,Primaria 6°,TopKids,127,14,113
+2025-09-05,12,Preescolar,SuperSchool,63,6,57
+2025-09-05,12,Kínder,SuperSchool,53,12,41
+2025-09-05,12,Primaria 1°,TopKids,78,7,71
+2025-09-05,12,Primaria 2°,EduMax,146,5,141
+2025-09-05,12,Primaria 3°,TopKids,114,9,105
+2025-09-05,12,Primaria 4°,TopKids,129,10,119
+2025-09-05,12,Primaria 5°,SuperSchool,113,18,95
+2025-09-05,12,Primaria 6°,TopKids,68,16,52
+2025-09-05,13,Preescolar,TopKids,92,14,78
+2025-09-05,13,Kínder,SuperSchool,69,19,50
+2025-09-05,13,Primaria 1°,TopKids,51,12,39
+2025-09-05,13,Primaria 2°,EduMax,106,9,97
+2025-09-05,13,Primaria 3°,TopKids,127,12,115
+2025-09-05,13,Primaria 4°,TopKids,116,6,110
+2025-09-05,13,Primaria 5°,TopKids,132,7,125
+2025-09-05,13,Primaria 6°,EduMax,129,12,117
+2025-09-05,14,Preescolar,SuperSchool,61,18,43
+2025-09-05,14,Kínder,SuperSchool,124,9,115
+2025-09-05,14,Primaria 1°,TopKids,61,5,56
+2025-09-05,14,Primaria 2°,EduMax,146,9,137
+2025-09-05,14,Primaria 3°,SuperSchool,77,18,59
+2025-09-05,14,Primaria 4°,SuperSchool,108,5,103
+2025-09-05,14,Primaria 5°,EduMax,99,13,86
+2025-09-05,14,Primaria 6°,TopKids,135,9,126
+2025-09-05,15,Preescolar,TopKids,115,18,97
+2025-09-05,15,Kínder,TopKids,88,8,80
+2025-09-05,15,Primaria 1°,SuperSchool,62,8,54
+2025-09-05,15,Primaria 2°,EduMax,56,19,37
+2025-09-05,15,Primaria 3°,TopKids,63,11,52
+2025-09-05,15,Primaria 4°,TopKids,103,17,86
+2025-09-05,15,Primaria 5°,SuperSchool,73,6,67
+2025-09-05,15,Primaria 6°,TopKids,123,13,110
+2025-09-05,16,Preescolar,SuperSchool,57,14,43
+2025-09-05,16,Kínder,EduMax,78,14,64
+2025-09-05,16,Primaria 1°,SuperSchool,115,10,105
+2025-09-05,16,Primaria 2°,EduMax,118,16,102
+2025-09-05,16,Primaria 3°,EduMax,90,9,81
+2025-09-05,16,Primaria 4°,EduMax,139,8,131
+2025-09-05,16,Primaria 5°,SuperSchool,98,15,83
+2025-09-05,16,Primaria 6°,SuperSchool,125,11,114
+2025-09-08,9,Preescolar,TopKids,52,14,38
+2025-09-08,9,Kínder,EduMax,138,7,131
+2025-09-08,9,Primaria 1°,EduMax,73,14,59
+2025-09-08,9,Primaria 2°,EduMax,71,14,57
+2025-09-08,9,Primaria 3°,TopKids,104,11,93
+2025-09-08,9,Primaria 4°,TopKids,78,19,59
+2025-09-08,9,Primaria 5°,EduMax,69,15,54
+2025-09-08,9,Primaria 6°,SuperSchool,103,8,95
+2025-09-08,10,Preescolar,TopKids,133,7,126
+2025-09-08,10,Kínder,TopKids,115,18,97
+2025-09-08,10,Primaria 1°,SuperSchool,83,10,73
+2025-09-08,10,Primaria 2°,TopKids,55,19,36
+2025-09-08,10,Primaria 3°,TopKids,59,13,46
+2025-09-08,10,Primaria 4°,SuperSchool,145,10,135
+2025-09-08,10,Primaria 5°,SuperSchool,108,8,100
+2025-09-08,10,Primaria 6°,TopKids,51,17,34
+2025-09-08,11,Preescolar,SuperSchool,132,14,118
+2025-09-08,11,Kínder,SuperSchool,59,9,50
+2025-09-08,11,Primaria 1°,TopKids,108,10,98
+2025-09-08,11,Primaria 2°,TopKids,97,9,88
+2025-09-08,11,Primaria 3°,TopKids,71,8,63
+2025-09-08,11,Primaria 4°,EduMax,79,13,66
+2025-09-08,11,Primaria 5°,SuperSchool,77,5,72
+2025-09-08,11,Primaria 6°,SuperSchool,94,8,86
+2025-09-08,12,Preescolar,TopKids,98,13,85
+2025-09-08,12,Kínder,TopKids,50,14,36
+2025-09-08,12,Primaria 1°,SuperSchool,95,14,81
+2025-09-08,12,Primaria 2°,EduMax,97,10,87
+2025-09-08,12,Primaria 3°,SuperSchool,123,6,117
+2025-09-08,12,Primaria 4°,TopKids,103,6,97
+2025-09-08,12,Primaria 5°,TopKids,134,19,115
+2025-09-08,12,Primaria 6°,SuperSchool,77,19,58
+2025-09-08,13,Preescolar,TopKids,53,17,36
+2025-09-08,13,Kínder,TopKids,122,15,107
+2025-09-08,13,Primaria 1°,EduMax,68,12,56
+2025-09-08,13,Primaria 2°,SuperSchool,92,13,79
+2025-09-08,13,Primaria 3°,SuperSchool,91,6,85
+2025-09-08,13,Primaria 4°,SuperSchool,89,11,78
+2025-09-08,13,Primaria 5°,SuperSchool,72,19,53
+2025-09-08,13,Primaria 6°,TopKids,112,5,107
+2025-09-08,14,Preescolar,SuperSchool,118,15,103
+2025-09-08,14,Kínder,EduMax,89,15,74
+2025-09-08,14,Primaria 1°,SuperSchool,99,7,92
+2025-09-08,14,Primaria 2°,EduMax,107,5,102
+2025-09-08,14,Primaria 3°,TopKids,65,6,59
+2025-09-08,14,Primaria 4°,EduMax,97,11,86
+2025-09-08,14,Primaria 5°,EduMax,131,10,121
+2025-09-08,14,Primaria 6°,TopKids,68,8,60
+2025-09-08,15,Preescolar,TopKids,112,17,95
+2025-09-08,15,Kínder,EduMax,52,14,38
+2025-09-08,15,Primaria 1°,EduMax,114,11,103
+2025-09-08,15,Primaria 2°,TopKids,57,7,50
+2025-09-08,15,Primaria 3°,EduMax,130,13,117
+2025-09-08,15,Primaria 4°,SuperSchool,55,15,40
+2025-09-08,15,Primaria 5°,SuperSchool,88,5,83
+2025-09-08,15,Primaria 6°,SuperSchool,103,9,94
+2025-09-08,16,Preescolar,SuperSchool,131,12,119
+2025-09-08,16,Kínder,TopKids,134,6,128
+2025-09-08,16,Primaria 1°,SuperSchool,107,15,92
+2025-09-08,16,Primaria 2°,TopKids,109,10,99
+2025-09-08,16,Primaria 3°,EduMax,89,8,81
+2025-09-08,16,Primaria 4°,EduMax,86,19,67
+2025-09-08,16,Primaria 5°,EduMax,147,19,128
+2025-09-08,16,Primaria 6°,EduMax,60,14,46
+2025-09-09,9,Preescolar,SuperSchool,126,8,118
+2025-09-09,9,Kínder,EduMax,56,17,39
+2025-09-09,9,Primaria 1°,TopKids,103,12,91
+2025-09-09,9,Primaria 2°,TopKids,50,11,39
+2025-09-09,9,Primaria 3°,TopKids,127,10,117
+2025-09-09,9,Primaria 4°,EduMax,50,10,40
+2025-09-09,9,Primaria 5°,EduMax,134,17,117
+2025-09-09,9,Primaria 6°,SuperSchool,123,16,107
+2025-09-09,10,Preescolar,SuperSchool,120,7,113
+2025-09-09,10,Kínder,SuperSchool,96,8,88
+2025-09-09,10,Primaria 1°,TopKids,84,8,76
+2025-09-09,10,Primaria 2°,SuperSchool,50,8,42
+2025-09-09,10,Primaria 3°,TopKids,105,14,91
+2025-09-09,10,Primaria 4°,TopKids,74,9,65
+2025-09-09,10,Primaria 5°,SuperSchool,112,14,98
+2025-09-09,10,Primaria 6°,SuperSchool,104,18,86
+2025-09-09,11,Preescolar,TopKids,145,9,136
+2025-09-09,11,Kínder,EduMax,98,14,84
+2025-09-09,11,Primaria 1°,EduMax,88,5,83
+2025-09-09,11,Primaria 2°,SuperSchool,134,17,117
+2025-09-09,11,Primaria 3°,SuperSchool,55,7,48
+2025-09-09,11,Primaria 4°,SuperSchool,84,11,73
+2025-09-09,11,Primaria 5°,EduMax,90,10,80
+2025-09-09,11,Primaria 6°,SuperSchool,91,11,80
+2025-09-09,12,Preescolar,SuperSchool,125,11,114
+2025-09-09,12,Kínder,TopKids,79,13,66
+2025-09-09,12,Primaria 1°,TopKids,135,13,122
+2025-09-09,12,Primaria 2°,SuperSchool,86,11,75
+2025-09-09,12,Primaria 3°,SuperSchool,81,18,63
+2025-09-09,12,Primaria 4°,TopKids,72,17,55
+2025-09-09,12,Primaria 5°,SuperSchool,134,6,128
+2025-09-09,12,Primaria 6°,SuperSchool,55,16,39
+2025-09-09,13,Preescolar,EduMax,143,10,133
+2025-09-09,13,Kínder,EduMax,82,18,64
+2025-09-09,13,Primaria 1°,SuperSchool,81,14,67
+2025-09-09,13,Primaria 2°,TopKids,127,14,113
+2025-09-09,13,Primaria 3°,EduMax,85,6,79
+2025-09-09,13,Primaria 4°,SuperSchool,77,15,62
+2025-09-09,13,Primaria 5°,EduMax,88,11,77
+2025-09-09,13,Primaria 6°,TopKids,68,10,58
+2025-09-09,14,Preescolar,TopKids,77,12,65
+2025-09-09,14,Kínder,TopKids,58,19,39
+2025-09-09,14,Primaria 1°,SuperSchool,111,5,106
+2025-09-09,14,Primaria 2°,TopKids,116,14,102
+2025-09-09,14,Primaria 3°,TopKids,114,17,97
+2025-09-09,14,Primaria 4°,EduMax,147,7,140
+2025-09-09,14,Primaria 5°,SuperSchool,50,6,44
+2025-09-09,14,Primaria 6°,SuperSchool,97,19,78
+2025-09-09,15,Preescolar,SuperSchool,97,5,92
+2025-09-09,15,Kínder,SuperSchool,113,17,96
+2025-09-09,15,Primaria 1°,SuperSchool,88,12,76
+2025-09-09,15,Primaria 2°,EduMax,66,11,55
+2025-09-09,15,Primaria 3°,SuperSchool,118,14,104
+2025-09-09,15,Primaria 4°,SuperSchool,116,11,105
+2025-09-09,15,Primaria 5°,EduMax,98,11,87
+2025-09-09,15,Primaria 6°,SuperSchool,114,5,109
+2025-09-09,16,Preescolar,EduMax,66,15,51
+2025-09-09,16,Kínder,SuperSchool,52,19,33
+2025-09-09,16,Primaria 1°,SuperSchool,81,14,67
+2025-09-09,16,Primaria 2°,SuperSchool,103,16,87
+2025-09-09,16,Primaria 3°,SuperSchool,105,5,100
+2025-09-09,16,Primaria 4°,SuperSchool,135,13,122
+2025-09-09,16,Primaria 5°,TopKids,100,10,90
+2025-09-09,16,Primaria 6°,SuperSchool,120,18,102
+2025-09-10,9,Preescolar,SuperSchool,132,7,125
+2025-09-10,9,Kínder,EduMax,90,17,73
+2025-09-10,9,Primaria 1°,TopKids,52,15,37
+2025-09-10,9,Primaria 2°,SuperSchool,95,18,77
+2025-09-10,9,Primaria 3°,SuperSchool,67,7,60
+2025-09-10,9,Primaria 4°,EduMax,145,12,133
+2025-09-10,9,Primaria 5°,EduMax,55,16,39
+2025-09-10,9,Primaria 6°,TopKids,106,12,94
+2025-09-10,10,Preescolar,TopKids,141,8,133
+2025-09-10,10,Kínder,SuperSchool,98,17,81
+2025-09-10,10,Primaria 1°,EduMax,115,17,98
+2025-09-10,10,Primaria 2°,SuperSchool,128,8,120
+2025-09-10,10,Primaria 3°,SuperSchool,142,7,135
+2025-09-10,10,Primaria 4°,TopKids,52,10,42
+2025-09-10,10,Primaria 5°,EduMax,113,12,101
+2025-09-10,10,Primaria 6°,TopKids,104,18,86
+2025-09-10,11,Preescolar,TopKids,109,8,101
+2025-09-10,11,Kínder,TopKids,144,15,129
+2025-09-10,11,Primaria 1°,TopKids,79,15,64
+2025-09-10,11,Primaria 2°,EduMax,111,5,106
+2025-09-10,11,Primaria 3°,SuperSchool,141,19,122
+2025-09-10,11,Primaria 4°,EduMax,110,12,98
+2025-09-10,11,Primaria 5°,TopKids,97,13,84
+2025-09-10,11,Primaria 6°,SuperSchool,107,9,98
+2025-09-10,12,Preescolar,SuperSchool,111,11,100
+2025-09-10,12,Kínder,EduMax,130,7,123
+2025-09-10,12,Primaria 1°,SuperSchool,132,16,116
+2025-09-10,12,Primaria 2°,SuperSchool,108,11,97
+2025-09-10,12,Primaria 3°,SuperSchool,141,10,131
+2025-09-10,12,Primaria 4°,SuperSchool,107,5,102
+2025-09-10,12,Primaria 5°,TopKids,144,7,137
+2025-09-10,12,Primaria 6°,SuperSchool,113,14,99
+2025-09-10,13,Preescolar,EduMax,135,18,117
+2025-09-10,13,Kínder,EduMax,125,14,111
+2025-09-10,13,Primaria 1°,SuperSchool,62,15,47
+2025-09-10,13,Primaria 2°,EduMax,65,12,53
+2025-09-10,13,Primaria 3°,TopKids,106,12,94
+2025-09-10,13,Primaria 4°,SuperSchool,108,6,102
+2025-09-10,13,Primaria 5°,EduMax,143,16,127
+2025-09-10,13,Primaria 6°,EduMax,93,15,78
+2025-09-10,14,Preescolar,TopKids,129,5,124
+2025-09-10,14,Kínder,EduMax,51,6,45
+2025-09-10,14,Primaria 1°,TopKids,139,11,128
+2025-09-10,14,Primaria 2°,EduMax,111,5,106
+2025-09-10,14,Primaria 3°,EduMax,87,13,74
+2025-09-10,14,Primaria 4°,TopKids,116,10,106
+2025-09-10,14,Primaria 5°,TopKids,143,17,126
+2025-09-10,14,Primaria 6°,SuperSchool,143,17,126
+2025-09-10,15,Preescolar,SuperSchool,62,15,47
+2025-09-10,15,Kínder,TopKids,71,14,57
+2025-09-10,15,Primaria 1°,TopKids,102,19,83
+2025-09-10,15,Primaria 2°,TopKids,53,11,42
+2025-09-10,15,Primaria 3°,TopKids,119,12,107
+2025-09-10,15,Primaria 4°,EduMax,133,16,117
+2025-09-10,15,Primaria 5°,SuperSchool,77,12,65
+2025-09-10,15,Primaria 6°,SuperSchool,86,19,67
+2025-09-10,16,Preescolar,EduMax,119,17,102
+2025-09-10,16,Kínder,SuperSchool,145,7,138
+2025-09-10,16,Primaria 1°,TopKids,54,16,38
+2025-09-10,16,Primaria 2°,EduMax,99,10,89
+2025-09-10,16,Primaria 3°,SuperSchool,105,18,87
+2025-09-10,16,Primaria 4°,TopKids,78,11,67
+2025-09-10,16,Primaria 5°,SuperSchool,67,6,61
+2025-09-10,16,Primaria 6°,TopKids,146,10,136
+2025-09-11,9,Preescolar,SuperSchool,87,15,72
+2025-09-11,9,Kínder,TopKids,110,19,91
+2025-09-11,9,Primaria 1°,TopKids,145,17,128
+2025-09-11,9,Primaria 2°,EduMax,116,17,99
+2025-09-11,9,Primaria 3°,TopKids,84,19,65
+2025-09-11,9,Primaria 4°,TopKids,65,17,48
+2025-09-11,9,Primaria 5°,SuperSchool,84,8,76
+2025-09-11,9,Primaria 6°,TopKids,108,9,99
+2025-09-11,10,Preescolar,TopKids,103,15,88
+2025-09-11,10,Kínder,EduMax,97,9,88
+2025-09-11,10,Primaria 1°,TopKids,135,10,125
+2025-09-11,10,Primaria 2°,TopKids,127,12,115
+2025-09-11,10,Primaria 3°,EduMax,98,8,90
+2025-09-11,10,Primaria 4°,TopKids,128,15,113
+2025-09-11,10,Primaria 5°,EduMax,148,7,141
+2025-09-11,10,Primaria 6°,SuperSchool,134,17,117
+2025-09-11,11,Preescolar,EduMax,132,13,119
+2025-09-11,11,Kínder,SuperSchool,78,19,59
+2025-09-11,11,Primaria 1°,TopKids,92,6,86
+2025-09-11,11,Primaria 2°,EduMax,110,15,95
+2025-09-11,11,Primaria 3°,SuperSchool,69,7,62
+2025-09-11,11,Primaria 4°,TopKids,73,15,58
+2025-09-11,11,Primaria 5°,EduMax,147,11,136
+2025-09-11,11,Primaria 6°,SuperSchool,112,15,97
+2025-09-11,12,Preescolar,SuperSchool,100,9,91
+2025-09-11,12,Kínder,EduMax,53,10,43
+2025-09-11,12,Primaria 1°,SuperSchool,91,8,83
+2025-09-11,12,Primaria 2°,EduMax,74,18,56
+2025-09-11,12,Primaria 3°,TopKids,81,15,66
+2025-09-11,12,Primaria 4°,SuperSchool,67,15,52
+2025-09-11,12,Primaria 5°,TopKids,103,6,97
+2025-09-11,12,Primaria 6°,TopKids,124,9,115
+2025-09-11,13,Preescolar,SuperSchool,136,13,123
+2025-09-11,13,Kínder,TopKids,138,13,125
+2025-09-11,13,Primaria 1°,EduMax,123,10,113
+2025-09-11,13,Primaria 2°,TopKids,114,11,103
+2025-09-11,13,Primaria 3°,SuperSchool,64,12,52
+2025-09-11,13,Primaria 4°,EduMax,135,6,129
+2025-09-11,13,Primaria 5°,TopKids,130,17,113
+2025-09-11,13,Primaria 6°,EduMax,63,6,57
+2025-09-11,14,Preescolar,EduMax,82,11,71
+2025-09-11,14,Kínder,TopKids,92,19,73
+2025-09-11,14,Primaria 1°,EduMax,69,18,51
+2025-09-11,14,Primaria 2°,EduMax,52,16,36
+2025-09-11,14,Primaria 3°,EduMax,143,17,126
+2025-09-11,14,Primaria 4°,SuperSchool,115,9,106
+2025-09-11,14,Primaria 5°,SuperSchool,115,8,107
+2025-09-11,14,Primaria 6°,EduMax,75,15,60
+2025-09-11,15,Preescolar,TopKids,71,8,63
+2025-09-11,15,Kínder,SuperSchool,89,14,75
+2025-09-11,15,Primaria 1°,EduMax,130,8,122
+2025-09-11,15,Primaria 2°,TopKids,65,18,47
+2025-09-11,15,Primaria 3°,EduMax,56,17,39
+2025-09-11,15,Primaria 4°,TopKids,105,15,90
+2025-09-11,15,Primaria 5°,SuperSchool,136,12,124
+2025-09-11,15,Primaria 6°,TopKids,122,7,115
+2025-09-11,16,Preescolar,TopKids,133,9,124
+2025-09-11,16,Kínder,EduMax,130,19,111
+2025-09-11,16,Primaria 1°,TopKids,106,12,94
+2025-09-11,16,Primaria 2°,TopKids,144,9,135
+2025-09-11,16,Primaria 3°,EduMax,69,16,53
+2025-09-11,16,Primaria 4°,TopKids,102,11,91
+2025-09-11,16,Primaria 5°,SuperSchool,66,14,52
+2025-09-11,16,Primaria 6°,EduMax,78,7,71
+2025-09-12,9,Preescolar,EduMax,60,6,54
+2025-09-12,9,Kínder,EduMax,120,16,104
+2025-09-12,9,Primaria 1°,EduMax,83,15,68
+2025-09-12,9,Primaria 2°,EduMax,137,14,123
+2025-09-12,9,Primaria 3°,TopKids,133,7,126
+2025-09-12,9,Primaria 4°,SuperSchool,89,12,77
+2025-09-12,9,Primaria 5°,TopKids,60,18,42
+2025-09-12,9,Primaria 6°,SuperSchool,143,12,131
+2025-09-12,10,Preescolar,EduMax,88,16,72
+2025-09-12,10,Kínder,SuperSchool,85,17,68
+2025-09-12,10,Primaria 1°,SuperSchool,145,8,137
+2025-09-12,10,Primaria 2°,SuperSchool,75,10,65
+2025-09-12,10,Primaria 3°,TopKids,131,10,121
+2025-09-12,10,Primaria 4°,TopKids,137,19,118
+2025-09-12,10,Primaria 5°,TopKids,71,6,65
+2025-09-12,10,Primaria 6°,TopKids,60,16,44
+2025-09-12,11,Preescolar,EduMax,145,18,127
+2025-09-12,11,Kínder,SuperSchool,113,10,103
+2025-09-12,11,Primaria 1°,EduMax,89,18,71
+2025-09-12,11,Primaria 2°,TopKids,93,16,77
+2025-09-12,11,Primaria 3°,EduMax,136,5,131
+2025-09-12,11,Primaria 4°,SuperSchool,144,19,125
+2025-09-12,11,Primaria 5°,EduMax,106,11,95
+2025-09-12,11,Primaria 6°,EduMax,102,12,90
+2025-09-12,12,Preescolar,EduMax,58,10,48
+2025-09-12,12,Kínder,SuperSchool,138,6,132
+2025-09-12,12,Primaria 1°,TopKids,125,12,113
+2025-09-12,12,Primaria 2°,SuperSchool,64,14,50
+2025-09-12,12,Primaria 3°,TopKids,128,19,109
+2025-09-12,12,Primaria 4°,TopKids,88,17,71
+2025-09-12,12,Primaria 5°,SuperSchool,81,13,68
+2025-09-12,12,Primaria 6°,EduMax,140,9,131
+2025-09-12,13,Preescolar,EduMax,126,13,113
+2025-09-12,13,Kínder,TopKids,125,16,109
+2025-09-12,13,Primaria 1°,EduMax,132,16,116
+2025-09-12,13,Primaria 2°,TopKids,148,6,142
+2025-09-12,13,Primaria 3°,TopKids,88,8,80
+2025-09-12,13,Primaria 4°,TopKids,138,18,120
+2025-09-12,13,Primaria 5°,SuperSchool,130,5,125
+2025-09-12,13,Primaria 6°,SuperSchool,55,7,48
+2025-09-12,14,Preescolar,SuperSchool,109,14,95
+2025-09-12,14,Kínder,EduMax,144,10,134
+2025-09-12,14,Primaria 1°,TopKids,121,13,108
+2025-09-12,14,Primaria 2°,SuperSchool,81,15,66
+2025-09-12,14,Primaria 3°,EduMax,112,10,102
+2025-09-12,14,Primaria 4°,SuperSchool,143,7,136
+2025-09-12,14,Primaria 5°,TopKids,147,10,137
+2025-09-12,14,Primaria 6°,SuperSchool,87,12,75
+2025-09-12,15,Preescolar,TopKids,121,18,103
+2025-09-12,15,Kínder,SuperSchool,55,18,37
+2025-09-12,15,Primaria 1°,TopKids,59,7,52
+2025-09-12,15,Primaria 2°,TopKids,125,5,120
+2025-09-12,15,Primaria 3°,TopKids,80,17,63
+2025-09-12,15,Primaria 4°,TopKids,118,18,100
+2025-09-12,15,Primaria 5°,SuperSchool,90,19,71
+2025-09-12,15,Primaria 6°,EduMax,134,14,120
+2025-09-12,16,Preescolar,TopKids,71,8,63
+2025-09-12,16,Kínder,SuperSchool,94,19,75
+2025-09-12,16,Primaria 1°,EduMax,98,8,90
+2025-09-12,16,Primaria 2°,SuperSchool,130,10,120
+2025-09-12,16,Primaria 3°,SuperSchool,50,19,31
+2025-09-12,16,Primaria 4°,SuperSchool,66,12,54
+2025-09-12,16,Primaria 5°,EduMax,121,6,115
+2025-09-12,16,Primaria 6°,TopKids,72,18,54
+2025-09-15,9,Preescolar,TopKids,139,19,120
+2025-09-15,9,Kínder,TopKids,62,11,51
+2025-09-15,9,Primaria 1°,SuperSchool,77,13,64
+2025-09-15,9,Primaria 2°,SuperSchool,65,11,54
+2025-09-15,9,Primaria 3°,EduMax,131,19,112
+2025-09-15,9,Primaria 4°,SuperSchool,79,11,68
+2025-09-15,9,Primaria 5°,SuperSchool,145,6,139
+2025-09-15,9,Primaria 6°,SuperSchool,143,6,137
+2025-09-15,10,Preescolar,SuperSchool,92,9,83
+2025-09-15,10,Kínder,EduMax,70,11,59
+2025-09-15,10,Primaria 1°,SuperSchool,89,7,82
+2025-09-15,10,Primaria 2°,TopKids,122,8,114
+2025-09-15,10,Primaria 3°,EduMax,144,9,135
+2025-09-15,10,Primaria 4°,TopKids,101,18,83
+2025-09-15,10,Primaria 5°,SuperSchool,106,8,98
+2025-09-15,10,Primaria 6°,SuperSchool,103,19,84
+2025-09-15,11,Preescolar,SuperSchool,93,7,86
+2025-09-15,11,Kínder,TopKids,147,13,134
+2025-09-15,11,Primaria 1°,TopKids,61,5,56
+2025-09-15,11,Primaria 2°,SuperSchool,127,13,114
+2025-09-15,11,Primaria 3°,SuperSchool,57,12,45
+2025-09-15,11,Primaria 4°,TopKids,111,16,95
+2025-09-15,11,Primaria 5°,SuperSchool,91,18,73
+2025-09-15,11,Primaria 6°,TopKids,60,11,49
+2025-09-15,12,Preescolar,TopKids,144,5,139
+2025-09-15,12,Kínder,SuperSchool,81,14,67
+2025-09-15,12,Primaria 1°,SuperSchool,134,9,125
+2025-09-15,12,Primaria 2°,TopKids,105,10,95
+2025-09-15,12,Primaria 3°,EduMax,99,10,89
+2025-09-15,12,Primaria 4°,SuperSchool,113,7,106
+2025-09-15,12,Primaria 5°,EduMax,121,13,108
+2025-09-15,12,Primaria 6°,SuperSchool,148,7,141
+2025-09-15,13,Preescolar,TopKids,137,5,132
+2025-09-15,13,Kínder,SuperSchool,115,19,96
+2025-09-15,13,Primaria 1°,TopKids,77,15,62
+2025-09-15,13,Primaria 2°,SuperSchool,55,7,48
+2025-09-15,13,Primaria 3°,EduMax,77,6,71
+2025-09-15,13,Primaria 4°,EduMax,86,7,79
+2025-09-15,13,Primaria 5°,EduMax,139,5,134
+2025-09-15,13,Primaria 6°,TopKids,85,14,71
+2025-09-15,14,Preescolar,SuperSchool,101,14,87
+2025-09-15,14,Kínder,SuperSchool,149,11,138
+2025-09-15,14,Primaria 1°,EduMax,132,14,118
+2025-09-15,14,Primaria 2°,TopKids,105,15,90
+2025-09-15,14,Primaria 3°,SuperSchool,91,6,85
+2025-09-15,14,Primaria 4°,SuperSchool,112,16,96
+2025-09-15,14,Primaria 5°,EduMax,53,10,43
+2025-09-15,14,Primaria 6°,TopKids,58,19,39
+2025-09-15,15,Preescolar,TopKids,137,11,126
+2025-09-15,15,Kínder,EduMax,74,19,55
+2025-09-15,15,Primaria 1°,EduMax,116,14,102
+2025-09-15,15,Primaria 2°,EduMax,122,14,108
+2025-09-15,15,Primaria 3°,EduMax,132,7,125
+2025-09-15,15,Primaria 4°,SuperSchool,116,14,102
+2025-09-15,15,Primaria 5°,TopKids,129,5,124
+2025-09-15,15,Primaria 6°,TopKids,84,16,68
+2025-09-15,16,Preescolar,SuperSchool,102,16,86
+2025-09-15,16,Kínder,EduMax,96,6,90
+2025-09-15,16,Primaria 1°,TopKids,144,6,138
+2025-09-15,16,Primaria 2°,TopKids,53,11,42
+2025-09-15,16,Primaria 3°,TopKids,50,10,40
+2025-09-15,16,Primaria 4°,SuperSchool,115,18,97
+2025-09-15,16,Primaria 5°,TopKids,70,13,57
+2025-09-15,16,Primaria 6°,SuperSchool,135,9,126
+2025-09-16,9,Preescolar,EduMax,146,8,138
+2025-09-16,9,Kínder,EduMax,64,14,50
+2025-09-16,9,Primaria 1°,EduMax,101,19,82
+2025-09-16,9,Primaria 2°,EduMax,74,9,65
+2025-09-16,9,Primaria 3°,SuperSchool,54,10,44
+2025-09-16,9,Primaria 4°,SuperSchool,96,11,85
+2025-09-16,9,Primaria 5°,TopKids,67,9,58
+2025-09-16,9,Primaria 6°,TopKids,135,12,123
+2025-09-16,10,Preescolar,TopKids,113,7,106
+2025-09-16,10,Kínder,EduMax,59,13,46
+2025-09-16,10,Primaria 1°,SuperSchool,121,11,110
+2025-09-16,10,Primaria 2°,TopKids,110,9,101
+2025-09-16,10,Primaria 3°,EduMax,102,11,91
+2025-09-16,10,Primaria 4°,SuperSchool,105,15,90
+2025-09-16,10,Primaria 5°,SuperSchool,142,9,133
+2025-09-16,10,Primaria 6°,SuperSchool,108,6,102
+2025-09-16,11,Preescolar,SuperSchool,109,7,102
+2025-09-16,11,Kínder,EduMax,60,16,44
+2025-09-16,11,Primaria 1°,TopKids,139,17,122
+2025-09-16,11,Primaria 2°,TopKids,121,19,102
+2025-09-16,11,Primaria 3°,SuperSchool,103,16,87
+2025-09-16,11,Primaria 4°,EduMax,143,13,130
+2025-09-16,11,Primaria 5°,TopKids,144,14,130
+2025-09-16,11,Primaria 6°,SuperSchool,105,19,86
+2025-09-16,12,Preescolar,EduMax,80,8,72
+2025-09-16,12,Kínder,SuperSchool,125,5,120
+2025-09-16,12,Primaria 1°,TopKids,71,12,59
+2025-09-16,12,Primaria 2°,SuperSchool,50,5,45
+2025-09-16,12,Primaria 3°,SuperSchool,112,14,98
+2025-09-16,12,Primaria 4°,EduMax,91,9,82
+2025-09-16,12,Primaria 5°,TopKids,130,10,120
+2025-09-16,12,Primaria 6°,EduMax,148,17,131
+2025-09-16,13,Preescolar,EduMax,96,5,91
+2025-09-16,13,Kínder,SuperSchool,139,17,122
+2025-09-16,13,Primaria 1°,SuperSchool,87,5,82
+2025-09-16,13,Primaria 2°,EduMax,94,10,84
+2025-09-16,13,Primaria 3°,TopKids,63,19,44
+2025-09-16,13,Primaria 4°,SuperSchool,64,10,54
+2025-09-16,13,Primaria 5°,SuperSchool,76,17,59
+2025-09-16,13,Primaria 6°,SuperSchool,80,9,71
+2025-09-16,14,Preescolar,TopKids,109,10,99
+2025-09-16,14,Kínder,SuperSchool,135,14,121
+2025-09-16,14,Primaria 1°,SuperSchool,72,13,59
+2025-09-16,14,Primaria 2°,EduMax,75,19,56
+2025-09-16,14,Primaria 3°,SuperSchool,139,8,131
+2025-09-16,14,Primaria 4°,EduMax,119,15,104
+2025-09-16,14,Primaria 5°,EduMax,67,8,59
+2025-09-16,14,Primaria 6°,SuperSchool,63,18,45
+2025-09-16,15,Preescolar,SuperSchool,56,16,40
+2025-09-16,15,Kínder,TopKids,64,7,57
+2025-09-16,15,Primaria 1°,TopKids,84,5,79
+2025-09-16,15,Primaria 2°,TopKids,68,8,60
+2025-09-16,15,Primaria 3°,TopKids,81,14,67
+2025-09-16,15,Primaria 4°,SuperSchool,66,11,55
+2025-09-16,15,Primaria 5°,TopKids,99,5,94
+2025-09-16,15,Primaria 6°,TopKids,81,8,73
+2025-09-16,16,Preescolar,SuperSchool,119,14,105
+2025-09-16,16,Kínder,EduMax,86,19,67
+2025-09-16,16,Primaria 1°,TopKids,117,12,105
+2025-09-16,16,Primaria 2°,TopKids,129,16,113
+2025-09-16,16,Primaria 3°,EduMax,53,17,36
+2025-09-16,16,Primaria 4°,EduMax,77,17,60
+2025-09-16,16,Primaria 5°,EduMax,80,7,73
+2025-09-16,16,Primaria 6°,EduMax,57,12,45
+2025-09-17,9,Preescolar,TopKids,92,19,73
+2025-09-17,9,Kínder,SuperSchool,94,6,88
+2025-09-17,9,Primaria 1°,TopKids,106,7,99
+2025-09-17,9,Primaria 2°,EduMax,123,10,113
+2025-09-17,9,Primaria 3°,EduMax,118,9,109
+2025-09-17,9,Primaria 4°,SuperSchool,88,16,72
+2025-09-17,9,Primaria 5°,EduMax,92,18,74
+2025-09-17,9,Primaria 6°,SuperSchool,72,9,63
+2025-09-17,10,Preescolar,EduMax,55,12,43
+2025-09-17,10,Kínder,EduMax,53,17,36
+2025-09-17,10,Primaria 1°,TopKids,55,14,41
+2025-09-17,10,Primaria 2°,EduMax,64,12,52
+2025-09-17,10,Primaria 3°,EduMax,145,13,132
+2025-09-17,10,Primaria 4°,SuperSchool,123,8,115
+2025-09-17,10,Primaria 5°,EduMax,112,7,105
+2025-09-17,10,Primaria 6°,EduMax,60,15,45
+2025-09-17,11,Preescolar,SuperSchool,145,8,137
+2025-09-17,11,Kínder,TopKids,117,5,112
+2025-09-17,11,Primaria 1°,SuperSchool,132,9,123
+2025-09-17,11,Primaria 2°,EduMax,119,7,112
+2025-09-17,11,Primaria 3°,EduMax,114,8,106
+2025-09-17,11,Primaria 4°,EduMax,60,17,43
+2025-09-17,11,Primaria 5°,TopKids,52,13,39
+2025-09-17,11,Primaria 6°,TopKids,63,5,58
+2025-09-17,12,Preescolar,EduMax,122,11,111
+2025-09-17,12,Kínder,EduMax,132,17,115
+2025-09-17,12,Primaria 1°,TopKids,118,19,99
+2025-09-17,12,Primaria 2°,TopKids,79,13,66
+2025-09-17,12,Primaria 3°,EduMax,74,14,60
+2025-09-17,12,Primaria 4°,EduMax,107,18,89
+2025-09-17,12,Primaria 5°,TopKids,90,13,77
+2025-09-17,12,Primaria 6°,EduMax,148,8,140
+2025-09-17,13,Preescolar,EduMax,59,7,52
+2025-09-17,13,Kínder,TopKids,60,9,51
+2025-09-17,13,Primaria 1°,SuperSchool,135,17,118
+2025-09-17,13,Primaria 2°,TopKids,130,18,112
+2025-09-17,13,Primaria 3°,EduMax,125,13,112
+2025-09-17,13,Primaria 4°,EduMax,131,10,121
+2025-09-17,13,Primaria 5°,TopKids,124,5,119
+2025-09-17,13,Primaria 6°,TopKids,67,7,60
+2025-09-17,14,Preescolar,SuperSchool,108,14,94
+2025-09-17,14,Kínder,EduMax,106,16,90
+2025-09-17,14,Primaria 1°,TopKids,96,19,77
+2025-09-17,14,Primaria 2°,EduMax,125,16,109
+2025-09-17,14,Primaria 3°,SuperSchool,53,11,42
+2025-09-17,14,Primaria 4°,EduMax,51,14,37
+2025-09-17,14,Primaria 5°,TopKids,76,15,61
+2025-09-17,14,Primaria 6°,TopKids,121,11,110
+2025-09-17,15,Preescolar,TopKids,95,19,76
+2025-09-17,15,Kínder,SuperSchool,92,5,87
+2025-09-17,15,Primaria 1°,TopKids,130,12,118
+2025-09-17,15,Primaria 2°,SuperSchool,57,9,48
+2025-09-17,15,Primaria 3°,EduMax,129,8,121
+2025-09-17,15,Primaria 4°,EduMax,142,19,123
+2025-09-17,15,Primaria 5°,SuperSchool,79,11,68
+2025-09-17,15,Primaria 6°,EduMax,123,11,112
+2025-09-17,16,Preescolar,SuperSchool,101,16,85
+2025-09-17,16,Kínder,SuperSchool,86,17,69
+2025-09-17,16,Primaria 1°,TopKids,64,8,56
+2025-09-17,16,Primaria 2°,TopKids,95,8,87
+2025-09-17,16,Primaria 3°,TopKids,126,14,112
+2025-09-17,16,Primaria 4°,SuperSchool,113,9,104
+2025-09-17,16,Primaria 5°,TopKids,104,8,96
+2025-09-17,16,Primaria 6°,SuperSchool,69,13,56
+2025-09-18,9,Preescolar,EduMax,112,8,104
+2025-09-18,9,Kínder,EduMax,71,6,65
+2025-09-18,9,Primaria 1°,SuperSchool,103,8,95
+2025-09-18,9,Primaria 2°,EduMax,94,7,87
+2025-09-18,9,Primaria 3°,TopKids,83,17,66
+2025-09-18,9,Primaria 4°,TopKids,111,10,101
+2025-09-18,9,Primaria 5°,SuperSchool,149,10,139
+2025-09-18,9,Primaria 6°,TopKids,85,13,72
+2025-09-18,10,Preescolar,TopKids,68,10,58
+2025-09-18,10,Kínder,EduMax,128,13,115
+2025-09-18,10,Primaria 1°,SuperSchool,81,8,73
+2025-09-18,10,Primaria 2°,EduMax,131,9,122
+2025-09-18,10,Primaria 3°,TopKids,124,9,115
+2025-09-18,10,Primaria 4°,EduMax,107,8,99
+2025-09-18,10,Primaria 5°,SuperSchool,93,6,87
+2025-09-18,10,Primaria 6°,SuperSchool,91,13,78
+2025-09-18,11,Preescolar,EduMax,144,11,133
+2025-09-18,11,Kínder,TopKids,143,19,124
+2025-09-18,11,Primaria 1°,TopKids,106,9,97
+2025-09-18,11,Primaria 2°,SuperSchool,80,7,73
+2025-09-18,11,Primaria 3°,TopKids,102,6,96
+2025-09-18,11,Primaria 4°,TopKids,59,6,53
+2025-09-18,11,Primaria 5°,EduMax,109,12,97
+2025-09-18,11,Primaria 6°,SuperSchool,145,18,127
+2025-09-18,12,Preescolar,TopKids,80,15,65
+2025-09-18,12,Kínder,SuperSchool,60,11,49
+2025-09-18,12,Primaria 1°,SuperSchool,53,11,42
+2025-09-18,12,Primaria 2°,EduMax,99,16,83
+2025-09-18,12,Primaria 3°,TopKids,130,5,125
+2025-09-18,12,Primaria 4°,TopKids,141,5,136
+2025-09-18,12,Primaria 5°,TopKids,141,9,132
+2025-09-18,12,Primaria 6°,EduMax,120,6,114
+2025-09-18,13,Preescolar,EduMax,73,8,65
+2025-09-18,13,Kínder,TopKids,75,15,60
+2025-09-18,13,Primaria 1°,EduMax,92,15,77
+2025-09-18,13,Primaria 2°,SuperSchool,116,16,100
+2025-09-18,13,Primaria 3°,TopKids,76,5,71
+2025-09-18,13,Primaria 4°,EduMax,115,5,110
+2025-09-18,13,Primaria 5°,EduMax,109,10,99
+2025-09-18,13,Primaria 6°,EduMax,133,10,123
+2025-09-18,14,Preescolar,SuperSchool,145,17,128
+2025-09-18,14,Kínder,EduMax,109,14,95
+2025-09-18,14,Primaria 1°,SuperSchool,126,12,114
+2025-09-18,14,Primaria 2°,SuperSchool,91,19,72
+2025-09-18,14,Primaria 3°,SuperSchool,129,17,112
+2025-09-18,14,Primaria 4°,EduMax,106,8,98
+2025-09-18,14,Primaria 5°,EduMax,76,13,63
+2025-09-18,14,Primaria 6°,EduMax,81,14,67
+2025-09-18,15,Preescolar,SuperSchool,115,16,99
+2025-09-18,15,Kínder,SuperSchool,125,14,111
+2025-09-18,15,Primaria 1°,SuperSchool,59,13,46
+2025-09-18,15,Primaria 2°,EduMax,97,8,89
+2025-09-18,15,Primaria 3°,TopKids,109,6,103
+2025-09-18,15,Primaria 4°,SuperSchool,100,16,84
+2025-09-18,15,Primaria 5°,EduMax,76,6,70
+2025-09-18,15,Primaria 6°,TopKids,106,18,88
+2025-09-18,16,Preescolar,EduMax,78,19,59
+2025-09-18,16,Kínder,SuperSchool,77,8,69
+2025-09-18,16,Primaria 1°,SuperSchool,73,9,64
+2025-09-18,16,Primaria 2°,EduMax,127,9,118
+2025-09-18,16,Primaria 3°,EduMax,137,18,119
+2025-09-18,16,Primaria 4°,EduMax,107,16,91
+2025-09-18,16,Primaria 5°,EduMax,119,8,111
+2025-09-18,16,Primaria 6°,SuperSchool,85,10,75
+2025-09-19,9,Preescolar,EduMax,129,17,112
+2025-09-19,9,Kínder,SuperSchool,145,5,140
+2025-09-19,9,Primaria 1°,SuperSchool,85,8,77
+2025-09-19,9,Primaria 2°,EduMax,87,7,80
+2025-09-19,9,Primaria 3°,TopKids,145,17,128
+2025-09-19,9,Primaria 4°,TopKids,65,15,50
+2025-09-19,9,Primaria 5°,SuperSchool,117,9,108
+2025-09-19,9,Primaria 6°,TopKids,127,11,116
+2025-09-19,10,Preescolar,TopKids,127,10,117
+2025-09-19,10,Kínder,SuperSchool,136,18,118
+2025-09-19,10,Primaria 1°,SuperSchool,120,18,102
+2025-09-19,10,Primaria 2°,TopKids,93,5,88
+2025-09-19,10,Primaria 3°,SuperSchool,103,19,84
+2025-09-19,10,Primaria 4°,EduMax,54,17,37
+2025-09-19,10,Primaria 5°,TopKids,136,12,124
+2025-09-19,10,Primaria 6°,TopKids,127,19,108
+2025-09-19,11,Preescolar,TopKids,146,9,137
+2025-09-19,11,Kínder,TopKids,148,5,143
+2025-09-19,11,Primaria 1°,TopKids,103,18,85
+2025-09-19,11,Primaria 2°,TopKids,81,12,69
+2025-09-19,11,Primaria 3°,SuperSchool,133,7,126
+2025-09-19,11,Primaria 4°,SuperSchool,122,17,105
+2025-09-19,11,Primaria 5°,EduMax,74,19,55
+2025-09-19,11,Primaria 6°,EduMax,115,17,98
+2025-09-19,12,Preescolar,SuperSchool,140,13,127
+2025-09-19,12,Kínder,TopKids,50,8,42
+2025-09-19,12,Primaria 1°,TopKids,145,15,130
+2025-09-19,12,Primaria 2°,TopKids,103,12,91
+2025-09-19,12,Primaria 3°,TopKids,78,10,68
+2025-09-19,12,Primaria 4°,EduMax,65,7,58
+2025-09-19,12,Primaria 5°,EduMax,116,5,111
+2025-09-19,12,Primaria 6°,TopKids,107,9,98
+2025-09-19,13,Preescolar,TopKids,50,5,45
+2025-09-19,13,Kínder,EduMax,78,8,70
+2025-09-19,13,Primaria 1°,EduMax,57,17,40
+2025-09-19,13,Primaria 2°,TopKids,82,7,75
+2025-09-19,13,Primaria 3°,TopKids,118,15,103
+2025-09-19,13,Primaria 4°,SuperSchool,69,13,56
+2025-09-19,13,Primaria 5°,TopKids,53,7,46
+2025-09-19,13,Primaria 6°,EduMax,68,10,58
+2025-09-19,14,Preescolar,TopKids,94,15,79
+2025-09-19,14,Kínder,SuperSchool,62,16,46
+2025-09-19,14,Primaria 1°,SuperSchool,135,16,119
+2025-09-19,14,Primaria 2°,TopKids,102,17,85
+2025-09-19,14,Primaria 3°,EduMax,92,7,85
+2025-09-19,14,Primaria 4°,EduMax,139,7,132
+2025-09-19,14,Primaria 5°,EduMax,72,15,57
+2025-09-19,14,Primaria 6°,SuperSchool,77,13,64
+2025-09-19,15,Preescolar,TopKids,88,7,81
+2025-09-19,15,Kínder,TopKids,144,11,133
+2025-09-19,15,Primaria 1°,EduMax,60,14,46
+2025-09-19,15,Primaria 2°,EduMax,76,15,61
+2025-09-19,15,Primaria 3°,EduMax,147,15,132
+2025-09-19,15,Primaria 4°,TopKids,113,10,103
+2025-09-19,15,Primaria 5°,EduMax,91,16,75
+2025-09-19,15,Primaria 6°,SuperSchool,148,12,136
+2025-09-19,16,Preescolar,TopKids,101,10,91
+2025-09-19,16,Kínder,TopKids,56,15,41
+2025-09-19,16,Primaria 1°,TopKids,110,8,102
+2025-09-19,16,Primaria 2°,SuperSchool,61,14,47
+2025-09-19,16,Primaria 3°,EduMax,61,15,46
+2025-09-19,16,Primaria 4°,TopKids,86,18,68
+2025-09-19,16,Primaria 5°,SuperSchool,137,13,124
+2025-09-19,16,Primaria 6°,SuperSchool,138,17,121
+2025-09-22,9,Preescolar,EduMax,103,13,90
+2025-09-22,9,Kínder,EduMax,53,15,38
+2025-09-22,9,Primaria 1°,SuperSchool,56,18,38
+2025-09-22,9,Primaria 2°,EduMax,60,16,44
+2025-09-22,9,Primaria 3°,EduMax,136,17,119
+2025-09-22,9,Primaria 4°,TopKids,77,15,62
+2025-09-22,9,Primaria 5°,TopKids,106,14,92
+2025-09-22,9,Primaria 6°,SuperSchool,103,17,86
+2025-09-22,10,Preescolar,TopKids,146,8,138
+2025-09-22,10,Kínder,EduMax,127,7,120
+2025-09-22,10,Primaria 1°,EduMax,141,5,136
+2025-09-22,10,Primaria 2°,TopKids,129,18,111
+2025-09-22,10,Primaria 3°,EduMax,142,17,125
+2025-09-22,10,Primaria 4°,TopKids,138,7,131
+2025-09-22,10,Primaria 5°,EduMax,96,9,87
+2025-09-22,10,Primaria 6°,EduMax,87,11,76
+2025-09-22,11,Preescolar,SuperSchool,56,10,46
+2025-09-22,11,Kínder,SuperSchool,131,5,126
+2025-09-22,11,Primaria 1°,SuperSchool,123,14,109
+2025-09-22,11,Primaria 2°,SuperSchool,56,17,39
+2025-09-22,11,Primaria 3°,EduMax,140,8,132
+2025-09-22,11,Primaria 4°,SuperSchool,50,16,34
+2025-09-22,11,Primaria 5°,SuperSchool,109,6,103
+2025-09-22,11,Primaria 6°,SuperSchool,53,15,38
+2025-09-22,12,Preescolar,EduMax,139,8,131
+2025-09-22,12,Kínder,SuperSchool,120,18,102
+2025-09-22,12,Primaria 1°,EduMax,122,17,105
+2025-09-22,12,Primaria 2°,TopKids,57,17,40
+2025-09-22,12,Primaria 3°,TopKids,85,6,79
+2025-09-22,12,Primaria 4°,TopKids,92,15,77
+2025-09-22,12,Primaria 5°,EduMax,67,16,51
+2025-09-22,12,Primaria 6°,SuperSchool,65,7,58
+2025-09-22,13,Preescolar,TopKids,108,19,89
+2025-09-22,13,Kínder,SuperSchool,66,11,55
+2025-09-22,13,Primaria 1°,EduMax,139,11,128
+2025-09-22,13,Primaria 2°,SuperSchool,53,18,35
+2025-09-22,13,Primaria 3°,EduMax,71,15,56
+2025-09-22,13,Primaria 4°,EduMax,61,18,43
+2025-09-22,13,Primaria 5°,EduMax,139,9,130
+2025-09-22,13,Primaria 6°,TopKids,120,17,103
+2025-09-22,14,Preescolar,SuperSchool,107,14,93
+2025-09-22,14,Kínder,TopKids,139,17,122
+2025-09-22,14,Primaria 1°,EduMax,119,16,103
+2025-09-22,14,Primaria 2°,EduMax,68,9,59
+2025-09-22,14,Primaria 3°,EduMax,144,18,126
+2025-09-22,14,Primaria 4°,SuperSchool,79,13,66
+2025-09-22,14,Primaria 5°,EduMax,82,14,68
+2025-09-22,14,Primaria 6°,SuperSchool,61,10,51
+2025-09-22,15,Preescolar,EduMax,76,11,65
+2025-09-22,15,Kínder,SuperSchool,70,16,54
+2025-09-22,15,Primaria 1°,TopKids,78,5,73
+2025-09-22,15,Primaria 2°,TopKids,111,9,102
+2025-09-22,15,Primaria 3°,TopKids,51,8,43
+2025-09-22,15,Primaria 4°,TopKids,93,10,83
+2025-09-22,15,Primaria 5°,EduMax,52,11,41
+2025-09-22,15,Primaria 6°,TopKids,131,16,115
+2025-09-22,16,Preescolar,EduMax,86,14,72
+2025-09-22,16,Kínder,SuperSchool,108,19,89
+2025-09-22,16,Primaria 1°,EduMax,60,8,52
+2025-09-22,16,Primaria 2°,TopKids,131,8,123
+2025-09-22,16,Primaria 3°,SuperSchool,147,17,130
+2025-09-22,16,Primaria 4°,EduMax,115,16,99
+2025-09-22,16,Primaria 5°,TopKids,55,14,41
+2025-09-22,16,Primaria 6°,SuperSchool,106,9,97
+2025-09-23,9,Preescolar,TopKids,65,19,46
+2025-09-23,9,Kínder,EduMax,88,16,72
+2025-09-23,9,Primaria 1°,TopKids,98,13,85
+2025-09-23,9,Primaria 2°,EduMax,94,10,84
+2025-09-23,9,Primaria 3°,SuperSchool,136,9,127
+2025-09-23,9,Primaria 4°,EduMax,102,15,87
+2025-09-23,9,Primaria 5°,EduMax,88,14,74
+2025-09-23,9,Primaria 6°,TopKids,120,17,103
+2025-09-23,10,Preescolar,TopKids,52,7,45
+2025-09-23,10,Kínder,EduMax,141,17,124
+2025-09-23,10,Primaria 1°,TopKids,84,10,74
+2025-09-23,10,Primaria 2°,TopKids,87,17,70
+2025-09-23,10,Primaria 3°,SuperSchool,68,7,61
+2025-09-23,10,Primaria 4°,TopKids,133,19,114
+2025-09-23,10,Primaria 5°,TopKids,134,7,127
+2025-09-23,10,Primaria 6°,SuperSchool,57,11,46
+2025-09-23,11,Preescolar,SuperSchool,116,13,103
+2025-09-23,11,Kínder,EduMax,126,9,117
+2025-09-23,11,Primaria 1°,SuperSchool,120,19,101
+2025-09-23,11,Primaria 2°,TopKids,147,13,134
+2025-09-23,11,Primaria 3°,EduMax,73,5,68
+2025-09-23,11,Primaria 4°,SuperSchool,93,5,88
+2025-09-23,11,Primaria 5°,EduMax,129,18,111
+2025-09-23,11,Primaria 6°,SuperSchool,138,6,132
+2025-09-23,12,Preescolar,SuperSchool,130,16,114
+2025-09-23,12,Kínder,EduMax,127,13,114
+2025-09-23,12,Primaria 1°,SuperSchool,72,15,57
+2025-09-23,12,Primaria 2°,EduMax,118,15,103
+2025-09-23,12,Primaria 3°,SuperSchool,67,18,49
+2025-09-23,12,Primaria 4°,SuperSchool,92,18,74
+2025-09-23,12,Primaria 5°,EduMax,108,16,92
+2025-09-23,12,Primaria 6°,TopKids,106,16,90
+2025-09-23,13,Preescolar,TopKids,105,15,90
+2025-09-23,13,Kínder,TopKids,58,12,46
+2025-09-23,13,Primaria 1°,SuperSchool,117,18,99
+2025-09-23,13,Primaria 2°,SuperSchool,147,7,140
+2025-09-23,13,Primaria 3°,EduMax,57,10,47
+2025-09-23,13,Primaria 4°,TopKids,143,17,126
+2025-09-23,13,Primaria 5°,SuperSchool,118,13,105
+2025-09-23,13,Primaria 6°,EduMax,131,19,112
+2025-09-23,14,Preescolar,EduMax,115,14,101
+2025-09-23,14,Kínder,TopKids,94,6,88
+2025-09-23,14,Primaria 1°,TopKids,112,16,96
+2025-09-23,14,Primaria 2°,TopKids,126,6,120
+2025-09-23,14,Primaria 3°,TopKids,104,15,89
+2025-09-23,14,Primaria 4°,TopKids,84,11,73
+2025-09-23,14,Primaria 5°,SuperSchool,75,18,57
+2025-09-23,14,Primaria 6°,EduMax,94,16,78
+2025-09-23,15,Preescolar,SuperSchool,114,7,107
+2025-09-23,15,Kínder,TopKids,135,11,124
+2025-09-23,15,Primaria 1°,EduMax,68,6,62
+2025-09-23,15,Primaria 2°,TopKids,141,16,125
+2025-09-23,15,Primaria 3°,TopKids,82,7,75
+2025-09-23,15,Primaria 4°,TopKids,101,17,84
+2025-09-23,15,Primaria 5°,EduMax,98,9,89
+2025-09-23,15,Primaria 6°,EduMax,148,6,142
+2025-09-23,16,Preescolar,TopKids,148,12,136
+2025-09-23,16,Kínder,EduMax,126,18,108
+2025-09-23,16,Primaria 1°,TopKids,103,10,93
+2025-09-23,16,Primaria 2°,TopKids,109,17,92
+2025-09-23,16,Primaria 3°,EduMax,121,16,105
+2025-09-23,16,Primaria 4°,TopKids,135,9,126
+2025-09-23,16,Primaria 5°,EduMax,134,13,121
+2025-09-23,16,Primaria 6°,SuperSchool,114,10,104
+2025-09-24,9,Preescolar,TopKids,113,11,102
+2025-09-24,9,Kínder,TopKids,72,18,54
+2025-09-24,9,Primaria 1°,SuperSchool,67,11,56
+2025-09-24,9,Primaria 2°,TopKids,146,9,137
+2025-09-24,9,Primaria 3°,SuperSchool,72,15,57
+2025-09-24,9,Primaria 4°,SuperSchool,93,6,87
+2025-09-24,9,Primaria 5°,TopKids,96,12,84
+2025-09-24,9,Primaria 6°,TopKids,91,11,80
+2025-09-24,10,Preescolar,EduMax,97,8,89
+2025-09-24,10,Kínder,TopKids,55,15,40
+2025-09-24,10,Primaria 1°,SuperSchool,106,19,87
+2025-09-24,10,Primaria 2°,SuperSchool,139,12,127
+2025-09-24,10,Primaria 3°,SuperSchool,126,5,121
+2025-09-24,10,Primaria 4°,TopKids,69,9,60
+2025-09-24,10,Primaria 5°,EduMax,141,5,136
+2025-09-24,10,Primaria 6°,SuperSchool,115,13,102
+2025-09-24,11,Preescolar,EduMax,90,10,80
+2025-09-24,11,Kínder,TopKids,87,10,77
+2025-09-24,11,Primaria 1°,SuperSchool,124,18,106
+2025-09-24,11,Primaria 2°,EduMax,89,7,82
+2025-09-24,11,Primaria 3°,TopKids,148,5,143
+2025-09-24,11,Primaria 4°,TopKids,67,5,62
+2025-09-24,11,Primaria 5°,SuperSchool,137,17,120
+2025-09-24,11,Primaria 6°,TopKids,111,5,106
+2025-09-24,12,Preescolar,SuperSchool,94,5,89
+2025-09-24,12,Kínder,EduMax,147,13,134
+2025-09-24,12,Primaria 1°,EduMax,142,7,135
+2025-09-24,12,Primaria 2°,TopKids,132,13,119
+2025-09-24,12,Primaria 3°,EduMax,122,5,117
+2025-09-24,12,Primaria 4°,EduMax,68,5,63
+2025-09-24,12,Primaria 5°,EduMax,129,16,113
+2025-09-24,12,Primaria 6°,TopKids,67,6,61
+2025-09-24,13,Preescolar,SuperSchool,94,10,84
+2025-09-24,13,Kínder,SuperSchool,119,13,106
+2025-09-24,13,Primaria 1°,TopKids,88,19,69
+2025-09-24,13,Primaria 2°,EduMax,59,18,41
+2025-09-24,13,Primaria 3°,SuperSchool,67,16,51
+2025-09-24,13,Primaria 4°,SuperSchool,122,19,103
+2025-09-24,13,Primaria 5°,TopKids,53,19,34
+2025-09-24,13,Primaria 6°,SuperSchool,58,14,44
+2025-09-24,14,Preescolar,SuperSchool,65,19,46
+2025-09-24,14,Kínder,TopKids,101,9,92
+2025-09-24,14,Primaria 1°,TopKids,54,8,46
+2025-09-24,14,Primaria 2°,TopKids,67,19,48
+2025-09-24,14,Primaria 3°,EduMax,142,17,125
+2025-09-24,14,Primaria 4°,EduMax,123,17,106
+2025-09-24,14,Primaria 5°,TopKids,57,7,50
+2025-09-24,14,Primaria 6°,TopKids,58,18,40
+2025-09-24,15,Preescolar,SuperSchool,60,7,53
+2025-09-24,15,Kínder,SuperSchool,91,17,74
+2025-09-24,15,Primaria 1°,SuperSchool,61,9,52
+2025-09-24,15,Primaria 2°,EduMax,122,8,114
+2025-09-24,15,Primaria 3°,TopKids,51,10,41
+2025-09-24,15,Primaria 4°,TopKids,89,11,78
+2025-09-24,15,Primaria 5°,SuperSchool,72,17,55
+2025-09-24,15,Primaria 6°,EduMax,139,7,132
+2025-09-24,16,Preescolar,SuperSchool,144,13,131
+2025-09-24,16,Kínder,TopKids,99,8,91
+2025-09-24,16,Primaria 1°,TopKids,130,17,113
+2025-09-24,16,Primaria 2°,EduMax,74,17,57
+2025-09-24,16,Primaria 3°,EduMax,141,14,127
+2025-09-24,16,Primaria 4°,TopKids,119,7,112
+2025-09-24,16,Primaria 5°,EduMax,148,6,142
+2025-09-24,16,Primaria 6°,TopKids,133,9,124
+2025-09-25,9,Preescolar,TopKids,135,15,120
+2025-09-25,9,Kínder,TopKids,111,12,99
+2025-09-25,9,Primaria 1°,SuperSchool,117,19,98
+2025-09-25,9,Primaria 2°,SuperSchool,104,7,97
+2025-09-25,9,Primaria 3°,TopKids,63,5,58
+2025-09-25,9,Primaria 4°,TopKids,149,11,138
+2025-09-25,9,Primaria 5°,EduMax,132,5,127
+2025-09-25,9,Primaria 6°,SuperSchool,65,19,46
+2025-09-25,10,Preescolar,EduMax,100,12,88
+2025-09-25,10,Kínder,EduMax,141,8,133
+2025-09-25,10,Primaria 1°,TopKids,91,5,86
+2025-09-25,10,Primaria 2°,TopKids,94,17,77
+2025-09-25,10,Primaria 3°,TopKids,76,14,62
+2025-09-25,10,Primaria 4°,EduMax,85,13,72
+2025-09-25,10,Primaria 5°,EduMax,73,6,67
+2025-09-25,10,Primaria 6°,TopKids,55,17,38
+2025-09-25,11,Preescolar,EduMax,74,11,63
+2025-09-25,11,Kínder,SuperSchool,95,12,83
+2025-09-25,11,Primaria 1°,TopKids,75,19,56
+2025-09-25,11,Primaria 2°,TopKids,147,16,131
+2025-09-25,11,Primaria 3°,TopKids,124,10,114
+2025-09-25,11,Primaria 4°,SuperSchool,127,7,120
+2025-09-25,11,Primaria 5°,EduMax,97,9,88
+2025-09-25,11,Primaria 6°,EduMax,105,11,94
+2025-09-25,12,Preescolar,EduMax,108,12,96
+2025-09-25,12,Kínder,TopKids,69,10,59
+2025-09-25,12,Primaria 1°,TopKids,120,13,107
+2025-09-25,12,Primaria 2°,SuperSchool,50,17,33
+2025-09-25,12,Primaria 3°,TopKids,121,12,109
+2025-09-25,12,Primaria 4°,EduMax,117,7,110
+2025-09-25,12,Primaria 5°,TopKids,52,10,42
+2025-09-25,12,Primaria 6°,SuperSchool,56,15,41
+2025-09-25,13,Preescolar,SuperSchool,140,10,130
+2025-09-25,13,Kínder,TopKids,93,11,82
+2025-09-25,13,Primaria 1°,SuperSchool,124,14,110
+2025-09-25,13,Primaria 2°,SuperSchool,82,6,76
+2025-09-25,13,Primaria 3°,TopKids,149,9,140
+2025-09-25,13,Primaria 4°,SuperSchool,108,19,89
+2025-09-25,13,Primaria 5°,SuperSchool,148,9,139
+2025-09-25,13,Primaria 6°,TopKids,96,18,78
+2025-09-25,14,Preescolar,TopKids,63,19,44
+2025-09-25,14,Kínder,SuperSchool,110,19,91
+2025-09-25,14,Primaria 1°,TopKids,66,16,50
+2025-09-25,14,Primaria 2°,TopKids,131,6,125
+2025-09-25,14,Primaria 3°,EduMax,127,6,121
+2025-09-25,14,Primaria 4°,TopKids,128,10,118
+2025-09-25,14,Primaria 5°,TopKids,64,6,58
+2025-09-25,14,Primaria 6°,TopKids,57,19,38
+2025-09-25,15,Preescolar,TopKids,111,19,92
+2025-09-25,15,Kínder,SuperSchool,147,12,135
+2025-09-25,15,Primaria 1°,SuperSchool,81,18,63
+2025-09-25,15,Primaria 2°,SuperSchool,62,5,57
+2025-09-25,15,Primaria 3°,EduMax,111,19,92
+2025-09-25,15,Primaria 4°,EduMax,142,6,136
+2025-09-25,15,Primaria 5°,EduMax,120,17,103
+2025-09-25,15,Primaria 6°,TopKids,80,17,63
+2025-09-25,16,Preescolar,SuperSchool,87,18,69
+2025-09-25,16,Kínder,TopKids,103,6,97
+2025-09-25,16,Primaria 1°,SuperSchool,127,13,114
+2025-09-25,16,Primaria 2°,EduMax,142,8,134
+2025-09-25,16,Primaria 3°,SuperSchool,110,9,101
+2025-09-25,16,Primaria 4°,EduMax,84,9,75
+2025-09-25,16,Primaria 5°,EduMax,92,5,87
+2025-09-25,16,Primaria 6°,EduMax,51,8,43
+2025-09-26,9,Preescolar,SuperSchool,88,6,82
+2025-09-26,9,Kínder,EduMax,55,5,50
+2025-09-26,9,Primaria 1°,TopKids,138,9,129
+2025-09-26,9,Primaria 2°,SuperSchool,69,7,62
+2025-09-26,9,Primaria 3°,SuperSchool,86,12,74
+2025-09-26,9,Primaria 4°,SuperSchool,118,14,104
+2025-09-26,9,Primaria 5°,SuperSchool,115,13,102
+2025-09-26,9,Primaria 6°,TopKids,149,10,139
+2025-09-26,10,Preescolar,EduMax,71,6,65
+2025-09-26,10,Kínder,TopKids,78,10,68
+2025-09-26,10,Primaria 1°,TopKids,146,6,140
+2025-09-26,10,Primaria 2°,TopKids,114,19,95
+2025-09-26,10,Primaria 3°,SuperSchool,50,12,38
+2025-09-26,10,Primaria 4°,SuperSchool,131,15,116
+2025-09-26,10,Primaria 5°,TopKids,108,5,103
+2025-09-26,10,Primaria 6°,EduMax,104,8,96
+2025-09-26,11,Preescolar,EduMax,111,6,105
+2025-09-26,11,Kínder,TopKids,137,12,125
+2025-09-26,11,Primaria 1°,SuperSchool,62,12,50
+2025-09-26,11,Primaria 2°,EduMax,103,17,86
+2025-09-26,11,Primaria 3°,SuperSchool,92,11,81
+2025-09-26,11,Primaria 4°,SuperSchool,91,5,86
+2025-09-26,11,Primaria 5°,TopKids,67,11,56
+2025-09-26,11,Primaria 6°,EduMax,79,14,65
+2025-09-26,12,Preescolar,EduMax,107,8,99
+2025-09-26,12,Kínder,TopKids,120,12,108
+2025-09-26,12,Primaria 1°,EduMax,56,12,44
+2025-09-26,12,Primaria 2°,EduMax,135,14,121
+2025-09-26,12,Primaria 3°,SuperSchool,117,18,99
+2025-09-26,12,Primaria 4°,SuperSchool,101,6,95
+2025-09-26,12,Primaria 5°,TopKids,78,9,69
+2025-09-26,12,Primaria 6°,EduMax,127,13,114
+2025-09-26,13,Preescolar,TopKids,96,16,80
+2025-09-26,13,Kínder,EduMax,100,12,88
+2025-09-26,13,Primaria 1°,TopKids,119,8,111
+2025-09-26,13,Primaria 2°,TopKids,87,12,75
+2025-09-26,13,Primaria 3°,SuperSchool,103,5,98
+2025-09-26,13,Primaria 4°,SuperSchool,73,19,54
+2025-09-26,13,Primaria 5°,TopKids,132,10,122
+2025-09-26,13,Primaria 6°,TopKids,106,11,95
+2025-09-26,14,Preescolar,TopKids,111,18,93
+2025-09-26,14,Kínder,SuperSchool,71,15,56
+2025-09-26,14,Primaria 1°,EduMax,78,7,71
+2025-09-26,14,Primaria 2°,SuperSchool,91,6,85
+2025-09-26,14,Primaria 3°,SuperSchool,80,18,62
+2025-09-26,14,Primaria 4°,EduMax,66,10,56
+2025-09-26,14,Primaria 5°,EduMax,136,13,123
+2025-09-26,14,Primaria 6°,TopKids,105,10,95
+2025-09-26,15,Preescolar,TopKids,105,11,94
+2025-09-26,15,Kínder,TopKids,106,16,90
+2025-09-26,15,Primaria 1°,EduMax,84,6,78
+2025-09-26,15,Primaria 2°,SuperSchool,50,8,42
+2025-09-26,15,Primaria 3°,SuperSchool,142,10,132
+2025-09-26,15,Primaria 4°,SuperSchool,114,7,107
+2025-09-26,15,Primaria 5°,SuperSchool,140,9,131
+2025-09-26,15,Primaria 6°,SuperSchool,65,16,49
+2025-09-26,16,Preescolar,TopKids,110,10,100
+2025-09-26,16,Kínder,EduMax,129,16,113
+2025-09-26,16,Primaria 1°,SuperSchool,149,14,135
+2025-09-26,16,Primaria 2°,TopKids,66,13,53
+2025-09-26,16,Primaria 3°,TopKids,72,11,61
+2025-09-26,16,Primaria 4°,SuperSchool,120,16,104
+2025-09-26,16,Primaria 5°,TopKids,83,18,65
+2025-09-26,16,Primaria 6°,SuperSchool,117,18,99
+2025-09-29,9,Preescolar,EduMax,65,11,54
+2025-09-29,9,Kínder,TopKids,51,14,37
+2025-09-29,9,Primaria 1°,EduMax,130,9,121
+2025-09-29,9,Primaria 2°,EduMax,71,13,58
+2025-09-29,9,Primaria 3°,SuperSchool,103,19,84
+2025-09-29,9,Primaria 4°,SuperSchool,107,10,97
+2025-09-29,9,Primaria 5°,TopKids,67,10,57
+2025-09-29,9,Primaria 6°,SuperSchool,146,11,135
+2025-09-29,10,Preescolar,TopKids,75,17,58
+2025-09-29,10,Kínder,TopKids,128,16,112
+2025-09-29,10,Primaria 1°,TopKids,75,5,70
+2025-09-29,10,Primaria 2°,TopKids,85,17,68
+2025-09-29,10,Primaria 3°,TopKids,113,15,98
+2025-09-29,10,Primaria 4°,SuperSchool,118,17,101
+2025-09-29,10,Primaria 5°,EduMax,104,14,90
+2025-09-29,10,Primaria 6°,SuperSchool,129,11,118
+2025-09-29,11,Preescolar,EduMax,129,18,111
+2025-09-29,11,Kínder,SuperSchool,75,7,68
+2025-09-29,11,Primaria 1°,TopKids,116,11,105
+2025-09-29,11,Primaria 2°,SuperSchool,83,5,78
+2025-09-29,11,Primaria 3°,SuperSchool,90,11,79
+2025-09-29,11,Primaria 4°,TopKids,52,14,38
+2025-09-29,11,Primaria 5°,TopKids,131,15,116
+2025-09-29,11,Primaria 6°,TopKids,50,17,33
+2025-09-29,12,Preescolar,EduMax,101,10,91
+2025-09-29,12,Kínder,TopKids,59,11,48
+2025-09-29,12,Primaria 1°,EduMax,147,18,129
+2025-09-29,12,Primaria 2°,SuperSchool,109,5,104
+2025-09-29,12,Primaria 3°,SuperSchool,123,7,116
+2025-09-29,12,Primaria 4°,TopKids,91,7,84
+2025-09-29,12,Primaria 5°,SuperSchool,81,19,62
+2025-09-29,12,Primaria 6°,EduMax,76,16,60
+2025-09-29,13,Preescolar,SuperSchool,113,18,95
+2025-09-29,13,Kínder,TopKids,107,6,101
+2025-09-29,13,Primaria 1°,TopKids,85,6,79
+2025-09-29,13,Primaria 2°,TopKids,62,19,43
+2025-09-29,13,Primaria 3°,SuperSchool,136,16,120
+2025-09-29,13,Primaria 4°,EduMax,112,14,98
+2025-09-29,13,Primaria 5°,SuperSchool,124,14,110
+2025-09-29,13,Primaria 6°,SuperSchool,97,15,82
+2025-09-29,14,Preescolar,SuperSchool,87,13,74
+2025-09-29,14,Kínder,SuperSchool,137,12,125
+2025-09-29,14,Primaria 1°,EduMax,146,5,141
+2025-09-29,14,Primaria 2°,SuperSchool,106,6,100
+2025-09-29,14,Primaria 3°,SuperSchool,111,12,99
+2025-09-29,14,Primaria 4°,SuperSchool,117,5,112
+2025-09-29,14,Primaria 5°,SuperSchool,99,18,81
+2025-09-29,14,Primaria 6°,EduMax,124,9,115
+2025-09-29,15,Preescolar,SuperSchool,67,11,56
+2025-09-29,15,Kínder,SuperSchool,73,14,59
+2025-09-29,15,Primaria 1°,SuperSchool,66,6,60
+2025-09-29,15,Primaria 2°,EduMax,133,9,124
+2025-09-29,15,Primaria 3°,SuperSchool,131,5,126
+2025-09-29,15,Primaria 4°,SuperSchool,63,5,58
+2025-09-29,15,Primaria 5°,SuperSchool,144,8,136
+2025-09-29,15,Primaria 6°,EduMax,69,12,57
+2025-09-29,16,Preescolar,TopKids,58,17,41
+2025-09-29,16,Kínder,TopKids,76,19,57
+2025-09-29,16,Primaria 1°,SuperSchool,68,14,54
+2025-09-29,16,Primaria 2°,EduMax,138,14,124
+2025-09-29,16,Primaria 3°,EduMax,95,16,79
+2025-09-29,16,Primaria 4°,SuperSchool,131,9,122
+2025-09-29,16,Primaria 5°,TopKids,115,5,110
+2025-09-29,16,Primaria 6°,EduMax,68,5,63
+2025-09-30,9,Preescolar,SuperSchool,125,5,120
+2025-09-30,9,Kínder,TopKids,52,15,37
+2025-09-30,9,Primaria 1°,SuperSchool,104,14,90
+2025-09-30,9,Primaria 2°,TopKids,121,8,113
+2025-09-30,9,Primaria 3°,SuperSchool,56,18,38
+2025-09-30,9,Primaria 4°,EduMax,149,12,137
+2025-09-30,9,Primaria 5°,SuperSchool,103,18,85
+2025-09-30,9,Primaria 6°,SuperSchool,98,13,85
+2025-09-30,10,Preescolar,EduMax,129,14,115
+2025-09-30,10,Kínder,SuperSchool,141,10,131
+2025-09-30,10,Primaria 1°,TopKids,127,15,112
+2025-09-30,10,Primaria 2°,EduMax,139,18,121
+2025-09-30,10,Primaria 3°,TopKids,82,14,68
+2025-09-30,10,Primaria 4°,SuperSchool,94,8,86
+2025-09-30,10,Primaria 5°,TopKids,116,8,108
+2025-09-30,10,Primaria 6°,SuperSchool,75,15,60
+2025-09-30,11,Preescolar,EduMax,63,16,47
+2025-09-30,11,Kínder,EduMax,98,16,82
+2025-09-30,11,Primaria 1°,EduMax,93,5,88
+2025-09-30,11,Primaria 2°,SuperSchool,127,12,115
+2025-09-30,11,Primaria 3°,EduMax,147,16,131
+2025-09-30,11,Primaria 4°,EduMax,70,16,54
+2025-09-30,11,Primaria 5°,EduMax,122,11,111
+2025-09-30,11,Primaria 6°,TopKids,126,11,115
+2025-09-30,12,Preescolar,SuperSchool,97,16,81
+2025-09-30,12,Kínder,EduMax,133,8,125
+2025-09-30,12,Primaria 1°,TopKids,95,7,88
+2025-09-30,12,Primaria 2°,TopKids,61,12,49
+2025-09-30,12,Primaria 3°,EduMax,149,18,131
+2025-09-30,12,Primaria 4°,TopKids,83,16,67
+2025-09-30,12,Primaria 5°,SuperSchool,55,17,38
+2025-09-30,12,Primaria 6°,EduMax,67,16,51
+2025-09-30,13,Preescolar,TopKids,143,9,134
+2025-09-30,13,Kínder,TopKids,120,7,113
+2025-09-30,13,Primaria 1°,EduMax,133,15,118
+2025-09-30,13,Primaria 2°,SuperSchool,97,11,86
+2025-09-30,13,Primaria 3°,TopKids,118,15,103
+2025-09-30,13,Primaria 4°,TopKids,113,7,106
+2025-09-30,13,Primaria 5°,EduMax,118,11,107
+2025-09-30,13,Primaria 6°,SuperSchool,86,13,73
+2025-09-30,14,Preescolar,TopKids,52,17,35
+2025-09-30,14,Kínder,EduMax,66,14,52
+2025-09-30,14,Primaria 1°,SuperSchool,121,9,112
+2025-09-30,14,Primaria 2°,SuperSchool,60,10,50
+2025-09-30,14,Primaria 3°,EduMax,137,17,120
+2025-09-30,14,Primaria 4°,TopKids,63,11,52
+2025-09-30,14,Primaria 5°,EduMax,59,16,43
+2025-09-30,14,Primaria 6°,EduMax,83,13,70
+2025-09-30,15,Preescolar,EduMax,66,5,61
+2025-09-30,15,Kínder,TopKids,111,19,92
+2025-09-30,15,Primaria 1°,TopKids,50,16,34
+2025-09-30,15,Primaria 2°,TopKids,53,14,39
+2025-09-30,15,Primaria 3°,SuperSchool,147,14,133
+2025-09-30,15,Primaria 4°,SuperSchool,135,13,122
+2025-09-30,15,Primaria 5°,EduMax,118,7,111
+2025-09-30,15,Primaria 6°,EduMax,61,5,56
+2025-09-30,16,Preescolar,EduMax,147,10,137
+2025-09-30,16,Kínder,SuperSchool,100,15,85
+2025-09-30,16,Primaria 1°,TopKids,106,19,87
+2025-09-30,16,Primaria 2°,SuperSchool,51,12,39
+2025-09-30,16,Primaria 3°,EduMax,60,16,44
+2025-09-30,16,Primaria 4°,SuperSchool,149,14,135
+2025-09-30,16,Primaria 5°,SuperSchool,133,12,121
+2025-09-30,16,Primaria 6°,SuperSchool,125,17,108
